@@ -1,0 +1,882 @@
+<title>Power Rankings</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --bg:#0A1310;
+    --panel:#101B16;
+    --panel-alt:#0D1714;
+    --panel-raised:#16221D;
+    --border:#1E2E26;
+    --border-soft:#33443C;
+    --text:#EDEFE9;
+    --text-soft:#B9C4BC;
+    --text-faint:#7E9187;
+    --text-faint2:#5F7268;
+    --gold:#E3B23C;
+    --gold-soft:#F2CD73;
+    --green:#4FA97C;
+    --red:#C4574B;
+    --shadow: 0 1px 2px rgba(0,0,0,0.4), 0 8px 24px -10px rgba(0,0,0,0.6);
+  }
+  *{box-sizing:border-box;}
+  html{-webkit-text-size-adjust:100%;}
+  body{
+    margin:0; background:var(--bg); color:var(--text);
+    font-family:'IBM Plex Mono', ui-monospace, monospace;
+    font-size:14px; line-height:1.5; -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit;}
+  ::selection{background:var(--gold); color:var(--bg);}
+  :focus-visible{outline:2px solid var(--gold); outline-offset:2px;}
+  @media (prefers-reduced-motion: reduce){*{animation-duration:0.001ms !important; transition-duration:0.001ms !important;}}
+
+  .disp{font-family:'Barlow Condensed', sans-serif; font-weight:700; text-transform:uppercase; letter-spacing:0.02em;}
+  .mono{font-variant-numeric:tabular-nums;}
+
+  header.masthead{padding:32px 20px 22px; border-bottom:1px solid var(--border);}
+  .masthead-inner{max-width:1100px; margin:0 auto;}
+  .eyebrow{
+    font-size:11px; letter-spacing:0.14em; text-transform:uppercase; color:var(--text-faint);
+    display:flex; gap:0.6em; flex-wrap:wrap; margin-bottom:10px;
+  }
+  .eyebrow span:not(:last-child)::after{content:"\00B7"; margin-left:0.6em; color:var(--border-soft);}
+  h1.page-title{
+    font-size:clamp(2.4rem, 6vw, 4rem); font-weight:700; line-height:0.95; margin:0 0 8px;
+    text-wrap:balance; color:var(--text);
+  }
+  .masthead p{margin:0; max-width:64ch; color:var(--text-faint); font-size:13px;}
+
+  nav.tabbar{
+    display:flex; gap:0; border-bottom:1px solid var(--border);
+    max-width:1100px; margin:24px auto 0; padding:0 20px;
+    overflow-x:auto;
+  }
+  nav.tabbar button{
+    font-family:'Barlow Condensed', sans-serif; font-weight:700; font-size:19px;
+    letter-spacing:0.09em; text-transform:uppercase; padding:11px 20px; cursor:pointer;
+    background:transparent; border:0; border-bottom:3px solid transparent; color:var(--text-faint);
+    margin-bottom:-1px; transition:color .15s, border-color .15s; white-space:nowrap;
+  }
+  nav.tabbar button:hover{color:var(--text-soft);}
+  nav.tabbar button.active{color:var(--gold); border-bottom-color:var(--gold);}
+
+  main{max-width:1100px; margin:0 auto; padding:24px 20px 60px;}
+  .tabpanel{display:none;}
+  .tabpanel.active{display:block;}
+
+  .method-note{
+    font-size:11px; color:var(--text-faint2); margin-bottom:20px; padding:12px 16px;
+    border:1px solid var(--border); border-radius:8px; background:var(--panel);
+  }
+  .method-note b{color:var(--text-faint);}
+
+  /* ---- Rankings table ---- */
+  .tier-label{
+    font-size:13px; font-weight:600; letter-spacing:0.2em; text-transform:uppercase; color:var(--gold);
+    padding:22px 12px 7px; border-bottom:1px solid var(--border); margin-top:6px;
+  }
+  .tier-label:first-child{margin-top:0;}
+
+  .rk-head, .rk-row{
+    display:grid;
+    grid-template-columns: 40px minmax(160px,1fr) 92px 84px 78px 96px 64px;
+    grid-template-areas: "rk team record pts bench playoff title";
+    gap:10px;
+    align-items:center;
+  }
+  .rk-head{
+    padding:0 12px 9px; border-bottom:1px solid var(--gold);
+    font-size:10px; letter-spacing:0.09em; color:var(--text-faint); text-transform:uppercase;
+  }
+  .rk-head > span{cursor:pointer; display:flex; align-items:center; gap:3px; user-select:none;}
+  .rk-head > span:hover{color:var(--gold-soft);}
+  .rk-head > span.sorted{color:var(--gold);}
+  .rk-head > span.no-sort{cursor:default;}
+  .rk-head > span.no-sort:hover{color:var(--text-faint);}
+  .rk-head .arrow{font-size:8px; opacity:0.85;}
+  .rk-head [data-col="rk"]{grid-area:rk; justify-content:flex-end;}
+  .rk-head [data-col="team"]{grid-area:team;}
+  .rk-head [data-col="record"]{grid-area:record; justify-content:flex-end;}
+  .rk-head [data-col="pts"]{grid-area:pts; justify-content:flex-end;}
+  .rk-head [data-col="bench"]{grid-area:bench; justify-content:flex-end;}
+  .rk-head [data-col="playoff"]{grid-area:playoff; justify-content:center;}
+  .rk-head [data-col="title"]{grid-area:title; justify-content:flex-end;}
+
+  .rk-row{
+    padding:12px; border-bottom:1px solid var(--border);
+    cursor:pointer; transition:background .12s;
+  }
+  .rk-row:hover{background:var(--panel);}
+  .rk-row .rk{grid-area:rk; font-family:'Barlow Condensed', sans-serif; font-weight:700; font-size:22px; color:var(--text-faint); text-align:right;}
+  .rk-row.top .rk{color:var(--gold);}
+  .rk-team{grid-area:team; display:flex; align-items:center; gap:10px; min-width:0;}
+  .rk-logo{width:34px; height:34px; border-radius:8px; object-fit:cover; flex:0 0 auto; border:1px solid var(--border-soft); background:var(--panel-raised);}
+  .rk-team-name{font-family:'Barlow Condensed', sans-serif; font-weight:600; font-size:16px; line-height:1.15; text-transform:uppercase; color:var(--text); overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+  .rk-team-owner{font-size:10px; color:var(--text-faint2); text-transform:uppercase; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+  .rk-cell{font-size:13px; text-align:right; color:var(--text-soft);}
+  .c-record{grid-area:record;} .c-pts{grid-area:pts;} .c-bench{grid-area:bench;}
+  .c-playoff{grid-area:playoff; text-align:center;} .c-title{grid-area:title;}
+
+  .rk-detail{grid-column:1 / -1; display:none; padding:10px 14px 28px; border-bottom:1px solid var(--border); background:var(--panel-alt); min-width:680px;}
+  .rk-detail.open{display:block;}
+
+  .detail-section-title{
+    font-size:11px; text-transform:uppercase; letter-spacing:0.1em; color:var(--gold);
+    margin:22px 0 12px; padding-bottom:8px; border-bottom:1px solid var(--border);
+  }
+  .detail-section-title:first-child{margin-top:14px;}
+
+  .aspect-grid{display:grid; grid-template-columns:repeat(auto-fill, minmax(220px,1fr)); gap:10px;}
+  .aspect-box{
+    border:1px solid var(--border-soft); border-radius:8px; padding:12px 14px;
+    background:var(--panel-raised);
+  }
+  .aspect-label{display:flex; justify-content:space-between; font-size:11px; text-transform:uppercase; letter-spacing:0.04em; color:var(--text-faint); margin-bottom:6px;}
+  .aspect-label .rank{font-family:'IBM Plex Mono',monospace; font-weight:700;}
+  .aspect-bar-track{height:6px; border-radius:3px; background:var(--border); overflow:hidden;}
+  .aspect-bar-fill{height:100%; border-radius:3px;}
+  .aspect-detail{font-size:11px; color:var(--text-faint2); margin-top:6px;}
+
+  .intel-list{display:grid; grid-template-columns:repeat(auto-fill, minmax(250px,1fr)); gap:10px;}
+
+  /* ---- Post-Week-1 roster + statline list (replaces intel cards) ---- */
+  .roster-list{display:flex; flex-direction:column; gap:1px;}
+  .roster-row{
+    display:flex; align-items:center; gap:12px; padding:10px 12px;
+    background:var(--panel); border:1px solid var(--border); border-radius:8px;
+  }
+  .roster-avatar{width:34px; height:34px; border-radius:7px; object-fit:cover; flex:0 0 auto; background:var(--panel-alt); border:1px solid var(--border-soft);}
+  .roster-name-col{flex:0 0 auto; min-width:150px; max-width:200px;}
+  .roster-name-btn{
+    all:unset; cursor:pointer; font-family:'Barlow Condensed', sans-serif; font-weight:600;
+    font-size:15px; text-transform:uppercase; color:var(--text); display:block;
+    overflow:hidden; text-overflow:ellipsis; white-space:nowrap; max-width:100%;
+  }
+  .roster-name-btn:hover{color:var(--gold-soft); text-decoration:underline;}
+  .roster-name-btn:focus-visible{outline:2px solid var(--gold); outline-offset:2px; border-radius:2px;}
+  .roster-pos{font-family:'IBM Plex Mono', monospace; font-size:10px; color:var(--text-faint2); margin-left:6px;}
+  .roster-stats{display:flex; flex-wrap:wrap; gap:6px 10px; flex:1; min-width:0;}
+  .roster-stat-chip{font-size:11px; color:var(--text-faint); white-space:nowrap;}
+  .roster-stat-chip .v{font-family:'IBM Plex Mono', monospace; font-weight:600; color:var(--text-faint2);}
+  .roster-stat-empty{font-size:11px; color:var(--text-faint2); font-style:italic;}
+  .intel-card{
+    border:1px solid var(--border-soft); border-radius:8px; padding:12px 14px;
+    background:var(--panel-raised); display:flex; flex-direction:column; gap:8px;
+  }
+  .intel-top{display:flex; align-items:center; justify-content:space-between; gap:10px;}
+  .intel-avatar{width:32px; height:32px; border-radius:7px; object-fit:cover; flex:0 0 auto; background:var(--panel); border:1px solid var(--border-soft);}
+  .intel-name{font-family:'Barlow Condensed', sans-serif; font-weight:600; font-size:15px; text-transform:uppercase; color:var(--text); display:flex; align-items:center; gap:8px; min-width:0;}
+  .intel-name .who{overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+  .intel-name .pos{
+    font-family:'IBM Plex Mono', monospace; font-weight:600; font-size:9px; letter-spacing:0.03em;
+    color:var(--text-faint2); background:var(--panel); border:1px solid var(--border-soft);
+    border-radius:4px; padding:1px 5px; flex:0 0 auto;
+  }
+  .intel-badge{
+    flex:0 0 auto; font-family:'IBM Plex Mono', monospace; font-size:11px; font-weight:700;
+    padding:2px 8px; border-radius:99px;
+  }
+  .intel-badge.pos{color:var(--green); background:rgba(79,169,124,0.14);}
+  .intel-badge.neg{color:var(--red); background:rgba(196,87,75,0.14);}
+  .intel-badge.zero{color:var(--text-faint2); background:var(--panel);}
+  .intel-reason{font-size:12px; line-height:1.5; color:var(--text-faint);}
+  .intel-toggle{
+    align-self:flex-start; font-family:'IBM Plex Mono', monospace; font-size:10px; font-weight:600;
+    letter-spacing:0.04em; text-transform:uppercase; color:var(--gold); background:none; border:0;
+    padding:0; cursor:pointer; margin-top:-2px;
+  }
+  .intel-toggle:hover{color:var(--gold-soft);}
+
+  /* ---- Leaderboard tab ---- */
+  .lb-head{font-size:34px; margin-bottom:4px;}
+  .lb-sub{font-size:11px; color:var(--text-faint); margin-bottom:20px;}
+  .lb-grid-head{
+    display:grid; grid-template-columns:56px 1fr 74px 1fr 74px; gap:14px; align-items:end;
+    padding:0 12px 8px; border-bottom:1px solid var(--gold); font-size:10px; letter-spacing:0.1em;
+    color:var(--text-faint); text-transform:uppercase;
+  }
+  .lb-row{
+    display:grid; grid-template-columns:56px 1fr 74px 1fr 74px; gap:14px; align-items:center;
+    padding:11px 12px; border-bottom:1px solid var(--border);
+  }
+  .lb-row .wk{font-family:'Barlow Condensed', sans-serif; font-weight:700; font-size:22px; color:var(--text-faint);}
+  .lb-team{font-family:'Barlow Condensed', sans-serif; font-weight:600; font-size:16px; text-transform:uppercase; color:var(--text-faint2);}
+  .lb-pts{text-align:right; color:var(--text-faint2); font-size:14px;}
+  .lb-empty-note{margin-top:22px; font-size:11px; color:var(--text-faint2); text-align:center; padding:18px; border:1px dashed var(--border-soft); border-radius:8px;}
+
+  /* ---- Leaderboard: stat leaders sidebar ---- */
+  .lb-layout{display:grid; grid-template-columns:1fr 300px; gap:36px; align-items:start;}
+  .lb-sidebar{display:flex; flex-direction:column; min-width:0;}
+  .sl-head{
+    font-size:13px; font-weight:600; letter-spacing:0.2em; text-transform:uppercase; color:var(--gold);
+    padding-bottom:7px; border-bottom:1px solid var(--border); margin-bottom:4px;
+  }
+  .sl-sub{font-size:10.5px; color:var(--text-faint2); margin-bottom:16px; line-height:1.5;}
+  .stat-cat{border:1px solid var(--border); border-radius:8px; padding:11px 13px; margin-bottom:9px; background:var(--panel);}
+  .stat-cat-label{
+    font-size:10px; letter-spacing:0.08em; text-transform:uppercase; color:var(--text-faint);
+    margin-bottom:7px; display:flex; justify-content:space-between; align-items:baseline;
+  }
+  .stat-cat-label .unit{color:var(--text-faint2); font-weight:400; letter-spacing:0; text-transform:none; font-size:9.5px;}
+  .stat-leader-row{display:flex; align-items:baseline; padding:2.5px 0; font-size:12px; gap:6px;}
+  .stat-leader-row .rk-num{font-family:'IBM Plex Mono', monospace; font-size:10px; color:var(--text-faint2); flex:0 0 12px;}
+  .stat-leader-row .sl-avatar{
+    width:20px; height:20px; border-radius:5px; object-fit:cover; flex:0 0 auto;
+    background:var(--panel); border:1px solid var(--border-soft);
+  }
+  .stat-leader-row .nm-btn{
+    all:unset; cursor:pointer; color:var(--text-faint); flex:1; min-width:0;
+    overflow:hidden; text-overflow:ellipsis; white-space:nowrap; font-size:12px;
+  }
+  .stat-leader-row .nm-btn:hover{color:var(--gold-soft); text-decoration:underline;}
+  .stat-leader-row .nm-btn:focus-visible{outline:2px solid var(--gold); outline-offset:2px; border-radius:2px;}
+  .stat-leader-row .sl-pos{font-family:'IBM Plex Mono', monospace; font-size:9px; color:var(--text-faint2); margin-left:5px;}
+  .stat-leader-row .val{font-family:'IBM Plex Mono', monospace; color:var(--text-faint2); font-weight:600; flex:0 0 auto; font-size:11.5px;}
+  .stat-leader-row.r1 .val{color:var(--gold);}
+  .stat-leader-row.r1 .nm-btn{color:var(--text);}
+  .stat-cat-empty{font-size:11px; color:var(--text-faint2); padding:2px 0;}
+  .sl-footnote{font-size:10px; color:var(--text-faint2); margin-top:2px; line-height:1.5; padding:0 2px;}
+
+  @media (max-width:820px){
+    .lb-layout{grid-template-columns:1fr;}
+    .lb-sidebar{margin-top:28px; padding-top:24px; border-top:1px solid var(--border);}
+  }
+
+  /* ---- Player profile popup ---- */
+  .pm-overlay{
+    display:none; position:fixed; inset:0; z-index:100; background:rgba(5,9,7,0.72);
+    align-items:center; justify-content:center; padding:20px;
+  }
+  .pm-overlay.open{display:flex;}
+  .pm-box{
+    position:relative; width:100%; max-width:440px; max-height:85vh; overflow-y:auto;
+    background:var(--panel-raised); border:1px solid var(--border-soft); border-radius:14px;
+    padding:22px 22px 20px; box-shadow:0 24px 60px rgba(0,0,0,0.5);
+  }
+  .pm-close{
+    position:absolute; top:14px; right:14px; width:28px; height:28px; border-radius:7px;
+    background:var(--panel); border:1px solid var(--border-soft); color:var(--text-faint);
+    font-size:16px; line-height:1; cursor:pointer; display:flex; align-items:center; justify-content:center;
+  }
+  .pm-close:hover{color:var(--gold); border-color:var(--gold);}
+  .pm-header{display:flex; align-items:center; gap:14px; margin-bottom:18px; padding-right:30px;}
+  .pm-avatar{width:58px; height:58px; border-radius:10px; object-fit:cover; background:var(--panel); border:1px solid var(--border-soft); flex:0 0 auto;}
+  .pm-name{font-family:'Barlow Condensed', sans-serif; font-weight:700; font-size:22px; text-transform:uppercase; color:var(--text); line-height:1.15;}
+  .pm-sub{display:flex; align-items:center; gap:8px; margin-top:4px; flex-wrap:wrap;}
+  .pm-chip{
+    font-family:'IBM Plex Mono', monospace; font-size:10.5px; font-weight:600; color:var(--text-faint);
+    background:var(--panel); border:1px solid var(--border-soft); border-radius:5px; padding:2px 7px;
+  }
+  .pm-chip.inj-active{color:var(--green);}
+  .pm-chip.inj-out{color:var(--red);}
+  .pm-section{margin-top:16px;}
+  .pm-section-head{
+    font-size:10px; font-weight:600; letter-spacing:0.12em; text-transform:uppercase; color:var(--gold);
+    padding-bottom:6px; border-bottom:1px solid var(--border); margin-bottom:10px;
+  }
+  .pm-tags{display:flex; flex-wrap:wrap; gap:6px; margin-bottom:8px;}
+  .pm-news-item{font-size:12px; line-height:1.55; color:var(--text-faint); margin-bottom:7px; padding-left:14px; position:relative;}
+  .pm-news-item::before{content:"–"; position:absolute; left:0; color:var(--text-faint2);}
+  .pm-news-empty{font-size:12px; color:var(--text-faint2);}
+  .pm-stat-grid{display:grid; grid-template-columns:1fr 1fr; gap:8px 14px;}
+  .pm-stat{display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid var(--border); padding-bottom:5px;}
+  .pm-stat .lbl{font-size:11px; color:var(--text-faint2);}
+  .pm-stat .val{font-family:'IBM Plex Mono', monospace; font-size:13px; font-weight:600; color:var(--text);}
+  .pm-stat-note{font-size:10px; color:var(--text-faint2); margin-top:9px; line-height:1.5;}
+  .pm-profile-grid{display:grid; grid-template-columns:1fr 1fr; gap:9px 14px; font-size:12px;}
+  .pm-profile-grid .lbl{color:var(--text-faint2); font-size:10px; text-transform:uppercase; letter-spacing:0.05em; display:block; margin-bottom:2px;}
+  .pm-profile-grid .val{color:var(--text-faint);}
+
+  /* ---- Schedule tab ---- */
+  .sched-team-block{margin-bottom:26px; padding-bottom:22px; border-bottom:1px solid var(--border);}
+  .sched-team-head{display:flex; align-items:center; gap:10px; margin-bottom:12px;}
+  .sched-team-head .rk-logo{width:30px; height:30px;}
+  .sched-team-head .name{font-family:'Barlow Condensed', sans-serif; font-weight:600; font-size:17px; text-transform:uppercase;}
+  .sched-strip{display:grid; grid-template-columns:repeat(14,1fr); gap:5px;}
+  .sched-cell{
+    text-align:center; border-radius:4px; padding:6px 2px 5px; font-size:10px;
+  }
+  .sched-cell .wk{display:block; font-size:9px; opacity:0.65; margin-bottom:2px;}
+  .sched-cell .pct{display:block; font-weight:600; margin-top:2px;}
+  .playoff-note{
+    margin-top:18px; padding:16px; border:1px solid var(--border-soft); border-radius:8px;
+    font-size:11px; color:var(--text-faint);
+  }
+  .playoff-note .disp{color:var(--gold); font-size:16px; display:block; margin-bottom:4px;}
+
+  footer{max-width:1100px; margin:0 auto; padding:20px 20px 50px; font-size:11px; color:var(--text-faint2); border-top:1px solid var(--border);}
+
+  /* ---- Responsive: same table everywhere, scrolls sideways on narrow screens ---- */
+  /* The wrapper scrolls; the inner content holds a min-width so columns never squish
+     or reflow into a different layout — phone and desktop show the identical table,
+     phone just pans to see the rest. */
+  .scroll-wrap{overflow-x:auto; -webkit-overflow-scrolling:touch;}
+  .rk-table{min-width:680px;}
+  .lb-wrap{min-width:480px;}
+  .sched-wrap{min-width:560px;}
+
+  @media (max-width:680px){
+    .rk-head, .rk-row{padding:10px 10px; font-size:12px;}
+    .rk-row .rk{font-size:19px;}
+    .rk-team-name{font-size:14px;}
+  }
+</style>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="eyebrow">
+      <span>FantasyGoblins</span>
+      <span>2026 Season</span>
+      <span>Updated <span id="updatedDate"></span></span>
+    </div>
+    <h1 class="page-title disp">Power Rankings</h1>
+    <p>Roster strength × the real schedule. Click any column to sort — every number underneath is pulled live from ESPN.</p>
+  </div>
+</header>
+
+<nav class="tabbar">
+  <button class="tab-btn active" data-tab="rankings">Power Rankings</button>
+  <button class="tab-btn" data-tab="leaderboard">Leaderboard</button>
+  <button class="tab-btn" data-tab="schedule">Schedule</button>
+</nav>
+
+<main>
+
+  <section id="tab-rankings" class="tabpanel active">
+    <div class="method-note" id="methodNote"></div>
+    <div class="scroll-wrap"><div id="rkTable" class="rk-table"></div></div>
+  </section>
+
+  <section id="tab-leaderboard" class="tabpanel">
+    <div class="lb-layout">
+      <div class="lb-main">
+        <div class="lb-head disp">Weekly leaders</div>
+        <div class="lb-sub">Highest scoring team and highest scoring player, week by week.</div>
+        <div class="scroll-wrap">
+        <div class="lb-wrap">
+        <div class="lb-grid-head">
+          <div>Week</div><div>Top team</div><div style="text-align:right">Pts</div><div>Top player</div><div style="text-align:right">Pts</div>
+        </div>
+        <div id="lbRows"></div>
+        </div>
+        </div>
+        <div class="lb-empty-note">Results appear here once each week's games go final — Week 1 kicks off Sept 9, 2026.</div>
+      </div>
+      <aside class="lb-sidebar">
+        <div class="sl-head">Stat leaders</div>
+        <div class="sl-sub">Top 3 at each position across all 152 rostered players, by real 2026 season projection — swaps to actual stats once games are played.</div>
+        <div id="statLeaders"></div>
+      </aside>
+    </div>
+  </section>
+
+  <section id="tab-schedule" class="tabpanel">
+    <div class="lb-head disp">Season schedule</div>
+    <div class="lb-sub">Win probability for every team, every week of the real 14-week schedule — hover a cell for the matchup.</div>
+    <div class="scroll-wrap"><div id="schedBlocks" class="sched-wrap"></div></div>
+    <div class="playoff-note">
+      <span class="disp">Playoffs, weeks 15–17</span>
+      Top 5 seeds. Matchups set once the regular season ends.
+    </div>
+  </section>
+
+</main>
+
+<div class="pm-overlay" id="pmOverlay" role="dialog" aria-modal="true" aria-labelledby="pmName">
+  <div class="pm-box" id="pmBox">
+    <button class="pm-close" id="pmClose" type="button" aria-label="Close">✕</button>
+    <div class="pm-header">
+      <img class="pm-avatar" id="pmAvatar" alt="" loading="lazy" onerror="this.style.visibility='hidden'">
+      <div>
+        <div class="pm-name" id="pmName"></div>
+        <div class="pm-sub" id="pmSub"></div>
+      </div>
+    </div>
+    <div class="pm-section">
+      <div class="pm-section-head">Recent news</div>
+      <div class="pm-tags" id="pmTags"></div>
+      <div id="pmNews"></div>
+    </div>
+    <div class="pm-section">
+      <div class="pm-section-head">Statline</div>
+      <div class="pm-stat-grid" id="pmStats"></div>
+      <div class="pm-stat-note" id="pmStatNote"></div>
+    </div>
+    <div class="pm-section">
+      <div class="pm-section-head">Profile</div>
+      <div class="pm-profile-grid" id="pmProfile"></div>
+    </div>
+  </div>
+</div>
+
+<footer id="footerNote"></footer>
+
+<script id="model-data" type="application/json">__MODEL_JSON__</script>
+<script>
+(function(){
+  const MODEL = JSON.parse(document.getElementById('model-data').textContent);
+
+  const ASPECT_LABELS = {
+    lineup: "Starting lineup", schedule: "Schedule", balance: "Weakest slot",
+    topEnd: "Top-end talent", depth: "Bench depth", health: "Roster health", upside: "Breakout upside"
+  };
+  const ASPECT_ORDER = ["lineup","schedule","balance","topEnd","depth","health","upside"];
+
+  document.getElementById('updatedDate').textContent = new Date().toLocaleDateString('en-US', {month:'short', day:'numeric', year:'numeric'});
+
+  // ---------- Weight-dependent copy (method note + footer) ----------
+  // Built from MODEL.weights/seasonStarted rather than hardcoded, so the
+  // percentages stay accurate whether breakout upside is still weighted
+  // (preseason) or has been zeroed out and redistributed (once Week 1 is final).
+  (function renderMethodCopy(){
+    const w = MODEL.weights;
+    const activeAspects = ASPECT_ORDER.filter(k => w[k] > 0);
+    const aspectList = activeAspects.map(k => ASPECT_LABELS[k].toLowerCase()).join(', ');
+    const weightList = activeAspects.map(k => `${ASPECT_LABELS[k].toLowerCase()} ${Math.round(w[k]*100)}%`).join(', ');
+
+    const seasonNote = MODEL.seasonStarted
+      ? ' Week 1 is final, so breakout upside — a preseason-only signal — has been dropped from the score (still shown below for reference, just no longer counted).'
+      : '';
+
+    const lockNote = MODEL.lastRankingUpdateWeek === 0
+      ? ' <b>Standings are locked at the preseason baseline</b> — player info, injuries, headshots, and "Proj. Pts" (ESPN\'s own live current-week projection) update every sync, but rank/record/playoff odds/title odds only recompute the morning after Week 1 fully wraps.'
+      : ` <b>Standings locked as of Week ${MODEL.lastRankingUpdateWeek}</b> — they'll next recompute once Week ${MODEL.lastRankingUpdateWeek + 1} fully wraps; player info and "Proj. Pts" still update every sync.`;
+
+    document.getElementById('methodNote').innerHTML =
+      `Rank blends ${activeAspects.length} roster aspects — ${aspectList}.${seasonNote}${lockNote} Click a team row to see the full breakdown and player-by-player intel. Click a column header to sort.`;
+
+    document.getElementById('footerNote').textContent =
+      `Pulled live from ESPN Fantasy (FantasyGoblins, league 1236970653). Rank blends ${activeAspects.length} roster aspects, each z-scored against the league and weighted (${weightList}). Player values are adjusted ±6–30% for injury/role/breakout flags found in live research; see each team's intel cards for the reasoning. Records blend schedule favorites with win probability across the real 14-week matchup schedule; playoff and title odds come from a 4,000-season Monte Carlo simulation of that same schedule. This page reflects the latest sync — ask to have it refreshed for the newest data.`;
+  })();
+
+  // ---------- Tabs ----------
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.tabpanel').forEach(p => p.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
+    });
+  });
+
+  function tierFor(rankPos, totalTeams){
+    if (rankPos <= 3) return "Contenders";
+    if (rankPos > totalTeams - 3) return "Basement dwellers";
+    return "Bubble teams";
+  }
+
+  function aspectColor(rank){
+    if (rank <= 3) return 'var(--green)';
+    if (rank >= 8) return 'var(--red)';
+    return 'var(--gold)';
+  }
+
+  function fmtAdj(pct){
+    if (Math.abs(pct) < 0.005) return { text: '–', cls: 'zero' };
+    const p = Math.round(pct*100);
+    return { text: (p > 0 ? '+' : '') + p + '%', cls: p > 0 ? 'pos' : 'neg' };
+  }
+
+  function ordinal(n){
+    const s = ["th","st","nd","rd"], v = n % 100;
+    return n + (s[(v-20)%10] || s[v] || s[0]);
+  }
+
+  // ---------- Sortable Power Rankings table ----------
+  const SORT_KEYS = {
+    rk: t => t.rating, record: t => t.projWins, pts: t => t.weekProjPts,
+    bench: t => -t.benchRank, playoff: t => t.playoffOdds, title: t => t.titleOdds
+  };
+  let sortKey = 'rk';
+  let sortDir = -1; // -1 = desc (best first), 1 = asc
+  let openTeamId = null;
+
+  function renderRankings(){
+    const teams = MODEL.teams.slice().sort((a,b) => (SORT_KEYS[sortKey](a) - SORT_KEYS[sortKey](b)) * sortDir);
+    const container = document.getElementById('rkTable');
+    container.innerHTML = '';
+
+    const headRow = document.createElement('div');
+    headRow.className = 'rk-head';
+    const NO_SORT = new Set(['rk', 'team']);
+    const cols = [
+      ['rk','Rk'], ['team','Team'], ['record','Proj record'], ['pts','Proj. Pts'],
+      ['bench','Bench'], ['playoff','Playoff %'], ['title','Title']
+    ];
+    headRow.innerHTML = cols.map(([key,label]) => {
+      const isSorted = sortKey === key;
+      const arrow = isSorted ? `<span class="arrow">${sortDir === -1 ? '▼' : '▲'}</span>` : '';
+      const cls = [isSorted ? 'sorted' : '', NO_SORT.has(key) ? 'no-sort' : ''].filter(Boolean).join(' ');
+      return `<span data-col="${key}" class="${cls}">${label}${arrow}</span>`;
+    }).join('');
+    headRow.querySelectorAll('[data-col]').forEach(el => {
+      el.addEventListener('click', () => {
+        const key = el.dataset.col;
+        if (NO_SORT.has(key)) return;
+        if (sortKey === key) { sortDir *= -1; } else { sortKey = key; sortDir = -1; }
+        renderRankings();
+      });
+    });
+    container.appendChild(headRow);
+
+    let lastTier = null;
+    teams.forEach((t, idx) => {
+      const rankPos = MODEL.teams.slice().sort((a,b) => b.rating - a.rating).indexOf(t) + 1;
+      const tier = tierFor(rankPos, MODEL.teams.length);
+      if (sortKey === 'rk' && sortDir === -1) {
+        if (tier !== lastTier) {
+          const tl = document.createElement('div');
+          tl.className = 'tier-label';
+          tl.textContent = tier;
+          container.appendChild(tl);
+          lastTier = tier;
+        }
+      }
+
+      const row = document.createElement('div');
+      row.className = 'rk-row' + (rankPos <= 3 ? ' top' : '');
+      row.innerHTML = `
+        <div class="rk">${rankPos}</div>
+        <div class="rk-team">
+          <img class="rk-logo" src="${t.logo || ''}" alt="" loading="lazy" onerror="this.style.visibility='hidden'">
+          <div style="min-width:0">
+            <div class="rk-team-name">${t.name}</div>
+            <div class="rk-team-owner">${t.owner}</div>
+          </div>
+        </div>
+        <div class="rk-cell c-record">${t.projWins}–${t.projLosses}</div>
+        <div class="rk-cell c-pts">${t.weekProjPts}</div>
+        <div class="rk-cell c-bench">${ordinal(t.benchRank)}</div>
+        <div class="rk-cell c-playoff">${t.playoffOdds}%</div>
+        <div class="rk-cell c-title">${t.titleOdds}%</div>
+      `;
+      row.addEventListener('click', (e) => {
+        openTeamId = (openTeamId === t.id) ? null : t.id;
+        renderRankings();
+      });
+      container.appendChild(row);
+
+      if (openTeamId === t.id) {
+        const detail = document.createElement('div');
+        detail.className = 'rk-detail open';
+        const aspectsHtml = ASPECT_ORDER.map(k => {
+          const m = t.metrics[k];
+          const unweighted = !MODEL.weights[k] || MODEL.weights[k] === 0;
+          const color = unweighted ? 'var(--text-faint2)' : aspectColor(m.rank);
+          const pctl = Math.max(4, Math.round(100 * (10 - m.rank) / 9));
+          return `
+            <div class="aspect-box"${unweighted ? ' style="opacity:0.6"' : ''}>
+              <div class="aspect-label"><span>${ASPECT_LABELS[k]}${unweighted ? ' (not scored)' : ''}</span><span class="rank" style="color:${color}">Rk ${m.rank}</span></div>
+              <div class="aspect-bar-track"><div class="aspect-bar-fill" style="width:${pctl}%;background:${color}"></div></div>
+              <div class="aspect-detail">${m.detail}</div>
+            </div>
+          `;
+        }).join('');
+
+        const rosterSectionTitle = MODEL.seasonStarted
+          ? `Roster — Week ${MODEL.latestCompletedWeek} stats`
+          : 'Player intel — full roster';
+
+        detail.innerHTML = `
+          <div class="detail-section-title">Roster breakdown</div>
+          <div class="aspect-grid">${aspectsHtml}</div>
+          <div class="detail-section-title">${rosterSectionTitle}</div>
+        `;
+
+        if (MODEL.seasonStarted) {
+          // Post-Week-1: swap the intel cards for a plain roster + statline
+          // list — every name is a link into the same profile popup used by
+          // the leaderboard's stat leaders, for "latest information."
+          const rosterList = document.createElement('div');
+          rosterList.className = 'roster-list';
+          t.roster.forEach(p => {
+            const profile = (MODEL.playerProfiles || {})[p.name] || {};
+            const rows = statlineRows(profile.pos || p.pos, profile.stat);
+            const statsHtml = rows.length
+              ? rows.map(([lbl, val]) => `<span class="roster-stat-chip">${lbl} <span class="v">${val}</span></span>`).join('')
+              : '<span class="roster-stat-empty">No stats recorded yet</span>';
+            const row = document.createElement('div');
+            row.className = 'roster-row';
+            row.innerHTML = `
+              <img class="roster-avatar" src="${p.headshot || ''}" alt="" loading="lazy" onerror="this.style.visibility='hidden'">
+              <div class="roster-name-col">
+                <button type="button" class="roster-name-btn" data-player="${p.name.replace(/"/g, '&quot;')}">${p.name}<span class="roster-pos">${p.pos}</span></button>
+              </div>
+              <div class="roster-stats">${statsHtml}</div>
+            `;
+            rosterList.appendChild(row);
+          });
+          rosterList.addEventListener('click', e => {
+            const btn = e.target.closest('.roster-name-btn');
+            if (btn) openPlayerModal(btn.dataset.player);
+          });
+          detail.appendChild(rosterList);
+        } else {
+          const REASON_LIMIT = 100;
+          const intelList = document.createElement('div');
+          intelList.className = 'intel-list';
+          t.roster.forEach(p => {
+            const a = fmtAdj(p.adjPct);
+            const card = document.createElement('div');
+            card.className = 'intel-card';
+            card.innerHTML = `
+              <div class="intel-top">
+                <div class="intel-name">
+                  <img class="intel-avatar" src="${p.headshot || ''}" alt="" loading="lazy" onerror="this.style.visibility='hidden'">
+                  <span class="who"><span class="pos">${p.pos}</span> ${p.name}</span>
+                </div>
+                <div class="intel-badge ${a.cls}">${a.text}</div>
+              </div>
+            `;
+            const reasonEl = document.createElement('div');
+            reasonEl.className = 'intel-reason';
+            const fullText = p.reason || '';
+            const isLong = fullText.length > REASON_LIMIT;
+            reasonEl.textContent = isLong ? fullText.slice(0, REASON_LIMIT).trimEnd() + '…' : fullText;
+            card.appendChild(reasonEl);
+            if (isLong) {
+              const toggle = document.createElement('button');
+              toggle.className = 'intel-toggle';
+              toggle.type = 'button';
+              toggle.textContent = 'View more';
+              let expanded = false;
+              toggle.addEventListener('click', () => {
+                expanded = !expanded;
+                reasonEl.textContent = expanded ? fullText : fullText.slice(0, REASON_LIMIT).trimEnd() + '…';
+                toggle.textContent = expanded ? 'View less' : 'View more';
+              });
+              card.appendChild(toggle);
+            }
+            intelList.appendChild(card);
+          });
+          detail.appendChild(intelList);
+        }
+        container.appendChild(detail);
+      }
+    });
+  }
+
+  // ---------- Leaderboard (weekly leaders) ----------
+  function renderLeaderboard(){
+    const container = document.getElementById('lbRows');
+    container.innerHTML = '';
+    for (let wk = 1; wk <= 14; wk++) {
+      const row = document.createElement('div');
+      row.className = 'lb-row';
+      row.innerHTML = `
+        <div class="wk mono">${wk}</div>
+        <div class="lb-team">—</div>
+        <div class="lb-pts mono">—</div>
+        <div class="lb-team">—</div>
+        <div class="lb-pts mono">—</div>
+      `;
+      container.appendChild(row);
+    }
+  }
+
+  // ---------- Leaderboard (stat leaders sidebar) ----------
+  const STAT_CATS = [
+    { key: 'totalTD', label: 'Total TDs',       unit: 'TD',  decimals: 1 },
+    { key: 'passYds', label: 'Passing Yards',   unit: 'YDS', decimals: 0 },
+    { key: 'passTD',  label: 'Passing TDs',     unit: 'TD',  decimals: 1 },
+    { key: 'rushYds', label: 'Rushing Yards',   unit: 'YDS', decimals: 0 },
+    { key: 'rushTD',  label: 'Rushing TDs',     unit: 'TD',  decimals: 1 },
+    { key: 'recYds',  label: 'Receiving Yards', unit: 'YDS', decimals: 0 },
+    { key: 'recTD',   label: 'Receiving TDs',   unit: 'TD',  decimals: 1 },
+    { key: 'sacks',   label: 'Sacks',           unit: 'SK',  decimals: 1 },
+    { key: 'defInt',  label: 'Interceptions',   unit: 'INT', decimals: 1 },
+  ];
+
+  function renderStatLeaders(){
+    const container = document.getElementById('statLeaders');
+    if (!container) return;
+    container.innerHTML = '';
+    const leaders = MODEL.statLeaders || {};
+
+    STAT_CATS.forEach(cat => {
+      const rows = leaders[cat.key] || [];
+      const box = document.createElement('div');
+      box.className = 'stat-cat';
+
+      const labelEl = document.createElement('div');
+      labelEl.className = 'stat-cat-label';
+      labelEl.innerHTML = `<span>${cat.label}</span><span class="unit">${cat.unit}</span>`;
+      box.appendChild(labelEl);
+
+      if (!rows.length) {
+        const empty = document.createElement('div');
+        empty.className = 'stat-cat-empty';
+        empty.textContent = 'No leader yet';
+        box.appendChild(empty);
+      } else {
+        rows.forEach((p, i) => {
+          const row = document.createElement('div');
+          row.className = 'stat-leader-row' + (i === 0 ? ' r1' : '');
+          const valStr = cat.decimals === 0 ? Math.round(p.value).toLocaleString() : p.value.toFixed(1);
+          const headshot = ((MODEL.playerProfiles || {})[p.name] || {}).headshot || '';
+          row.innerHTML = `
+            <span class="rk-num">${i + 1}</span>
+            <img class="sl-avatar" src="${headshot}" alt="" loading="lazy" onerror="this.style.visibility='hidden'">
+            <button type="button" class="nm-btn" data-player="${p.name.replace(/"/g, '&quot;')}">${p.name}<span class="sl-pos">${p.pos}</span></button>
+            <span class="val">${valStr}</span>
+          `;
+          box.appendChild(row);
+        });
+      }
+      container.appendChild(box);
+    });
+
+    const footnote = document.createElement('div');
+    footnote.className = 'sl-footnote';
+    footnote.textContent = MODEL.seasonStarted
+      ? 'Reflects real season-to-date stats.'
+      : 'Preseason: values are ESPN\'s real season-long per-player projections, not actual production yet.';
+    container.appendChild(footnote);
+
+    // Event delegation: any name button inside the sidebar opens the popup.
+    container.addEventListener('click', e => {
+      const btn = e.target.closest('.nm-btn');
+      if (btn) openPlayerModal(btn.dataset.player);
+    });
+  }
+
+  // ---------- Player profile popup ----------
+  function statlineRows(pos, s){
+    if (!s) return [];
+    const rows = [];
+    if (pos === 'QB') {
+      rows.push(['Comp / Att', `${Math.round(s.passComp||0)} / ${Math.round(s.passAtt||0)}`]);
+      rows.push(['Pass Yds', Math.round(s.passYds||0).toLocaleString()]);
+      rows.push(['Pass TD', (s.passTD||0).toFixed(1)]);
+      rows.push(['INT', (s.passInt||0).toFixed(1)]);
+      rows.push(['Rush Yds', Math.round(s.rushYds||0).toLocaleString()]);
+      rows.push(['Rush TD', (s.rushTD||0).toFixed(1)]);
+    } else if (pos === 'RB') {
+      rows.push(['Rush Att', Math.round(s.rushAtt||0)]);
+      rows.push(['Rush Yds', Math.round(s.rushYds||0).toLocaleString()]);
+      rows.push(['Rush TD', (s.rushTD||0).toFixed(1)]);
+      rows.push(['Rec', Math.round(s.receptions||0)]);
+      rows.push(['Rec Yds', Math.round(s.recYds||0).toLocaleString()]);
+      rows.push(['Rec TD', (s.recTD||0).toFixed(1)]);
+    } else if (pos === 'WR' || pos === 'TE') {
+      rows.push(['Targets', Math.round(s.targets||0)]);
+      rows.push(['Rec', Math.round(s.receptions||0)]);
+      rows.push(['Rec Yds', Math.round(s.recYds||0).toLocaleString()]);
+      rows.push(['Rec TD', (s.recTD||0).toFixed(1)]);
+      if (s.rushYds > 0) { rows.push(['Rush Yds', Math.round(s.rushYds).toLocaleString()]); rows.push(['Rush TD', (s.rushTD||0).toFixed(1)]); }
+    } else if (pos === 'D/ST') {
+      rows.push(['Sacks', (s.sacks||0).toFixed(1)]);
+      rows.push(['INT', (s.defInt||0).toFixed(1)]);
+      rows.push(['Def/ST TD', (s.defTD||0).toFixed(1)]);
+      rows.push(['Pts Allowed', Math.round(s.ptsAllowed||0)]);
+      rows.push(['Yds Allowed', Math.round(s.ydsAllowed||0).toLocaleString()]);
+    } else if (pos === 'K') {
+      rows.push(['FG', `${Math.round(s.fgMade||0)} / ${Math.round(s.fgAtt||0)}`]);
+      rows.push(['PAT', `${Math.round(s.patMade||0)} / ${Math.round(s.patAtt||0)}`]);
+    }
+    return rows;
+  }
+
+  function openPlayerModal(name){
+    const p = (MODEL.playerProfiles || {})[name];
+    if (!p) return;
+
+    const avatarEl = document.getElementById('pmAvatar');
+    avatarEl.style.visibility = ''; // clear any stale hidden state from a previous failed/empty load
+    avatarEl.src = p.headshot || '';
+    document.getElementById('pmName').textContent = p.name;
+
+    const injClass = p.injuryStatus === 'ACTIVE' ? 'inj-active' : (p.injuryStatus ? 'inj-out' : '');
+    const injLabel = p.injuryStatus || 'ACTIVE';
+    document.getElementById('pmSub').innerHTML = `
+      <span class="pm-chip">${p.pos}</span>
+      <span class="pm-chip">${p.pro}</span>
+      <span class="pm-chip ${injClass}">${injLabel}</span>
+    `;
+
+    const tagsEl = document.getElementById('pmTags');
+    tagsEl.innerHTML = (p.tags || []).map(t => `<span class="pm-chip">${t}</span>`).join('');
+
+    const newsEl = document.getElementById('pmNews');
+    if (p.bullets && p.bullets.length) {
+      newsEl.innerHTML = p.bullets.map(b => `<div class="pm-news-item">${b}</div>`).join('');
+    } else {
+      newsEl.innerHTML = '<div class="pm-news-empty">No recent notes on file.</div>';
+    }
+
+    const rows = statlineRows(p.pos, p.stat);
+    const statsEl = document.getElementById('pmStats');
+    statsEl.innerHTML = rows.map(([lbl, val]) => `
+      <div class="pm-stat"><span class="lbl">${lbl}</span><span class="val">${val}</span></div>
+    `).join('');
+    document.getElementById('pmStatNote').textContent = MODEL.seasonStarted
+      ? 'Season-to-date real stats.'
+      : "Real ESPN season-long projection, not actual stats yet — season hasn't started.";
+
+    document.getElementById('pmProfile').innerHTML = `
+      <div><span class="lbl">Position</span><span class="val">${p.pos}</span></div>
+      <div><span class="lbl">NFL Team</span><span class="val">${p.pro}</span></div>
+      <div><span class="lbl">Rostered By</span><span class="val">${p.fantasyTeam || '—'}</span></div>
+      <div><span class="lbl">Proj. Season Pts</span><span class="val">${p.projPts != null ? p.projPts : '—'}</span></div>
+    `;
+
+    const overlay = document.getElementById('pmOverlay');
+    overlay.classList.add('open');
+    document.getElementById('pmClose').focus();
+  }
+
+  function closePlayerModal(){
+    document.getElementById('pmOverlay').classList.remove('open');
+  }
+
+  document.getElementById('pmClose').addEventListener('click', closePlayerModal);
+  document.getElementById('pmOverlay').addEventListener('click', e => {
+    if (e.target.id === 'pmOverlay') closePlayerModal();
+  });
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') closePlayerModal();
+  });
+
+  // ---------- Schedule tab ----------
+  function schedCellColor(prob){
+    if (prob >= 0.6) return { bg: 'rgba(79,169,124,0.18)', fg: 'var(--green)' };
+    if (prob <= 0.4) return { bg: 'rgba(196,87,75,0.18)', fg: 'var(--red)' };
+    return { bg: 'rgba(227,178,60,0.12)', fg: 'var(--gold)' };
+  }
+
+  function renderSchedule(){
+    const container = document.getElementById('schedBlocks');
+    container.innerHTML = '';
+    const sorted = MODEL.teams.slice().sort((a,b) => b.rating - a.rating);
+    sorted.forEach(t => {
+      const block = document.createElement('div');
+      block.className = 'sched-team-block';
+      const cells = t.weekStrip.map(w => {
+        const c = schedCellColor(w.prob);
+        const pct = Math.round(w.prob*100);
+        return `
+          <div class="sched-cell" style="background:${c.bg};color:${c.fg}" title="Week ${w.week}: ${w.home?'vs':'@'} ${w.opp} — ${pct}% win probability">
+            <span class="wk">${w.week}</span>${w.home?'':'@'}${w.opp}<span class="pct">${pct}%</span>
+          </div>
+        `;
+      }).join('');
+      block.innerHTML = `
+        <div class="sched-team-head">
+          <img class="rk-logo" src="${t.logo || ''}" alt="" loading="lazy" onerror="this.style.visibility='hidden'">
+          <div class="name">${t.name}</div>
+        </div>
+        <div class="sched-strip">${cells}</div>
+      `;
+      container.appendChild(block);
+    });
+  }
+
+  renderRankings();
+  renderLeaderboard();
+  renderStatLeaders();
+  renderSchedule();
+})();
+</script>

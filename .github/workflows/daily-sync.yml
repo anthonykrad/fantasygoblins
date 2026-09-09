@@ -1,0 +1,55 @@
+name: Daily data sync
+
+on:
+  schedule:
+    - cron: '0 10 * * *'   # 10:00 UTC = 6:00am ET (5:00am during EDT... adjusted manually if needed)
+  workflow_dispatch: {}     # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - name: Fetch live ESPN data
+        working-directory: data
+        env:
+          ESPN_S2: ${{ secrets.ESPN_S2 }}
+          ESPN_SWID: ${{ secrets.ESPN_SWID }}
+        run: |
+          COOKIE="espn_s2=${ESPN_S2}; SWID=${ESPN_SWID}"
+          curl -sf -o league_roster.json -w "roster: %{http_code}\n" \
+            "https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/2026/segments/0/leagues/1236970653?view=mRoster&view=mTeam" \
+            -H "Cookie: $COOKIE"
+          curl -sf -o league_matchups.json -w "matchups: %{http_code}\n" \
+            "https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/2026/segments/0/leagues/1236970653?view=mMatchup&view=mSettings" \
+            -H "Cookie: $COOKIE"
+
+      - name: Run pipeline
+        working-directory: data
+        env:
+          ESPN_S2: ${{ secrets.ESPN_S2 }}
+          ESPN_SWID: ${{ secrets.ESPN_SWID }}
+        run: |
+          ruby ../scripts/extract_rosters.rb
+          ruby ../scripts/extract_projections.rb
+          ruby ../scripts/derive_schedule.rb
+          ruby ../scripts/fetch_images.rb
+          ruby ../scripts/extract_stat_leaders.rb
+          ruby ../scripts/compute_model.rb
+          ruby ../scripts/build_interactive_page.rb
+
+      - name: Commit and push if anything changed
+        run: |
+          git config user.name "fantasy-goblins-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ docs/
+          git diff --cached --quiet || git commit -m "Automated daily sync"
+          git push
