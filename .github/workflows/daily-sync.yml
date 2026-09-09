@@ -24,6 +24,9 @@ jobs:
           ESPN_S2: ${{ secrets.ESPN_S2 }}
           ESPN_SWID: ${{ secrets.ESPN_SWID }}
         run: |
+          # Keep yesterday's roster snapshot so the research routine (runs after
+          # this workflow) has a clean "what changed" diff to work from.
+          cp all_rosters.json all_rosters_prev.json 2>/dev/null || true
           COOKIE="espn_s2=${ESPN_S2}; SWID=${ESPN_SWID}"
           curl -sf -o league_roster.json -w "roster: %{http_code}\n" \
             "https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/2026/segments/0/leagues/1236970653?view=mRoster&view=mTeam" \
