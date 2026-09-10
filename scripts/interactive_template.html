@@ -686,15 +686,15 @@
 
   // ---------- Leaderboard (stat leaders sidebar) ----------
   const STAT_CATS = [
-    { key: 'totalTD', label: 'Total TDs',       unit: 'TD',  decimals: 1 },
+    { key: 'totalTD', label: 'Total TDs',       unit: 'TD',  decimals: 0 },
     { key: 'passYds', label: 'Passing Yards',   unit: 'YDS', decimals: 0 },
-    { key: 'passTD',  label: 'Passing TDs',     unit: 'TD',  decimals: 1 },
+    { key: 'passTD',  label: 'Passing TDs',     unit: 'TD',  decimals: 0 },
     { key: 'rushYds', label: 'Rushing Yards',   unit: 'YDS', decimals: 0 },
-    { key: 'rushTD',  label: 'Rushing TDs',     unit: 'TD',  decimals: 1 },
+    { key: 'rushTD',  label: 'Rushing TDs',     unit: 'TD',  decimals: 0 },
     { key: 'recYds',  label: 'Receiving Yards', unit: 'YDS', decimals: 0 },
-    { key: 'recTD',   label: 'Receiving TDs',   unit: 'TD',  decimals: 1 },
+    { key: 'recTD',   label: 'Receiving TDs',   unit: 'TD',  decimals: 0 },
     { key: 'sacks',   label: 'Sacks',           unit: 'SK',  decimals: 1 },
-    { key: 'defInt',  label: 'Interceptions',   unit: 'INT', decimals: 1 },
+    { key: 'defInt',  label: 'Interceptions',   unit: 'INT', decimals: 0 },
   ];
 
   function renderStatLeaders(){
@@ -757,27 +757,27 @@
     if (pos === 'QB') {
       rows.push(['Comp / Att', `${Math.round(s.passComp||0)} / ${Math.round(s.passAtt||0)}`]);
       rows.push(['Pass Yds', Math.round(s.passYds||0).toLocaleString()]);
-      rows.push(['Pass TD', (s.passTD||0).toFixed(1)]);
-      rows.push(['INT', (s.passInt||0).toFixed(1)]);
+      rows.push(['Pass TD', Math.round(s.passTD||0)]);
+      rows.push(['INT', Math.round(s.passInt||0)]);
       rows.push(['Rush Yds', Math.round(s.rushYds||0).toLocaleString()]);
-      rows.push(['Rush TD', (s.rushTD||0).toFixed(1)]);
+      rows.push(['Rush TD', Math.round(s.rushTD||0)]);
     } else if (pos === 'RB') {
       rows.push(['Rush Att', Math.round(s.rushAtt||0)]);
       rows.push(['Rush Yds', Math.round(s.rushYds||0).toLocaleString()]);
-      rows.push(['Rush TD', (s.rushTD||0).toFixed(1)]);
+      rows.push(['Rush TD', Math.round(s.rushTD||0)]);
       rows.push(['Rec', Math.round(s.receptions||0)]);
       rows.push(['Rec Yds', Math.round(s.recYds||0).toLocaleString()]);
-      rows.push(['Rec TD', (s.recTD||0).toFixed(1)]);
+      rows.push(['Rec TD', Math.round(s.recTD||0)]);
     } else if (pos === 'WR' || pos === 'TE') {
       rows.push(['Targets', Math.round(s.targets||0)]);
       rows.push(['Rec', Math.round(s.receptions||0)]);
       rows.push(['Rec Yds', Math.round(s.recYds||0).toLocaleString()]);
-      rows.push(['Rec TD', (s.recTD||0).toFixed(1)]);
-      if (s.rushYds > 0) { rows.push(['Rush Yds', Math.round(s.rushYds).toLocaleString()]); rows.push(['Rush TD', (s.rushTD||0).toFixed(1)]); }
+      rows.push(['Rec TD', Math.round(s.recTD||0)]);
+      if (s.rushYds > 0) { rows.push(['Rush Yds', Math.round(s.rushYds).toLocaleString()]); rows.push(['Rush TD', Math.round(s.rushTD||0)]); }
     } else if (pos === 'D/ST') {
       rows.push(['Sacks', (s.sacks||0).toFixed(1)]);
-      rows.push(['INT', (s.defInt||0).toFixed(1)]);
-      rows.push(['Def/ST TD', (s.defTD||0).toFixed(1)]);
+      rows.push(['INT', Math.round(s.defInt||0)]);
+      rows.push(['Def/ST TD', Math.round(s.defTD||0)]);
       rows.push(['Pts Allowed', Math.round(s.ptsAllowed||0)]);
       rows.push(['Yds Allowed', Math.round(s.ydsAllowed||0).toLocaleString()]);
     } else if (pos === 'K') {
