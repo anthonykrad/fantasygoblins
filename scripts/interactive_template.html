@@ -738,8 +738,8 @@
 
     const footnote = document.createElement('div');
     footnote.className = 'sl-footnote';
-    footnote.textContent = MODEL.seasonStarted
-      ? 'Reflects real season-to-date stats.'
+    footnote.textContent = MODEL.statsLive
+      ? 'Reflects real season-to-date stats — 0 for anyone who hasn\'t played yet.'
       : 'Preseason: values are ESPN\'s real season-long per-player projections, not actual production yet.';
     container.appendChild(footnote);
 
@@ -819,8 +819,8 @@
     statsEl.innerHTML = rows.map(([lbl, val]) => `
       <div class="pm-stat"><span class="lbl">${lbl}</span><span class="val">${val}</span></div>
     `).join('');
-    document.getElementById('pmStatNote').textContent = MODEL.seasonStarted
-      ? 'Season-to-date real stats.'
+    document.getElementById('pmStatNote').textContent = MODEL.statsLive
+      ? 'Season-to-date real stats — shows 0 if this player hasn\'t played yet.'
       : "Real ESPN season-long projection, not actual stats yet — season hasn't started.";
 
     document.getElementById('pmProfile').innerHTML = `

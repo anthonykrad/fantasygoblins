@@ -220,10 +220,16 @@ else
 end
 
 # ---- 5b. Player statlines, stat leaders, and profile popups ----
-# Pre-Week-1: numbers are ESPN's real season-long per-player projections.
-# Once Week 1 is final: switches to real season-to-date actual stats — same
-# source data (extract_stat_leaders.rb), just picking the other column.
-CURRENT_STATLINES = SEASON_STARTED ? stat_leaders["statlinesActual"] : stat_leaders["statlinesProj"]
+# This is intentionally NOT tied to SEASON_STARTED/the standings freeze —
+# that only flips once a FULL NFL week is final, which could be days after
+# the first games kick off. Stat leaders and player statlines should show
+# real per-player numbers (0 for anyone who hasn't played yet) the moment
+# ANY actual game stats exist, regardless of whether the whole week — and
+# therefore the frozen standings — has wrapped up.
+STATS_LIVE = stat_leaders["statlinesActual"].values.any? do |s|
+  %w[passYds rushYds recYds sacks defInt fgMade].any? { |k| (s[k] || 0) > 0 }
+end
+CURRENT_STATLINES = STATS_LIVE ? stat_leaders["statlinesActual"] : stat_leaders["statlinesProj"]
 
 def top3(statlines, key, pos_filter = nil)
   pool = statlines.select { |_, s| pos_filter.nil? || pos_filter.include?(s["pos"]) }
@@ -403,6 +409,7 @@ teams_out = teams_out.sort_by { |t| -t[:rating] }
 output = {
   weights: WEIGHTS,
   seasonStarted: SEASON_STARTED,
+  statsLive: STATS_LIVE,
   lastRankingUpdateWeek: LAST_RANKING_UPDATE_WEEK,
   latestCompletedWeek: LATEST_COMPLETED_WEEK,
   playoffSeeds: 5,
