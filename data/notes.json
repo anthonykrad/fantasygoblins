@@ -533,14 +533,6 @@
       "Worth monitoring: starting QB Sam Darnold left the Sept 9 opener with a hip injury (fracture ruled out, MRI pending Thursday) — a prolonged absence with backup Drew Lock at QB could mean tougher field position/offensive support for the defense if it drags into multiple games."
     ]
   },
-  "Jaguars D/ST": {
-    "tags": [
-      "Regression Watch"
-    ],
-    "bullets": [
-      "Top-3 fantasy finish in 2025 driven heavily by turnovers rather than pass rush, so real regression risk; lost Devin Lloyd and Andrew Wingard in free agency. Good Week 1 streamer vs. CLE, but a boom/bust unit projected only ~21st for the season."
-    ]
-  },
   "Eagles D/ST": {
     "tags": [
       "Elite Starter"
@@ -717,7 +709,7 @@
       "Healthy"
     ],
     "bullets": [
-      "Hyperextended his knee in late August but has looked like full/normal work in recent practice reports — on track for Week 1 vs. New England."
+      "Hyperextended his knee in late August but has looked like full/normal work in recent practice reports — on track for Week 1 vs. Tampa Bay."
     ]
   },
   "Quinshon Judkins": {
@@ -756,11 +748,13 @@
   },
   "Josh Jacobs": {
     "tags": [
-      "Health Watch"
+      "Health Watch",
+      "Depth Chart Battle"
     ],
     "bullets": [
-      "Groin injury is not considered severe and the team expects him ready whenever he's eligible to play.",
-      "The real Week 1 question is off the field: formally charged with two misdemeanors stemming from a May incident involving a woman, Jacobs remains on the NFL's Commissioner Exempt List (placed there Aug 30) and cannot practice or play with Green Bay until that legal process resolves. His initial court appearance was moved up to today, Sept 10 — three days before the Packers' opener at Minnesota — but the outcome of that hearing isn't confirmed yet; Packers coaches/GM have voiced hope he can play \"sometime this season.\""
+      "Pleaded no contest Sept 10 to misdemeanor battery and criminal-damage charges from the May incident — fined $1,000 plus costs, with the damage charge to be dismissed after a 12-month deferred agreement.",
+      "The legal resolution does NOT end his NFL absence: the league says there is \"no change to his status\" and he remains on the Commissioner's Exempt List while a separate personal-conduct-policy review continues, with a suspension (some Packers reporters estimate 4-6 games) still expected; unclear if the league rules before Sunday's opener at Minnesota, so treat him as unplayable/bench for now.",
+      "Green Bay has already hedged, trading a 2028 6th-round pick to Pittsburgh for RB Kaleb Johnson as depth-chart insurance — a real sign the team isn't banking on a quick Jacobs return."
     ]
   },
   "Josh Downs": {
@@ -1167,12 +1161,12 @@
   },
   "De'Zhaun Stribling": {
     "tags": [
-      "Healthy",
+      "Injury",
       "Breakout Watch"
     ],
     "bullets": [
-      "Minor shoulder injury (preseason), day-to-day, not considered a Week 1 threat.",
-      "Rookie with real preseason buzz — a deep-league breakout stash if SF's crowded WR room opens up targets."
+      "Left the Sept 10 season opener vs. the Rams in Melbourne in the 2nd quarter with a non-contact left ankle injury and did not return (no catches); HC Kyle Shanahan confirmed his Achilles is intact but couldn't say whether it's a high-ankle sprain, with an MRI pending back in the Bay Area to determine severity.",
+      "Rookie with real preseason buzz (11 catches in two preseason games) as a deep-league breakout stash if SF's crowded WR room opens up targets — but hold off starting him anywhere until the MRI results clarify how many games he'll miss."
     ]
   },
   "Deebo Samuel Sr.": {
@@ -1307,6 +1301,16 @@
     ],
     "bullets": [
       "Steps in as the Raiders' starting TE for at least a game or two while Brock Bowers recovers from a Sept 8 meniscus trim procedure — a real streaming/flex option in the interim."
+    ]
+  },
+  "Kyler Murray": {
+    "tags": [
+      "Job Secured",
+      "New Team"
+    ],
+    "bullets": [
+      "Signed with Minnesota in March on a bargain 1-year, $1.3M deal after Arizona released him; beat out JJ McCarthy in camp and is confirmed as the Vikings' Week 1 starter vs. Green Bay on Sept 13, reuniting him with former Cardinals DC-turned-Packers-DC Jonathan Gannon as this week's opponent.",
+      "Inherits a strong supporting cast in Justin Jefferson, Jordan Addison, and T.J. Hockenson under HC Kevin O'Connell — a real dual-threat QB1 upside spot if his rushing production (30-40+ yards/game range) holds."
     ]
   }
 }
