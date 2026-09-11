@@ -138,7 +138,7 @@
     "name": "Seahawks D/ST",
     "pos": "D/ST",
     "pro": "SEA",
-    "slot": "BE",
+    "slot": "D/ST",
     "status": null,
     "injured": false
   },
@@ -162,17 +162,6 @@
     "pro": "BUF",
     "slot": "BE",
     "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "SLIME SZN",
-    "fteam_id": 1,
-    "pid": -16030,
-    "name": "Jaguars D/ST",
-    "pos": "D/ST",
-    "pro": "JAX",
-    "slot": "D/ST",
-    "status": null,
     "injured": false
   },
   {
@@ -689,7 +678,7 @@
     "pos": "RB",
     "pro": "LV",
     "slot": "RB",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -865,7 +854,7 @@
     "pos": "WR",
     "pro": "NE",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -931,7 +920,7 @@
     "pos": "TE",
     "pro": "SF",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1305,7 +1294,7 @@
     "pos": "K",
     "pro": "LAC",
     "slot": "K",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
