@@ -165,6 +165,17 @@
     "injured": false
   },
   {
+    "fteam": "SLIME SZN",
+    "fteam_id": 1,
+    "pid": 3917315,
+    "name": "Kyler Murray",
+    "pos": "QB",
+    "pro": "MIN",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
     "fteam": "Team Josh",
     "fteam_id": 9,
     "pid": 4379399,
@@ -271,7 +282,7 @@
     "pos": "WR",
     "pro": "SF",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -744,7 +755,7 @@
     "pos": "QB",
     "pro": "KC",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -876,7 +887,7 @@
     "pos": "WR",
     "pro": "BAL",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1195,8 +1206,8 @@
     "pos": "TE",
     "pro": "LV",
     "slot": "BE",
-    "status": "DOUBTFUL",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Into the sunset",
