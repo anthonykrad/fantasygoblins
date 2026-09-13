@@ -84,7 +84,7 @@
     "pos": "RB",
     "pro": "CAR",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -447,7 +447,7 @@
     "pos": "WR",
     "pro": "IND",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -458,7 +458,7 @@
     "pos": "WR",
     "pro": "JAX",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -865,8 +865,8 @@
     "pos": "WR",
     "pro": "NE",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "INJURY_RESERVE",
+    "injured": true
   },
   {
     "fteam": "cmc and friends ",
@@ -1168,10 +1168,10 @@
   {
     "fteam": "Mikeeee",
     "fteam_id": 14,
-    "pid": -16009,
-    "name": "Packers D/ST",
+    "pid": -16030,
+    "name": "Jaguars D/ST",
     "pos": "D/ST",
-    "pro": "GB",
+    "pro": "JAX",
     "slot": "D/ST",
     "status": null,
     "injured": false
@@ -1294,7 +1294,7 @@
     "pos": "RB",
     "pro": "WSH",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
