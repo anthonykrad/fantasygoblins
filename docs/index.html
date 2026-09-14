@@ -583,8 +583,8 @@
           `;
         }).join('');
 
-        const rosterSectionTitle = MODEL.seasonStarted
-          ? `Roster — Week ${MODEL.latestCompletedWeek} stats`
+        const rosterSectionTitle = MODEL.statsLive
+          ? `Roster — Week ${MODEL.latestCompletedWeek + 1} stats`
           : 'Player intel — full roster';
 
         detail.innerHTML = `
@@ -593,7 +593,7 @@
           <div class="detail-section-title">${rosterSectionTitle}</div>
         `;
 
-        if (MODEL.seasonStarted) {
+        if (MODEL.statsLive) {
           // Post-Week-1: swap the intel cards for a plain roster + statline
           // list — every name is a link into the same profile popup used by
           // the leaderboard's stat leaders, for "latest information."
