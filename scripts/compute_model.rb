@@ -153,7 +153,23 @@ def erf(x)
   sign*y
 end
 
-SIGMA = 22.0
+SIGMA = 22.0 # true per-team weekly score standard deviation (see gaussian_rand)
+
+# Box-Muller transform — real fantasy scores vary week to week roughly like
+# a normal distribution, not a narrow uniform range. This matters a lot for
+# playoff odds early in the season: a uniform ±11 spread around a static
+# lineup value made some real-but-unlikely matchup outcomes mathematically
+# IMPOSSIBLE in the simulation (if two teams' lineup gap exceeded the noise
+# range, the weaker team could never win against them in any of the 4000
+# simulated seasons), which is how a team ended up showing a flat, wrong 0%
+# chance in just Week 2 of 14. A proper Gaussian has thin tails that still
+# allow rare upsets, like a real season does.
+def gaussian_rand(mean, sd)
+  u1 = rand
+  u2 = rand
+  z0 = Math.sqrt(-2.0 * Math.log(u1)) * Math.cos(2.0 * Math::PI * u2)
+  mean + z0 * sd
+end
 
 # ---- 4. Real schedule + Monte Carlo playoff/title simulation ----
 REG_WEEKS = 14
@@ -191,7 +207,13 @@ end
 
 def win_prob(a_lineup, b_lineup, sigma)
   gap = a_lineup - b_lineup
-  normal_cdf(gap / (sigma / Math.sqrt(17)))
+  # Two independent Normal(mean, sigma) scores: their difference has
+  # standard deviation sigma*sqrt(2), not sigma/sqrt(17) (that divisor
+  # was left over from a season-total-to-weekly conversion that doesn't
+  # apply here since a_lineup/b_lineup are already weekly values — it was
+  # shrinking the effective spread by ~4x and making single-game odds far
+  # more lopsided than real fantasy variance supports).
+  normal_cdf(gap / (sigma * Math.sqrt(2)))
 end
 
 wins_tally = Hash.new(0)
@@ -216,8 +238,8 @@ N_SIMS.times do
     next unless home && away
     a_l = raw_metrics[home][:lineup]
     b_l = raw_metrics[away][:lineup]
-    home_score = a_l + (rand - 0.5) * SIGMA
-    away_score = b_l + (rand - 0.5) * SIGMA
+    home_score = gaussian_rand(a_l, SIGMA)
+    away_score = gaussian_rand(b_l, SIGMA)
     if home_score > away_score
       wins[home] += 1
     else
