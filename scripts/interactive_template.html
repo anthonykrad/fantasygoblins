@@ -446,7 +446,7 @@
     const weightList = activeAspects.map(k => `${ASPECT_LABELS[k].toLowerCase()} ${Math.round(w[k]*100)}%`).join(', ');
 
     const seasonNote = MODEL.seasonStarted
-      ? ' Week 1 is final, so breakout upside — a preseason-only signal — has been dropped from the score (still shown below for reference, just no longer counted), and actual record + points scored now count for 30% combined, with the roster-strength factors scaled down to make room.'
+      ? ` Through Week ${MODEL.lastRankingUpdateWeek}, breakout upside — a preseason-only signal — has been dropped from the score (still shown below for reference, just no longer counted), and actual record + points scored now count for 30% combined, with the roster-strength factors scaled down to make room. Playoff/title odds simulate only the remaining games — completed weeks are locked in as real results, not re-randomized.`
       : '';
 
     const lockNote = MODEL.lastRankingUpdateWeek === 0

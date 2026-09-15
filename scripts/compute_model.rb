@@ -199,14 +199,23 @@ playoff_tally = Hash.new(0)
 title_tally = Hash.new(0)
 
 N_SIMS.times do
+  # Lock in what ACTUALLY happened in completed weeks — every simulated
+  # season builds on top of the real record, it doesn't re-randomize weeks
+  # that have already been played. This applies automatically as
+  # LATEST_COMPLETED_WEEK advances each week, no manual step needed.
   wins = Hash.new(0)
   points_for = Hash.new(0.0)
+  team_ids.each do |t|
+    wins[t] = ACTUAL_RECORD[t][:wins]
+    points_for[t] = ACTUAL_RECORD[t][:pointsFor]
+  end
+
   schedule.each do |m|
+    next if m["week"] <= LATEST_COMPLETED_WEEK
     home, away = m["home"], m["away"]
     next unless home && away
     a_l = raw_metrics[home][:lineup]
     b_l = raw_metrics[away][:lineup]
-    p_home = win_prob(a_l, b_l, SIGMA)
     home_score = a_l + (rand - 0.5) * SIGMA
     away_score = b_l + (rand - 0.5) * SIGMA
     if home_score > away_score
