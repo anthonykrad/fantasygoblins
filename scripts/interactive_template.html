@@ -142,13 +142,13 @@
   .intel-list{display:grid; grid-template-columns:repeat(auto-fill, minmax(250px,1fr)); gap:10px;}
 
   /* ---- Post-Week-1 roster + statline list (replaces intel cards) ---- */
-  .roster-list{display:flex; flex-direction:column; gap:1px;}
+  .roster-list{display:flex; flex-direction:column; gap:6px;}
   .roster-row{
-    display:flex; align-items:center; gap:12px; padding:10px 12px;
+    display:flex; align-items:center; gap:16px; padding:11px 14px;
     background:var(--panel); border:1px solid var(--border); border-radius:8px;
   }
-  .roster-avatar{width:34px; height:34px; border-radius:7px; object-fit:cover; flex:0 0 auto; background:var(--panel-alt); border:1px solid var(--border-soft);}
-  .roster-name-col{flex:0 0 auto; min-width:150px; max-width:200px;}
+  .roster-avatar{width:36px; height:36px; border-radius:8px; object-fit:cover; flex:0 0 auto; background:var(--panel-alt); border:1px solid var(--border-soft);}
+  .roster-name-col{flex:0 0 auto; width:150px; min-width:150px;}
   .roster-name-btn{
     all:unset; cursor:pointer; font-family:'Barlow Condensed', sans-serif; font-weight:600;
     font-size:15px; text-transform:uppercase; color:var(--text); display:block;
@@ -156,10 +156,14 @@
   }
   .roster-name-btn:hover{color:var(--gold-soft); text-decoration:underline;}
   .roster-name-btn:focus-visible{outline:2px solid var(--gold); outline-offset:2px; border-radius:2px;}
-  .roster-pos{font-family:'IBM Plex Mono', monospace; font-size:10px; color:var(--text-faint2); margin-left:6px;}
-  .roster-stats{display:flex; flex-wrap:wrap; gap:6px 10px; flex:1; min-width:0;}
-  .roster-stat-chip{font-size:11px; color:var(--text-faint); white-space:nowrap;}
-  .roster-stat-chip .v{font-family:'IBM Plex Mono', monospace; font-weight:600; color:var(--text-faint2);}
+  .roster-pos{display:block; font-family:'IBM Plex Mono', monospace; font-size:9.5px; letter-spacing:0.05em; color:var(--text-faint2); margin-top:1px;}
+  .roster-stats{
+    display:grid; grid-template-columns:repeat(auto-fill, minmax(66px,1fr)); gap:4px 18px;
+    flex:1; min-width:0; padding-left:16px; border-left:1px solid var(--border);
+  }
+  .roster-stat-chip{display:flex; flex-direction:column; gap:1px; min-width:0;}
+  .roster-stat-chip .lbl{font-size:9px; letter-spacing:0.03em; text-transform:uppercase; color:var(--text-faint2); white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+  .roster-stat-chip .v{font-family:'IBM Plex Mono', monospace; font-size:13px; font-weight:600; color:var(--text); white-space:nowrap;}
   .roster-stat-empty{font-size:11px; color:var(--text-faint2); font-style:italic;}
   .intel-card{
     border:1px solid var(--border-soft); border-radius:8px; padding:12px 14px;
@@ -576,7 +580,7 @@
             const profile = (MODEL.playerProfiles || {})[p.name] || {};
             const rows = statlineRows(profile.pos || p.pos, profile.stat);
             const statsHtml = rows.length
-              ? rows.map(([lbl, val]) => `<span class="roster-stat-chip">${lbl} <span class="v">${val}</span></span>`).join('')
+              ? rows.map(([lbl, val]) => `<span class="roster-stat-chip"><span class="lbl">${lbl}</span><span class="v">${val}</span></span>`).join('')
               : '<span class="roster-stat-empty">No stats recorded yet</span>';
             const row = document.createElement('div');
             row.className = 'roster-row';
