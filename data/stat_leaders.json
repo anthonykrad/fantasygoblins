@@ -7906,5 +7906,463 @@
       "ydsAllowed": 0,
       "totalTD": 0
     }
+  },
+  "weeklyActualPts": {
+    "Puka Nacua": {
+      "1": 12.4
+    },
+    "Omarion Hampton": {
+      "1": 8.3
+    },
+    "Malik Nabers": {
+      "1": 12.9
+    },
+    "DeVonta Smith": {
+      "1": 8.3
+    },
+    "D'Andre Swift": {
+      "1": 32.4
+    },
+    "Jayden Daniels": {
+      "1": 17.66
+    },
+    "Sam LaPorta": {
+      "1": 9.8
+    },
+    "Jonathon Brooks": {
+      "1": 7.2
+    },
+    "Michael Pittman Jr.": {
+      "1": 8.8
+    },
+    "Jordan Mason": {
+      "1": 11.9
+    },
+    "Matthew Golden": {
+      "1": 15.5
+    },
+    "Jordyn Tyson": {
+      "1": 0.0
+    },
+    "Seahawks D/ST": {
+      "1": 14.0
+    },
+    "Chris Boswell": {
+      "1": 8.0
+    },
+    "Dalton Kincaid": {
+      "1": 18.0
+    },
+    "Kyler Murray": {
+      "1": -0.38
+    },
+    "James Cook III": {
+      "1": 9.9
+    },
+    "Kenneth Walker III": {
+      "1": 34.1
+    },
+    "George Pickens": {
+      "1": 5.8
+    },
+    "Garrett Wilson": {
+      "1": 13.9
+    },
+    "Tee Higgins": {
+      "1": 8.9
+    },
+    "Joe Burrow": {
+      "1": 14.16
+    },
+    "Tucker Kraft": {
+      "1": 9.5
+    },
+    "J.K. Dobbins": {
+      "1": 3.6
+    },
+    "Josh Downs": {
+      "1": 5.7
+    },
+    "De'Zhaun Stribling": {
+      "1": 0.0
+    },
+    "Trevor Lawrence": {
+      "1": 26.1
+    },
+    "Blake Corum": {
+      "1": 5.4
+    },
+    "Jayden Reed": {
+      "1": 5.0
+    },
+    "Eagles D/ST": {
+      "1": 5.0
+    },
+    "Tyler Loop": {
+      "1": 14.0
+    },
+    "Jonathan Taylor": {
+      "1": 25.1
+    },
+    "Trey McBride": {
+      "1": 24.5
+    },
+    "Javonte Williams": {
+      "1": 24.2
+    },
+    "Ladd McConkey": {
+      "1": 19.2
+    },
+    "Travis Etienne Jr.": {
+      "1": 14.8
+    },
+    "Rome Odunze": {
+      "1": 7.2
+    },
+    "Jalen Hurts": {
+      "1": 24.72
+    },
+    "Mike Evans": {
+      "1": 16.9
+    },
+    "Rico Dowdle": {
+      "1": 4.1
+    },
+    "Alec Pierce": {
+      "1": 10.1
+    },
+    "Jakobi Meyers": {
+      "1": 12.2
+    },
+    "Jordan Addison": {
+      "1": 0.0
+    },
+    "Harrison Mevis": {
+      "1": 1.0
+    },
+    "Khalil Shakir": {
+      "1": 9.0
+    },
+    "Ravens D/ST": {
+      "1": 8.0
+    },
+    "De'Von Achane": {
+      "1": 10.6
+    },
+    "Chase Brown": {
+      "1": 18.8
+    },
+    "Chris Olave": {
+      "1": 28.2
+    },
+    "Emeka Egbuka": {
+      "1": 11.3
+    },
+    "Bhayshul Tuten": {
+      "1": 9.8
+    },
+    "Jadarian Price": {
+      "1": 7.8
+    },
+    "Caleb Williams": {
+      "1": 37.26
+    },
+    "Stefon Diggs": {
+      "1": 15.5
+    },
+    "Isaiah Likely": {
+      "1": 27.8
+    },
+    "Wan'Dale Robinson": {
+      "1": 8.8
+    },
+    "KC Concepcion": {
+      "1": 7.8
+    },
+    "Rams D/ST": {
+      "1": 1.0
+    },
+    "Cam Little": {
+      "1": 12.0
+    },
+    "Romeo Doubs": {
+      "1": 0.0
+    },
+    "Odell Beckham Jr.": {
+      "1": 0.0
+    },
+    "Jahmyr Gibbs": {
+      "1": 33.6
+    },
+    "Ashton Jeanty": {
+      "1": 32.7
+    },
+    "Nico Collins": {
+      "1": 21.2
+    },
+    "Tetairoa McMillan": {
+      "1": 10.5
+    },
+    "Colston Loveland": {
+      "1": 0.0
+    },
+    "Carnell Tate": {
+      "1": 7.8
+    },
+    "Josh Jacobs": {
+      "1": 0.0
+    },
+    "Patrick Mahomes": {
+      "1": 21.66
+    },
+    "Michael Wilson": {
+      "1": 10.6
+    },
+    "Jaxson Dart": {
+      "1": 26.6
+    },
+    "Brian Thomas Jr.": {
+      "1": 7.0
+    },
+    "Woody Marks": {
+      "1": 5.0
+    },
+    "Ka'imi Fairbairn": {
+      "1": 9.0
+    },
+    "Chargers D/ST": {
+      "1": 0.0
+    },
+    "Jalen Coker": {
+      "1": 33.8
+    },
+    "Deebo Samuel Sr.": {
+      "1": 18.0
+    },
+    "Christian McCaffrey": {
+      "1": 13.8
+    },
+    "A.J. Brown": {
+      "1": 5.6
+    },
+    "Derrick Henry": {
+      "1": 35.3
+    },
+    "Zay Flowers": {
+      "1": 26.0
+    },
+    "DJ Moore": {
+      "1": 21.0
+    },
+    "Kyle Pitts Sr.": {
+      "1": 0.0
+    },
+    "Parker Washington": {
+      "1": 19.3
+    },
+    "George Kittle": {
+      "1": 3.2
+    },
+    "MarShawn Lloyd": {
+      "1": 3.7
+    },
+    "Justin Herbert": {
+      "1": 13.26
+    },
+    "DK Metcalf": {
+      "1": 8.0
+    },
+    "Jason Myers": {
+      "1": 7.0
+    },
+    "Broncos D/ST": {
+      "1": 2.0
+    },
+    "Brock Purdy": {
+      "1": 21.1
+    },
+    "Ja'Kobi Lane": {
+      "1": 2.1
+    },
+    "Jaxon Smith-Njigba": {
+      "1": 26.2
+    },
+    "Justin Jefferson": {
+      "1": 31.2
+    },
+    "Jeremiyah Love": {
+      "1": 13.0
+    },
+    "Rashee Rice": {
+      "1": 9.9
+    },
+    "Quinshon Judkins": {
+      "1": 7.0
+    },
+    "TreVeyon Henderson": {
+      "1": 0.0
+    },
+    "Harold Fannin Jr.": {
+      "1": 4.1
+    },
+    "Jameson Williams": {
+      "1": 8.5
+    },
+    "Kenny Gainwell": {
+      "1": 2.8
+    },
+    "Aaron Jones Sr.": {
+      "1": 10.0
+    },
+    "Dak Prescott": {
+      "1": 14.4
+    },
+    "RJ Harvey": {
+      "1": 8.1
+    },
+    "Matthew Stafford": {
+      "1": 4.1
+    },
+    "Eddy Pineiro": {
+      "1": 10.0
+    },
+    "Jaguars D/ST": {
+      "1": 14.0
+    },
+    "Bijan Robinson": {
+      "1": 31.3
+    },
+    "Josh Allen": {
+      "1": 35.66
+    },
+    "Brock Bowers": {
+      "1": 0.0
+    },
+    "Jaylen Waddle": {
+      "1": 1.2
+    },
+    "Cam Skattebo": {
+      "1": 14.1
+    },
+    "David Montgomery": {
+      "1": 28.9
+    },
+    "Luther Burden III": {
+      "1": 9.5
+    },
+    "Christian Watson": {
+      "1": 32.7
+    },
+    "Jaylen Warren": {
+      "1": 10.3
+    },
+    "Quentin Johnston": {
+      "1": 3.7
+    },
+    "Jacory Croskey-Merritt": {
+      "1": 12.6
+    },
+    "Cameron Dicker": {
+      "1": 2.0
+    },
+    "Patriots D/ST": {
+      "1": 7.0
+    },
+    "Xavier Worthy": {
+      "1": 4.8
+    },
+    "Michael Mayer": {
+      "1": 9.2
+    },
+    "Amon-Ra St. Brown": {
+      "1": 28.7
+    },
+    "CeeDee Lamb": {
+      "1": 15.4
+    },
+    "Breece Hall": {
+      "1": 19.8
+    },
+    "Lamar Jackson": {
+      "1": 24.96
+    },
+    "Bucky Irving": {
+      "1": 20.3
+    },
+    "Terry McLaurin": {
+      "1": 3.4
+    },
+    "Marvin Harrison Jr.": {
+      "1": 4.3
+    },
+    "Rhamondre Stevenson": {
+      "1": 14.5
+    },
+    "Brandon Aubrey": {
+      "1": 2.0
+    },
+    "Dallas Goedert": {
+      "1": 23.7
+    },
+    "Kyle Monangai": {
+      "1": 20.4
+    },
+    "Texans D/ST": {
+      "1": -4.0
+    },
+    "Travis Kelce": {
+      "1": 10.1
+    },
+    "Bo Nix": {
+      "1": 5.44
+    },
+    "Braelon Allen": {
+      "1": 4.0
+    },
+    "Ja'Marr Chase": {
+      "1": 3.2
+    },
+    "Saquon Barkley": {
+      "1": 9.0
+    },
+    "Drake London": {
+      "1": 5.5
+    },
+    "Kyren Williams": {
+      "1": 15.5
+    },
+    "Davante Adams": {
+      "1": 5.6
+    },
+    "Tyler Warren": {
+      "1": 10.3
+    },
+    "Drake Maye": {
+      "1": 9.82
+    },
+    "Tony Pollard": {
+      "1": 4.4
+    },
+    "Courtland Sutton": {
+      "1": 3.1
+    },
+    "Chuba Hubbard": {
+      "1": 23.7
+    },
+    "Chris Godwin Jr.": {
+      "1": 8.3
+    },
+    "Rachaad White": {
+      "1": 4.7
+    },
+    "Makai Lemon": {
+      "1": 2.5
+    },
+    "Steelers D/ST": {
+      "1": 19.0
+    },
+    "Jake Bates": {
+      "1": 7.0
+    }
   }
 }

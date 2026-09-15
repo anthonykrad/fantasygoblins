@@ -367,7 +367,7 @@
         <div id="lbRows"></div>
         </div>
         </div>
-        <div class="lb-empty-note">Results appear here once each week's games go final — Week 1 kicks off Sept 9, 2026.</div>
+        <div class="lb-empty-note" id="lbEmptyNote"></div>
       </div>
       <aside class="lb-sidebar">
         <div class="sl-head">Stat leaders</div>
@@ -647,17 +647,53 @@
   function renderLeaderboard(){
     const container = document.getElementById('lbRows');
     container.innerHTML = '';
+    const leadersByWeek = {};
+    (MODEL.weeklyLeaders || []).forEach(w => { leadersByWeek[w.week] = w; });
+
     for (let wk = 1; wk <= 14; wk++) {
+      const w = leadersByWeek[wk];
       const row = document.createElement('div');
       row.className = 'lb-row';
-      row.innerHTML = `
-        <div class="wk mono">${wk}</div>
-        <div class="lb-team">—</div>
-        <div class="lb-pts mono">—</div>
-        <div class="lb-team">—</div>
-        <div class="lb-pts mono">—</div>
-      `;
+      if (w) {
+        const teamName = w.topTeam ? w.topTeam.name : '—';
+        const teamPts = w.topTeam ? w.topTeam.pts.toFixed(1) : '—';
+        const playerCell = w.topPlayer
+          ? `<button type="button" class="nm-btn" data-player="${w.topPlayer.name.replace(/"/g, '&quot;')}">${w.topPlayer.name}<span class="sl-pos">${w.topPlayer.pos || ''}</span></button>`
+          : '—';
+        const playerPts = w.topPlayer ? w.topPlayer.pts.toFixed(1) : '—';
+        row.innerHTML = `
+          <div class="wk mono">${wk}</div>
+          <div class="lb-team">${teamName}</div>
+          <div class="lb-pts mono">${teamPts}</div>
+          <div class="lb-team">${playerCell}</div>
+          <div class="lb-pts mono">${playerPts}</div>
+        `;
+      } else {
+        row.innerHTML = `
+          <div class="wk mono">${wk}</div>
+          <div class="lb-team">—</div>
+          <div class="lb-pts mono">—</div>
+          <div class="lb-team">—</div>
+          <div class="lb-pts mono">—</div>
+        `;
+      }
       container.appendChild(row);
+    }
+
+    container.addEventListener('click', e => {
+      const btn = e.target.closest('.nm-btn');
+      if (btn) openPlayerModal(btn.dataset.player);
+    });
+
+    const emptyNote = document.getElementById('lbEmptyNote');
+    const doneThrough = MODEL.latestCompletedWeek || 0;
+    if (doneThrough >= 14) {
+      emptyNote.style.display = 'none';
+    } else {
+      emptyNote.style.display = '';
+      emptyNote.textContent = doneThrough === 0
+        ? 'Results appear here as each week\'s games go final.'
+        : `Weeks 1–${doneThrough} are final. Week ${doneThrough + 1}'s results land here once that week wraps.`;
     }
   }
 

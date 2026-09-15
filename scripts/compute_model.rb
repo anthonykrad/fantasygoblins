@@ -486,6 +486,30 @@ end
 
 teams_out = teams_out.sort_by { |t| -t[:rating] }
 
+# ---- 7. Weekly leaders (Leaderboard tab) ----
+# Live every sync (not frozen) -- highest-scoring team and highest-scoring
+# individual player for each week that's actually completed.
+WEEKLY_LEADERS = (1..LATEST_COMPLETED_WEEK).map do |wk|
+  games = matchups_raw["schedule"].select { |m| m["matchupPeriodId"] == wk && m["winner"] != "UNDECIDED" }
+  team_scores = games.flat_map do |m|
+    [[m.dig("home", "teamId"), m.dig("home", "totalPoints") || 0.0],
+     [m.dig("away", "teamId"), m.dig("away", "totalPoints") || 0.0]]
+  end
+  top_team_id, top_team_pts = team_scores.max_by { |_, pts| pts } || [nil, nil]
+
+  top_player_name, top_player_pts = (stat_leaders["weeklyActualPts"] || {}).map { |name, wk_pts|
+    pts = wk_pts[wk.to_s]
+    pts && pts > 0 ? [name, pts] : nil
+  }.compact.max_by { |_, pts| pts } || [nil, nil]
+  top_player_pos = top_player_name && stat_leaders.dig("statlinesActual", top_player_name, "pos")
+
+  {
+    week: wk,
+    topTeam: top_team_id ? { name: TEAM_META[top_team_id][:name].strip, abbr: TEAM_META[top_team_id][:abbr], pts: top_team_pts.round(1) } : nil,
+    topPlayer: top_player_name ? { name: top_player_name, pos: top_player_pos, pts: top_player_pts } : nil
+  }
+end
+
 output = {
   weights: WEIGHTS,
   seasonStarted: SEASON_STARTED,
@@ -497,7 +521,8 @@ output = {
   teams: teams_out,
   schedule: schedule,
   statLeaders: STAT_LEADERS,
-  playerProfiles: PLAYER_PROFILES
+  playerProfiles: PLAYER_PROFILES,
+  weeklyLeaders: WEEKLY_LEADERS
 }
 
 File.write("model_output.json", JSON.generate(output))

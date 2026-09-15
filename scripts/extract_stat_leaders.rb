@@ -33,6 +33,7 @@ end
 
 statlines_proj = {}
 statlines_actual = {}
+weekly_actual_pts = {} # name => { "1" => appliedTotal, "2" => appliedTotal, ... } -- real per-week fantasy points, for "top scorer of the week"
 
 data["teams"].each do |t|
   t["roster"]["entries"].each do |e|
@@ -51,11 +52,22 @@ data["teams"].each do |t|
     actual_line = actual_stat ? stat_line(actual_stat["stats"], pos, pro) : stat_line({}, pos, pro)
     actual_line[:totalTD] = (actual_line[:rushTD] + actual_line[:recTD]).round(2)
     statlines_actual[name] = actual_line
+
+    # ESPN keeps one real actual-fantasy-points entry per COMPLETED week
+    # (statSourceId 0 = actual, statSplitTypeId 1 = single-period), keyed
+    # by scoringPeriodId -- collect all of them, not just the newest.
+    weekly = {}
+    p["stats"].each do |s|
+      next unless s["statSourceId"] == 0 && s["statSplitTypeId"] == 1 && s["seasonId"] == 2026
+      weekly[s["scoringPeriodId"].to_s] = (s["appliedTotal"] || 0).round(2)
+    end
+    weekly_actual_pts[name] = weekly
   end
 end
 
 File.write("stat_leaders.json", JSON.pretty_generate({
   statlinesProj: statlines_proj,
-  statlinesActual: statlines_actual
+  statlinesActual: statlines_actual,
+  weeklyActualPts: weekly_actual_pts
 }))
 puts "Wrote stat_leaders.json — #{statlines_proj.size} players (proj + actual statlines)"
