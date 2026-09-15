@@ -53,6 +53,8 @@ SEASON_STARTED = LATEST_COMPLETED_WEEK >= 1
 # Map tag -> [pct adjustment, reason template]. Capped to [-0.30, +0.06] combined.
 TAG_ADJUST = {
   "Injury" => -0.16,
+  "Short-Term Injury" => -0.09,
+  "Long-Term Injury" => -0.24,
   "Aging Watch" => -0.03,
   "Depth Chart Battle" => -0.12,
   "Volume Regression Watch" => -0.10,
