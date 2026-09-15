@@ -494,7 +494,7 @@
 
   // ---------- Sortable Power Rankings table ----------
   const SORT_KEYS = {
-    rk: t => t.rating, record: t => t.projWins, pts: t => t.weekProjPts,
+    rk: t => t.rating, record: t => MODEL.seasonStarted ? t.actualWins : t.projWins, pts: t => t.weekProjPts,
     bench: t => -t.benchRank, playoff: t => t.playoffOdds, title: t => t.titleOdds
   };
   let sortKey = 'rk';
@@ -510,7 +510,7 @@
     headRow.className = 'rk-head';
     const NO_SORT = new Set(['rk', 'team']);
     const cols = [
-      ['rk','Rk'], ['team','Team'], ['record','Proj record'], ['pts','Proj. Pts'],
+      ['rk','Rk'], ['team','Team'], ['record', MODEL.seasonStarted ? 'Record' : 'Proj record'], ['pts','Proj. Pts'],
       ['bench','Bench'], ['playoff','Playoff %'], ['title','Title']
     ];
     headRow.innerHTML = cols.map(([key,label]) => {
@@ -554,7 +554,7 @@
             <div class="rk-team-owner">${t.owner}</div>
           </div>
         </div>
-        <div class="rk-cell c-record">${t.projWins}–${t.projLosses}</div>
+        <div class="rk-cell c-record">${MODEL.seasonStarted ? (t.actualTies > 0 ? `${t.actualWins}-${t.actualLosses}-${t.actualTies}` : `${t.actualWins}-${t.actualLosses}`) : `${t.projWins}–${t.projLosses}`}</div>
         <div class="rk-cell c-pts">${t.weekProjPts}</div>
         <div class="rk-cell c-bench">${ordinal(t.benchRank)}</div>
         <div class="rk-cell c-playoff">${t.playoffOdds}%</div>

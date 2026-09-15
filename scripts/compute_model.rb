@@ -155,6 +155,33 @@ N_SIMS = 4000
 
 team_ids = raw_metrics.keys
 
+# ---- 3b. Real actual record from completed matchups (not simulated) ----
+# Once games are played, "record" should mean the team's REAL wins/losses/
+# points, not a full-season roster-strength projection — that's what the
+# next section (Monte Carlo) is for, kept separate for the rest-of-season
+# playoff/title odds. This is fully real, pulled straight from ESPN.
+ACTUAL_RECORD = Hash.new { |h, k| h[k] = { wins: 0, losses: 0, ties: 0, pointsFor: 0.0 } }
+matchups_raw["schedule"].each do |m|
+  next unless m["matchupPeriodId"] <= LATEST_COMPLETED_WEEK
+  next if m["winner"] == "UNDECIDED"
+  home_id, away_id = m.dig("home", "teamId"), m.dig("away", "teamId")
+  home_pts, away_pts = m.dig("home", "totalPoints") || 0.0, m.dig("away", "totalPoints") || 0.0
+  next unless home_id && away_id
+  ACTUAL_RECORD[home_id][:pointsFor] += home_pts
+  ACTUAL_RECORD[away_id][:pointsFor] += away_pts
+  case m["winner"]
+  when "HOME"
+    ACTUAL_RECORD[home_id][:wins] += 1
+    ACTUAL_RECORD[away_id][:losses] += 1
+  when "AWAY"
+    ACTUAL_RECORD[away_id][:wins] += 1
+    ACTUAL_RECORD[home_id][:losses] += 1
+  when "TIE"
+    ACTUAL_RECORD[home_id][:ties] += 1
+    ACTUAL_RECORD[away_id][:ties] += 1
+  end
+end
+
 def win_prob(a_lineup, b_lineup, sigma)
   gap = a_lineup - b_lineup
   normal_cdf(gap / (sigma / Math.sqrt(17)))
@@ -203,7 +230,7 @@ N_SIMS.times do
 end
 
 proj_wins = {}
-team_ids.each { |t| proj_wins[t] = (wins_tally[t].to_f / N_SIMS * REG_WEEKS).round(1) }
+team_ids.each { |t| proj_wins[t] = (wins_tally[t].to_f / N_SIMS).round(1) }
 
 # ---- 5. Composite power score (0-100) ----
 # "Breakout upside" is a preseason-only signal — once real Week 1 results are
@@ -361,6 +388,10 @@ teams_out = team_ids.each_with_index.map do |tid, i|
     rating: rating,
     projWins: proj_wins[tid].floor,
     projLosses: (REG_WEEKS - proj_wins[tid].floor),
+    actualWins: ACTUAL_RECORD[tid][:wins],
+    actualLosses: ACTUAL_RECORD[tid][:losses],
+    actualTies: ACTUAL_RECORD[tid][:ties],
+    actualPointsFor: ACTUAL_RECORD[tid][:pointsFor].round(1),
     projPts: raw_metrics[tid][:lineup],
     weekProjPts: raw_metrics[tid][:weekProj],
     benchPts: bench_pts,
@@ -380,7 +411,7 @@ teams_out = teams_out.sort_by { |t| -t[:rating] }
 # Player-level info (tags, injuries, headshots, "This Wk Pts") updates every
 # sync. Team-level competitive outputs (rating/record/odds/metrics) only ever
 # recompute the sync that happens after a full NFL week's games are all final.
-SCORING_FIELDS = [:rating, :projWins, :projLosses, :projPts, :benchPts, :benchRank, :playoffOdds, :titleOdds, :metrics, :z, :weekStrip]
+SCORING_FIELDS = [:rating, :projWins, :projLosses, :actualWins, :actualLosses, :actualTies, :actualPointsFor, :projPts, :benchPts, :benchRank, :playoffOdds, :titleOdds, :metrics, :z, :weekStrip]
 prev_state_file = "previous_model_output.json"
 if File.exist?(prev_state_file)
   prev = JSON.parse(File.read(prev_state_file))
