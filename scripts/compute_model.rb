@@ -294,10 +294,12 @@ team_ids.each { |t| proj_wins[t] = (wins_tally[t].to_f / N_SIMS).round(1) }
 BASE_WEIGHTS = { lineup: 0.28, schedule: 0.15, balance: 0.14, topEnd: 0.13, depth: 0.12, health: 0.11, upside: 0.07 }
 # Once games have actually been played, blend real performance into the
 # score: "record" (actual wins so far) and "scoring" (actual points scored
-# so far) take a combined 30%, and the original roster-strength factors
+# so far) take a combined 75%, and the original roster-strength factors
 # (minus "upside", which is preseason-only) are scaled down to fill the
-# remaining 70% while keeping their relative proportions to each other.
-RESULTS_WEIGHT = 0.30
+# remaining 25% while keeping their relative proportions to each other.
+# Raised from 0.30 -> 0.75 at the user's request: real results should
+# clearly outweigh preseason roster projections once games are live.
+RESULTS_WEIGHT = 0.75
 WEIGHTS = if SEASON_STARTED
   active = BASE_WEIGHTS.reject { |k, _| k == :upside }
   total = active.values.sum
