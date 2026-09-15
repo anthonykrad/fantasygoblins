@@ -29,7 +29,7 @@
     "pos": "WR",
     "pro": "NYG",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -172,7 +172,7 @@
     "pos": "QB",
     "pro": "MIN",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -282,7 +282,7 @@
     "pos": "WR",
     "pro": "SF",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "DOUBTFUL",
     "injured": false
   },
   {
@@ -381,7 +381,7 @@
     "pos": "WR",
     "pro": "LAC",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -403,7 +403,7 @@
     "pos": "WR",
     "pro": "CHI",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -447,7 +447,7 @@
     "pos": "WR",
     "pro": "IND",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -887,7 +887,7 @@
     "pos": "WR",
     "pro": "BAL",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1008,7 +1008,7 @@
     "pos": "WR",
     "pro": "BAL",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "DOUBTFUL",
     "injured": false
   },
   {
@@ -1040,8 +1040,8 @@
     "name": "Jeremiyah Love",
     "pos": "RB",
     "pro": "ARI",
-    "slot": "RB",
-    "status": "QUESTIONABLE",
+    "slot": "BE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1106,7 +1106,7 @@
     "name": "Kenny Gainwell",
     "pos": "RB",
     "pro": "TB",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },

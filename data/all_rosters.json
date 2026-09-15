@@ -106,7 +106,7 @@
     "pos": "RB",
     "pro": "MIN",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -402,7 +402,7 @@
     "name": "Rome Odunze",
     "pos": "WR",
     "pro": "CHI",
-    "slot": "WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -424,7 +424,7 @@
     "name": "Mike Evans",
     "pos": "WR",
     "pro": "SF",
-    "slot": "BE",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -732,7 +732,7 @@
     "name": "Carnell Tate",
     "pos": "WR",
     "pro": "TEN",
-    "slot": "WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -754,7 +754,7 @@
     "name": "Patrick Mahomes",
     "pos": "QB",
     "pro": "KC",
-    "slot": "BE",
+    "slot": "QB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -776,7 +776,7 @@
     "name": "Jaxson Dart",
     "pos": "QB",
     "pro": "NYG",
-    "slot": "QB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -788,7 +788,7 @@
     "pos": "WR",
     "pro": "JAX",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -832,7 +832,7 @@
     "pos": "WR",
     "pro": "CAR",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -842,7 +842,7 @@
     "name": "Deebo Samuel Sr.",
     "pos": "WR",
     "pro": "SF",
-    "slot": "BE",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1040,7 +1040,7 @@
     "name": "Jeremiyah Love",
     "pos": "RB",
     "pro": "ARI",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1106,7 +1106,7 @@
     "name": "Kenny Gainwell",
     "pos": "RB",
     "pro": "TB",
-    "slot": "RB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1205,7 +1205,7 @@
     "name": "Brock Bowers",
     "pos": "TE",
     "pro": "LV",
-    "slot": "BE",
+    "slot": "TE",
     "status": "OUT",
     "injured": true
   },
@@ -1337,7 +1337,7 @@
     "name": "Michael Mayer",
     "pos": "TE",
     "pro": "LV",
-    "slot": "TE",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
