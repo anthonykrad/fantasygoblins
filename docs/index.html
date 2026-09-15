@@ -72,12 +72,6 @@
   .tabpanel{display:none;}
   .tabpanel.active{display:block;}
 
-  .method-note{
-    font-size:11px; color:var(--text-faint2); margin-bottom:20px; padding:12px 16px;
-    border:1px solid var(--border); border-radius:8px; background:var(--panel);
-  }
-  .method-note b{color:var(--text-faint);}
-
   /* ---- Rankings table ---- */
   .tier-label{
     font-size:13px; font-weight:600; letter-spacing:0.2em; text-transform:uppercase; color:var(--gold);
@@ -353,7 +347,6 @@
 <main>
 
   <section id="tab-rankings" class="tabpanel active">
-    <div class="method-note" id="methodNote"></div>
     <div class="scroll-wrap"><div id="rkTable" class="rk-table"></div></div>
   </section>
 
@@ -436,29 +429,8 @@
   document.getElementById('updatedDate').textContent = new Date().toLocaleDateString('en-US', {month:'short', day:'numeric', year:'numeric'});
 
   // ---------- Weight-dependent copy (method note + footer) ----------
-  // Built from MODEL.weights/seasonStarted rather than hardcoded, so the
-  // percentages stay accurate whether breakout upside is still weighted
-  // (preseason) or has been zeroed out and redistributed (once Week 1 is final).
-  (function renderMethodCopy(){
-    const w = MODEL.weights;
-    const activeAspects = ASPECT_ORDER.filter(k => w[k] > 0);
-    const aspectList = activeAspects.map(k => ASPECT_LABELS[k].toLowerCase()).join(', ');
-    const weightList = activeAspects.map(k => `${ASPECT_LABELS[k].toLowerCase()} ${Math.round(w[k]*100)}%`).join(', ');
-
-    const seasonNote = MODEL.seasonStarted
-      ? ` Through Week ${MODEL.lastRankingUpdateWeek}, breakout upside — a preseason-only signal — has been dropped from the score (still shown below for reference, just no longer counted), and actual record + points scored now count for 30% combined, with the roster-strength factors scaled down to make room. Playoff/title odds simulate only the remaining games — completed weeks are locked in as real results, not re-randomized.`
-      : '';
-
-    const lockNote = MODEL.lastRankingUpdateWeek === 0
-      ? ' <b>Standings are locked at the preseason baseline</b> — player info, injuries, headshots, and "Proj. Pts" (ESPN\'s own live current-week projection) update every sync, but rank/record/playoff odds/title odds only recompute the morning after Week 1 fully wraps.'
-      : ` <b>Standings locked as of Week ${MODEL.lastRankingUpdateWeek}</b> — they'll next recompute once Week ${MODEL.lastRankingUpdateWeek + 1} fully wraps; player info and "Proj. Pts" still update every sync.`;
-
-    document.getElementById('methodNote').innerHTML =
-      `Rank blends ${activeAspects.length} roster aspects — ${aspectList}.${seasonNote}${lockNote} Click a team row to see the full breakdown and player-by-player intel. Click a column header to sort.`;
-
-    document.getElementById('footerNote').textContent =
-      `Pulled live from ESPN Fantasy (FantasyGoblins, league 1236970653). Rank blends ${activeAspects.length} roster aspects, each z-scored against the league and weighted (${weightList}). Player values are adjusted ±6–30% for injury/role/breakout flags found in live research; see each team's intel cards for the reasoning. Records blend schedule favorites with win probability across the real 14-week matchup schedule; playoff and title odds come from a 4,000-season Monte Carlo simulation of that same schedule. This page reflects the latest sync — ask to have it refreshed for the newest data.`;
-  })();
+  document.getElementById('footerNote').textContent =
+    'Pulled live from ESPN Fantasy (FantasyGoblins, league 1236970653). This page reflects the latest sync — ask to have it refreshed for the newest data.';
 
   // ---------- Tabs ----------
   document.querySelectorAll('.tab-btn').forEach(btn => {
