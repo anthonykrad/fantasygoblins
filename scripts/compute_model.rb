@@ -131,6 +131,13 @@ players_by_team.each do |fteam_id, plist|
 end
 
 best_weakest = raw_metrics.values.map { |m| m[:weakestVal] }.max
+# Which player currently holds that league-best "weakest starter" slot, and
+# its value — computed fresh each run. (The label was previously hardcoded
+# and went stale the moment any other team's weak link changed; the percent
+# was also wrong — it multiplied the raw points value by 100 instead of
+# expressing it as a fraction of this actual best value.)
+BEST_WEAKEST_VAL = best_weakest.zero? ? 1.0 : best_weakest
+BEST_WEAKEST_LABEL = raw_metrics.max_by { |_, m| m[:weakestVal] }.last[:weakestName]
 
 # ---- 3. Win-probability season simulation ----
 def normal_cdf(x)
@@ -238,12 +245,19 @@ team_ids.each { |t| proj_wins[t] = (wins_tally[t].to_f / N_SIMS).round(1) }
 # is redistributed proportionally across the other six) while still computing
 # and displaying the metric itself for informational purposes.
 BASE_WEIGHTS = { lineup: 0.28, schedule: 0.15, balance: 0.14, topEnd: 0.13, depth: 0.12, health: 0.11, upside: 0.07 }
+# Once games have actually been played, blend real performance into the
+# score: "record" (actual wins so far) and "scoring" (actual points scored
+# so far) take a combined 30%, and the original roster-strength factors
+# (minus "upside", which is preseason-only) are scaled down to fill the
+# remaining 70% while keeping their relative proportions to each other.
+RESULTS_WEIGHT = 0.30
 WEIGHTS = if SEASON_STARTED
   active = BASE_WEIGHTS.reject { |k, _| k == :upside }
   total = active.values.sum
-  active.transform_values { |w| (w / total).round(4) }.merge(upside: 0.0)
+  scaled = active.transform_values { |w| (w / total * (1 - RESULTS_WEIGHT)).round(4) }
+  scaled.merge(upside: 0.0, record: (RESULTS_WEIGHT / 2).round(4), scoring: (RESULTS_WEIGHT / 2).round(4))
 else
-  BASE_WEIGHTS
+  BASE_WEIGHTS.merge(record: 0.0, scoring: 0.0)
 end
 
 # ---- 5b. Player statlines, stat leaders, and profile popups ----
@@ -318,7 +332,9 @@ metrics_raw = {
   topEnd: team_ids.map { |t| raw_metrics[t][:top3] },
   depth: team_ids.map { |t| raw_metrics[t][:depth] },
   health: team_ids.map { |t| -raw_metrics[t][:healthLoss] },
-  upside: team_ids.map { |t| raw_metrics[t][:upside] }
+  upside: team_ids.map { |t| raw_metrics[t][:upside] },
+  record: team_ids.map { |t| ACTUAL_RECORD[t][:wins] },
+  scoring: team_ids.map { |t| ACTUAL_RECORD[t][:pointsFor] }
 }
 z = {}
 metrics_raw.each { |k, vals| z[k] = zscores(vals) }
@@ -342,11 +358,13 @@ def aspect_detail(key, val)
   case key
   when :lineup then "#{val} pts/wk"
   when :schedule then "#{val} expected wins"
-  when :balance then "#{(val * 100).round}% of league best (Jaguars D/ST)"
+  when :balance then "#{(val / BEST_WEAKEST_VAL * 100).round}% of league best (#{BEST_WEAKEST_LABEL})"
   when :topEnd then "#{val} from top 3"
   when :depth then "#{val} pts/wk"
   when :health then "−#{(-val).round(1)} pts/wk to flags"
   when :upside then "#{val} flagged players"
+  when :record then "#{val} #{val == 1 ? 'win' : 'wins'} so far"
+  when :scoring then "#{val.round(1)} pts scored so far"
   end
 end
 

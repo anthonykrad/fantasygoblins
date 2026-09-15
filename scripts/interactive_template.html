@@ -428,9 +428,10 @@
 
   const ASPECT_LABELS = {
     lineup: "Starting lineup", schedule: "Schedule", balance: "Weakest slot",
-    topEnd: "Top-end talent", depth: "Bench depth", health: "Roster health", upside: "Breakout upside"
+    topEnd: "Top-end talent", depth: "Bench depth", health: "Roster health", upside: "Breakout upside",
+    record: "Actual record", scoring: "Points scored"
   };
-  const ASPECT_ORDER = ["lineup","schedule","balance","topEnd","depth","health","upside"];
+  const ASPECT_ORDER = ["record","scoring","lineup","schedule","balance","topEnd","depth","health","upside"];
 
   document.getElementById('updatedDate').textContent = new Date().toLocaleDateString('en-US', {month:'short', day:'numeric', year:'numeric'});
 
@@ -445,7 +446,7 @@
     const weightList = activeAspects.map(k => `${ASPECT_LABELS[k].toLowerCase()} ${Math.round(w[k]*100)}%`).join(', ');
 
     const seasonNote = MODEL.seasonStarted
-      ? ' Week 1 is final, so breakout upside — a preseason-only signal — has been dropped from the score (still shown below for reference, just no longer counted).'
+      ? ' Week 1 is final, so breakout upside — a preseason-only signal — has been dropped from the score (still shown below for reference, just no longer counted), and actual record + points scored now count for 30% combined, with the roster-strength factors scaled down to make room.'
       : '';
 
     const lockNote = MODEL.lastRankingUpdateWeek === 0
