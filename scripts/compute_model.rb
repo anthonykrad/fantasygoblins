@@ -19,6 +19,8 @@ def headshot_url_for(p)
 end
 HEADSHOT_BY_NAME = {}
 rosters.each { |p| HEADSHOT_BY_NAME[p["name"]] = headshots[headshot_url_for(p)] }
+SLOT_BY_NAME = {}
+rosters.each { |p| SLOT_BY_NAME[p["name"]] = p["slot"] }
 
 TEAM_META = {}
 league_raw["teams"].each do |t|
@@ -74,6 +76,17 @@ TAG_ADJUST = {
   "Committee" => -0.08
 }
 
+# ESPN gives both RBs (and both WRs) the same lineupSlotId (2 and 4 respectively) --
+# there's no native RB1/RB2 distinction. So within a slot group, the better-rated
+# player sorts first (secondary key below), which is what makes RB1/WR1 the top one.
+# This league's flex slot is lineupSlotId 3, labeled "RB/WR" by SLOT_NAME -- that's
+# a genuine flex spot, not a second dedicated RB slot, so it sorts after TE, not with RB.
+ROSTER_SLOT_ORDER = {
+  "QB" => 0, "RB" => 1, "WR" => 2, "WR/TE" => 2,
+  "TE" => 3, "OP" => 3, "RB/WR" => 4, "FLEX" => 4, "D/ST" => 5, "K" => 6,
+  "BE" => 7, "IR" => 8
+}
+
 def player_adjustment(tags, notes_entry)
   return { pct: 0.0, reason: "Established starter, no flags" } if tags.empty?
   raw = tags.sum { |t| TAG_ADJUST[t] || 0.0 }
@@ -97,7 +110,8 @@ proj.each do |p|
     adjPct: adj[:pct], reason: adj[:reason],
     isStarter: p["is_starter"], fteamId: p["fteam_id"],
     headshot: HEADSHOT_BY_NAME[p["name"]],
-    wk1Proj: p["wk1_proj"] || 0
+    wk1Proj: p["wk1_proj"] || 0,
+    slot: SLOT_BY_NAME[p["name"]] || "BE"
   }
   players_by_team[p["fteam_id"]] << entry
   all_players_out << entry
@@ -452,7 +466,7 @@ teams_out = team_ids.each_with_index.map do |tid, i|
     metrics: metrics,
     z: team_ids.each_with_index.map { |t, j| [t, {}] }.to_h[tid],
     weekStrip: week_strip,
-    roster: (players_by_team[tid] || []).sort_by { |p| -p[:adjusted] }
+    roster: (players_by_team[tid] || []).sort_by { |p| [ROSTER_SLOT_ORDER[p[:slot]] || 7, -p[:adjusted]] }
   }
 end
 
