@@ -39,14 +39,6 @@
       "Jacksonville's starting kicker, known for elite leg strength on long attempts — no competition for the job."
     ]
   },
-  "Chris Boswell": {
-    "tags": [
-      "Elite Starter"
-    ],
-    "bullets": [
-      "Among the most accurate kickers in the NFL in recent seasons on a defense-first Steelers team that often plays close games — strong weekly floor."
-    ]
-  },
   "Jason Myers": {
     "tags": [
       "Job Secured"
@@ -107,11 +99,11 @@
   },
   "Ja'Kobi Lane": {
     "tags": [
-      "Injury"
+      "Long-Term Injury"
     ],
     "bullets": [
       "Fractured his left wrist coming down awkwardly after a Lamar Jackson end-zone target during Sunday's win over Indianapolis; finished with 1 catch for 11 yards before exiting in the 2nd quarter.",
-      "Per NFL Network's Mike Garafolo and Ian Rapoport, expected to miss several weeks; further imaging will determine whether surgery is needed and whether he lands on IR. Puts his WR2-behind-Flowers breakout runway on hold."
+      "Now expected to undergo surgery on the wrist in the coming days, per CBS Sports' Matt Zenitz (Sept 15), with hope he can return in around a month — revised from the earlier \"several weeks, pending imaging\" outlook to a firmer ~4-week timeline now that surgery is planned. Officially doubtful/out for Week 2 vs. New Orleans; puts his WR2-behind-Flowers breakout runway on hold."
     ]
   },
   "Josh Allen": {
@@ -384,12 +376,12 @@
   },
   "Brock Bowers": {
     "tags": [
-      "Injury"
+      "Short-Term Injury"
     ],
     "bullets": [
       "Consensus TE1 entering year 3 — top-3 fantasy TE in both of his first two seasons.",
       "Underwent a meniscus trim procedure Sept 8 for the camp knee injury and was a non-participant in Thursday's (Sept 10) practice — effectively ruled out for the Week 1 opener vs. Miami with Michael Mayer starting in his place.",
-      "Schefter walked back his original \"a game or two\" estimate on the Pat McAfee Show (Sept 10), saying that timeline came from Bowers' own camp and \"may be overly optimistic\" — meniscus trims typically run 4-6 weeks, putting Week 2 (at Chargers) in doubt too, with a Week 3 (vs. Saints) return floated as more realistic."
+      "Officially listed Questionable on the Raiders' Week 2 injury report (Sept 16) for Monday night's game at the Chargers after returning to practice — revised from the earlier \"Week 3 more realistic\" outlook now that he's trending toward a Week 2 return, just one game missed rather than the previously floated 4-6 week meniscus timeline."
     ]
   },
   "Justin Jefferson": {
@@ -550,23 +542,6 @@
     ],
     "bullets": [
       "Top-10 in sacks and takeaways in 2025; opens 2026 vs. Arizona and Las Vegas, called the best 2-game starting schedule of any DST — legitimate top-10 season-long upside."
-    ]
-  },
-  "Broncos D/ST": {
-    "tags": [
-      "Elite Starter"
-    ],
-    "bullets": [
-      "Led the NFL in pressure rate (30.5%) in 2025 with the entire starting defense returning — one of the “safer” DST bets, though a top-3-toughest early schedule may lag results behind the underlying talent."
-    ]
-  },
-  "Jaguars D/ST": {
-    "tags": [
-      "Elite Starter"
-    ],
-    "bullets": [
-      "Newly added off waivers (replacing Packers D/ST) — ranked the No. 1 fantasy defense for Week 1, a premier pass-funnel unit that led the NFL with 31 takeaways and the league's best run defense in 2025.",
-      "Ideal Week 1 spot at home vs. Cleveland, favored by 7.5 points, with Josh Hines-Allen and Travon Walker teeing off on Deshaun Watson in his first start since Week 7 2024 — projects boom-or-bust/streamer value beyond Week 1 given a tougher Weeks 2-5 slate (DEN, NE, CIN, PHI)."
     ]
   },
   "Patriots D/ST": {
@@ -988,7 +963,7 @@
     ],
     "bullets": [
       "Missed the Week 1 loss to Seattle (ruled out Sept 8) after not practicing all week with an ankle injury; Rhamondre Stevenson started in his place.",
-      "Trending in the right direction for Week 2 — HC Mike Vrabel confirmed Sept 15 that Henderson returned to practice, though he remains day-to-day as the team monitors the ankle."
+      "Returned to practice Monday (Sept 14) and is now officially Questionable on the Patriots' first Week 2 injury report (Sept 16) for Sunday's home opener vs. Pittsburgh — expected to split backfield work with Stevenson if cleared to play."
     ]
   },
   "A.J. Brown": {
@@ -1060,14 +1035,6 @@
     ],
     "bullets": [
       "Signed for 3yr/$40M+, now the clear TE1 ahead of Theo Johnson, reunited with HC John Harbaugh — real path to a top-10 fantasy TE role after sharing looks with Mark Andrews in Baltimore."
-    ]
-  },
-  "Odell Beckham Jr.": {
-    "tags": [
-      "Aging Watch"
-    ],
-    "bullets": [
-      "Nostalgic reunion signing; realistically a WR160-caliber depth/leadership piece with no real fantasy relevance in 2026."
     ]
   },
   "Breece Hall": {
@@ -1316,6 +1283,51 @@
     "bullets": [
       "In the NFL's concussion protocol after a first-quarter hit in the Week 1 win over Green Bay; HC Kevin O'Connell said Sept 15 Murray \"came in feeling pretty good today\" but the team is taking his return \"a day at a time.\"",
       "Must clear the protocol to play Week 2 at Chicago (Sept 20) — if he doesn't, veteran Carson Wentz is set to start in his place."
+    ]
+  },
+  "Evan McPherson": {
+    "tags": [
+      "Job Secured"
+    ],
+    "bullets": [
+      "Locked in as Cincinnati's starting kicker after a standout training camp and preseason — didn't miss a kick in camp, including a 65-yard practice bomb, and drilled a 58-yard field goal in preseason play.",
+      "Steady weekly floor as the No. 1 leg on a high-scoring Bengals offense; added off waivers to fill the roster's kicker spot."
+    ]
+  },
+  "Kaelon Black": {
+    "tags": [
+      "Depth Chart Battle"
+    ],
+    "bullets": [
+      "Third-round rookie who has climbed to No. 2 on San Francisco's running back depth chart behind Christian McCaffrey, ahead of Jordan James, per the 49ers' post-Week 1 depth chart.",
+      "Pure McCaffrey handcuff/stash value for now — no standalone role while McCaffrey is healthy and playing a full workload."
+    ]
+  },
+  "Caleb Douglas": {
+    "tags": [
+      "Breakout Watch"
+    ],
+    "bullets": [
+      "Third-round rookie (No. 75 overall) who opened as a Week 1 starter for Miami, playing 50 of the Dolphins' 55 offensive snaps.",
+      "Led the Dolphins in receiving in the opener with 5 catches for 94 yards on 7 targets — an early signal he's carved out real snaps in a crowded Miami receiver room."
+    ]
+  },
+  "49ers D/ST": {
+    "tags": [
+      "Healthy"
+    ],
+    "bullets": [
+      "Fringe top-10 pass rush anchored by Nick Bosa, though the unit ranks closer to the middle of the pack (~20th) in preseason fantasy defense rankings — streaming-caliber if the front seven stays healthy.",
+      "Added off waivers with no notable injury or personnel news to report."
+    ]
+  },
+  "Buccaneers D/ST": {
+    "tags": [
+      "Healthy"
+    ],
+    "bullets": [
+      "Finished outside the top-15 fantasy defenses in each of the past two seasons, but offseason front-seven additions and signings have raised expectations for a step forward in 2026.",
+      "Added off waivers with no notable injury or personnel news to report."
     ]
   }
 }
