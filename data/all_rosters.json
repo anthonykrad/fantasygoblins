@@ -145,17 +145,6 @@
   {
     "fteam": "SLIME SZN",
     "fteam_id": 1,
-    "pid": 17372,
-    "name": "Chris Boswell",
-    "pos": "K",
-    "pro": "PIT",
-    "slot": "K",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "SLIME SZN",
-    "fteam_id": 1,
     "pid": 4385690,
     "name": "Dalton Kincaid",
     "pos": "TE",
@@ -173,6 +162,17 @@
     "pro": "MIN",
     "slot": "BE",
     "status": "QUESTIONABLE",
+    "injured": false
+  },
+  {
+    "fteam": "SLIME SZN",
+    "fteam_id": 1,
+    "pid": 4360234,
+    "name": "Evan McPherson",
+    "pos": "K",
+    "pro": "CIN",
+    "slot": "K",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -215,7 +215,7 @@
     "name": "Garrett Wilson",
     "pos": "WR",
     "pro": "NYJ",
-    "slot": "RB/WR",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -226,7 +226,7 @@
     "name": "Tee Higgins",
     "pos": "WR",
     "pro": "CIN",
-    "slot": "WR",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -662,10 +662,10 @@
   {
     "fteam": "50 shade$ of gray",
     "fteam_id": 11,
-    "pid": 16733,
-    "name": "Odell Beckham Jr.",
-    "pos": "WR",
-    "pro": "NYG",
+    "pid": 4696044,
+    "name": "Kaelon Black",
+    "pos": "RB",
+    "pro": "SF",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -710,7 +710,7 @@
     "name": "Tetairoa McMillan",
     "pos": "WR",
     "pro": "CAR",
-    "slot": "RB/WR",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -842,7 +842,7 @@
     "name": "Deebo Samuel Sr.",
     "pos": "WR",
     "pro": "SF",
-    "slot": "WR",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -864,7 +864,7 @@
     "name": "A.J. Brown",
     "pos": "WR",
     "pro": "NE",
-    "slot": "RB/WR",
+    "slot": "IR",
     "status": "INJURY_RESERVE",
     "injured": true
   },
@@ -897,7 +897,7 @@
     "name": "DJ Moore",
     "pos": "WR",
     "pro": "BUF",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -952,7 +952,7 @@
     "name": "Justin Herbert",
     "pos": "QB",
     "pro": "LAC",
-    "slot": "QB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -981,22 +981,11 @@
   {
     "fteam": "cmc and friends ",
     "fteam_id": 13,
-    "pid": -16007,
-    "name": "Broncos D/ST",
-    "pos": "D/ST",
-    "pro": "DEN",
-    "slot": "D/ST",
-    "status": null,
-    "injured": false
-  },
-  {
-    "fteam": "cmc and friends ",
-    "fteam_id": 13,
     "pid": 4361741,
     "name": "Brock Purdy",
     "pos": "QB",
     "pro": "SF",
-    "slot": "BE",
+    "slot": "QB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1009,6 +998,28 @@
     "pro": "BAL",
     "slot": "BE",
     "status": "DOUBTFUL",
+    "injured": false
+  },
+  {
+    "fteam": "cmc and friends ",
+    "fteam_id": 13,
+    "pid": -16025,
+    "name": "49ers D/ST",
+    "pos": "D/ST",
+    "pro": "SF",
+    "slot": "D/ST",
+    "status": null,
+    "injured": false
+  },
+  {
+    "fteam": "cmc and friends ",
+    "fteam_id": 13,
+    "pid": 4869645,
+    "name": "Caleb Douglas",
+    "pos": "WR",
+    "pro": "MIA",
+    "slot": "BE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1074,8 +1085,8 @@
     "pos": "RB",
     "pro": "NE",
     "slot": "BE",
-    "status": "OUT",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "Mikeeee",
@@ -1168,10 +1179,10 @@
   {
     "fteam": "Mikeeee",
     "fteam_id": 14,
-    "pid": -16030,
-    "name": "Jaguars D/ST",
+    "pid": -16027,
+    "name": "Buccaneers D/ST",
     "pos": "D/ST",
-    "pro": "JAX",
+    "pro": "TB",
     "slot": "D/ST",
     "status": null,
     "injured": false
@@ -1206,8 +1217,8 @@
     "pos": "TE",
     "pro": "LV",
     "slot": "TE",
-    "status": "OUT",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "Into the sunset",
