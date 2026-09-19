@@ -72,7 +72,7 @@
     "name": "Sam LaPorta",
     "pos": "TE",
     "pro": "DET",
-    "slot": "TE",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -149,7 +149,7 @@
     "name": "Dalton Kincaid",
     "pos": "TE",
     "pro": "BUF",
-    "slot": "BE",
+    "slot": "TE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -391,7 +391,7 @@
     "name": "Ladd McConkey",
     "pos": "WR",
     "pro": "LAC",
-    "slot": "WR",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -413,7 +413,7 @@
     "name": "Rome Odunze",
     "pos": "WR",
     "pro": "CHI",
-    "slot": "BE",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -458,7 +458,7 @@
     "pos": "WR",
     "pro": "IND",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -546,7 +546,7 @@
     "pos": "WR",
     "pro": "NO",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -678,7 +678,7 @@
     "pos": "RB",
     "pro": "SF",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -721,7 +721,7 @@
     "name": "Tetairoa McMillan",
     "pos": "WR",
     "pro": "CAR",
-    "slot": "WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -816,17 +816,6 @@
   {
     "fteam": "2 time champ ",
     "fteam_id": 12,
-    "pid": -16024,
-    "name": "Chargers D/ST",
-    "pos": "D/ST",
-    "pro": "LAC",
-    "slot": "D/ST",
-    "status": null,
-    "injured": false
-  },
-  {
-    "fteam": "2 time champ ",
-    "fteam_id": 12,
     "pid": 4695883,
     "name": "Jalen Coker",
     "pos": "WR",
@@ -842,17 +831,28 @@
     "name": "Deebo Samuel Sr.",
     "pos": "WR",
     "pro": "SF",
-    "slot": "BE",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
   {
     "fteam": "2 time champ ",
     "fteam_id": 12,
-    "pid": 4569559,
-    "name": "Devaughn Vele",
-    "pos": "WR",
-    "pro": "NO",
+    "pid": -16009,
+    "name": "Packers D/ST",
+    "pos": "D/ST",
+    "pro": "GB",
+    "slot": "D/ST",
+    "status": null,
+    "injured": false
+  },
+  {
+    "fteam": "2 time champ ",
+    "fteam_id": 12,
+    "pid": 4036133,
+    "name": "T.J. Hockenson",
+    "pos": "TE",
+    "pro": "MIN",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -909,7 +909,7 @@
     "pos": "WR",
     "pro": "BUF",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1084,7 +1084,7 @@
     "name": "Quinshon Judkins",
     "pos": "RB",
     "pro": "CLE",
-    "slot": "RB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1139,7 +1139,7 @@
     "name": "Aaron Jones Sr.",
     "pos": "RB",
     "pro": "MIN",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1362,6 +1362,17 @@
     "slot": "IR",
     "status": "OUT",
     "injured": true
+  },
+  {
+    "fteam": "Into the sunset",
+    "fteam_id": 15,
+    "pid": 4683062,
+    "name": "Xavier Worthy",
+    "pos": "WR",
+    "pro": "KC",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
   },
   {
     "fteam": "Cee-gy",

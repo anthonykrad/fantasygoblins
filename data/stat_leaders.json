@@ -364,32 +364,6 @@
       "ydsAllowed": 0,
       "totalTD": 4.37
     },
-    "Kyler Murray": {
-      "pos": "QB",
-      "pro": 16,
-      "passAtt": 571.3,
-      "passComp": 385.8,
-      "passYds": 3921.2,
-      "passTD": 22.97,
-      "passInt": 11.74,
-      "rushAtt": 81.8,
-      "rushYds": 512.6,
-      "rushTD": 3.57,
-      "targets": 0,
-      "receptions": 0,
-      "recYds": 0,
-      "recTD": 0,
-      "fgMade": 0,
-      "fgAtt": 0,
-      "patMade": 0,
-      "patAtt": 0,
-      "sacks": 0,
-      "defInt": 0,
-      "defTD": 0,
-      "ptsAllowed": 0,
-      "ydsAllowed": 0,
-      "totalTD": 3.57
-    },
     "Evan McPherson": {
       "pos": "K",
       "pro": 4,
@@ -441,6 +415,32 @@
       "ptsAllowed": 0,
       "ydsAllowed": 0,
       "totalTD": 2.36
+    },
+    "Keaton Mitchell": {
+      "pos": "RB",
+      "pro": 24,
+      "passAtt": 0,
+      "passComp": 0,
+      "passYds": 0,
+      "passTD": 0,
+      "passInt": 0,
+      "rushAtt": 83.3,
+      "rushYds": 392.6,
+      "rushTD": 2.42,
+      "targets": 26.5,
+      "receptions": 20.1,
+      "recYds": 157.0,
+      "recTD": 0.78,
+      "fgMade": 0,
+      "fgAtt": 0,
+      "patMade": 0,
+      "patAtt": 0,
+      "sacks": 0,
+      "defInt": 0,
+      "defTD": 0,
+      "ptsAllowed": 0,
+      "ydsAllowed": 0,
+      "totalTD": 3.2
     },
     "James Cook III": {
       "pos": "RB",
@@ -1976,32 +1976,6 @@
       "ydsAllowed": 0,
       "totalTD": 5.18
     },
-    "Packers D/ST": {
-      "pos": "D/ST",
-      "pro": 9,
-      "passAtt": 0,
-      "passComp": 0,
-      "passYds": 0,
-      "passTD": 0,
-      "passInt": 0,
-      "rushAtt": 0,
-      "rushYds": 0,
-      "rushTD": 0,
-      "targets": 0,
-      "receptions": 0,
-      "recYds": 0,
-      "recTD": 0,
-      "fgMade": 0,
-      "fgAtt": 0,
-      "patMade": 0,
-      "patAtt": 0,
-      "sacks": 40.7,
-      "defInt": 11.51,
-      "defTD": 1.57,
-      "ptsAllowed": 368.8,
-      "ydsAllowed": 5855.8,
-      "totalTD": 0
-    },
     "T.J. Hockenson": {
       "pos": "TE",
       "pro": 16,
@@ -2027,6 +2001,32 @@
       "ptsAllowed": 0,
       "ydsAllowed": 0,
       "totalTD": 2.86
+    },
+    "Jaguars D/ST": {
+      "pos": "D/ST",
+      "pro": 30,
+      "passAtt": 0,
+      "passComp": 0,
+      "passYds": 0,
+      "passTD": 0,
+      "passInt": 0,
+      "rushAtt": 0,
+      "rushYds": 0,
+      "rushTD": 0,
+      "targets": 0,
+      "receptions": 0,
+      "recYds": 0,
+      "recTD": 0,
+      "fgMade": 0,
+      "fgAtt": 0,
+      "patMade": 0,
+      "patAtt": 0,
+      "sacks": 41.61,
+      "defInt": 12.51,
+      "defTD": 1.59,
+      "ptsAllowed": 388.8,
+      "ydsAllowed": 5896.8,
+      "totalTD": 0
     },
     "Christian McCaffrey": {
       "pos": "RB",
@@ -2443,6 +2443,32 @@
       "ptsAllowed": 0,
       "ydsAllowed": 0,
       "totalTD": 2.48
+    },
+    "Devaughn Vele": {
+      "pos": "WR",
+      "pro": 18,
+      "passAtt": 0,
+      "passComp": 0,
+      "passYds": 0,
+      "passTD": 0,
+      "passInt": 0,
+      "rushAtt": 0,
+      "rushYds": 0,
+      "rushTD": 0,
+      "targets": 75.7,
+      "receptions": 49.4,
+      "recYds": 543.6,
+      "recTD": 3.34,
+      "fgMade": 0,
+      "fgAtt": 0,
+      "patMade": 0,
+      "patAtt": 0,
+      "sacks": 0,
+      "defInt": 0,
+      "defTD": 0,
+      "ptsAllowed": 0,
+      "ydsAllowed": 0,
+      "totalTD": 3.34
     },
     "Jaxon Smith-Njigba": {
       "pos": "WR",
@@ -4396,32 +4422,6 @@
       "ydsAllowed": 0,
       "totalTD": 1.0
     },
-    "Kyler Murray": {
-      "pos": "QB",
-      "pro": 16,
-      "passAtt": 5.0,
-      "passComp": 3.0,
-      "passYds": 18.0,
-      "passTD": 0,
-      "passInt": 1.0,
-      "rushAtt": 2.0,
-      "rushYds": 9.0,
-      "rushTD": 0,
-      "targets": 0,
-      "receptions": 0,
-      "recYds": 0,
-      "recTD": 0,
-      "fgMade": 0,
-      "fgAtt": 0,
-      "patMade": 0,
-      "patAtt": 0,
-      "sacks": 0,
-      "defInt": 0,
-      "defTD": 0,
-      "ptsAllowed": 0,
-      "ydsAllowed": 0,
-      "totalTD": 0
-    },
     "Evan McPherson": {
       "pos": "K",
       "pro": 4,
@@ -4462,6 +4462,32 @@
       "targets": 2.0,
       "receptions": 2.0,
       "recYds": 44.0,
+      "recTD": 0,
+      "fgMade": 0,
+      "fgAtt": 0,
+      "patMade": 0,
+      "patAtt": 0,
+      "sacks": 0,
+      "defInt": 0,
+      "defTD": 0,
+      "ptsAllowed": 0,
+      "ydsAllowed": 0,
+      "totalTD": 0
+    },
+    "Keaton Mitchell": {
+      "pos": "RB",
+      "pro": 24,
+      "passAtt": 0,
+      "passComp": 0,
+      "passYds": 0,
+      "passTD": 0,
+      "passInt": 0,
+      "rushAtt": 4.0,
+      "rushYds": 9.0,
+      "rushTD": 0,
+      "targets": 0,
+      "receptions": 0,
+      "recYds": 0,
       "recTD": 0,
       "fgMade": 0,
       "fgAtt": 0,
@@ -6008,32 +6034,6 @@
       "ydsAllowed": 0,
       "totalTD": 1.0
     },
-    "Packers D/ST": {
-      "pos": "D/ST",
-      "pro": 9,
-      "passAtt": 0,
-      "passComp": 0,
-      "passYds": 0,
-      "passTD": 0,
-      "passInt": 0,
-      "rushAtt": 0,
-      "rushYds": 0,
-      "rushTD": 0,
-      "targets": 0,
-      "receptions": 0,
-      "recYds": 0,
-      "recTD": 0,
-      "fgMade": 0,
-      "fgAtt": 0,
-      "patMade": 0,
-      "patAtt": 0,
-      "sacks": 3.0,
-      "defInt": 1.0,
-      "defTD": 0,
-      "ptsAllowed": 39.0,
-      "ydsAllowed": 239.0,
-      "totalTD": 0
-    },
     "T.J. Hockenson": {
       "pos": "TE",
       "pro": 16,
@@ -6059,6 +6059,32 @@
       "ptsAllowed": 0,
       "ydsAllowed": 0,
       "totalTD": 1.0
+    },
+    "Jaguars D/ST": {
+      "pos": "D/ST",
+      "pro": 30,
+      "passAtt": 0,
+      "passComp": 0,
+      "passYds": 0,
+      "passTD": 0,
+      "passInt": 0,
+      "rushAtt": 0,
+      "rushYds": 0,
+      "rushTD": 0,
+      "targets": 0,
+      "receptions": 0,
+      "recYds": 0,
+      "recTD": 0,
+      "fgMade": 0,
+      "fgAtt": 0,
+      "patMade": 0,
+      "patAtt": 0,
+      "sacks": 5.0,
+      "defInt": 1.0,
+      "defTD": 0,
+      "ptsAllowed": 10.0,
+      "ydsAllowed": 272.0,
+      "totalTD": 0
     },
     "Christian McCaffrey": {
       "pos": "RB",
@@ -6475,6 +6501,32 @@
       "ptsAllowed": 0,
       "ydsAllowed": 0,
       "totalTD": 0
+    },
+    "Devaughn Vele": {
+      "pos": "WR",
+      "pro": 18,
+      "passAtt": 0,
+      "passComp": 0,
+      "passYds": 0,
+      "passTD": 0,
+      "passInt": 0,
+      "rushAtt": 0,
+      "rushYds": 0,
+      "rushTD": 0,
+      "targets": 9.0,
+      "receptions": 7.0,
+      "recYds": 69.0,
+      "recTD": 1.0,
+      "fgMade": 0,
+      "fgAtt": 0,
+      "patMade": 0,
+      "patAtt": 0,
+      "sacks": 0,
+      "defInt": 0,
+      "defTD": 0,
+      "ptsAllowed": 0,
+      "ydsAllowed": 0,
+      "totalTD": 1.0
     },
     "Jaxon Smith-Njigba": {
       "pos": "WR",
@@ -8108,14 +8160,14 @@
       "2": 22.5,
       "1": 18.0
     },
-    "Kyler Murray": {
-      "1": -0.38
-    },
     "Evan McPherson": {
       "1": 19.0
     },
     "Emmett Johnson": {
       "1": 8.8
+    },
+    "Keaton Mitchell": {
+      "1": 0.9
     },
     "James Cook III": {
       "2": 20.9,
@@ -8297,11 +8349,11 @@
     "Deebo Samuel Sr.": {
       "1": 18.0
     },
-    "Packers D/ST": {
-      "1": 4.0
-    },
     "T.J. Hockenson": {
       "1": 13.6
+    },
+    "Jaguars D/ST": {
+      "1": 14.0
     },
     "Christian McCaffrey": {
       "1": 13.8
@@ -8351,6 +8403,9 @@
     },
     "Caleb Douglas": {
       "1": 14.4
+    },
+    "Devaughn Vele": {
+      "1": 19.9
     },
     "Jaxon Smith-Njigba": {
       "1": 26.2
