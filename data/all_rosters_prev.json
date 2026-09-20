@@ -6,8 +6,8 @@
     "name": "Puka Nacua",
     "pos": "WR",
     "pro": "LAR",
-    "slot": "WR",
-    "status": "ACTIVE",
+    "slot": "RB/WR",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -28,7 +28,7 @@
     "name": "Malik Nabers",
     "pos": "WR",
     "pro": "NYG",
-    "slot": "RB/WR",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -51,7 +51,7 @@
     "pos": "RB",
     "pro": "CHI",
     "slot": "RB",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -156,17 +156,6 @@
   {
     "fteam": "SLIME SZN",
     "fteam_id": 1,
-    "pid": 3917315,
-    "name": "Kyler Murray",
-    "pos": "QB",
-    "pro": "MIN",
-    "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
-  },
-  {
-    "fteam": "SLIME SZN",
-    "fteam_id": 1,
     "pid": 4360234,
     "name": "Evan McPherson",
     "pos": "K",
@@ -182,6 +171,17 @@
     "name": "Emmett Johnson",
     "pos": "RB",
     "pro": "KC",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "SLIME SZN",
+    "fteam_id": 1,
+    "pid": 4596334,
+    "name": "Keaton Mitchell",
+    "pos": "RB",
+    "pro": "LAC",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -391,7 +391,7 @@
     "name": "Ladd McConkey",
     "pos": "WR",
     "pro": "LAC",
-    "slot": "BE",
+    "slot": "WR",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -413,7 +413,7 @@
     "name": "Rome Odunze",
     "pos": "WR",
     "pro": "CHI",
-    "slot": "WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -458,7 +458,7 @@
     "pos": "WR",
     "pro": "IND",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -469,7 +469,7 @@
     "pos": "WR",
     "pro": "JAX",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -710,9 +710,9 @@
     "name": "Nico Collins",
     "pos": "WR",
     "pro": "HOU",
-    "slot": "WR",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "slot": "BE",
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "2 time champ ",
@@ -743,7 +743,7 @@
     "name": "Carnell Tate",
     "pos": "WR",
     "pro": "TEN",
-    "slot": "BE",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -799,7 +799,7 @@
     "pos": "WR",
     "pro": "JAX",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -820,8 +820,8 @@
     "name": "Jalen Coker",
     "pos": "WR",
     "pro": "CAR",
-    "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "slot": "WR",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -831,19 +831,8 @@
     "name": "Deebo Samuel Sr.",
     "pos": "WR",
     "pro": "SF",
-    "slot": "WR",
+    "slot": "RB/WR",
     "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "2 time champ ",
-    "fteam_id": 12,
-    "pid": -16009,
-    "name": "Packers D/ST",
-    "pos": "D/ST",
-    "pro": "GB",
-    "slot": "D/ST",
-    "status": null,
     "injured": false
   },
   {
@@ -855,6 +844,17 @@
     "pro": "MIN",
     "slot": "BE",
     "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "2 time champ ",
+    "fteam_id": 12,
+    "pid": -16030,
+    "name": "Jaguars D/ST",
+    "pos": "D/ST",
+    "pro": "JAX",
+    "slot": "D/ST",
+    "status": null,
     "injured": false
   },
   {
@@ -897,8 +897,8 @@
     "name": "Zay Flowers",
     "pos": "WR",
     "pro": "BAL",
-    "slot": "WR",
-    "status": "QUESTIONABLE",
+    "slot": "BE",
+    "status": "DOUBTFUL",
     "injured": false
   },
   {
@@ -942,7 +942,7 @@
     "pos": "TE",
     "pro": "SF",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -974,7 +974,7 @@
     "name": "DK Metcalf",
     "pos": "WR",
     "pro": "PIT",
-    "slot": "BE",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1007,7 +1007,7 @@
     "name": "Ja'Kobi Lane",
     "pos": "WR",
     "pro": "BAL",
-    "slot": "BE",
+    "slot": "IR",
     "status": "INJURY_RESERVE",
     "injured": true
   },
@@ -1029,6 +1029,17 @@
     "name": "Caleb Douglas",
     "pos": "WR",
     "pro": "MIA",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "cmc and friends ",
+    "fteam_id": 13,
+    "pid": 4569559,
+    "name": "Devaughn Vele",
+    "pos": "WR",
+    "pro": "NO",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -1228,7 +1239,7 @@
     "pos": "TE",
     "pro": "LV",
     "slot": "TE",
-    "status": "QUESTIONABLE",
+    "status": "DOUBTFUL",
     "injured": false
   },
   {
@@ -1492,7 +1503,7 @@
     "pos": "RB",
     "pro": "CHI",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {

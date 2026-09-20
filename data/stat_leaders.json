@@ -2377,10 +2377,10 @@
       "rushAtt": 0,
       "rushYds": 0,
       "rushTD": 0,
-      "targets": 56.2,
-      "receptions": 34.5,
-      "recYds": 535.9,
-      "recTD": 3.78,
+      "targets": 0,
+      "receptions": 0,
+      "recYds": 0,
+      "recTD": 0,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2390,7 +2390,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.78
+      "totalTD": 0
     },
     "49ers D/ST": {
       "pos": "D/ST",
