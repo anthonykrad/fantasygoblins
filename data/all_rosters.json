@@ -6,7 +6,7 @@
     "name": "Puka Nacua",
     "pos": "WR",
     "pro": "LAR",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -62,7 +62,7 @@
     "pos": "QB",
     "pro": "WSH",
     "slot": "QB",
-    "status": "ACTIVE",
+    "status": "DOUBTFUL",
     "injured": false
   },
   {
@@ -84,7 +84,7 @@
     "pos": "RB",
     "pro": "CAR",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -116,7 +116,7 @@
     "name": "Matthew Golden",
     "pos": "WR",
     "pro": "GB",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -249,7 +249,7 @@
     "pos": "QB",
     "pro": "CIN",
     "slot": "QB",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -271,7 +271,7 @@
     "pos": "RB",
     "pro": "DEN",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -326,7 +326,7 @@
     "pos": "WR",
     "pro": "GB",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -348,6 +348,17 @@
     "pos": "K",
     "pro": "BAL",
     "slot": "K",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Team Josh",
+    "fteam_id": 9,
+    "pid": 4597500,
+    "name": "Adonai Mitchell",
+    "pos": "WR",
+    "pro": "NYJ",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -392,7 +403,7 @@
     "pos": "WR",
     "pro": "LAC",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -436,7 +447,7 @@
     "pos": "WR",
     "pro": "SF",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -447,7 +458,7 @@
     "pos": "RB",
     "pro": "PIT",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -458,7 +469,7 @@
     "pos": "WR",
     "pro": "IND",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -546,7 +557,7 @@
     "pos": "WR",
     "pro": "NO",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -579,7 +590,7 @@
     "pos": "RB",
     "pro": "SEA",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -590,7 +601,7 @@
     "pos": "QB",
     "pro": "CHI",
     "slot": "QB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -678,11 +689,11 @@
     "pos": "RB",
     "pro": "SF",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
-    "fteam": "2 time champ ",
+    "fteam": "So Mahomey",
     "fteam_id": 12,
     "pid": 4429795,
     "name": "Jahmyr Gibbs",
@@ -693,7 +704,7 @@
     "injured": false
   },
   {
-    "fteam": "2 time champ ",
+    "fteam": "So Mahomey",
     "fteam_id": 12,
     "pid": 4890973,
     "name": "Ashton Jeanty",
@@ -704,7 +715,7 @@
     "injured": false
   },
   {
-    "fteam": "2 time champ ",
+    "fteam": "So Mahomey",
     "fteam_id": 12,
     "pid": 4258173,
     "name": "Nico Collins",
@@ -715,7 +726,7 @@
     "injured": true
   },
   {
-    "fteam": "2 time champ ",
+    "fteam": "So Mahomey",
     "fteam_id": 12,
     "pid": 4685472,
     "name": "Tetairoa McMillan",
@@ -726,7 +737,7 @@
     "injured": false
   },
   {
-    "fteam": "2 time champ ",
+    "fteam": "So Mahomey",
     "fteam_id": 12,
     "pid": 4723086,
     "name": "Colston Loveland",
@@ -737,7 +748,7 @@
     "injured": false
   },
   {
-    "fteam": "2 time champ ",
+    "fteam": "So Mahomey",
     "fteam_id": 12,
     "pid": 4871023,
     "name": "Carnell Tate",
@@ -748,7 +759,7 @@
     "injured": false
   },
   {
-    "fteam": "2 time champ ",
+    "fteam": "So Mahomey",
     "fteam_id": 12,
     "pid": 4047365,
     "name": "Josh Jacobs",
@@ -759,7 +770,7 @@
     "injured": false
   },
   {
-    "fteam": "2 time champ ",
+    "fteam": "So Mahomey",
     "fteam_id": 12,
     "pid": 3139477,
     "name": "Patrick Mahomes",
@@ -770,7 +781,7 @@
     "injured": false
   },
   {
-    "fteam": "2 time champ ",
+    "fteam": "So Mahomey",
     "fteam_id": 12,
     "pid": 4360761,
     "name": "Michael Wilson",
@@ -781,7 +792,7 @@
     "injured": false
   },
   {
-    "fteam": "2 time champ ",
+    "fteam": "So Mahomey",
     "fteam_id": 12,
     "pid": 4689114,
     "name": "Jaxson Dart",
@@ -792,7 +803,7 @@
     "injured": false
   },
   {
-    "fteam": "2 time champ ",
+    "fteam": "So Mahomey",
     "fteam_id": 12,
     "pid": 4432773,
     "name": "Brian Thomas Jr.",
@@ -803,7 +814,7 @@
     "injured": false
   },
   {
-    "fteam": "2 time champ ",
+    "fteam": "So Mahomey",
     "fteam_id": 12,
     "pid": 2971573,
     "name": "Ka'imi Fairbairn",
@@ -814,7 +825,7 @@
     "injured": false
   },
   {
-    "fteam": "2 time champ ",
+    "fteam": "So Mahomey",
     "fteam_id": 12,
     "pid": 4695883,
     "name": "Jalen Coker",
@@ -825,7 +836,7 @@
     "injured": false
   },
   {
-    "fteam": "2 time champ ",
+    "fteam": "So Mahomey",
     "fteam_id": 12,
     "pid": 3126486,
     "name": "Deebo Samuel Sr.",
@@ -836,7 +847,7 @@
     "injured": false
   },
   {
-    "fteam": "2 time champ ",
+    "fteam": "So Mahomey",
     "fteam_id": 12,
     "pid": 4036133,
     "name": "T.J. Hockenson",
@@ -847,7 +858,7 @@
     "injured": false
   },
   {
-    "fteam": "2 time champ ",
+    "fteam": "So Mahomey",
     "fteam_id": 12,
     "pid": -16030,
     "name": "Jaguars D/ST",
@@ -1030,7 +1041,7 @@
     "pos": "WR",
     "pro": "MIA",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1173,8 +1184,8 @@
     "pos": "RB",
     "pro": "DEN",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Mikeeee",
@@ -1190,23 +1201,23 @@
   {
     "fteam": "Mikeeee",
     "fteam_id": 14,
-    "pid": 4034949,
-    "name": "Eddy Pineiro",
-    "pos": "K",
-    "pro": "SF",
-    "slot": "K",
-    "status": "QUESTIONABLE",
-    "injured": false
-  },
-  {
-    "fteam": "Mikeeee",
-    "fteam_id": 14,
     "pid": -16027,
     "name": "Buccaneers D/ST",
     "pos": "D/ST",
     "pro": "TB",
     "slot": "D/ST",
     "status": null,
+    "injured": false
+  },
+  {
+    "fteam": "Mikeeee",
+    "fteam_id": 14,
+    "pid": 17427,
+    "name": "Cairo Santos",
+    "pos": "K",
+    "pro": "CHI",
+    "slot": "K",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1238,9 +1249,9 @@
     "name": "Brock Bowers",
     "pos": "TE",
     "pro": "LV",
-    "slot": "TE",
-    "status": "DOUBTFUL",
-    "injured": false
+    "slot": "BE",
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Into the sunset",
@@ -1359,7 +1370,7 @@
     "name": "Michael Mayer",
     "pos": "TE",
     "pro": "LV",
-    "slot": "BE",
+    "slot": "TE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1492,7 +1503,7 @@
     "pos": "TE",
     "pro": "PHI",
     "slot": "TE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1569,7 +1580,7 @@
     "pos": "RB",
     "pro": "PHI",
     "slot": "RB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
