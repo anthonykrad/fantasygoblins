@@ -1,4 +1,25 @@
 {
+  "Adonai Mitchell": {
+    "tags": [
+      "Breakout Watch",
+      "Target Hog"
+    ],
+    "bullets": [
+      "Came to the Jets from Indianapolis in the November 2025 trade that sent CB Sauce Gardner to the Colts (Jets also got a 2026 and 2027 first-round pick) — not a 2026 in-season move, but this is his first note on this roster.",
+      "Has emerged as the Jets' clear top target earner through two 2026 weeks: 3/3 for 60 yards in Week 1, then a team-high 6 catches on 12 targets for 63 yards in Week 2's OT loss to Green Bay (29.3% of Geno Smith's 41 attempts), while playing 61 of 74 offensive snaps.",
+      "Clear volume-driven breakout profile early — production (301 yards in 8 games with NYJ post-trade) already outpacing his limited Indianapolis run (464 yards in 25 games), and he's now commanding target shares that put him firmly in the Jets' WR1/WR2 conversation."
+    ]
+  },
+  "Cairo Santos": {
+    "tags": [
+      "Job Secured"
+    ],
+    "bullets": [
+      "Chicago's veteran (age 34) placekicker with no roster competition — the Bears carry him as their only kicker, and he's signed to a 4-year, ~$16M extension, making his role about as secure as any kicker in the league.",
+      "Went 1-for-1 on field goals (40-yarder) plus 8/8 PATs in Week 1's 59-37 win over Carolina (11 total points); in Week 2's low-scoring 9-3 loss at Minnesota he hit a 50-yard FG to tie it 3-3 early, but had a potential game-tying 23-yard attempt blocked by Isaiah Rodgers with 6:21 left — Chicago's offensive struggles (particularly after Caleb Williams' injury exit) capped his ceiling that week.",
+      "2025 accuracy dipped to 83% (down from 92% in 2023), a mild efficiency note, but he remains the Bears' all-time leader in 50+ yard field goals and a proven high-floor streaming option, especially in projected shootouts."
+    ]
+  },
   "Tyler Loop": {
     "tags": [
       "Job Secured"
@@ -167,10 +188,12 @@
   },
   "Caleb Williams": {
     "tags": [
-      "Breakout Watch"
+      "Injury"
     ],
     "bullets": [
-      "Primed for a real Year 2 breakout under Ben Johnson — closed 2025 with 7 straight multi-passing-TD games and 9 games with a 10+ yard rush."
+      "Suffered a non-contact right hamstring injury scrambling in the red zone during the 4th quarter of Sunday's 9-3 loss to Minnesota — his right leg appeared to give way on wet Soldier Field turf; he was helped off and later carted to the locker room, officially ruled out, with Tyson Bagent finishing the game (5-of-9, 54 yds).",
+      "Underwent an MRI Monday (9/21) to determine severity; initial hope was a Grade 1 strain, though some reports flagged a possible Grade 2, and results were not yet public as of Monday morning. Even a confirmed Grade 1 leaves him a real risk to miss Week 3 vs. Philadelphia — treat as a genuinely uncertain, pending-imaging timeline for now, not a lock to play Week 3.",
+      "Was primed for a real Year 2 breakout under Ben Johnson before this injury — closed 2025 with 7 straight multi-passing-TD games and 9 games with a 10+ yard rush."
     ]
   },
   "Tee Higgins": {
@@ -187,8 +210,9 @@
       "Health Watch"
     ],
     "bullets": [
-      "Elite passing-volume QB1 if he stays healthy — the concern for fantasy drafters is ADP/price more than his ceiling.",
-      "Questionable for Week 2 at Houston with back tightness that surfaced after Cincinnati's Week 1 win over Tampa Bay (not an in-game hit); limited again Thursday (Sept 17) after doing more extensive work (throwing 20+ yard passes) in the open portion of practice. Burrow calls it \"normal game-day soreness,\" says he feels good, and fully expects to play Sunday — no indication he's in danger of missing the game."
+      "Played through the back tightness as expected — active and started Cincinnati's 20-6 win over Houston (Sun 9/20), going 20/31 for 207 yards and 2 TDs (both to Ja'Marr Chase, from 32 and 18 yards) with no INTs, though he did take 5 sacks.",
+      "Confirms the back issue was minor/day-to-day as reported all week — no setback, no in-game re-aggravation reported, and no new limitation entering Week 3 prep.",
+      "Elite passing-volume QB1 when right — the profile concern remains price/ADP more than health at this point."
     ]
   },
   "Chase Brown": {
@@ -233,11 +257,13 @@
   },
   "J.K. Dobbins": {
     "tags": [
-      "Depth Chart Secured"
+      "Depth Chart Secured",
+      "Health Watch"
     ],
     "bullets": [
-      "Named the clear Week 1 RB1 on Denver's own depth chart, ahead of RJ Harvey and rookie Jonah Coleman — has been a full participant in camp with no injury designation.",
-      "5.0 YPC on 15.3 att/game last year; profiles as a high-end starter given the touch security, though his injury history still adds real season-long variance."
+      "Left Denver's Week 2 comeback win over Jacksonville (20-13, Sun 9/20) in the 3rd quarter with a hamstring injury after logging 10 carries for 36 yards; ruled questionable to return and didn't come back.",
+      "HC Sean Payton called it \"a little hamstring\" postgame and didn't offer a hard timeline, but a subsequent report (James Palmer, NFL on Prime) described it as a \"slight\" issue with optimism Dobbins plays Week 3 vs. the Rams — no MRI results were public as of Monday 9/21.",
+      "Tyler Badie took over lead work with Dobbins out and RJ Harvey inactive; still Denver's presumed featured back once fully clear, but touch security is in question for Week 3 pending Monday/Tuesday injury reports."
     ]
   },
   "Bo Nix": {
@@ -292,10 +318,12 @@
   },
   "Jayden Reed": {
     "tags": [
-      "Depth Chart Battle"
+      "Injury"
     ],
     "bullets": [
-      "The camp foot/ankle sprain didn't cost him any time — played a full slot role in Green Bay's Week 1 win at Minnesota, catching 3 of 7 targets for 20 yards, clearly behind Christian Watson in the pecking order for now."
+      "Suffered a scary neck injury on Green Bay's second offensive snap of Week 2 vs. the Jets (4-yard catch, hit by Demario Davis) — carted off on a backboard and ruled out for the rest of the game (Packers won in OT).",
+      "Positive early signs: HC Matt LaFleur said Reed had feeling and movement in all extremities, and Reed posted postgame that he was \"doing much better.\" He was held in a New York-area hospital overnight for observation rather than traveling home with the team; per CBS Sports, X-rays returned negative and he remains \"awaiting medical clearance\" as of the latest report.",
+      "No official return timetable has been announced as of Monday 9/21 — genuinely pending further evaluation, not a confirmed short absence. Drops out of the WR2/slot pecking order discussion behind Christian Watson entirely until cleared."
     ]
   },
   "MarShawn Lloyd": {
@@ -369,7 +397,8 @@
     ],
     "bullets": [
       "A distant WR2 behind Rice — only a 16.1% target share and WR60 finish in 2025; deep-threat/boom upside but not a reliable weekly starter.",
-      "Dislocated his right shoulder and suffered a torn labrum colliding with Travis Kelce in the Week 1 win over Denver, missing most of that game, but avoided season-ending surgery per HC Andy Reid. Fully cleared for Week 2 vs. Indianapolis (SNF) — a full practice participant and off the Chiefs' injury report entirely. Real usage/route-running confidence after a labrum injury is still unproven, so watch his early Week 2 snap count before trusting a full workload."
+      "Dislocated his right shoulder and suffered a torn labrum colliding with Travis Kelce in the Week 1 win over Denver, missing most of that game, but avoided season-ending surgery per HC Andy Reid.",
+      "Played through the shoulder in Week 2 vs. Indianapolis (9/20): 5 catches on 7 targets for 25 yards in the 33-30 OT win — back on the field as hoped, but modest per-target efficiency (5.0 YPT) so far post-labrum injury; worth tracking snap/route share before trusting a big workload."
     ]
   },
   "Justin Herbert": {
@@ -401,9 +430,9 @@
       "Short-Term Injury"
     ],
     "bullets": [
-      "Consensus TE1 entering year 3 — top-3 fantasy TE in both of his first two seasons.",
-      "Underwent a meniscus trim procedure Sept 8 for the camp knee injury and was a non-participant in Thursday's (Sept 10) practice — effectively ruled out for the Week 1 opener vs. Miami with Michael Mayer starting in his place.",
-      "Returned to practice in a limited role Friday (9/18) for the first time since surgery but is Doubtful for Sunday's game at the Chargers (correcting earlier info — this Raiders-Chargers game is Sunday 9/20, not Monday night). Raiders' Klint Kubiak said Friday he'll be \"worked out\" pregame for a game-time call, and when asked about Week 3 he replied simply \"Yes\" he's optimistic (NFL.com, Las Vegas Review-Journal, CBS Sports, 9/18)."
+      "Confirmed ruled OUT (officially inactive, upgraded from Doubtful) for Sunday's Week 2 game at the Chargers despite going through pregame stretching/route-running under observation from Raiders staff — Las Vegas won 26-14 without him, with Michael Mayer starting again at TE (3 catches/23 yards on 4 targets).",
+      "Recovery from the Sept. 8 meniscus trim continues to trend positively: HC Klint Kubiak said Monday (9/21) Bowers is \"close, very close\" to returning and \"looks great\" (via Adam Schefter), with Kubiak adding he was optimistic Bowers could've gone Week 2 but ultimately wasn't ready.",
+      "Outlook remains on track for a Week 3 return vs. the Saints pending a full/near-full practice week — this softens the earlier Doubtful/game-time-call framing into a firmer, near-term timeline now that the Week 2 absence is confirmed."
     ]
   },
   "Justin Jefferson": {
@@ -411,7 +440,8 @@
       "Bounce-Back Watch"
     ],
     "bullets": [
-      "Down year by his own standard in 2025 (WR30 overall) but still finished 6th league-wide in target share (28.5%) — new QB Kyler Murray has a track record of feeding elite WR1s."
+      "Down year by his own standard in 2025 (WR30 overall) but still finished 6th league-wide in target share (28.5%) — new QB Kyler Murray has a track record of feeding elite WR1s.",
+      "Backup QB Carson Wentz started Week 2 (Murray in concussion protocol after a late hit in the Week 1 win over Green Bay) — Jefferson was held to 3 catches on 6 targets for 55 yards in a 9-3, rain-soaked win at Chicago, and was candid afterward about the offense's struggles. HC Kevin O'Connell expects Murray back for Week 3 vs. Tampa Bay, so treat this as a one-week dip tied to weather + a backup QB rather than a lasting concern."
     ]
   },
   "T.J. Hockenson": {
@@ -476,29 +506,33 @@
   },
   "Dallas Goedert": {
     "tags": [
-      "Elite Starter"
+      "Injury"
     ],
     "bullets": [
-      "Coming off a career year (60/591/11, TE7 overall) and remains the unquestioned TE1 with Brown's 121 vacated targets up for grabs."
+      "Was Philly's unquestioned TE1 to open the year (4/77/2 in the Week 1 win over Washington) before going down with a knee injury in the 2nd quarter of Sunday's 24-20 win at Tennessee — a diving Titans defender cut him low while he was blocking; he did not return and was officially questionable-to-return, with E.J. Jenkins/Johnny Mundt filling in.",
+      "No MRI results or specific diagnosis/timeline had been publicly reported as of Monday 9/21 — the Eagles have not disclosed further detail yet, so severity is genuinely unconfirmed pending the team's official Monday/Wednesday injury report."
     ]
   },
   "Saquon Barkley": {
     "tags": [
-      "Workhorse Lock"
+      "Injury"
     ],
     "bullets": [
-      "Elite bell-cow workload locked in — $16.75M guaranteed for 2026 all but assures a featured role, with projections clustering around 300 total touches."
+      "The $16.75M-guaranteed workhorse role is intact when healthy, but he suffered a stinger to his left arm/shoulder on Philadelphia's very first offensive snap of Sunday's 24-20 win at Tennessee (stuffed for no gain by Jeffery Simmons) and missed the rest of the first half.",
+      "Returned for the start of the second half but played sparingly before exiting again in the 4th quarter — finished with just 4 carries for 9 yards and 1 catch for 11 yards; postgame he said only \"I'm all right, we'll know more later in the week\" and was set for an MRI.",
+      "As of Monday 9/21, MRI results/official diagnosis had not yet been reported publicly — genuinely uncertain/pending imaging, consistent with a Questionable-caliber stinger rather than a confirmed structural injury."
     ]
   },
   "Jadarian Price": {
     "tags": [
       "Depth Chart Secured",
-      "Committee"
+      "Committee",
+      "Health Watch"
     ],
     "bullets": [
-      "Rookie 1st-rounder now atop Seattle's backfield after presumed starter Zach Charbonnet tore his ACL — clearest path to lead-back touches on the roster.",
-      "While Zach Charbonnet opens the season on PUP (ACL recovery), Seattle is running a real 3-way rotation with George Holani and Emanuel Wilson rather than handing Price a clean bell-cow role.",
-      "Starting QB Sam Darnold exited the Sept 9 opener with a hip injury; a Sept 10 MRI ruled out major structural damage but he's still expected to miss Week 2 at Arizona, with Drew Lock confirmed to start — if Lock stays under center for a stretch, Seattle could lean more run-heavy, a mild tailwind for Price's workload."
+      "Handled the clear early-down workload before exiting: 13 carries for 52 yards plus a catch for 8 yards in Sunday's 31-7 win at Arizona (Drew Lock starting for the injured Sam Darnold), before leaving in the second half with a chest injury — officially Questionable to return, then held out.",
+      "X-rays came back negative per HC Mike Macdonald; Price underwent further testing Monday (9/21), with Macdonald saying there's \"a chance he comes back and practices this week\" — early signals point toward a minor issue rather than a long absence, though no formal Week 3 status is out yet.",
+      "While Zach Charbonnet opens the season on PUP (ACL recovery), Seattle is running a real 3-way rotation with George Holani and Emanuel Wilson rather than handing Price a clean bell-cow role."
     ]
   },
   "Brock Purdy": {
@@ -530,10 +564,13 @@
   },
   "Jayden Daniels": {
     "tags": [
-      "Elite Starter"
+      "Elite Starter",
+      "Injury"
     ],
     "bullets": [
-      "Elite, high-ceiling QB1 when healthy — finished as a top-5 fantasy QB in 2024 before 2025 injuries wrecked his season; Washington aggressively upgraded his weapons to protect his 2026 ceiling."
+      "Dislocated his left elbow late in the first half of Washington's Week 2 loss to Dallas (Sun 9/20) — his second dislocation of the same elbow in under a year (first was Nov. 2, 2025 vs. Seattle, which cost him 3 weeks before a Week-14 reinjury ended his 2025 season).",
+      "X-rays showed no fracture, but Daniels underwent further imaging Monday (9/21) and Washington has NOT yet announced an official diagnosis or return timetable; HC Dan Quinn said only that he \"anticipates\" Daniels returning this season. One outside sports-medicine estimate pegged a simple dislocation at ~3-6 weeks vs. 6-10+ weeks if there's ligament damage — genuinely pending imaging results, not team-confirmed.",
+      "Elite, high-ceiling QB1 talent when healthy (top-5 fantasy QB in 2024) — but recurrence of the same elbow injury adds real season-long variance until Washington clarifies severity."
     ]
   },
   "Terry McLaurin": {
@@ -669,11 +706,13 @@
   },
   "Jonathon Brooks": {
     "tags": [
-      "Depth Chart Battle"
+      "Depth Chart Battle",
+      "Short-Term Injury"
     ],
     "bullets": [
-      "Cleared with no injury designation on Carolina's final Week 1 report — HC Dave Canales confirmed \"no limitations\" for Sunday's opener vs. Jacksonville after fully practicing Friday.",
-      "Opens the season in a real 1A/1B committee with Chuba Hubbard even now that he's fully healthy."
+      "Re-aggravated the groin injury that sidelined him late in camp during Carolina's Week 2 win over Atlanta (34-3, Sun 9/20) — exited in the 4th quarter after just 5 carries and 1 catch and did not return.",
+      "HC Dave Canales called it \"day-to-day\" and said the team would have more clarity as the week progresses; multiple reports describe it as not a long-term issue, though it puts his Week 3 (9/27 vs. Cleveland) status in real jeopardy.",
+      "Remains in a genuine 1A/1B committee with Chuba Hubbard when healthy — Hubbard likely absorbs the early-down/passing-down role if Brooks sits any time this week."
     ]
   },
   "Luther Burden III": {
@@ -774,11 +813,12 @@
   },
   "Alec Pierce": {
     "tags": [
-      "Healthy"
+      "Injury"
     ],
     "bullets": [
-      "Played on a planned 30-40 snap count (still building back from March ankle surgery) and led Indy's WRs with 4 catches for 61 yards on 6 targets in Sunday's 41-23 loss to Baltimore.",
-      "The heel injury is resolved — logged a full practice Friday (9/18) and was removed from the injury report; NBC Sports (9/18) reports his Thursday absence was a planned veteran rest day, not a setback. Colts reportedly plan to increase his snap share above Week 1's 59% in Sunday night's game at Kansas City."
+      "Re-injured the same left heel that had March surgery, late in the 1st quarter of Sunday night's loss at Kansas City — couldn't put weight on it, was carted to the locker room, and left the stadium on crutches in a walking boot; finished with 1 catch for 11 yards on his lone target before exiting.",
+      "X-rays came back negative (per ESPN's Jeremy Fowler), but he was scheduled for further evaluation/imaging Monday (9/21) with no official diagnosis or return timeline yet — real uncertainty given it's the same surgically repaired heel, and the Colts have not indicated an IR move as of this writing.",
+      "The Colts' plan to bump his snap share above Week 1's 59% at Kansas City never got going — he played only into the first quarter."
     ]
   },
   "Tyler Warren": {
@@ -824,7 +864,8 @@
     ],
     "bullets": [
       "The preseason ankle swelling (per HC Andy Reid, caused by his shoe) was a non-issue — exploded in his Chiefs debut on Monday Night Football vs. Denver with 23 carries for 173 yards and a rushing TD, plus 3 catches for 18 yards and a receiving TD (2 total TDs).",
-      "Immediately looks like the clear lead back in Kansas City's backfield after the free-agent signing (3yr/$43.05M)."
+      "Immediately looks like the clear lead back in Kansas City's backfield after the free-agent signing (3yr/$43.05M).",
+      "Backed up the Week 1 explosion with another workhorse Week 2 outing: 24 carries for 117 yards plus 6 catches for 61 yards (178 total) in KC's 33-30 OT win over Indianapolis (9/20) — no TD after being stuffed on 3 straight plays from the 1-yard line. Two games in, he's playing every-down back."
     ]
   },
   "Patrick Mahomes": {
@@ -845,13 +886,12 @@
   },
   "RJ Harvey": {
     "tags": [
-      "Depth Chart Battle",
-      "Health Watch"
+      "Injury"
     ],
     "bullets": [
-      "Denver's own Week 1 depth chart lists him as RB2 behind J.K. Dobbins, not the lead role previously expected — likely limited to third-down/passing-game work early on.",
-      "Drafted 60th overall in the 2025 draft — entering his 2nd NFL season in 2026, not a rookie.",
-      "New hamstring injury surfaced after Denver's Week 1 loss at Kansas City; listed as an estimated non-participant on Wednesday's (Sept 16) short-week injury report (no practice held), then improved to a limited practice participant Thursday (Sept 17) — a positive trend per the Broncos' own site and RotoWire. Final Week 2 designation vs. Jacksonville still pending Denver's Friday announcement, but the trajectory points toward Questionable with a real chance to play rather than ruled out; if he sits, more work shifts to Dobbins and Jonah Coleman."
+      "New hamstring injury (first surfaced after Denver's Week 1 loss at Kansas City) worsened rather than resolved — after DNP Wednesday and limited practices Thursday/Friday, Harvey was ultimately downgraded and ruled INACTIVE for Week 2 vs. Jacksonville, contradicting the earlier \"trending toward Questionable, real chance to play\" reporting.",
+      "No MRI results or firm return timeline have been reported publicly as of Monday 9/21 — outlets note severity/duration remains unconfirmed, so treat as a genuine week-to-week situation rather than a known short absence.",
+      "With Harvey out, J.K. Dobbins led Denver's Week 2 backfield work (until his own hamstring exit) and rookie Jonah Coleman saw increased snaps — Harvey's touches evaporate whenever he's out."
     ]
   },
   "Jaylen Waddle": {
@@ -893,8 +933,8 @@
       "Health Watch"
     ],
     "bullets": [
-      "Posted 5 catches for 82 yards and a TD on 7 targets before exiting late in the 3rd quarter of the Chargers' Week 1 loss to Arizona with a rib injury.",
-      "Did not practice Wednesday or Thursday (Sept 16-17), though he worked on a side field with a trainer Thursday — a step forward. HC Jim Harbaugh has called him day-to-day; per CBS Sports he took part in Friday's team walkthrough, a further positive sign, though the Chargers had not yet issued his final Week 2 designation vs. the Raiders as of Friday. No word of a severe finding on testing."
+      "Played through the Week 1 rib injury (suffered on a hit from Mack Wilson vs. Arizona) in Sunday's Week 2 win over the Raiders, wearing a flak jacket for protection — caught 4 of 6 targets for 39 yards and a TD in the 31-14 win.",
+      "No setback or re-aggravation reported; the rib did not limit his workload and he remains the Chargers' clear top target earner."
     ]
   },
   "Omarion Hampton": {
@@ -1038,8 +1078,8 @@
       "Health Watch"
     ],
     "bullets": [
-      "History of 4+ documented concussions from 2022-2024, but played all of 2025 concussion-free and projects as the clear WR1 again — torched Detroit for 10 catches, 182 yards on 13 targets in Week 1's opener (no head/neck issue).",
-      "Questionable for Week 2 vs. Baltimore with a hamstring injury that surfaced this week, officially listed Friday and traveling with the team Saturday. ESPN's Adam Schefter reported Sunday morning (9/20) that Olave is expected to play, matching the week's trend of beat reporters (NewOrleans.Football's Nick Underhill) calling him unlikely to sit — treat him as a near-lock to suit up barring a pregame change."
+      "Played through the minor hamstring issue with no setback — caught 8 of 10 targets for 86 yards and a touchdown in Sunday's 24-17 win over Baltimore, giving him an 18-268-1 line on 23 targets through two games as the Saints' clear top downfield target.",
+      "Torched Detroit for 10/182 in the Week 1 opener; the Thursday-emergent hamstring tag never became a real threat — Adam Schefter and Saints beat reporters expected him to play all week, and that's exactly what happened."
     ]
   },
   "Travis Etienne Jr.": {
@@ -1117,12 +1157,13 @@
   },
   "Rico Dowdle": {
     "tags": [
+      "Injury",
       "Depth Chart Battle"
     ],
     "bullets": [
-      "Pittsburgh's depth chart and camp reports pointed to a real 1A/1B rotation with Jaylen Warren, but Week 1's actual split favored Warren — Dowdle finished with 10 touches (8 carries/15 yards, 2 catches/6 yards) to Warren's 15.",
-      "HC Mike McCarthy — his coach in Dallas — wants a committee, so there's still real week-to-week volatility here, but Warren looks like the somewhat clearer lead for now.",
-      "Signed with Pittsburgh in free agency on a 2-year, $12.25M deal, arriving from Carolina (originally Dallas)."
+      "Suffered a toe injury on a pass-blocking/fumble-recovery rep in the 2nd quarter of Sunday's loss to New England, was carted to the locker room, returned for a few series coming out of halftime, then appeared to re-aggravate it and was ruled out for good; finished with 9 total touches for 44 yards.",
+      "No MRI results or return timeline had been reported as of Monday (9/21); HC Mike McCarthy had no postgame update on severity — worth confirming before Week 3.",
+      "With Dowdle sidelined, Travis Homer picked up early-down work behind Jaylen Warren, adding more uncertainty to an already crowded Pittsburgh backfield committee."
     ]
   },
   "Jaylen Warren": {
@@ -1158,12 +1199,13 @@
   },
   "Mike Evans": {
     "tags": [
-      "Healthy",
+      "Health Watch",
       "Aging Watch"
     ],
     "bullets": [
-      "Debut with his new team went well: 6 catches for 49 yards and a TD in the 27-7 win over the Rams in Melbourne — the Purdy upgrade already showing up on the stat sheet.",
-      "Turns 33 in August; worth watching for the usual wear-down-the-stretch pattern, but no concerns after Week 1."
+      "Left San Francisco's Week 2 blowout win over Miami (49ers up 35-6) early in the 4th quarter with a hip injury, after wincing following a 27-yard catch-and-run in the 3rd quarter that set up a Christian McCaffrey TD; finished 3-for-3 on targets for 54 yards before exiting.",
+      "HC Kyle Shanahan said postgame the injury is not believed to be serious and that Evans would have stayed in the game had it been closer — reads as blowout-game caution more than a real injury concern, but worth confirming off the Week 3 practice report.",
+      "Turns 33 in August; no reported setback beyond this single game so far."
     ]
   },
   "George Kittle": {
@@ -1209,16 +1251,16 @@
       "Depth Chart Battle"
     ],
     "bullets": [
-      "Buccaneers' own depth chart lists him as RB1 over Bucky Irving — a real battle, expect close to a 50/50 split. His receiving-back role (73 catches last year) could cap Irving's ceiling.",
+      "Lost the early-season timeshare battle in practice — actual Week 1-2 usage has run heavily toward Irving (just 23 snaps/2 carries in Week 2 vs. Cleveland), not the 50/50 split the depth chart listing implied. A passing-down role is the main remaining value.",
       "Left Pittsburgh (where he was the 2025 Team MVP) and signed a 2-year, $14M free-agent deal with Tampa Bay in March 2026."
     ]
   },
   "Bucky Irving": {
     "tags": [
-      "Depth Chart Battle"
+      "Depth Chart Secured"
     ],
     "bullets": [
-      "Listed RB2 behind Kenny Gainwell on Tampa Bay's own depth chart — expect a real committee, not a clean bell-cow role, despite his ADP."
+      "Correction on the committee framing — Week 2 usage was lopsided in his favor: 51 snaps to Gainwell's 23, 19 touches to 5 (17 carries/89 yards, 4 catches/1 yard) in the 23-19 loss to Cleveland (9/20), after a similarly Irving-favored Week 1. Looks like the clear lead back, not a 50/50 split despite the depth chart listing."
     ]
   },
   "Wan'Dale Robinson": {
@@ -1242,10 +1284,10 @@
   },
   "Jacory Croskey-Merritt": {
     "tags": [
-      "Depth Chart Secured"
+      "Depth Chart Battle"
     ],
     "bullets": [
-      "Officially cleared off Washington's final Week 1 injury report after being limited Wed/Thu with a sore groin — confirmed as the lead back vs. Philadelphia, with committee-mate Rachaad White also dealing with a separate, non-serious hamstring issue."
+      "Wasn't the clear lead back in Week 2 — White out-snapped him 36-23 in the Dallas loss (9/20) as the Commanders leaned on White's receiving in a trailing game script. Treat this as a genuine 2-man committee rather than a locked-in CM1 role, even after his confirmed Week 1 lead-back role vs. Philadelphia."
     ]
   },
   "Rachaad White": {
@@ -1253,7 +1295,7 @@
       "Depth Chart Battle"
     ],
     "bullets": [
-      "Dealing with a day-to-day hamstring issue that opened the door for Jacory Croskey-Merritt to take the presumptive Week 1 lead-back role, but remains the more proven 3-down/pass-catching option if that changes.",
+      "Bounced back with the clearer role in Week 2 vs. Dallas (37-20 loss, 9/20): out-snapped Croskey-Merritt 36-23, leaned on heavily as a receiver in catch-up mode — 7 carries/43 yards + 6 catches/40 yards (83 total). A real 2-man committee, and he may now have the passing-down edge.",
       "Signed a one-year, $2M free-agent deal with Washington after his rookie contract with Tampa Bay expired — reunites him with Arizona State teammate Jayden Daniels."
     ]
   },
@@ -1341,21 +1383,22 @@
   "Kaelon Black": {
     "tags": [
       "Depth Chart Battle",
-      "Health Watch"
+      "Healthy"
     ],
     "bullets": [
-      "Third-round rookie who has climbed to No. 2 on San Francisco's running back depth chart behind Christian McCaffrey, ahead of Jordan James.",
-      "Out-carried McCaffrey 14-10 in Week 1 (65 yards, 44% of snaps) — the first time a 49ers backup has out-carried McCaffrey since the 2022 playoffs. HC Kyle Shanahan confirmed this week it's a deliberate plan to balance the workload, not a fluke, giving Black real standalone value even with McCaffrey healthy.",
-      "Now Questionable for Week 2 vs. Miami with a new groin injury (not on Wednesday's report, limited Thursday); Shanahan says the team is \"being smart\" managing him. Friday's practice status will determine his workload — worth watching for how any absence reshapes McCaffrey's touches."
+      "Cleared the Thursday-emergent groin injury with no issue — played all of Sunday's 35-13 blowout win over Miami, logging 16 of San Francisco's 45 snaps (down from Week 1's 43.8% share), a clear step back toward a standard backup role.",
+      "Finished with 7 carries for 25 yards (no catches, no targets) vs. McCaffrey's 10 carries and 2 TDs — after out-carrying CMC 14-10 in the Week 1 opener, the workload swung decisively back to McCaffrey once SF built a big lead. Treat Black as a real CMC handcuff, not a standalone weekly play, for now."
     ]
   },
   "Caleb Douglas": {
     "tags": [
-      "Breakout Watch"
+      "Breakout Watch",
+      "Injury"
     ],
     "bullets": [
-      "Third-round rookie (No. 75 overall) who opened as a Week 1 starter for Miami, playing 50 of the Dolphins' 55 offensive snaps.",
-      "Led the Dolphins in receiving in the opener with 5 catches for 94 yards on 7 targets — an early signal he's carved out real snaps in a crowded Miami receiver room."
+      "Third-round rookie (No. 75 overall) who opened as Miami's Week 1 starter (50/55 snaps) and led the Dolphins in receiving with 5/94 on 7 targets — through two weeks has carved out real snaps in a crowded receiver room.",
+      "Left Miami's Week 2 loss to the 49ers (35-13) with a right ankle injury with 7:50 left in the 4th quarter after catching 2 of 3 targets for 19 yards; walked off under his own power but was seen leaving the locker room in a walking boot.",
+      "Severity is not yet officially confirmed — per Miami Herald's Omar Kelly the boot is \"very likely precautionary,\" but an MRI will determine the real grade; HC Jeff Hafley had no update postgame and it's in question whether Douglas plays Miami's Week 3 home opener vs. Kansas City."
     ]
   },
   "49ers D/ST": {
