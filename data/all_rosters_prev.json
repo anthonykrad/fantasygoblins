@@ -62,8 +62,8 @@
     "pos": "QB",
     "pro": "WSH",
     "slot": "BE",
-    "status": "DOUBTFUL",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "SLIME SZN",
@@ -72,9 +72,9 @@
     "name": "Jonathon Brooks",
     "pos": "RB",
     "pro": "CAR",
-    "slot": "BE",
-    "status": "DOUBTFUL",
-    "injured": false
+    "slot": "IR",
+    "status": "INJURY_RESERVE",
+    "injured": true
   },
   {
     "fteam": "SLIME SZN",
@@ -187,6 +187,17 @@
     "injured": false
   },
   {
+    "fteam": "SLIME SZN",
+    "fteam_id": 1,
+    "pid": 3917315,
+    "name": "Kyler Murray",
+    "pos": "QB",
+    "pro": "MIN",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
     "fteam": "Team Josh",
     "fteam_id": 9,
     "pid": 4379399,
@@ -215,7 +226,7 @@
     "name": "George Pickens",
     "pos": "WR",
     "pro": "DAL",
-    "slot": "WR",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -237,7 +248,7 @@
     "name": "Tee Higgins",
     "pos": "WR",
     "pro": "CIN",
-    "slot": "RB/WR",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -248,7 +259,7 @@
     "name": "Joe Burrow",
     "pos": "QB",
     "pro": "CIN",
-    "slot": "QB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -348,7 +359,7 @@
     "pos": "RB",
     "pro": "DEN",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -358,7 +369,7 @@
     "name": "Tyler Shough",
     "pos": "QB",
     "pro": "NO",
-    "slot": "BE",
+    "slot": "QB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -414,7 +425,7 @@
     "pos": "RB",
     "pro": "NO",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -469,8 +480,8 @@
     "pos": "WR",
     "pro": "IND",
     "slot": "BE",
-    "status": "DOUBTFUL",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Might be gay for Hurts",
@@ -480,7 +491,7 @@
     "pos": "WR",
     "pro": "JAX",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -567,7 +578,7 @@
     "name": "Caleb Williams",
     "pos": "QB",
     "pro": "CHI",
-    "slot": "QB",
+    "slot": "BE",
     "status": "DOUBTFUL",
     "injured": false
   },
@@ -645,7 +656,7 @@
     "pos": "WR",
     "pro": "CAR",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -666,7 +677,7 @@
     "name": "Bryce Young",
     "pos": "QB",
     "pro": "CAR",
-    "slot": "BE",
+    "slot": "QB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -721,7 +732,7 @@
     "name": "Colston Loveland",
     "pos": "TE",
     "pro": "CHI",
-    "slot": "TE",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -767,17 +778,6 @@
     "pro": "ARI",
     "slot": "BE",
     "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "So Mahomey",
-    "fteam_id": 12,
-    "pid": 4689114,
-    "name": "Jaxson Dart",
-    "pos": "QB",
-    "pro": "NYG",
-    "slot": "BE",
-    "status": "DOUBTFUL",
     "injured": false
   },
   {
@@ -864,6 +864,17 @@
     "name": "Dalton Schultz",
     "pos": "TE",
     "pro": "HOU",
+    "slot": "TE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "So Mahomey",
+    "fteam_id": 12,
+    "pid": 4036378,
+    "name": "Jordan Love",
+    "pos": "QB",
+    "pro": "GB",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -1162,7 +1173,7 @@
     "pos": "RB",
     "pro": "MIN",
     "slot": "RB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1316,7 +1327,7 @@
     "pos": "RB",
     "pro": "PIT",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1388,10 +1399,10 @@
   {
     "fteam": "Into the sunset",
     "fteam_id": 15,
-    "pid": 4887558,
-    "name": "Emanuel Wilson",
+    "pid": 4429013,
+    "name": "Tank Bigsby",
     "pos": "RB",
-    "pro": "SEA",
+    "pro": "PHI",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -1503,7 +1514,7 @@
     "pos": "RB",
     "pro": "CHI",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1557,9 +1568,31 @@
     "name": "Zach Charbonnet",
     "pos": "RB",
     "pro": "SEA",
-    "slot": "BE",
+    "slot": "IR",
     "status": "OUT",
     "injured": true
+  },
+  {
+    "fteam": "😈",
+    "fteam_id": 16,
+    "pid": 3045147,
+    "name": "James Conner",
+    "pos": "RB",
+    "pro": "ARI",
+    "slot": "IR",
+    "status": "INJURY_RESERVE",
+    "injured": true
+  },
+  {
+    "fteam": "😈",
+    "fteam_id": 16,
+    "pid": 4832800,
+    "name": "Denzel Boston",
+    "pos": "WR",
+    "pro": "CLE",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
   },
   {
     "fteam": "Chase Bank",
@@ -1646,7 +1679,7 @@
     "pos": "RB",
     "pro": "TEN",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
