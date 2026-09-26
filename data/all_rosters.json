@@ -7,7 +7,7 @@
     "pos": "WR",
     "pro": "LAR",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "DOUBTFUL",
     "injured": false
   },
   {
@@ -359,8 +359,8 @@
     "pos": "RB",
     "pro": "DEN",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Team Josh",
@@ -425,7 +425,7 @@
     "pos": "RB",
     "pro": "NO",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -469,8 +469,8 @@
     "pos": "RB",
     "pro": "PIT",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Might be gay for Hurts",
@@ -491,7 +491,7 @@
     "pos": "WR",
     "pro": "JAX",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -568,7 +568,7 @@
     "pos": "RB",
     "pro": "SEA",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -634,8 +634,8 @@
     "pos": "WR",
     "pro": "HOU",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "A Win Is Likely",
@@ -1173,7 +1173,7 @@
     "pos": "RB",
     "pro": "MIN",
     "slot": "RB",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1399,12 +1399,12 @@
   {
     "fteam": "Into the sunset",
     "fteam_id": 15,
-    "pid": 4429013,
-    "name": "Tank Bigsby",
-    "pos": "RB",
-    "pro": "PHI",
+    "pid": 3929645,
+    "name": "Juwan Johnson",
+    "pos": "TE",
+    "pro": "NO",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1514,7 +1514,7 @@
     "pos": "RB",
     "pro": "CHI",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1613,7 +1613,7 @@
     "pos": "RB",
     "pro": "PHI",
     "slot": "RB",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1679,7 +1679,7 @@
     "pos": "RB",
     "pro": "TEN",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
