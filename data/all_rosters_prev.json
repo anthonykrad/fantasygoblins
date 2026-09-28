@@ -40,7 +40,7 @@
     "pos": "WR",
     "pro": "PHI",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -204,7 +204,7 @@
     "name": "James Cook III",
     "pos": "RB",
     "pro": "BUF",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -215,7 +215,7 @@
     "name": "Kenneth Walker III",
     "pos": "RB",
     "pro": "KC",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -226,7 +226,7 @@
     "name": "George Pickens",
     "pos": "WR",
     "pro": "DAL",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -237,7 +237,7 @@
     "name": "Garrett Wilson",
     "pos": "WR",
     "pro": "NYJ",
-    "slot": "BE",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -248,7 +248,7 @@
     "name": "Tee Higgins",
     "pos": "WR",
     "pro": "CIN",
-    "slot": "BE",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -314,7 +314,7 @@
     "name": "Eagles D/ST",
     "pos": "D/ST",
     "pro": "PHI",
-    "slot": "BE",
+    "slot": "D/ST",
     "status": null,
     "injured": false
   },
@@ -336,7 +336,7 @@
     "name": "Sam LaPorta",
     "pos": "TE",
     "pro": "DET",
-    "slot": "BE",
+    "slot": "TE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -359,7 +359,7 @@
     "pos": "RB",
     "pro": "DEN",
     "slot": "BE",
-    "status": "OUT",
+    "status": "INJURY_RESERVE",
     "injured": true
   },
   {
@@ -369,7 +369,7 @@
     "name": "Tyler Shough",
     "pos": "QB",
     "pro": "NO",
-    "slot": "BE",
+    "slot": "QB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -480,7 +480,7 @@
     "pos": "WR",
     "pro": "IND",
     "slot": "BE",
-    "status": "OUT",
+    "status": "INJURY_RESERVE",
     "injured": true
   },
   {
@@ -579,8 +579,8 @@
     "pos": "QB",
     "pro": "CHI",
     "slot": "BE",
-    "status": "DOUBTFUL",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "A Win Is Likely",
