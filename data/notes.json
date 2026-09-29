@@ -7,7 +7,7 @@
     "bullets": [
       "CONFIRMED trade: Green Bay sent Wicks to Philadelphia in April 2026 for a 2026 5th-round pick and a 2027 6th-round pick (Adam Schefter/ESPN, NFL.com, official team announcements); Philadelphia signed him to a 1-year, $12.5M extension as part of the deal. His \"PHI\" team tag is accurate, not a data error.",
       "Leaves Green Bay with 108 career catches, 1,328 yards and 11 TDs over 3 seasons, though 2025 was a down year (30/332/2).",
-      "Current relevance: with DeVonta Smith dealing with a recurring hamstring (DNP Thursday, Questionable for Monday night vs. Chicago — see Smith's note), Wicks is positioned to step into lead-outside-receiver work for Philadelphia if Smith sits, making this a well-timed waiver pickup."
+      "UPDATE: DeVonta Smith played through his hamstring issue and started Monday's Week 3 game at Chicago without incident (6 catches, 65 yards — see Smith's note), so Wicks stayed in his normal complementary WR2/depth role rather than seeing lead-receiver snaps. No standalone start-worthy path unless Smith misses time again."
     ]
   },
   "Bengals D/ST": {
@@ -148,11 +148,13 @@
   },
   "Josh Allen": {
     "tags": [
-      "Elite Starter"
+      "Elite Starter",
+      "Health Watch"
     ],
     "bullets": [
       "Locked in as the top overall fantasy QB — top-9 in passing yards 5 of the last 6 years, top-7 in passing TDs every year, with real rushing/scramble equity on top.",
-      "Historic Week 2 Thursday-night performance in a 41-31 win over Detroit: 317 total yards and 5 total TDs (3 pass, 2 rush), over 40 fantasy points — per ESPN, only the 3rd player in NFL history with 9 total TDs and 0 turnovers through a team's first 2 games (Mahomes 2018, Manning 2013 the others)."
+      "Historic Week 2 Thursday-night performance in a 41-31 win over Detroit: 317 total yards and 5 total TDs (3 pass, 2 rush), over 40 fantasy points — per ESPN, only the 3rd player in NFL history with 9 total TDs and 0 turnovers through a team's first 2 games (Mahomes 2018, Manning 2013 the others).",
+      "NEW: banged up late in Week 3's win over the Chargers — took a helmet to the outside of his left knee in the 4th quarter and was seen favoring the leg postgame. No formal diagnosis announced, but medical analysts (Dr. David Chao) describe him as \"more hurt than injured,\" floating a possible grade 1-2 MCL sprain that could range from full Week 4 availability to a 1-3 week absence (Buffalo Rumblings, SI, Yahoo Sports, 9/28-29). Officially Questionable entering Week 4 vs. New England and likely limited in practice early in the week — worth checking the Friday injury report before locking him in."
     ]
   },
   "James Cook III": {
@@ -184,11 +186,13 @@
   "Jalen Coker": {
     "tags": [
       "Breakout Watch",
-      "Target Hog"
+      "Target Hog",
+      "Health Watch"
     ],
     "bullets": [
       "Caught 8-of-9 targets in EACH of Carolina's first two games (Week 1: 8/138 yds/2 TD vs. Chicago; Week 2: 8/66 yds vs. Atlanta) with Bryce Young — became just the 3rd undrafted player since 1967 to reach 15+ catches, 200+ receiving yards and 2+ TDs through a team's first two games (Yahoo Sports/Heavy, 9/23). No longer just a presumptive WR2 behind McMillan — now viewed as a legitimate 1A/1B.",
-      "The ankle issue that triggered a fresh Week 3 Questionable tag was managed conservatively: limited Wednesday, limited again Thursday, then a FULL practice Friday (9/25) — the trend moved toward clearance, not away from it, ahead of Sunday vs. Cleveland. Multiple outlets (SI Panthers/OnSI, Yahoo) say there's \"no reason to believe he's at risk of missing Week 3.\""
+      "UPDATE: played through the ankle issue that had triggered a Week 3 Questionable tag, but exited Sunday's 21-18 loss to Cleveland early with a new quad strain, finishing limited to 2 catches for 18 yards.",
+      "Monday follow-up tests found nothing overly significant on the quad — described as a relatively minor strain. He's Questionable for Week 4 vs. Detroit, with his Wednesday-Friday practice activity set to determine availability (SI/OnSI, NBC Sports, CBS Sports, 9/28-29). Downgrading tag from a standalone injury tier to Health Watch given the \"relatively minor\" framing and no ruled-out signal yet."
     ]
   },
   "D'Andre Swift": {
@@ -208,10 +212,9 @@
       "Breakout Watch"
     ],
     "bullets": [
-      "MRI on Monday (9/21) confirmed a Grade 1 hamstring strain with no tear — Williams \"avoided any major injury,\" per NFL Media's Tom Pelissero, walking back the possible Grade 2 concern flagged Monday morning.",
-      "HC Ben Johnson called the imaging news \"somewhat encouraging\" and said Williams is \"week to week\" (Chicago Sun-Times, NFL.com, 9/21); Johnson does not expect him to practice at all this week, and while the official tag is DOUBTFUL rather than a hard rule-out, beat reporters (CBS Sports, NBC Sports Philadelphia) characterize him as trending toward missing Week 3 vs. Philadelphia.",
-      "CONFIRMED (9/26): the Bears officially ruled Williams OUT for Monday night's Week 3 game vs. Philadelphia — he did not practice Thursday, Friday, or Saturday. No firm return timeline beyond \"week to week\" has been announced.",
-      "Case Keenum, not Tyson Bagent (concussion protocol), is now the presumed Week 3 starter if Williams sits — a change from the original Bagent-next-in-line plan; Colston Loveland and Rome Odunze still project as the top pass-catching beneficiaries regardless of who's under center."
+      "Had emerged as a fantasy-relevant weekly starter behind an improved Ben Johnson offense before the injury hit — real weekly upside as a rushing/passing dual threat.",
+      "CONFIRMED: officially ruled OUT for Week 3 vs. Philadelphia with a Grade 2 hamstring strain and did not play (0 fantasy points). Reporting pegs the expected absence at 3-4 weeks, which would also cost him Weeks 4-5 (NYJ, GB) with a Week 6 return vs. Atlanta as the earliest realistic target (SI/OnSI, Yahoo Sports, 9/27-29).",
+      "HC Ben Johnson has called him \"week to week\" without confirming the Week 4 questionable framing bettors are seeing — with no progress in practice participation this week, Williams should be considered questionable at best, and more likely a second-straight missed game. Keeping the Injury tag (not yet Long-Term) since the reported 3-4 week window sits just under the ~month/4-game long-term threshold, but this bears watching if it slips further."
     ]
   },
   "Tee Higgins": {
@@ -360,7 +363,7 @@
     "bullets": [
       "Still a fantasy WR1 when healthy (ESPN ranks him WR10) — three straight 1,000-yard seasons, 21 TDs over that stretch — but the Grade 1 hamstring strain has now cost him back-to-back games.",
       "CONFIRMED: officially ruled OUT for Week 3 vs. the Colts (Sunday) — his second straight missed game with the same hamstring strain (NBC Sports, Last Word on Sports, Yahoo Sports, 9/25-26).",
-      "HC DeMeco Ryans repeated Monday/Tuesday that the team is \"still seeing how he progresses,\" with no firm return date; with him out again, Xavier Hutchinson, Kayshon Boutte and Jaylin Noel remain Houston's top three WRs and Dalton Schultz keeps an elevated target share underneath (FantasyPros, The Big Lead)."
+      "NEW: HC DeMeco Ryans said he's \"hopeful\" Collins is available for Week 4 vs. Dallas, and Adam Schefter reports a \"decent chance\" he returns, but Collins did not practice Monday and will need to show up as at least a limited participant Wednesday-Friday to have a realistic shot at playing (ESPN/Schefter, CBS Sports, NBC Sports, 9/27-29). Keeping Injury tag until he's actually back on the practice field; Xavier Hutchinson, Kayshon Boutte and Jaylin Noel remain Houston's top three WRs in his absence."
     ]
   },
   "Trevor Lawrence": {
@@ -437,13 +440,12 @@
   },
   "Justin Jefferson": {
     "tags": [
-      "Injury"
+      "Health Watch"
     ],
     "bullets": [
       "Down year by his own standard in 2025 (WR30 overall) but still finished 6th league-wide in target share (28.5%) — new QB Kyler Murray has a track record of feeding elite WR1s.",
-      "Backup QB Carson Wentz started Week 2 (Murray in concussion protocol after a late hit in the Week 1 win over Green Bay) — Jefferson was held to 3 catches on 6 targets for 55 yards in a 9-3, rain-soaked win at Chicago, and was candid afterward about the offense's struggles.",
-      "NEW: left Sunday's Week 3 win over Tampa Bay (23-16) early in the 1st quarter with a left ankle injury and did not return, though HC Kevin O'Connell said he \"got close\" to returning and doesn't believe it's severe — the team hopes it's a lower-ankle sprain rather than a high ankle sprain or deltoid ligament issue (ESPN, NBC Sports, Bleacher Report, 9/27-28).",
-      "Minnesota will evaluate further Monday (9/28) including an MRI; downgrading tag from Bounce-Back Watch to Injury pending that read given the in-game evaluation is still open. Through his limited Week 3 action he had contributed to a 13 catch/179 yard/2 TD season line."
+      "Left Sunday's Week 3 win over Tampa Bay (23-16) early in the 1st quarter with a left ankle injury after a defender landed on it during a 10-yard screen reception, and did not return.",
+      "NEW: Monday's MRI (9/28) revealed a clean ankle sprain with no structural/long-term damage — a real relief given the initial fear of a high-ankle or deltoid-ligament issue. HC Kevin O'Connell called the outlook positive and said the team will manage his practice reps through the week to gauge Week 4 availability vs. Miami; there's a real chance he plays (ESPN, NBC Sports, Bleacher Report, Athlon, 9/28-29). Downgrading tag from Injury to Health Watch given the clean imaging and plausible Week 4 clearance."
     ]
   },
   "Rhamondre Stevenson": {
@@ -486,8 +488,8 @@
     ],
     "bullets": [
       "Played through the hamstring that had kept him out of practice in Week 1 and delivered a huge Week 2 (10 catches, 117 yards, 1 TD in the 24-20 win over Tennessee) — Philly's unquestioned WR1 now that A.J. Brown is in New England.",
-      "CLEARED: after DNP Thursday (9/24) and a limited Friday session, Smith practiced in full Saturday and carries no injury designation into Monday night's Week 3 game at Chicago (9/28) — the hamstring flare-up has fully resolved (FantasyPros, NBC Sports, CBS Sports, 9/26).",
-      "With Smith clearing, newly-acquired Dontayvion Wicks (traded from Green Bay in April) projects back into a normal WR2 complementary role rather than a lead-receiver fill-in."
+      "CLEARED and CONFIRMED: practiced in full Saturday, carried no injury designation into Monday night's Week 3 game at Chicago, and played through it cleanly — the hamstring flare-up is fully resolved. Led the Eagles with 6 catches (on 8 targets) for 65 yards, including the offense's longest play (a 30-yard grab), in a 27-7 loss where Jalen Hurts and the passing game otherwise struggled (NBC Sports, RotoWire, 9/28).",
+      "With Smith healthy, newly-acquired Dontayvion Wicks (traded from Green Bay in April) remains in a normal WR2 complementary role rather than a lead-receiver fill-in."
     ]
   },
   "Saquon Barkley": {
@@ -496,7 +498,7 @@
     ],
     "bullets": [
       "The $16.75M-guaranteed workhorse role is intact when healthy, but he suffered a stinger to his left arm/shoulder on Philadelphia's very first offensive snap of the Week 2 win at Tennessee and missed most of that game (4 carries for 9 yards, 1 catch for 11 yards).",
-      "CLEARED: full practice participant Friday (9/25) and confirmed he will play Monday night vs. Chicago (9/28), telling reporters he doesn't believe the stinger will affect him — a clean resolution off last week's \"good MRI results\" (NFL.com, Bleacher Report, FantasyPros, 9/25)."
+      "CLEARED and CONFIRMED: played through the stinger with no setback, telling reporters beforehand he didn't expect it to affect him. Ran effectively in Monday night's Week 3 loss at Chicago — 82 yards on 15 carries, with 73 of those yards coming in the first half before Philadelphia's offense stalled with three straight second-half three-and-outs in the 27-7 defeat (RotoWire, CBS Sports, NBC Sports, 9/28). No health concerns entering Week 4."
     ]
   },
   "Jadarian Price": {
@@ -833,7 +835,7 @@
     ],
     "bullets": [
       "Immediately looks like the lead back in Kansas City's backfield after the free-agent signing (3yr/$43.05M) — leads the NFL with 47 carries (56 touches) through 2 games, backing up a Week 1 explosion (23-173-1 rush, 2 total TDs vs. Denver) with a Week 2 workhorse outing (24-117 rush, 6 catches/61 yds vs. Indianapolis).",
-      "NEW: HC Andy Reid said this week (9/22-23) that rookie Emmett Johnson \"will continue to get more snaps\" to take some load off Walker, targeting \"a nice balance\" between the two — a committee shift worth monitoring even though Walker remains the clear lead/every-down back for now."
+      "CONFIRMED: despite HC Andy Reid's talk of \"balance\" with rookie Emmett Johnson, Walker's Week 3 role barely budged — 78% of the RB snaps and 20 of 23 RB carry opportunities before the final drive, extending his streak to three straight weeks with a 70%+ snap share and 20+ PPR points in a 24-10 win over Miami. Dolphins did hold him to just 16 yards from scrimmage after halftime, worth monitoring, but the workhorse role itself is unchanged (Arrowhead Pride, RotoWire, 9/28)."
     ]
   },
   "Patrick Mahomes": {
@@ -912,7 +914,7 @@
     "bullets": [
       "Missed Monday Night Football vs. the Giants (9/21) with a hip/groin issue and stayed OUT all last week; HC Sean McVay confirmed there's no hernia involved.",
       "CONFIRMED: sat out Week 3's 30-26 loss at Denver (9/27) as expected off the DOUBTFUL tag — his second straight missed game with the groin/hip issue.",
-      "UPGRADED to Short-Term Injury: no new diagnosis or structural setback — McVay says the Rams are targeting a Week 4 return vs. Philadelphia barring a setback, and the team is not considering IR or surgery at this point (ESPN, ProFootballRumors, Yahoo Sports, 9/27). Davante Adams (8/195/2 TD in Week 1) remains the clear top target with Nacua sidelined. Separately, the civil lawsuit over the alleged biting/antisemitic-remark incident remains on track for a March 2028 trial with no new developments."
+      "UPDATE (9/28-29): McVay said the Rams are \"hopeful\" Nacua can return for Sunday's Week 4 game at Philadelphia, but has since tempered that to \"to be determined\" and confirmed Nacua will again be limited in practice this week. The team still views it as a short-term issue and believes he's capable of playing now, just not at full explosiveness — no new setback or structural diagnosis, and surgery/IR remain off the table for now (CBS Sports, ESPN, Yahoo Sports, 9/28-29). Keeping Short-Term Injury tag; Davante Adams remains the clear top target in his absence."
     ]
   },
   "Davante Adams": {
@@ -965,12 +967,12 @@
   },
   "De'Von Achane": {
     "tags": [
-      "Injury"
+      "Long-Term Injury"
     ],
     "bullets": [
       "No current injury flag entering Week 3, but missed time each of the last two seasons plus offseason shoulder surgery — the durability risk flagged all along showed up again.",
-      "NEW: suffered a non-contact knee injury on a 1st-quarter run vs. Kansas City in Week 3 (9/27), tackled awkwardly by a Chiefs defender, and was ruled out for the rest of the game. HC Jeff Hafley said postgame the outlook \"does not sound very optimistic\" (CBS Sports, ESPN, ProFootballRumors, 9/27).",
-      "MRI is scheduled for Monday (9/28) to confirm the diagnosis — no official severity or timeline yet as of this writing; sports-medicine analysts flagged meniscus as a bigger concern than ACL off the tape, but nothing is confirmed. Tag will be revised once results are in; treat as a real risk of a multi-week absence in the meantime."
+      "Suffered a non-contact knee injury on a 1st-quarter run vs. Kansas City in Week 3 (9/27), tackled awkwardly by a Chiefs defender, and was ruled out for the rest of the game; HC Jeff Hafley said postgame the outlook \"does not sound very optimistic.\"",
+      "CONFIRMED SEASON-ENDING: Monday's MRI (9/28) confirmed a torn ACL in the left knee. Miami placed him on IR and he will have surgery, ending his 2026 season just months after signing a 4-yr/$64M extension (CBS Sports, ESPN, RotoWire, Yahoo Sports, 9/28). Upgrading tag from Injury to Long-Term Injury to reflect the confirmed season-ending diagnosis — drop him in all non-dynasty/non-IR-stash formats."
     ]
   },
   "Jordan Mason": {
@@ -1058,7 +1060,7 @@
     "bullets": [
       "Signed a 4-yr/$52M deal with hometown New Orleans as a free agent and is listed as the starter, but Alvin Kamara remains on the roster and real committee risk has materialized early.",
       "Was healthy and productive early in Week 3 (led all Saints rushers with 13 carries for 57 yards, plus 2 catches for 13 yards) before pulling up with a hamstring injury after a 16-yard run in the 3rd quarter of Sunday's loss to the Raiders — did not return (Yahoo Sports, NBC Sports, 9/27).",
-      "NEW tag: no MRI/severity details reported yet as of Monday (9/28); downgrading from Healthy to Injury pending the Saints' official evaluation. If he misses time, Kamara is the direct backfield beneficiary given the committee usage already in place."
+      "NEW: officially OUT — HC Kellen Moore said Monday (9/28) Etienne will have \"time lost\" with the hamstring, with no specific return timeline set and an IR stint still possible depending on further evaluation (RotoWire, NBC Sports, FantasyPros, 9/28). Kamara is the direct backfield beneficiary given the committee usage already in place; treat Etienne as a bench stash until more clarity emerges."
     ]
   },
   "Malik Nabers": {
@@ -1096,8 +1098,8 @@
     ],
     "bullets": [
       "Groin was a non-issue in Week 1 — ran for 102 yards and a TD on 22 carries plus 2 catches for 16 yards in the opener vs. Tennessee, his best workload in well over a year.",
-      "NEW: exited Sunday's Week 3 loss to Detroit in the second half with a thigh injury after being tackled near the sideline (13 carries/32 yards, 3 catches/23 yards before leaving) — did not return. Hall said postgame he'll likely get an MRI Monday (9/28) (ESPN, NFL.com, Yahoo Sports, 9/27).",
-      "No diagnosis or timeline yet — downgrading from Healthy to Injury pending Monday's evaluation; worth checking back before locking in Week 4 lineups."
+      "Exited Sunday's Week 3 loss to Detroit in the second half with a quad/thigh injury after being tackled near the sideline (13 carries/32 yards, 3 catches/23 yards before leaving) — did not return.",
+      "NEW: Monday's MRI (9/28) came back better than initially feared — the Jets and multiple reports now describe Hall as \"week-to-week\" rather than facing a long absence, with hope it's a couple of weeks rather than a month-plus. He will NOT play Week 4, with Braelon Allen set to start in his place (CBS Sports, NBC Sports, SI/OnSI, 9/28). Keeping the Injury tag given the genuinely uncertain multi-week (but not yet confirmed long-term) timeline — revisit once a firmer date emerges."
     ]
   },
   "Makai Lemon": {
@@ -1136,9 +1138,9 @@
       "Depth Chart Battle"
     ],
     "bullets": [
-      "Suffered a toe injury on a pass-blocking/fumble-recovery rep in the 2nd quarter of Sunday's loss to New England, was carted to the locker room, returned for a few series coming out of halftime, then appeared to re-aggravate it and was ruled out for good; finished with 9 total touches for 44 yards.",
-      "CONFIRMED: officially ruled OUT for Week 3 vs. Cincinnati after DNP all week — Ian Rapoport had described it as a \"day-to-day\" issue, but the DNP streak points to a real chance he's questionable again entering Week 4 (NBC Sports, CBS Sports, Yahoo Sports, 9/25-26).",
-      "With Dowdle out, Jaylen Warren (himself managing a shoulder issue but trending toward playing — see Warren's note) is expected to handle the bulk of Pittsburgh's backfield touches, with rookie 7th-rounder Eli Heidenreich or Travis Homer next in line for change-of-pace work."
+      "Suffered a toe injury on a pass-blocking/fumble-recovery rep in the 2nd quarter of a loss to New England, was carted to the locker room, returned for a few series coming out of halftime, then appeared to re-aggravate it and was ruled out for good; finished with 9 total touches for 44 yards.",
+      "CONFIRMED: officially ruled OUT for Week 3 vs. Cincinnati after DNP all week, despite the issue being described as \"day-to-day\" (NBC Sports, CBS Sports, Yahoo Sports, 9/25-26).",
+      "NEW: still hasn't practiced — listed DNP again on Monday (9/28) — which is a real concern given Pittsburgh is on a short week for Thursday Night Football at Cleveland in Week 4. He'll need a near-miracle practice ramp-up to play Thursday and enters the week very much questionable (NBC Sports, 9/28). Jaylen Warren is set for another game of workhorse usage should Dowdle sit again."
     ]
   },
   "Jaylen Warren": {
@@ -1180,9 +1182,9 @@
       "Aging Watch"
     ],
     "bullets": [
-      "Left San Francisco's Week 2 blowout win over Miami (49ers up 35-6) early in the 4th quarter with a hip injury, after wincing following a 27-yard catch-and-run in the 3rd quarter that set up a Christian McCaffrey TD; finished 3-for-3 on targets for 54 yards before exiting.",
-      "HC Kyle Shanahan said postgame the injury is not believed to be serious and that Evans would have stayed in the game had it been closer — reads as blowout-game caution more than a real injury concern.",
-      "Monday (9/21) update: Shanahan said the hip \"will have to be managed this week\" and Evans will likely miss some practice time, but gave no indication Evans is expected to miss Week 3 vs. Arizona (NBC Sports). Turns 33 in August — an aging watch item independent of this injury."
+      "Monday (9/21) update: Shanahan said the hip \"will have to be managed this week\" and Evans would likely miss some practice time. Turns 33 in August — an aging watch item independent of any single-week injury.",
+      "UPDATE: exited Week 3's loss to Arizona early in the 2nd quarter with a rib injury after a hard hit from S Budda Baker on a middle-of-the-field catch — was carted off and did not return, finishing with 3 catches for 34 yards and a TD before leaving (ESPN, CBS Sports, Yahoo Sports, 9/27-28).",
+      "Downgrading tag from Aging-Watch-only injury risk to Health Watch: Evans returned to practice Friday and is officially Questionable for Week 4 vs. Denver, with HC Kyle Shanahan indicating optimism that he'll play (NBC Sports, Yahoo Sports, Last Word on Sports, 9/26-29). Treat as a game-time-decision-caliber Questionable, not a real absence risk at this point."
     ]
   },
   "George Kittle": {
@@ -1359,7 +1361,7 @@
     ],
     "bullets": [
       "Rookie 5th-round pick (No. 161 overall) out of Nebraska in the 2026 draft, where he was Big Ten RB of the Year (1,451 rush yards, 15 total TDs). Won Kansas City's RB2/backup job in camp after the Chiefs waived veteran Emari Demercado.",
-      "NEW: HC Andy Reid said explicitly this week (9/22-23) that Johnson \"will continue to get more snaps, and that'll take a little bit of the load off of [Kenneth] Walker,\" aiming for \"a nice balance\" between the two backs — a real signal of an intentional committee shift starting Week 3 vs. Miami, not just bench-stash standalone value tied to a Walker injury. Context: Walker has led the NFL with 47 carries (56 touches) through 2 games."
+      "UPDATE: the \"nice balance\" HC Andy Reid teased for Week 3 vs. Miami didn't really materialize on the ground — Johnson took just the final 3 carries of the game while Kenneth Walker played 78% of RB snaps. Johnson's fantasy relevance instead came through the air (4 catches on 4 targets for 64 yards, per Week 3 box score) — a passing-down/change-of-pace role rather than a real committee threat to Walker's touches right now (Arrowhead Pride, 9/28)."
     ]
   },
   "Devaughn Vele": {
