@@ -436,8 +436,8 @@
     "pos": "RB",
     "pro": "NO",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Might be gay for Hurts",
@@ -743,7 +743,7 @@
     "name": "Colston Loveland",
     "pos": "TE",
     "pro": "CHI",
-    "slot": "BE",
+    "slot": "TE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -787,7 +787,7 @@
     "name": "Michael Wilson",
     "pos": "WR",
     "pro": "ARI",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -831,7 +831,7 @@
     "name": "Bhayshul Tuten",
     "pos": "RB",
     "pro": "JAX",
-    "slot": "RB/WR",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -853,9 +853,9 @@
     "name": "De'Von Achane",
     "pos": "RB",
     "pro": "MIA",
-    "slot": "RB",
-    "status": "DOUBTFUL",
-    "injured": false
+    "slot": "BE",
+    "status": "INJURY_RESERVE",
+    "injured": true
   },
   {
     "fteam": "So Mahomey",
@@ -875,7 +875,7 @@
     "name": "Dalton Schultz",
     "pos": "TE",
     "pro": "HOU",
-    "slot": "TE",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1106,7 +1106,7 @@
     "name": "Jeremiyah Love",
     "pos": "RB",
     "pro": "ARI",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1128,7 +1128,7 @@
     "name": "Quinshon Judkins",
     "pos": "RB",
     "pro": "CLE",
-    "slot": "RB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1261,7 +1261,7 @@
     "pos": "QB",
     "pro": "BUF",
     "slot": "QB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
