@@ -7,18 +7,7 @@
     "pos": "WR",
     "pro": "LAR",
     "slot": "BE",
-    "status": "OUT",
-    "injured": true
-  },
-  {
-    "fteam": "SLIME SZN",
-    "fteam_id": 1,
-    "pid": 4685382,
-    "name": "Omarion Hampton",
-    "pos": "RB",
-    "pro": "LAC",
-    "slot": "RB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -35,35 +24,13 @@
   {
     "fteam": "SLIME SZN",
     "fteam_id": 1,
-    "pid": 4241478,
-    "name": "DeVonta Smith",
-    "pos": "WR",
-    "pro": "PHI",
-    "slot": "RB/WR",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "SLIME SZN",
-    "fteam_id": 1,
-    "pid": 4259545,
-    "name": "D'Andre Swift",
-    "pos": "RB",
-    "pro": "CHI",
-    "slot": "RB",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "SLIME SZN",
-    "fteam_id": 1,
     "pid": 4426348,
     "name": "Jayden Daniels",
     "pos": "QB",
     "pro": "WSH",
     "slot": "BE",
-    "status": "OUT",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "SLIME SZN",
@@ -97,17 +64,6 @@
     "slot": "IR",
     "status": "INJURY_RESERVE",
     "injured": true
-  },
-  {
-    "fteam": "SLIME SZN",
-    "fteam_id": 1,
-    "pid": 4701936,
-    "name": "Matthew Golden",
-    "pos": "WR",
-    "pro": "GB",
-    "slot": "WR",
-    "status": "ACTIVE",
-    "injured": false
   },
   {
     "fteam": "SLIME SZN",
@@ -178,22 +134,66 @@
   {
     "fteam": "SLIME SZN",
     "fteam_id": 1,
-    "pid": 3917315,
-    "name": "Kyler Murray",
-    "pos": "QB",
-    "pro": "MIN",
-    "slot": "BE",
+    "pid": 4871023,
+    "name": "Carnell Tate",
+    "pos": "WR",
+    "pro": "TEN",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
   {
     "fteam": "SLIME SZN",
     "fteam_id": 1,
-    "pid": 3055899,
-    "name": "Harrison Butker",
+    "pid": 4685472,
+    "name": "Tetairoa McMillan",
+    "pos": "WR",
+    "pro": "CAR",
+    "slot": "WR",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "SLIME SZN",
+    "fteam_id": 1,
+    "pid": 4882093,
+    "name": "Bhayshul Tuten",
+    "pos": "RB",
+    "pro": "JAX",
+    "slot": "RB",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "SLIME SZN",
+    "fteam_id": 1,
+    "pid": 4890973,
+    "name": "Ashton Jeanty",
+    "pos": "RB",
+    "pro": "LV",
+    "slot": "RB",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "SLIME SZN",
+    "fteam_id": 1,
+    "pid": 4360234,
+    "name": "Evan McPherson",
     "pos": "K",
-    "pro": "KC",
+    "pro": "CIN",
     "slot": "K",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "SLIME SZN",
+    "fteam_id": 1,
+    "pid": 15818,
+    "name": "Keenan Allen",
+    "pos": "WR",
+    "pro": "IND",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -321,17 +321,6 @@
   {
     "fteam": "Team Josh",
     "fteam_id": 9,
-    "pid": 4597500,
-    "name": "Adonai Mitchell",
-    "pos": "WR",
-    "pro": "NYJ",
-    "slot": "BE",
-    "status": "OUT",
-    "injured": true
-  },
-  {
-    "fteam": "Team Josh",
-    "fteam_id": 9,
     "pid": 4430027,
     "name": "Sam LaPorta",
     "pos": "TE",
@@ -381,6 +370,17 @@
     "pos": "K",
     "pro": "NO",
     "slot": "K",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Team Josh",
+    "fteam_id": 9,
+    "pid": 4711533,
+    "name": "Ollie Gordon II",
+    "pos": "RB",
+    "pro": "MIA",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -480,8 +480,8 @@
     "pos": "RB",
     "pro": "PIT",
     "slot": "BE",
-    "status": "OUT",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "Might be gay for Hurts",
@@ -490,7 +490,7 @@
     "name": "Alec Pierce",
     "pos": "WR",
     "pro": "IND",
-    "slot": "BE",
+    "slot": "IR",
     "status": "INJURY_RESERVE",
     "injured": true
   },
@@ -530,17 +530,6 @@
   {
     "fteam": "Might be gay for Hurts",
     "fteam_id": 10,
-    "pid": 4373678,
-    "name": "Khalil Shakir",
-    "pos": "WR",
-    "pro": "BUF",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Might be gay for Hurts",
-    "fteam_id": 10,
     "pid": -16033,
     "name": "Ravens D/ST",
     "pos": "D/ST",
@@ -550,13 +539,13 @@
     "injured": false
   },
   {
-    "fteam": "A Win Is Likely",
-    "fteam_id": 11,
-    "pid": 4362238,
-    "name": "Chase Brown",
+    "fteam": "Might be gay for Hurts",
+    "fteam_id": 10,
+    "pid": 3068267,
+    "name": "Austin Ekeler",
     "pos": "RB",
-    "pro": "CIN",
-    "slot": "RB",
+    "pro": "WSH",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -567,7 +556,7 @@
     "name": "Emeka Egbuka",
     "pos": "WR",
     "pro": "TB",
-    "slot": "WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -578,7 +567,7 @@
     "name": "Jadarian Price",
     "pos": "RB",
     "pro": "SEA",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -590,18 +579,7 @@
     "pos": "QB",
     "pro": "CHI",
     "slot": "BE",
-    "status": "OUT",
-    "injured": true
-  },
-  {
-    "fteam": "A Win Is Likely",
-    "fteam_id": 11,
-    "pid": 2976212,
-    "name": "Stefon Diggs",
-    "pos": "WR",
-    "pro": "WSH",
-    "slot": "BE",
-    "status": "ACTIVE",
+    "status": "DOUBTFUL",
     "injured": false
   },
   {
@@ -611,7 +589,7 @@
     "name": "Isaiah Likely",
     "pos": "TE",
     "pro": "NYG",
-    "slot": "BE",
+    "slot": "TE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -644,9 +622,9 @@
     "name": "Nico Collins",
     "pos": "WR",
     "pro": "HOU",
-    "slot": "BE",
-    "status": "OUT",
-    "injured": true
+    "slot": "WR",
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "A Win Is Likely",
@@ -655,19 +633,8 @@
     "name": "Jalen Coker",
     "pos": "WR",
     "pro": "CAR",
-    "slot": "WR",
+    "slot": "BE",
     "status": "QUESTIONABLE",
-    "injured": false
-  },
-  {
-    "fteam": "A Win Is Likely",
-    "fteam_id": 11,
-    "pid": 4890973,
-    "name": "Ashton Jeanty",
-    "pos": "RB",
-    "pro": "LV",
-    "slot": "RB",
-    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -688,30 +655,63 @@
     "name": "Jake Ferguson",
     "pos": "TE",
     "pro": "DAL",
-    "slot": "TE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "A Win Is Likely",
-    "fteam_id": 11,
-    "pid": -16004,
-    "name": "Bengals D/ST",
-    "pos": "D/ST",
-    "pro": "CIN",
-    "slot": "D/ST",
-    "status": null,
-    "injured": false
-  },
-  {
-    "fteam": "A Win Is Likely",
-    "fteam_id": 11,
-    "pid": 4428850,
-    "name": "Dontayvion Wicks",
-    "pos": "WR",
-    "pro": "PHI",
     "slot": "BE",
     "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "A Win Is Likely",
+    "fteam_id": 11,
+    "pid": 4372016,
+    "name": "Jaylen Waddle",
+    "pos": "WR",
+    "pro": "DEN",
+    "slot": "RB/WR",
+    "status": "QUESTIONABLE",
+    "injured": false
+  },
+  {
+    "fteam": "A Win Is Likely",
+    "fteam_id": 11,
+    "pid": 4696981,
+    "name": "Cam Skattebo",
+    "pos": "RB",
+    "pro": "NYG",
+    "slot": "RB",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "A Win Is Likely",
+    "fteam_id": 11,
+    "pid": 4241478,
+    "name": "DeVonta Smith",
+    "pos": "WR",
+    "pro": "PHI",
+    "slot": "WR",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "A Win Is Likely",
+    "fteam_id": 11,
+    "pid": 4259545,
+    "name": "D'Andre Swift",
+    "pos": "RB",
+    "pro": "CHI",
+    "slot": "RB",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "A Win Is Likely",
+    "fteam_id": 11,
+    "pid": -16002,
+    "name": "Bills D/ST",
+    "pos": "D/ST",
+    "pro": "BUF",
+    "slot": "D/ST",
+    "status": null,
     "injured": false
   },
   {
@@ -728,32 +728,10 @@
   {
     "fteam": "So Mahomey",
     "fteam_id": 12,
-    "pid": 4685472,
-    "name": "Tetairoa McMillan",
-    "pos": "WR",
-    "pro": "CAR",
-    "slot": "WR",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "So Mahomey",
-    "fteam_id": 12,
     "pid": 4723086,
     "name": "Colston Loveland",
     "pos": "TE",
     "pro": "CHI",
-    "slot": "TE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "So Mahomey",
-    "fteam_id": 12,
-    "pid": 4871023,
-    "name": "Carnell Tate",
-    "pos": "WR",
-    "pro": "TEN",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -794,17 +772,6 @@
   {
     "fteam": "So Mahomey",
     "fteam_id": 12,
-    "pid": 4432773,
-    "name": "Brian Thomas Jr.",
-    "pos": "WR",
-    "pro": "JAX",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "So Mahomey",
-    "fteam_id": 12,
     "pid": 2971573,
     "name": "Ka'imi Fairbairn",
     "pos": "K",
@@ -827,17 +794,6 @@
   {
     "fteam": "So Mahomey",
     "fteam_id": 12,
-    "pid": 4882093,
-    "name": "Bhayshul Tuten",
-    "pos": "RB",
-    "pro": "JAX",
-    "slot": "RB",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "So Mahomey",
-    "fteam_id": 12,
     "pid": 4361370,
     "name": "Chris Olave",
     "pos": "WR",
@@ -853,7 +809,7 @@
     "name": "De'Von Achane",
     "pos": "RB",
     "pro": "MIA",
-    "slot": "BE",
+    "slot": "IR",
     "status": "INJURY_RESERVE",
     "injured": true
   },
@@ -871,10 +827,54 @@
   {
     "fteam": "So Mahomey",
     "fteam_id": 12,
-    "pid": 3117256,
-    "name": "Dalton Schultz",
+    "pid": 3929645,
+    "name": "Juwan Johnson",
     "pos": "TE",
-    "pro": "HOU",
+    "pro": "NO",
+    "slot": "TE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "So Mahomey",
+    "fteam_id": 12,
+    "pid": 4701936,
+    "name": "Matthew Golden",
+    "pos": "WR",
+    "pro": "GB",
+    "slot": "WR",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "So Mahomey",
+    "fteam_id": 12,
+    "pid": 4685382,
+    "name": "Omarion Hampton",
+    "pos": "RB",
+    "pro": "LAC",
+    "slot": "RB",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "So Mahomey",
+    "fteam_id": 12,
+    "pid": 4682745,
+    "name": "Jaylen Wright",
+    "pos": "RB",
+    "pro": "MIA",
+    "slot": "BE",
+    "status": "QUESTIONABLE",
+    "injured": false
+  },
+  {
+    "fteam": "So Mahomey",
+    "fteam_id": 12,
+    "pid": 4832800,
+    "name": "Denzel Boston",
+    "pos": "WR",
+    "pro": "CLE",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -882,10 +882,10 @@
   {
     "fteam": "So Mahomey",
     "fteam_id": 12,
-    "pid": 4036378,
-    "name": "Jordan Love",
+    "pid": 3046779,
+    "name": "Jared Goff",
     "pos": "QB",
-    "pro": "GB",
+    "pro": "DET",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -1095,7 +1095,7 @@
     "name": "Justin Jefferson",
     "pos": "WR",
     "pro": "MIN",
-    "slot": "WR",
+    "slot": "RB/WR",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -1117,7 +1117,7 @@
     "name": "Rashee Rice",
     "pos": "WR",
     "pro": "KC",
-    "slot": "RB/WR",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1278,28 +1278,6 @@
   {
     "fteam": "Into the sunset",
     "fteam_id": 15,
-    "pid": 4372016,
-    "name": "Jaylen Waddle",
-    "pos": "WR",
-    "pro": "DEN",
-    "slot": "WR",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Into the sunset",
-    "fteam_id": 15,
-    "pid": 4696981,
-    "name": "Cam Skattebo",
-    "pos": "RB",
-    "pro": "NYG",
-    "slot": "RB",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Into the sunset",
-    "fteam_id": 15,
     "pid": 4035538,
     "name": "David Montgomery",
     "pos": "RB",
@@ -1315,7 +1293,7 @@
     "name": "Luther Burden III",
     "pos": "WR",
     "pro": "CHI",
-    "slot": "BE",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1410,10 +1388,32 @@
   {
     "fteam": "Into the sunset",
     "fteam_id": 15,
-    "pid": 3929645,
-    "name": "Juwan Johnson",
-    "pos": "TE",
-    "pro": "NO",
+    "pid": 2976212,
+    "name": "Stefon Diggs",
+    "pos": "WR",
+    "pro": "WSH",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Into the sunset",
+    "fteam_id": 15,
+    "pid": 4362238,
+    "name": "Chase Brown",
+    "pos": "RB",
+    "pro": "CIN",
+    "slot": "RB",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Into the sunset",
+    "fteam_id": 15,
+    "pid": 4432773,
+    "name": "Brian Thomas Jr.",
+    "pos": "WR",
+    "pro": "JAX",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -1447,7 +1447,7 @@
     "name": "Breece Hall",
     "pos": "RB",
     "pro": "NYJ",
-    "slot": "RB",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -1557,7 +1557,7 @@
     "name": "Braelon Allen",
     "pos": "RB",
     "pro": "NYJ",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
