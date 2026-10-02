@@ -1,6 +1,6 @@
 [
   {
-    "fteam": "SLIME SZN",
+    "fteam": "Victim #3",
     "fteam_id": 1,
     "pid": 4426515,
     "name": "Puka Nacua",
@@ -11,7 +11,7 @@
     "injured": false
   },
   {
-    "fteam": "SLIME SZN",
+    "fteam": "Victim #3",
     "fteam_id": 1,
     "pid": 4595348,
     "name": "Malik Nabers",
@@ -22,7 +22,7 @@
     "injured": false
   },
   {
-    "fteam": "SLIME SZN",
+    "fteam": "Victim #3",
     "fteam_id": 1,
     "pid": 4426348,
     "name": "Jayden Daniels",
@@ -33,7 +33,7 @@
     "injured": false
   },
   {
-    "fteam": "SLIME SZN",
+    "fteam": "Victim #3",
     "fteam_id": 1,
     "pid": 4678008,
     "name": "Jonathon Brooks",
@@ -44,7 +44,7 @@
     "injured": true
   },
   {
-    "fteam": "SLIME SZN",
+    "fteam": "Victim #3",
     "fteam_id": 1,
     "pid": 4035687,
     "name": "Michael Pittman Jr.",
@@ -55,7 +55,7 @@
     "injured": false
   },
   {
-    "fteam": "SLIME SZN",
+    "fteam": "Victim #3",
     "fteam_id": 1,
     "pid": 4360569,
     "name": "Jordan Mason",
@@ -66,7 +66,7 @@
     "injured": true
   },
   {
-    "fteam": "SLIME SZN",
+    "fteam": "Victim #3",
     "fteam_id": 1,
     "pid": 4880281,
     "name": "Jordyn Tyson",
@@ -77,7 +77,7 @@
     "injured": true
   },
   {
-    "fteam": "SLIME SZN",
+    "fteam": "Victim #3",
     "fteam_id": 1,
     "pid": -16026,
     "name": "Seahawks D/ST",
@@ -88,7 +88,7 @@
     "injured": false
   },
   {
-    "fteam": "SLIME SZN",
+    "fteam": "Victim #3",
     "fteam_id": 1,
     "pid": 4385690,
     "name": "Dalton Kincaid",
@@ -99,7 +99,7 @@
     "injured": false
   },
   {
-    "fteam": "SLIME SZN",
+    "fteam": "Victim #3",
     "fteam_id": 1,
     "pid": 4596334,
     "name": "Keaton Mitchell",
@@ -110,7 +110,7 @@
     "injured": false
   },
   {
-    "fteam": "SLIME SZN",
+    "fteam": "Victim #3",
     "fteam_id": 1,
     "pid": 4429096,
     "name": "Blake Corum",
@@ -121,7 +121,7 @@
     "injured": false
   },
   {
-    "fteam": "SLIME SZN",
+    "fteam": "Victim #3",
     "fteam_id": 1,
     "pid": 4360310,
     "name": "Trevor Lawrence",
@@ -132,7 +132,7 @@
     "injured": false
   },
   {
-    "fteam": "SLIME SZN",
+    "fteam": "Victim #3",
     "fteam_id": 1,
     "pid": 4871023,
     "name": "Carnell Tate",
@@ -143,7 +143,7 @@
     "injured": false
   },
   {
-    "fteam": "SLIME SZN",
+    "fteam": "Victim #3",
     "fteam_id": 1,
     "pid": 4685472,
     "name": "Tetairoa McMillan",
@@ -154,7 +154,7 @@
     "injured": false
   },
   {
-    "fteam": "SLIME SZN",
+    "fteam": "Victim #3",
     "fteam_id": 1,
     "pid": 4882093,
     "name": "Bhayshul Tuten",
@@ -165,7 +165,7 @@
     "injured": false
   },
   {
-    "fteam": "SLIME SZN",
+    "fteam": "Victim #3",
     "fteam_id": 1,
     "pid": 4890973,
     "name": "Ashton Jeanty",
@@ -176,7 +176,7 @@
     "injured": false
   },
   {
-    "fteam": "SLIME SZN",
+    "fteam": "Victim #3",
     "fteam_id": 1,
     "pid": 4360234,
     "name": "Evan McPherson",
@@ -187,14 +187,14 @@
     "injured": false
   },
   {
-    "fteam": "SLIME SZN",
+    "fteam": "Victim #3",
     "fteam_id": 1,
     "pid": 15818,
     "name": "Keenan Allen",
     "pos": "WR",
     "pro": "IND",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -321,17 +321,6 @@
   {
     "fteam": "Team Josh",
     "fteam_id": 9,
-    "pid": 4832955,
-    "name": "Emmett Johnson",
-    "pos": "RB",
-    "pro": "KC",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Team Josh",
-    "fteam_id": 9,
     "pid": 4702555,
     "name": "Jonah Coleman",
     "pos": "RB",
@@ -385,6 +374,17 @@
     "injured": false
   },
   {
+    "fteam": "Team Josh",
+    "fteam_id": 9,
+    "pid": 4569587,
+    "name": "Wan'Dale Robinson",
+    "pos": "WR",
+    "pro": "TEN",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
     "fteam": "Might be gay for Hurts",
     "fteam_id": 10,
     "pid": 4242335,
@@ -435,8 +435,8 @@
     "name": "Travis Etienne Jr.",
     "pos": "RB",
     "pro": "NO",
-    "slot": "BE",
-    "status": "OUT",
+    "slot": "IR",
+    "status": "INJURY_RESERVE",
     "injured": true
   },
   {
@@ -468,7 +468,7 @@
     "name": "Mike Evans",
     "pos": "WR",
     "pro": "SF",
-    "slot": "WR",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -479,7 +479,7 @@
     "name": "Rico Dowdle",
     "pos": "RB",
     "pro": "PIT",
-    "slot": "BE",
+    "slot": "IR",
     "status": "OUT",
     "injured": true
   },
@@ -545,6 +545,39 @@
     "name": "Austin Ekeler",
     "pos": "RB",
     "pro": "WSH",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Might be gay for Hurts",
+    "fteam_id": 10,
+    "pid": 4599739,
+    "name": "Kendre Miller",
+    "pos": "RB",
+    "pro": "NO",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Might be gay for Hurts",
+    "fteam_id": 10,
+    "pid": 2973405,
+    "name": "Kalif Raymond",
+    "pos": "WR",
+    "pro": "CHI",
+    "slot": "WR",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Might be gay for Hurts",
+    "fteam_id": 10,
+    "pid": 4428850,
+    "name": "Dontayvion Wicks",
+    "pos": "WR",
+    "pro": "PHI",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -700,7 +733,7 @@
     "pos": "RB",
     "pro": "CHI",
     "slot": "RB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -865,7 +898,7 @@
     "pos": "RB",
     "pro": "MIA",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -891,7 +924,7 @@
     "injured": false
   },
   {
-    "fteam": "cmc and friends ",
+    "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
     "pid": 3117251,
     "name": "Christian McCaffrey",
@@ -902,7 +935,7 @@
     "injured": false
   },
   {
-    "fteam": "cmc and friends ",
+    "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
     "pid": 4047646,
     "name": "A.J. Brown",
@@ -913,7 +946,7 @@
     "injured": true
   },
   {
-    "fteam": "cmc and friends ",
+    "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
     "pid": 3043078,
     "name": "Derrick Henry",
@@ -924,18 +957,18 @@
     "injured": false
   },
   {
-    "fteam": "cmc and friends ",
+    "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
     "pid": 4429615,
     "name": "Zay Flowers",
     "pos": "WR",
     "pro": "BAL",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
-    "fteam": "cmc and friends ",
+    "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
     "pid": 3915416,
     "name": "DJ Moore",
@@ -946,7 +979,7 @@
     "injured": false
   },
   {
-    "fteam": "cmc and friends ",
+    "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
     "pid": 4360248,
     "name": "Kyle Pitts Sr.",
@@ -957,7 +990,7 @@
     "injured": false
   },
   {
-    "fteam": "cmc and friends ",
+    "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
     "pid": 4432620,
     "name": "Parker Washington",
@@ -968,7 +1001,7 @@
     "injured": false
   },
   {
-    "fteam": "cmc and friends ",
+    "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
     "pid": 3040151,
     "name": "George Kittle",
@@ -979,18 +1012,7 @@
     "injured": false
   },
   {
-    "fteam": "cmc and friends ",
-    "fteam_id": 13,
-    "pid": 4429023,
-    "name": "MarShawn Lloyd",
-    "pos": "RB",
-    "pro": "GB",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "cmc and friends ",
+    "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
     "pid": 4038941,
     "name": "Justin Herbert",
@@ -1001,7 +1023,7 @@
     "injured": false
   },
   {
-    "fteam": "cmc and friends ",
+    "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
     "pid": 4047650,
     "name": "DK Metcalf",
@@ -1012,7 +1034,7 @@
     "injured": false
   },
   {
-    "fteam": "cmc and friends ",
+    "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
     "pid": 2473037,
     "name": "Jason Myers",
@@ -1023,7 +1045,7 @@
     "injured": false
   },
   {
-    "fteam": "cmc and friends ",
+    "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
     "pid": 4361741,
     "name": "Brock Purdy",
@@ -1034,7 +1056,7 @@
     "injured": false
   },
   {
-    "fteam": "cmc and friends ",
+    "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
     "pid": 4870847,
     "name": "Ja'Kobi Lane",
@@ -1045,7 +1067,7 @@
     "injured": true
   },
   {
-    "fteam": "cmc and friends ",
+    "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
     "pid": -16025,
     "name": "49ers D/ST",
@@ -1056,7 +1078,7 @@
     "injured": false
   },
   {
-    "fteam": "cmc and friends ",
+    "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
     "pid": 4569559,
     "name": "Devaughn Vele",
@@ -1067,12 +1089,23 @@
     "injured": false
   },
   {
-    "fteam": "cmc and friends ",
+    "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
     "pid": 3054850,
     "name": "Alvin Kamara",
     "pos": "RB",
     "pro": "NO",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Kittles: Taste The Rainbow ",
+    "fteam_id": 13,
+    "pid": 4429059,
+    "name": "Woody Marks",
+    "pos": "RB",
+    "pro": "HOU",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -1425,7 +1458,7 @@
     "name": "Amon-Ra St. Brown",
     "pos": "WR",
     "pro": "DET",
-    "slot": "WR",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1459,7 +1492,7 @@
     "pos": "QB",
     "pro": "BAL",
     "slot": "QB",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1480,7 +1513,7 @@
     "name": "Terry McLaurin",
     "pos": "WR",
     "pro": "WSH",
-    "slot": "RB/WR",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1645,7 +1678,7 @@
     "name": "Kyren Williams",
     "pos": "RB",
     "pro": "LAR",
-    "slot": "RB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1678,7 +1711,7 @@
     "name": "Drake Maye",
     "pos": "QB",
     "pro": "NE",
-    "slot": "QB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1690,7 +1723,7 @@
     "pos": "RB",
     "pro": "TEN",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1711,7 +1744,7 @@
     "name": "Chuba Hubbard",
     "pos": "RB",
     "pro": "CAR",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1723,7 +1756,7 @@
     "pos": "WR",
     "pro": "TB",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1766,7 +1799,7 @@
     "name": "Kyler Murray",
     "pos": "QB",
     "pro": "MIN",
-    "slot": "BE",
+    "slot": "QB",
     "status": "ACTIVE",
     "injured": false
   }
