@@ -7,7 +7,7 @@
     "pos": "WR",
     "pro": "LAR",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -29,8 +29,8 @@
     "pos": "QB",
     "pro": "WSH",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Victim #3",
@@ -106,7 +106,7 @@
     "pos": "RB",
     "pro": "LAC",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -424,7 +424,7 @@
     "name": "Ladd McConkey",
     "pos": "WR",
     "pro": "LAC",
-    "slot": "WR",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -502,7 +502,7 @@
     "pos": "WR",
     "pro": "JAX",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -512,7 +512,7 @@
     "name": "Jordan Addison",
     "pos": "WR",
     "pro": "MIN",
-    "slot": "RB/WR",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -552,22 +552,11 @@
   {
     "fteam": "Might be gay for Hurts",
     "fteam_id": 10,
-    "pid": 4599739,
-    "name": "Kendre Miller",
-    "pos": "RB",
-    "pro": "NO",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Might be gay for Hurts",
-    "fteam_id": 10,
     "pid": 2973405,
     "name": "Kalif Raymond",
     "pos": "WR",
     "pro": "CHI",
-    "slot": "WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -578,7 +567,18 @@
     "name": "Dontayvion Wicks",
     "pos": "WR",
     "pro": "PHI",
-    "slot": "BE",
+    "slot": "WR",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Might be gay for Hurts",
+    "fteam_id": 10,
+    "pid": 4887558,
+    "name": "Emanuel Wilson",
+    "pos": "RB",
+    "pro": "SEA",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -601,8 +601,8 @@
     "pos": "RB",
     "pro": "SEA",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "A Win Is Likely",
@@ -612,8 +612,8 @@
     "pos": "QB",
     "pro": "CHI",
     "slot": "BE",
-    "status": "DOUBTFUL",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "A Win Is Likely",
@@ -656,7 +656,7 @@
     "pos": "WR",
     "pro": "HOU",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -666,7 +666,7 @@
     "name": "Jalen Coker",
     "pos": "WR",
     "pro": "CAR",
-    "slot": "BE",
+    "slot": "WR",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -721,9 +721,9 @@
     "name": "DeVonta Smith",
     "pos": "WR",
     "pro": "PHI",
-    "slot": "WR",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "slot": "BE",
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "A Win Is Likely",
@@ -733,7 +733,7 @@
     "pos": "RB",
     "pro": "CHI",
     "slot": "RB",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -964,7 +964,7 @@
     "pos": "WR",
     "pro": "BAL",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -975,7 +975,7 @@
     "pos": "WR",
     "pro": "BUF",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1129,8 +1129,8 @@
     "pos": "WR",
     "pro": "MIN",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Mikeeee",
@@ -1481,8 +1481,8 @@
     "pos": "RB",
     "pro": "NYJ",
     "slot": "BE",
-    "status": "DOUBTFUL",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": ".",
@@ -1503,7 +1503,7 @@
     "pos": "RB",
     "pro": "TB",
     "slot": "RB",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1514,7 +1514,7 @@
     "pos": "WR",
     "pro": "WSH",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1678,7 +1678,7 @@
     "name": "Kyren Williams",
     "pos": "RB",
     "pro": "LAR",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1689,7 +1689,7 @@
     "name": "Davante Adams",
     "pos": "WR",
     "pro": "LAR",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1767,8 +1767,8 @@
     "pos": "RB",
     "pro": "WSH",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Chase Bank",
