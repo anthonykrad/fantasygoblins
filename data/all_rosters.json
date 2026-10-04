@@ -194,8 +194,8 @@
     "pos": "WR",
     "pro": "IND",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Team Josh",
@@ -589,7 +589,7 @@
     "name": "Emeka Egbuka",
     "pos": "WR",
     "pro": "TB",
-    "slot": "BE",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -600,8 +600,8 @@
     "name": "Jadarian Price",
     "pos": "RB",
     "pro": "SEA",
-    "slot": "BE",
-    "status": "OUT",
+    "slot": "IR",
+    "status": "INJURY_RESERVE",
     "injured": true
   },
   {
@@ -666,7 +666,7 @@
     "name": "Jalen Coker",
     "pos": "WR",
     "pro": "CAR",
-    "slot": "WR",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -964,7 +964,7 @@
     "pos": "WR",
     "pro": "BAL",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1128,7 +1128,7 @@
     "name": "Justin Jefferson",
     "pos": "WR",
     "pro": "MIN",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "OUT",
     "injured": true
   },
@@ -1172,7 +1172,7 @@
     "name": "TreVeyon Henderson",
     "pos": "RB",
     "pro": "NE",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1388,17 +1388,6 @@
   {
     "fteam": "Into the sunset",
     "fteam_id": 15,
-    "pid": -16017,
-    "name": "Patriots D/ST",
-    "pos": "D/ST",
-    "pro": "NE",
-    "slot": "D/ST",
-    "status": null,
-    "injured": false
-  },
-  {
-    "fteam": "Into the sunset",
-    "fteam_id": 15,
     "pid": 3116406,
     "name": "Tyreek Hill",
     "pos": "WR",
@@ -1452,13 +1441,24 @@
     "injured": false
   },
   {
+    "fteam": "Into the sunset",
+    "fteam_id": 15,
+    "pid": -16003,
+    "name": "Bears D/ST",
+    "pos": "D/ST",
+    "pro": "CHI",
+    "slot": "D/ST",
+    "status": null,
+    "injured": false
+  },
+  {
     "fteam": ".",
     "fteam_id": 16,
     "pid": 4374302,
     "name": "Amon-Ra St. Brown",
     "pos": "WR",
     "pro": "DET",
-    "slot": "RB/WR",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1513,9 +1513,9 @@
     "name": "Terry McLaurin",
     "pos": "WR",
     "pro": "WSH",
-    "slot": "WR",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "slot": "BE",
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": ".",
@@ -1535,7 +1535,7 @@
     "name": "Rhamondre Stevenson",
     "pos": "RB",
     "pro": "NE",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1630,13 +1630,13 @@
   {
     "fteam": ".",
     "fteam_id": 16,
-    "pid": 5083315,
-    "name": "Kenyon Sadiq",
-    "pos": "TE",
-    "pro": "NYJ",
-    "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "pid": 3116385,
+    "name": "Joe Mixon",
+    "pos": "RB",
+    "pro": "FA",
+    "slot": "IR",
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Chase Bank",
