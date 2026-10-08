@@ -29,8 +29,8 @@
     "pos": "QB",
     "pro": "WSH",
     "slot": "BE",
-    "status": "OUT",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "the world",
@@ -95,17 +95,6 @@
     "pos": "TE",
     "pro": "BUF",
     "slot": "TE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "the world",
-    "fteam_id": 1,
-    "pid": 4596334,
-    "name": "Keaton Mitchell",
-    "pos": "RB",
-    "pro": "LAC",
-    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -189,13 +178,24 @@
   {
     "fteam": "the world",
     "fteam_id": 1,
-    "pid": 15818,
-    "name": "Keenan Allen",
-    "pos": "WR",
-    "pro": "IND",
+    "pid": 5083315,
+    "name": "Kenyon Sadiq",
+    "pos": "TE",
+    "pro": "NYJ",
     "slot": "BE",
-    "status": "OUT",
-    "injured": true
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "the world",
+    "fteam_id": 1,
+    "pid": -16030,
+    "name": "Jaguars D/ST",
+    "pos": "D/ST",
+    "pro": "JAX",
+    "slot": "BE",
+    "status": null,
+    "injured": false
   },
   {
     "fteam": "Team Josh",
@@ -468,7 +468,7 @@
     "name": "Mike Evans",
     "pos": "WR",
     "pro": "SF",
-    "slot": "BE",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -480,8 +480,8 @@
     "pos": "RB",
     "pro": "PIT",
     "slot": "IR",
-    "status": "OUT",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "Might be gay for Hurts",
@@ -512,7 +512,7 @@
     "name": "Jordan Addison",
     "pos": "WR",
     "pro": "MIN",
-    "slot": "WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -589,7 +589,7 @@
     "name": "Emeka Egbuka",
     "pos": "WR",
     "pro": "TB",
-    "slot": "WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -644,7 +644,7 @@
     "name": "Romeo Doubs",
     "pos": "WR",
     "pro": "NE",
-    "slot": "BE",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -667,8 +667,8 @@
     "pos": "WR",
     "pro": "CAR",
     "slot": "BE",
-    "status": "OUT",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "A Win Is Likely",
@@ -722,8 +722,8 @@
     "pos": "WR",
     "pro": "PHI",
     "slot": "BE",
-    "status": "OUT",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "A Win Is Likely",
@@ -745,6 +745,17 @@
     "pro": "BUF",
     "slot": "D/ST",
     "status": null,
+    "injured": false
+  },
+  {
+    "fteam": "A Win Is Likely",
+    "fteam_id": 11,
+    "pid": 4241474,
+    "name": "Brian Robinson Jr.",
+    "pos": "RB",
+    "pro": "ATL",
+    "slot": "BE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1036,17 +1047,6 @@
   {
     "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
-    "pid": 2473037,
-    "name": "Jason Myers",
-    "pos": "K",
-    "pro": "SEA",
-    "slot": "K",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Kittles: Taste The Rainbow ",
-    "fteam_id": 13,
     "pid": 4361741,
     "name": "Brock Purdy",
     "pos": "QB",
@@ -1111,6 +1111,17 @@
     "injured": false
   },
   {
+    "fteam": "Kittles: Taste The Rainbow ",
+    "fteam_id": 13,
+    "pid": 4567104,
+    "name": "Will Reichard",
+    "pos": "K",
+    "pro": "MIN",
+    "slot": "K",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
     "fteam": "Mikeeee",
     "fteam_id": 14,
     "pid": 4430878,
@@ -1129,8 +1140,8 @@
     "pos": "WR",
     "pro": "MIN",
     "slot": "WR",
-    "status": "OUT",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "Mikeeee",
@@ -1256,23 +1267,23 @@
   {
     "fteam": "Mikeeee",
     "fteam_id": 14,
-    "pid": -16009,
-    "name": "Packers D/ST",
-    "pos": "D/ST",
-    "pro": "GB",
-    "slot": "D/ST",
-    "status": null,
-    "injured": false
-  },
-  {
-    "fteam": "Mikeeee",
-    "fteam_id": 14,
     "pid": 4034949,
     "name": "Eddy Pineiro",
     "pos": "K",
     "pro": "SF",
     "slot": "K",
     "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Mikeeee",
+    "fteam_id": 14,
+    "pid": -16004,
+    "name": "Bengals D/ST",
+    "pos": "D/ST",
+    "pro": "CIN",
+    "slot": "D/ST",
+    "status": null,
     "injured": false
   },
   {
@@ -1377,17 +1388,6 @@
   {
     "fteam": "Into the sunset",
     "fteam_id": 15,
-    "pid": 4362081,
-    "name": "Cameron Dicker",
-    "pos": "K",
-    "pro": "LAC",
-    "slot": "K",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Into the sunset",
-    "fteam_id": 15,
     "pid": 3116406,
     "name": "Tyreek Hill",
     "pos": "WR",
@@ -1395,17 +1395,6 @@
     "slot": "IR",
     "status": "OUT",
     "injured": true
-  },
-  {
-    "fteam": "Into the sunset",
-    "fteam_id": 15,
-    "pid": 4683062,
-    "name": "Xavier Worthy",
-    "pos": "WR",
-    "pro": "KC",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
   },
   {
     "fteam": "Into the sunset",
@@ -1452,7 +1441,29 @@
     "injured": false
   },
   {
-    "fteam": "You dont have to be the bad guy",
+    "fteam": "Into the sunset",
+    "fteam_id": 15,
+    "pid": 4635008,
+    "name": "Keon Coleman",
+    "pos": "WR",
+    "pro": "BUF",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Into the sunset",
+    "fteam_id": 15,
+    "pid": 4571557,
+    "name": "Spencer Shrader",
+    "pos": "K",
+    "pro": "IND",
+    "slot": "K",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "The Dark Side",
     "fteam_id": 16,
     "pid": 4374302,
     "name": "Amon-Ra St. Brown",
@@ -1463,7 +1474,7 @@
     "injured": false
   },
   {
-    "fteam": "You dont have to be the bad guy",
+    "fteam": "The Dark Side",
     "fteam_id": 16,
     "pid": 4241389,
     "name": "CeeDee Lamb",
@@ -1474,29 +1485,29 @@
     "injured": false
   },
   {
-    "fteam": "You dont have to be the bad guy",
+    "fteam": "The Dark Side",
     "fteam_id": 16,
     "pid": 4427366,
     "name": "Breece Hall",
     "pos": "RB",
     "pro": "NYJ",
     "slot": "RB",
-    "status": "OUT",
-    "injured": true
+    "status": "DOUBTFUL",
+    "injured": false
   },
   {
-    "fteam": "You dont have to be the bad guy",
+    "fteam": "The Dark Side",
     "fteam_id": 16,
     "pid": 3916387,
     "name": "Lamar Jackson",
     "pos": "QB",
     "pro": "BAL",
-    "slot": "QB",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
   {
-    "fteam": "You dont have to be the bad guy",
+    "fteam": "The Dark Side",
     "fteam_id": 16,
     "pid": 4596448,
     "name": "Bucky Irving",
@@ -1507,18 +1518,18 @@
     "injured": false
   },
   {
-    "fteam": "You dont have to be the bad guy",
+    "fteam": "The Dark Side",
     "fteam_id": 16,
     "pid": 3121422,
     "name": "Terry McLaurin",
     "pos": "WR",
     "pro": "WSH",
     "slot": "RB/WR",
-    "status": "OUT",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
-    "fteam": "You dont have to be the bad guy",
+    "fteam": "The Dark Side",
     "fteam_id": 16,
     "pid": 4432708,
     "name": "Marvin Harrison Jr.",
@@ -1529,7 +1540,7 @@
     "injured": false
   },
   {
-    "fteam": "You dont have to be the bad guy",
+    "fteam": "The Dark Side",
     "fteam_id": 16,
     "pid": 4569173,
     "name": "Rhamondre Stevenson",
@@ -1540,7 +1551,7 @@
     "injured": false
   },
   {
-    "fteam": "You dont have to be the bad guy",
+    "fteam": "The Dark Side",
     "fteam_id": 16,
     "pid": 3953687,
     "name": "Brandon Aubrey",
@@ -1551,7 +1562,7 @@
     "injured": false
   },
   {
-    "fteam": "You dont have to be the bad guy",
+    "fteam": "The Dark Side",
     "fteam_id": 16,
     "pid": 4608686,
     "name": "Kyle Monangai",
@@ -1562,7 +1573,7 @@
     "injured": false
   },
   {
-    "fteam": "You dont have to be the bad guy",
+    "fteam": "The Dark Side",
     "fteam_id": 16,
     "pid": -16034,
     "name": "Texans D/ST",
@@ -1573,7 +1584,7 @@
     "injured": false
   },
   {
-    "fteam": "You dont have to be the bad guy",
+    "fteam": "The Dark Side",
     "fteam_id": 16,
     "pid": 15847,
     "name": "Travis Kelce",
@@ -1584,7 +1595,7 @@
     "injured": false
   },
   {
-    "fteam": "You dont have to be the bad guy",
+    "fteam": "The Dark Side",
     "fteam_id": 16,
     "pid": 4685247,
     "name": "Braelon Allen",
@@ -1595,18 +1606,7 @@
     "injured": false
   },
   {
-    "fteam": "You dont have to be the bad guy",
-    "fteam_id": 16,
-    "pid": -16012,
-    "name": "Chiefs D/ST",
-    "pos": "D/ST",
-    "pro": "KC",
-    "slot": "BE",
-    "status": null,
-    "injured": false
-  },
-  {
-    "fteam": "You dont have to be the bad guy",
+    "fteam": "The Dark Side",
     "fteam_id": 16,
     "pid": 4426385,
     "name": "Zach Charbonnet",
@@ -1617,7 +1617,7 @@
     "injured": true
   },
   {
-    "fteam": "You dont have to be the bad guy",
+    "fteam": "The Dark Side",
     "fteam_id": 16,
     "pid": 3045147,
     "name": "James Conner",
@@ -1628,14 +1628,25 @@
     "injured": true
   },
   {
-    "fteam": "You dont have to be the bad guy",
+    "fteam": "The Dark Side",
     "fteam_id": 16,
-    "pid": 3116385,
-    "name": "Joe Mixon",
-    "pos": "RB",
-    "pro": "FA",
-    "slot": "BE",
+    "pid": 2578570,
+    "name": "Jacoby Brissett",
+    "pos": "QB",
+    "pro": "ARI",
+    "slot": "QB",
     "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "The Dark Side",
+    "fteam_id": 16,
+    "pid": 3121023,
+    "name": "Dallas Goedert",
+    "pos": "TE",
+    "pro": "PHI",
+    "slot": "TE",
+    "status": "DOUBTFUL",
     "injured": false
   },
   {
@@ -1767,8 +1778,8 @@
     "pos": "RB",
     "pro": "WSH",
     "slot": "BE",
-    "status": "OUT",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "Chase Bank",
