@@ -148,7 +148,8 @@
       "NEW (9/30): popped up on Baltimore's Week 4 injury report as a limited practice participant with a back injury — a new issue, not a recurrence of 2025's hamstring/back trouble. HC Jesse Minter called it \"something small\" and does not expect it to be a factor Sunday vs. Tennessee; Jackson showed no outward signs of discomfort talking to reporters (NBC Sports, CBS Sports, 9/30). Treat as day-to-day, expected to play.",
       "CLEARED (10/1-2): the back issue that popped up Wednesday was a one-day story — Jackson was upgraded to a full practice participant Thursday, and the Ravens' full injury report (Andrews, Campbell, Flowers, Humphrey all full; only Gwyn and Hendrickson DNP) shows no lingering concern. On track to start Sunday's Week 4 game vs. Tennessee as normal (Yahoo Sports, 10/1-2).",
       "UPDATE (10/5): HC John Harbaugh said Monday that an MRI on the back injury showed only a \"significant contusion\" with nothing structural -- \"I don't want to minimize the severity and pain level of that because it's legit\" -- supporting a day-to-day designation rather than a serious new issue (NFL.com, ESPN, Ravens.com). Context: Baltimore lost Week 4 28-12 to Tennessee and Jackson had a rough game by his standards (2 INTs, a fumble, sacked 4 times), which plausibly explains the soreness behind today's QUESTIONABLE tag. Keeping Health Watch given the clean imaging.",
-      "CORRECTION (10/6): yesterday's note describing a back contusion and a 28-12 Week 4 loss to Tennessee was inaccurate -- the real story: Baltimore beat Tennessee 24-18 on 10/4 (Titans fell to 0-4), and Jackson's ankle rolled awkwardly under a Tennessee defender late in the 2nd quarter; he left the game and did not return (the Ravens scored nothing after that point -- all 24 points came in the first half). His current Week 5 QUESTIONABLE tag is for this ankle injury, not a back issue. No official practice report has posted yet as of today (Monday); the first real signal will be Wednesday's Week 5 injury report. Upgrading tag from Health Watch to Injury given the confirmed in-game injury and no \"expected to play\" signal so far."
+      "CORRECTION (10/6): yesterday's note describing a back contusion and a 28-12 Week 4 loss to Tennessee was inaccurate -- the real story: Baltimore beat Tennessee 24-18 on 10/4 (Titans fell to 0-4), and Jackson's ankle rolled awkwardly under a Tennessee defender late in the 2nd quarter; he left the game and did not return (the Ravens scored nothing after that point -- all 24 points came in the first half). His current Week 5 QUESTIONABLE tag is for this ankle injury, not a back issue. No official practice report has posted yet as of today (Monday); the first real signal will be Wednesday's Week 5 injury report. Upgrading tag from Health Watch to Injury given the confirmed in-game injury and no \"expected to play\" signal so far.",
+      "UPDATE (10/8): per multiple reports (10/4-5), Jackson was seen leaving in a walking boot after the ankle injury and underwent an MRI Monday; HC Jesse Minter said results weren't in yet and the team wouldn't update his status until Wednesday. Sources disagree on severity -- Ian Rapoport frames it as day-to-day, while PFT's Mike Florio called it 'week-to-week' -- but Minter said the injury 'isn't expected to be long-term.' Tyler Huntley would start if Jackson sits Sunday vs. Atlanta; no official Wednesday practice report had posted as of this search, so recheck Thursday/Friday."
     ]
   },
   "Ja'Kobi Lane": {
@@ -244,12 +245,13 @@
   },
   "Tee Higgins": {
     "tags": [
-      "Injury"
+      "Health Watch"
     ],
     "bullets": [
       "Played through a heel contusion in Week 1, catching 3 of 6 targets for 59 yards.",
       "NEW (9/30): ruled OUT for Thursday's Week 4 game at Jacksonville with a shoulder injury, after not practicing Wednesday (CBS Sports, FantasyPros, RotoWire, 9/30). Reporting doesn't yet specify when the shoulder issue arose or a return timeline — flagging this as fresh news since our own roster tracker's status field hasn't yet caught up to the OUT designation. S Jessie Bates III (neck) is also out for Cincinnati Thursday. Ja'Marr Chase remains the clear top target in his absence.",
-      "UPDATE (10/5): missed a second straight game with the shoulder injury in Thursday's Week 4 loss to Jacksonville, never practicing that week (CBS Sports, National Football Post, Sportskeeda, 10/1-2). Today's flip from OUT back to QUESTIONABLE suggests real practice-field progress toward a return -- HC Zac Taylor has called him \"on the right trajectory to play\" -- but no firm return date has been reported yet, so keeping the standard Injury tier rather than Short-Term. Ja'Marr Chase remains Cincinnati's clear top target in his continued absence."
+      "UPDATE (10/5): missed a second straight game with the shoulder injury in Thursday's Week 4 loss to Jacksonville, never practicing that week (CBS Sports, National Football Post, Sportskeeda, 10/1-2). Today's flip from OUT back to QUESTIONABLE suggests real practice-field progress toward a return -- HC Zac Taylor has called him \"on the right trajectory to play\" -- but no firm return date has been reported yet, so keeping the standard Injury tier rather than Short-Term. Ja'Marr Chase remains Cincinnati's clear top target in his continued absence.",
+      "CORRECTION (10/8): previous notes describing a 'shoulder' injury that kept Higgins out of the Jacksonville game were inaccurate. The real story: Higgins played in Week 4's 22-17 loss to Jacksonville and had a big game (11 catches for 157 yards on 16 targets) before hurting his adductor on a late sideline catch, leaving briefly and managing one final-drive snap. HC Zac Taylor called him day-to-day Monday and did not rule him out for Sunday's Week 5 game at Miami, alongside Ja'Marr Chase's concussion situation (FieldLevelMedia, RotoBaller, 4for4, 10/5). Downgrading tag from Injury to Health Watch given the day-to-day framing and that he already played through it once."
     ]
   },
   "Joe Burrow": {
@@ -447,10 +449,12 @@
   },
   "Quentin Johnston": {
     "tags": [
-      "Depth Chart Secured"
+      "Depth Chart Secured",
+      "Health Watch"
     ],
     "bullets": [
-      "Locked in as a starter opposite Ladd McConkey now that Mike Williams retired; still a boom-or-bust profile in a run-first McDaniel scheme."
+      "Locked in as a starter opposite Ladd McConkey now that Mike Williams retired; still a boom-or-bust profile in a run-first McDaniel scheme.",
+      "NEW (10/8): picked up a QUESTIONABLE tag ahead of Sunday's Week 5 game vs. Denver; specific injury type wasn't confirmed by beat writers via search as of Wednesday -- recheck Thursday/Friday Chargers reports. Teammate Ladd McConkey (foot) is also banged up, which could mean more target competition if Johnston plays on limited snaps."
     ]
   },
   "Matthew Stafford": {
@@ -464,12 +468,13 @@
   },
   "Brock Bowers": {
     "tags": [
-      "Healthy"
+      "Health Watch"
     ],
     "bullets": [
       "Missed Week 1 (meniscus trim surgery in early September) and Week 2 at the Chargers, then came down to a Sunday game-time call for Week 3 vs. New Orleans.",
       "CLEARED AND DELIVERED: officially active roughly 2 hours before kickoff and made a monstrous 2026 season debut in Sunday's Week 3 win over the Saints — 10 catches on 13 targets for 116 yards and a touchdown (CBS Sports, NBC Sports, 9/27), instantly re-establishing himself as Las Vegas' clear top receiving option.",
-      "No re-aggravation reported after the workload; Michael Mayer moves back to a clear TE2 role now that Bowers has cleared and produced in the same game."
+      "No re-aggravation reported after the workload; Michael Mayer moves back to a clear TE2 role now that Bowers has cleared and produced in the same game.",
+      "UPDATE (10/8): Bowers has carried a QUESTIONABLE tag in each of the last two weeks -- an illness (not his earlier knee issue) was the reported cause ahead of Week 4 vs. Kansas City, and the Raiders expected him to play (ESPN's Adam Schefter, 10/4); he's QUESTIONABLE again for Sunday's Week 5 game vs. New England, though the specific reason behind this week's tag hadn't been reported by beat writers as of Wednesday."
     ]
   },
   "Justin Jefferson": {
@@ -481,16 +486,19 @@
       "Left Sunday's Week 3 win over Tampa Bay (23-16) early in the 1st quarter with a left ankle injury after a defender landed on it during a 10-yard screen reception, and did not return.",
       "NEW: Monday's MRI (9/28) revealed a clean ankle sprain with no structural/long-term damage — a real relief given the initial fear of a high-ankle or deltoid-ligament issue. HC Kevin O'Connell called the outlook positive and said the team will manage his practice reps through the week to gauge Week 4 availability vs. Miami; there's a real chance he plays (ESPN, NBC Sports, Bleacher Report, Athlon, 9/28-29). Downgrading tag from Injury to Health Watch given the clean imaging and plausible Week 4 clearance.",
       "WORSENED (10/2-3): despite the clean MRI and earlier optimism, Jefferson was officially ruled OUT for Sunday's Week 4 home game vs. Miami (CBS Sports' Week 4 injury report, PrizePicks, 10/2-3) -- the ankle sprain needed more than a week of management after all. Bumping tag from Health Watch to Injury; no multi-week timeline reported, so treat as a week-to-week absence for now rather than Short/Long-Term.",
-      "TRENDING UP (10/7): QUESTIONABLE for Sunday's Week 5 game at New Orleans. HC Kevin O'Connell said as of 10/3-4 that Jefferson has made \"great progress\" on the ankle, though it's \"too early to say\" definitively if he plays (ESPN's Jeremy Fowler, Fox9, NBC Sports). No setback reported since last week's OUT designation -- keeping the Injury tag for now given he's not yet confirmed to play, but this reads as a real step toward a Week 5 return rather than a new concern."
+      "TRENDING UP (10/7): QUESTIONABLE for Sunday's Week 5 game at New Orleans. HC Kevin O'Connell said as of 10/3-4 that Jefferson has made \"great progress\" on the ankle, though it's \"too early to say\" definitively if he plays (ESPN's Jeremy Fowler, Fox9, NBC Sports). No setback reported since last week's OUT designation -- keeping the Injury tag for now given he's not yet confirmed to play, but this reads as a real step toward a Week 5 return rather than a new concern.",
+      "UPDATE (10/8): was a limited practice participant to begin Week 5 prep (Wednesday, 10/7) for Sunday's game at New Orleans -- a step up from last week's OUT designation, though not yet confirmation he plays. Final designation comes Friday."
     ]
   },
   "Rhamondre Stevenson": {
     "tags": [
-      "Depth Chart Battle"
+      "Depth Chart Battle",
+      "Health Watch"
     ],
     "bullets": [
       "Listed RB1 on New England's first unofficial 2026 depth chart ahead of TreVeyon Henderson — handles early-down/short-yardage work.",
-      "UPDATE (9/30): the early-down role has flipped — TreVeyon Henderson clearly took over as the lead back in Week 3's lopsided 35-6 loss at Jacksonville (8 carries/23 yards, 1 target, to Stevenson's 1 carry). New England's offense was thoroughly dominated in that game, complicating value for both backs, but downgrading Stevenson's tag from Depth Chart Secured to Depth Chart Battle to reflect Henderson's takeover (RotoWire, dknetwork, 9/27-28)."
+      "UPDATE (9/30): the early-down role has flipped — TreVeyon Henderson clearly took over as the lead back in Week 3's lopsided 35-6 loss at Jacksonville (8 carries/23 yards, 1 target, to Stevenson's 1 carry). New England's offense was thoroughly dominated in that game, complicating value for both backs, but downgrading Stevenson's tag from Depth Chart Secured to Depth Chart Battle to reflect Henderson's takeover (RotoWire, dknetwork, 9/27-28).",
+      "NEW (10/8): appears to have tweaked his leg late in New England's Week 4 win over Buffalo; sources conflict on Wednesday participation (limited vs. did not practice) and his Week 5 game status vs. the Raiders was still TBD as of Wednesday (Patriots' official injury report, 10/7). Worth watching alongside the ongoing early-down competition with TreVeyon Henderson."
     ]
   },
   "Drake Maye": {
@@ -581,7 +589,7 @@
   "Tony Pollard": {
     "tags": [
       "Workhorse Lock",
-      "Healthy"
+      "Health Watch"
     ],
     "bullets": [
       "Entrenched starter chasing a 5th straight 1,000-yard season — hit 1,000 rushing yards in each of the past 4 years.",
@@ -589,12 +597,13 @@
       "Backfield mate Tyjae Spears (ankle) remains Questionable — if Spears is limited or sits, Pollard is positioned for an even bigger workload bump on top of his already-larger carry share (53.4% snap share to Spears' 42.7% through two weeks, with roughly double Spears' carries).",
       "NEW (9/30): a new foot injury (distinct from the ankle issue referenced earlier) — Pollard was a non-participant in Wednesday's Week 4 practice. HC Mike Vrabel's staff said they are \"not overly concerned about Sunday\" for Pollard and don't believe it will affect his Week 4 availability vs. Baltimore; backfield mate Tyjae Spears also sat out Wednesday with an ankle issue (CBS Sports, NBC Sports/PFT, Newsweek, 9/30).",
       "CLEARED (10/1-2): the foot issue that held him out of Wednesday's practice did not linger — Pollard returned to a full practice Thursday and carries no injury designation into Sunday's Week 4 game vs. Baltimore. Backfield mate Tyjae Spears (ankle) remains limited/Questionable, keeping Pollard's bell-cow workload intact (Yahoo Sports, NBC Sports, 10/1-2).",
-      "Week 4 final (10/4): the foot issue was a non-factor -- went for 16 carries, 48 yards and a 3-yard rushing TD plus 2 catches for 2 yards in a 24-18 loss to Baltimore that dropped Tennessee to 0-4. Backfield mate Tyjae Spears was marginal (2 carries, 7 yards), confirming Pollard as the clear lead back even in a lost season. Worth watching: with Tennessee winless, ESPN's Adam Schefter floated Pollard as a potential trade-deadline candidate -- no deal reported yet, just speculation (NBC Sports, ESPN, Yahoo Sports, CBS Sports, 10/4)."
+      "Week 4 final (10/4): the foot issue was a non-factor -- went for 16 carries, 48 yards and a 3-yard rushing TD plus 2 catches for 2 yards in a 24-18 loss to Baltimore that dropped Tennessee to 0-4. Backfield mate Tyjae Spears was marginal (2 carries, 7 yards), confirming Pollard as the clear lead back even in a lost season. Worth watching: with Tennessee winless, ESPN's Adam Schefter floated Pollard as a potential trade-deadline candidate -- no deal reported yet, just speculation (NBC Sports, ESPN, Yahoo Sports, CBS Sports, 10/4).",
+      "NEW (10/8): did not practice Wednesday with a foot injury and is QUESTIONABLE for Sunday's Week 5 game vs. Houston; beat coverage describes it as a possible maintenance/veteran rest day rather than a new injury, consistent with how Tennessee has handled him in past weeks (10/7)."
     ]
   },
   "Jayden Daniels": {
     "tags": [
-      "Health Watch"
+      "Healthy"
     ],
     "bullets": [
       "Dislocated his left (non-throwing) elbow — the same joint's 2nd dislocation within under a year — late in the first half of Washington's 37-20 Week 2 loss to Dallas (Sun 9/20); X-rays showed no fracture. Ruled out for Week 3 vs. Seattle, with Marcus Mariota named starting QB (Dan Quinn, 9/22 presser).",
@@ -603,7 +612,8 @@
       "UPDATE (9/30): Tracker flips OUT to QUESTIONABLE for Week 4 (in London vs. Indianapolis). He returned to practice this week and traveled with the team, and per CBS Sports' Matt Zenitz told teammates he's foregoing surgery and felt he \"owed it to them\" to return as fast as possible (RotoWire, Washington Times, Hogs Haven, 9/28). HC Dan Quinn said he isn't sure yet if Daniels plays \"in six days\" but that he \"isn't far off\" and will practice \"in some form\" this week. Read this as soft/early-stage QUESTIONABLE, not a real lean toward playing — nearly every outlet still has Marcus Mariota as the presumptive Week 4 starter pending how practice reps go Wed-Fri.",
       "CONFIRMED OUT (10/2-3): ruled out for Sunday's Week 4 game vs. the Colts in London -- ESPN's Adam Schefter does not believe Daniels will be active despite making the trip and practicing in some form. Marcus Mariota remains the favorite to start unless Daniels takes the bulk of first-team reps, which hasn't happened (CBS Sports, RotoBaller, Commanders.com, 10/1-3). No surgery still planned this season; recurring elbow dislocation keeps real multi-week variance in play.",
       "CONFIRMED (10/5): did not play Week 4 vs. the Colts in London; Marcus Mariota started for a second straight game and Washington won 17-16 (Colts.com). Per Adam Schefter, Daniels will \"eventually need surgery\" on the elbow (this is the THIRD dislocation of the same non-throwing elbow within under a year) but is deferring it to the offseason and will likely play in a brace whenever he returns -- no practice/return timeline has been given as of 10/5 (NBC Sports). Given the recurring nature of the injury and no near-term surgical or return plan, upgrading tag from standard Injury to Long-Term Injury; Mariota remains the starter indefinitely.",
-      "IMPROVING, REVISED (10/7): real progress this week -- HC Dan Quinn said Daniels is set for a full Wed-Thu-Fri practice week with the goal of starting Sunday's Week 5 home game vs. the Giants, wearing the elbow brace (ESPN, TSN). Added urgency: backup Marcus Mariota suffered his own MCL sprain vs. the Colts, making 7th-round rookie Athan Kaliakmanis the emergency option if Daniels can't go. Some practice-report aggregators still show a \"limited\" tag, so treat this as a real but not fully resolved Questionable rather than a lock. Revising tag down from Long-Term Injury to Health Watch given the firm full-practice/start-Sunday trajectory -- no longer an open-ended absence."
+      "IMPROVING, REVISED (10/7): real progress this week -- HC Dan Quinn said Daniels is set for a full Wed-Thu-Fri practice week with the goal of starting Sunday's Week 5 home game vs. the Giants, wearing the elbow brace (ESPN, TSN). Added urgency: backup Marcus Mariota suffered his own MCL sprain vs. the Colts, making 7th-round rookie Athan Kaliakmanis the emergency option if Daniels can't go. Some practice-report aggregators still show a \"limited\" tag, so treat this as a real but not fully resolved Questionable rather than a lock. Revising tag down from Long-Term Injury to Health Watch given the firm full-practice/start-Sunday trajectory -- no longer an open-ended absence.",
+      "CLEARED (10/8): officially flipped from Questionable to Active ahead of Sunday's Week 5 home game vs. the Giants after a full Wednesday practice; per Jay Glazer, Washington plans to start Daniels in the elbow brace, and Tom Pelissero reports the team remains hopeful he returns to the starting role (ESPN, CBS Sports, 10/7-8). Backup situation is in flux -- Marcus Mariota aggravated the same MCL he had surgically repaired in 2022 and is doubtful/out, which only reinforces that Washington needs Daniels back now."
     ]
   },
   "Terry McLaurin": {
@@ -682,7 +692,7 @@
   },
   "Zay Flowers": {
     "tags": [
-      "Healthy"
+      "Health Watch"
     ],
     "bullets": [
       "Missed Week 2 vs. New Orleans with the recurring hamstring injury (first tweaked in a Week 1 TD catch-and-run, aggravated further in that same game).",
@@ -691,7 +701,8 @@
       "NEW (9/30): flipped back to a game-status designation (limited practice) as Baltimore continues managing the same hamstring that had him on a \"pitch count\" through Week 3's 5-catch, 84-yard game. HC Jesse Minter said Monday he expects Flowers to carry a full workload Week 4 vs. Tennessee; FantasyPros projects him roughly 79% likely to play with no new setback reported (NBC Sports, RotoWire, FantasyPros, 9/29-30).",
       "CLEARED (10/1-2): upgraded from limited to a full practice participant Thursday, officially shaking the hamstring designation ahead of Sunday's Week 4 game vs. Tennessee — full workload expected as Baltimore's lead receiver (NBC Sports, Yahoo Sports, 10/1-2).",
       "NEW DESIGNATION (10/2-3): picked up a QUESTIONABLE tag again this week, but this reads as routine hamstring management rather than a new setback -- HC Jesse Minter said Flowers is \"coming out of this thing really ready to push to be back in there closer to full time,\" and multiple outlets (RotoBaller, FantasyPros) are calling him a must-start WR1 Sunday vs. the 0-3 Titans if there's no in-week change. Watch Friday's final report, but treat this as a likely-to-play Questionable, not a real doubt.",
-      "Entered Week 4 off a full Thursday practice with no setback, and OC/staff expected him to carry a full workload vs. Tennessee after Baltimore's win (team reports, 10/1). No new injury or designation has surfaced since; treating the hamstring issue as resolved and upgrading tag to Healthy as Baltimore's lead receiver. (Exact Week 4 box-score line could not be independently confirmed via search -- sourcing on the Ravens-Titans final was inconsistent.)"
+      "Entered Week 4 off a full Thursday practice with no setback, and OC/staff expected him to carry a full workload vs. Tennessee after Baltimore's win (team reports, 10/1). No new injury or designation has surfaced since; treating the hamstring issue as resolved and upgrading tag to Healthy as Baltimore's lead receiver. (Exact Week 4 box-score line could not be independently confirmed via search -- sourcing on the Ravens-Titans final was inconsistent.)",
+      "UPDATE (10/8): the recurring hamstring issue produced another QUESTIONABLE tag -- Flowers was downgraded in Baltimore's final Week 4 injury report (questionable vs. Tennessee) and now carries the same designation into Sunday's Week 5 game at Atlanta as the team continues managing his workload week to week. No new injury or setback reported, just the same ongoing hamstring maintenance pattern."
     ]
   },
   "Derrick Henry": {
@@ -797,7 +808,8 @@
     ],
     "bullets": [
       "Played through the knee hyperextension with no setback, though production was quiet in the opener — 2 catches for 12 yards on 4 targets vs. Tampa Bay. Role and target volume are unchanged; treat it as a one-game blip rather than a trend.",
-      "NEW DESIGNATION (10/5): flipped from Active to QUESTIONABLE today. Multiple searches found no new injury report, game-exit note, or beat-writer comment tied to this specific change -- stating that plainly rather than inventing a cause. His only 2026 injury history is a minor practice knee hyperextension in late August that he said didn't concern him and that carried no designation by late September. Treat as unconfirmed/precautionary for now; downgrading tag from Healthy to Health Watch pending more specific reporting."
+      "NEW DESIGNATION (10/5): flipped from Active to QUESTIONABLE today. Multiple searches found no new injury report, game-exit note, or beat-writer comment tied to this specific change -- stating that plainly rather than inventing a cause. His only 2026 injury history is a minor practice knee hyperextension in late August that he said didn't concern him and that carried no designation by late September. Treat as unconfirmed/precautionary for now; downgrading tag from Healthy to Health Watch pending more specific reporting.",
+      "CONFIRMED (10/8): the mechanism behind last week's QUESTIONABLE tag is now clear -- Chase left the Week 4 loss to Jacksonville in the 2nd quarter with a head injury (facemask pull into a second hit) and was ruled out with a concussion; he remains in the NFL's concussion protocol as of Monday's update, with HC Zac Taylor calling him day-to-day and not ruling him out for Sunday's Week 5 game at Miami (Fox19, NBC Sports, RotoBaller, Newsweek, 10/4-5). No confirmation yet that he's cleared protocol -- a return to practice is required before clearance, so check Thursday/Friday."
     ]
   },
   "Quinshon Judkins": {
@@ -1087,11 +1099,13 @@
   },
   "Jordan Addison": {
     "tags": [
-      "Depth Chart Battle"
+      "Depth Chart Battle",
+      "Health Watch"
     ],
     "bullets": [
       "Rough 2025: a 3-game suspension to start the year, only 17.4% target share (Jefferson had 28.2%), finished WR43.",
-      "QB upgrade to Kyler Murray helps, but MIN also signed WR Jauan Jennings — adds competition rather than clearing it. Profiles more WR3/bench right now."
+      "QB upgrade to Kyler Murray helps, but MIN also signed WR Jauan Jennings — adds competition rather than clearing it. Profiles more WR3/bench right now.",
+      "NEW (10/8): sidelined at Wednesday's practice with a hamstring injury and carries a QUESTIONABLE tag (per the Vikings' own injury report) into Sunday's Week 5 game at New Orleans -- though one outlet flagged a conflicting Minnesota listing, so confirm Friday's final designation. First hamstring concern of the season, and it comes while he's already fighting for target share behind Justin Jefferson (himself limited this week with an ankle issue)."
     ]
   },
   "TreVeyon Henderson": {
@@ -1156,31 +1170,36 @@
   },
   "Malik Nabers": {
     "tags": [
-      "Healthy",
+      "Health Watch",
       "Bounce-Back Watch"
     ],
     "bullets": [
       "CLEARED: the shoulder that \"popped out\" (and back in) during Week 2's loss at the Rams came back with clean X-rays; Nabers was a full practice participant that Thursday and the ESPN status flipped from Questionable to Active ahead of Week 3 at Tennessee. Told reporters: \"Good result. I'm smiling, I'm out there, playing, catching the ball, so good results... I'll be fine\" (NBC Sports, CBS Sports, Giants.com, 9/24).",
       "UPDATE: played Week 3 and led the Giants with 5 catches on 6 targets for 26 yards (27% target share) in a 12-7 win over Tennessee — a quiet, low-yardage line but with no ill effects reported from the shoulder (NBC Sports, CBS Sports/RotoWire, 9/27-28).",
-      "The bigger Week 4 storyline is the QB change, not the shoulder: starter Jaxson Dart is out with a knee injury and Jameis Winston is set to start at QB going forward, which beat writers flag as a likelier drag on Nabers' target quality/fantasy ceiling than the now-resolved shoulder issue (CBS Sports, 9/29-30)."
+      "The bigger Week 4 storyline is the QB change, not the shoulder: starter Jaxson Dart is out with a knee injury and Jameis Winston is set to start at QB going forward, which beat writers flag as a likelier drag on Nabers' target quality/fantasy ceiling than the now-resolved shoulder issue (CBS Sports, 9/29-30).",
+      "NEW (10/8): flipped to QUESTIONABLE for Sunday's Week 5 game at Washington after not practicing Wednesday with a knee issue (Giants' official injury report, giants.com, 10/7) -- notable given his 2025 season ended with a torn ACL/meniscus in the same knee, though no beat writer has reported a new tear or setback. Treat as a practice-report flag to watch through Friday, not a confirmed re-injury."
     ]
   },
   "Cam Skattebo": {
     "tags": [
-      "Depth Chart Secured"
+      "Depth Chart Secured",
+      "Health Watch"
     ],
     "bullets": [
       "Fully cleared from last year's gruesome rookie ankle injury (dislocation + open fracture) and confirmed as the Giants' Week 1 starting RB over Tyrone Tracy Jr., hosting Dallas on Sunday Night Football.",
-      "Held to just 12 carries for 36 yards, 4 catches for 19 yards, and a lost fumble in Monday night's 28-6 loss at the Rams — the whole Giants game plan was wrecked after QB Jaxson Dart left with a knee injury on the first series (182 total team yards); treat the poor box score as game-script-driven, not a role change (RotoWire, CBS Sports)."
+      "Held to just 12 carries for 36 yards, 4 catches for 19 yards, and a lost fumble in Monday night's 28-6 loss at the Rams — the whole Giants game plan was wrecked after QB Jaxson Dart left with a knee injury on the first series (182 total team yards); treat the poor box score as game-script-driven, not a role change (RotoWire, CBS Sports).",
+      "NEW (10/8): limited at Wednesday's practice with a shoulder issue, officially QUESTIONABLE for Sunday's Week 5 game at Washington (Giants' injury report, 10/7) -- distinct from last year's season-ending ankle fracture/dislocation. No word yet on severity or workload impact pending Friday's report."
     ]
   },
   "Isaiah Likely": {
     "tags": [
       "Breakout Watch",
-      "New Team"
+      "New Team",
+      "Health Watch"
     ],
     "bullets": [
-      "Signed for 3yr/$40M+, now the clear TE1 ahead of Theo Johnson, reunited with HC John Harbaugh — real path to a top-10 fantasy TE role after sharing looks with Mark Andrews in Baltimore."
+      "Signed for 3yr/$40M+, now the clear TE1 ahead of Theo Johnson, reunited with HC John Harbaugh — real path to a top-10 fantasy TE role after sharing looks with Mark Andrews in Baltimore.",
+      "NEW (10/8): limited at Wednesday's practice with a knee/groin issue and carries a QUESTIONABLE tag into Sunday's Week 5 game at Washington (Giants' official injury report, 10/7) -- first injury concern since signing. No severity or timeline reported yet; check Friday's final designation."
     ]
   },
   "Breece Hall": {
@@ -1210,12 +1229,13 @@
   "Michael Pittman Jr.": {
     "tags": [
       "New Team",
-      "Healthy"
+      "Health Watch"
     ],
     "bullets": [
       "Missed Pittsburgh's Week 2 loss at New England (20-3) with a foot (plantar fascia) injury; stayed QUESTIONABLE through Week 3 practice week on limited reps.",
       "CLEARED: active and played Sunday's Week 3 game vs. Cincinnati, confirming the foot held up under game conditions with no setback reported — production was modest (2 catches for 16 yards on 5 targets over 28 routes) as the offense funneled elsewhere (NBC Sports, 9/27).",
-      "DK Metcalf remains Pittsburgh's clear #1 receiver; Pittman projects as a WR2/3 complementary piece now that health is no longer the question, with role/target share the thing to track."
+      "DK Metcalf remains Pittsburgh's clear #1 receiver; Pittman projects as a WR2/3 complementary piece now that health is no longer the question, with role/target share the thing to track.",
+      "NEW (10/8): back to QUESTIONABLE for Sunday's Week 5 game vs. Indianapolis after a limited Wednesday practice with the recurring foot (plantar fascia) issue; he was seen on a scooter in the locker room, which beat writers framed as load management rather than a new setback (NBC Sports, CBS Sports, 10/7). This is now the third-plus week this foot issue has produced a game-status designation."
     ]
   },
   "DK Metcalf": {
@@ -1280,13 +1300,15 @@
   "Mike Evans": {
     "tags": [
       "New Team",
-      "Aging Watch"
+      "Aging Watch",
+      "Health Watch"
     ],
     "bullets": [
       "Monday (9/21) update: Shanahan said the hip \"will have to be managed this week\" and Evans would likely miss some practice time. Turns 33 in August — an aging watch item independent of any single-week injury.",
       "UPDATE: exited Week 3's loss to Arizona early in the 2nd quarter with a rib injury after a hard hit from S Budda Baker on a middle-of-the-field catch — was carted off and did not return, finishing with 3 catches for 34 yards and a TD before leaving (ESPN, CBS Sports, Yahoo Sports, 9/27-28).",
       "Downgrading tag from Aging-Watch-only injury risk to Health Watch: Evans returned to practice Friday and is officially Questionable for Week 4 vs. Denver, with HC Kyle Shanahan indicating optimism that he'll play (NBC Sports, Yahoo Sports, Last Word on Sports, 9/26-29). Treat as a game-time-decision-caliber Questionable, not a real absence risk at this point.",
-      "CLEARED (10/5): the rib strain suffered vs. Arizona in Week 3 is behind him -- today's status flip from QUESTIONABLE to ACTIVE confirms he's cleared the issue that had him day-to-day. Downgrading tag from Health Watch to reflect no current injury; turns 33 in August remains a standalone long-term watch item (NBC Sports, Yahoo Sports, Last Word on Sports)."
+      "CLEARED (10/5): the rib strain suffered vs. Arizona in Week 3 is behind him -- today's status flip from QUESTIONABLE to ACTIVE confirms he's cleared the issue that had him day-to-day. Downgrading tag from Health Watch to reflect no current injury; turns 33 in August remains a standalone long-term watch item (NBC Sports, Yahoo Sports, Last Word on Sports).",
+      "UPDATE (10/8): the Week 3 rib injury remains a recurring game-status item -- Evans played through it in Week 4 (76 yards, NBC Sports, 10/4) and is again QUESTIONABLE for Sunday's Week 5 game vs. Denver; Forbes' fantasy injury roundup (10/7) described it as 'not overly serious' at this point, consistent with his pattern of limited practice reps but suiting up."
     ]
   },
   "George Kittle": {
@@ -1360,10 +1382,12 @@
   },
   "Jacory Croskey-Merritt": {
     "tags": [
-      "Depth Chart Battle"
+      "Depth Chart Battle",
+      "Health Watch"
     ],
     "bullets": [
-      "Wasn't the clear lead back in Week 2 — White out-snapped him 36-23 in the Dallas loss (9/20) as the Commanders leaned on White's receiving in a trailing game script. Treat this as a genuine 2-man committee rather than a locked-in CM1 role, even after his confirmed Week 1 lead-back role vs. Philadelphia."
+      "Wasn't the clear lead back in Week 2 — White out-snapped him 36-23 in the Dallas loss (9/20) as the Commanders leaned on White's receiving in a trailing game script. Treat this as a genuine 2-man committee rather than a locked-in CM1 role, even after his confirmed Week 1 lead-back role vs. Philadelphia.",
+      "NEW (10/8): picked up a QUESTIONABLE tag in this week's injury report ahead of Sunday's Week 5 game vs. the Giants; specific injury type was not confirmed by beat writers as of Wednesday -- recheck once Washington's Thursday/Friday reports post. Still working as part of a 2-man committee with Rachaad White."
     ]
   },
   "Rachaad White": {
@@ -1381,11 +1405,13 @@
   },
   "Stefon Diggs": {
     "tags": [
-      "Aging Watch"
+      "Aging Watch",
+      "Health Watch"
     ],
     "bullets": [
       "Turns 33 in November, but 2025 metrics (9.9 YPT, top-7 YPRR) show no real decline — his route-running game tends to age gracefully.",
-      "Signed 1yr/$12M as Washington's presumed WR2 behind Terry McLaurin, throwing to Jayden Daniels."
+      "Signed 1yr/$12M as Washington's presumed WR2 behind Terry McLaurin, throwing to Jayden Daniels.",
+      "NEW (10/8): did not practice Wednesday with a hamstring injury and is QUESTIONABLE for Sunday's Week 5 game vs. the Giants (Commanders' official injury report, 10/7) -- first hamstring concern of the season. With Terry McLaurin (hamstring) also out of Wednesday's practice, a Diggs absence would be a real hit to Washington's receiving corps; watch Thursday/Friday participation."
     ]
   },
   "Jonathan Taylor": {
@@ -1528,14 +1554,16 @@
   },
   "Alvin Kamara": {
     "tags": [
-      "Workhorse Lock"
+      "Workhorse Lock",
+      "Health Watch"
     ],
     "bullets": [
       "Made his 2026 season debut in Week 2 (24-17 win over Baltimore) after missing the entire preseason and Week 1 with a sprained MCL; efficiency was underwhelming in the opener back — 9 carries for 15 yards, plus 5 catches (6 targets) for 7 yards.",
       "Split early-down work with Travis Etienne Jr., whose role changed noticeably once Kamara returned to the lineup; expect a committee approach in New Orleans' backfield for now rather than a clear bell-cow role.",
       "Profiles as a low-end RB3/flex for Week 3 vs. the Raiders on PPR volume alone, but the explosive-play juice from his pre-injury form hasn't shown up yet (CBS Sports).",
       "UPDATE (9/30): with Travis Etienne Jr. now out with a hamstring injury (see Etienne's note), Kamara becomes New Orleans' clear early-down/passing-down workhorse near-term rather than a committee piece — upgrading the tag from Committee to Workhorse Lock while Etienne is sidelined. Kendre Miller/CJ Donaldson are the only complementary depth behind him (SI/Saints, NBC Sports, atozsports.com, 9/27-29).",
-      "UPDATE (10/5-6): scored 3 TDs in New Orleans' Monday night win over Atlanta, reinforcing his status as the clear lead back with Travis Etienne Jr. still on IR (CBS Sports, 10/5-6)."
+      "UPDATE (10/5-6): scored 3 TDs in New Orleans' Monday night win over Atlanta, reinforcing his status as the clear lead back with Travis Etienne Jr. still on IR (CBS Sports, 10/5-6).",
+      "NEW (10/8): did not practice Wednesday with a back injury and is a real question mark for Sunday's Week 5 home game vs. Minnesota (Saints' official injury report via Canal Street Chronicles, 10/7) -- a new issue, not the rib history from past seasons. With Travis Etienne Jr. still on IR, a Kamara absence would push touches to Kendre Miller (and possibly rookie CJ Donaldson)."
     ]
   },
   "Bryce Young": {
@@ -1583,11 +1611,13 @@
   },
   "Tyler Shough": {
     "tags": [
-      "Job Secured"
+      "Job Secured",
+      "Health Watch"
     ],
     "bullets": [
       "Firmly entrenched as New Orleans' starting QB heading into 2026 after opening the season with 410 passing yards in Week 1 and leading the Saints to a last-second Week 2 win over Baltimore (24-17).",
-      "No injury concerns reported on Shough himself; the Saints' broader offensive-line and receiver injury situation (Dillon Radunz torn ACL/out for the season, Kelvin Banks Jr. high-ankle sprain, Jordyn Tyson hamstring/expected out ~2 months) is worth monitoring as a drag on his supporting cast and pass-pro, but doesn't threaten his starting job."
+      "No injury concerns reported on Shough himself; the Saints' broader offensive-line and receiver injury situation (Dillon Radunz torn ACL/out for the season, Kelvin Banks Jr. high-ankle sprain, Jordyn Tyson hamstring/expected out ~2 months) is worth monitoring as a drag on his supporting cast and pass-pro, but doesn't threaten his starting job.",
+      "NEW (10/8): limited at Wednesday's practice with a left (non-throwing) hand injury ahead of Sunday's Week 5 home game vs. Minnesota; beat reporters note it isn't expected to affect his throwing, and he remains New Orleans' starter (Saints' official injury report via Crescent City Sports/Canal Street Chronicles, 10/7)."
     ]
   },
   "James Conner": {
