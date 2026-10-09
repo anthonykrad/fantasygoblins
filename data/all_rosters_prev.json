@@ -18,7 +18,7 @@
     "pos": "WR",
     "pro": "NYG",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -29,7 +29,7 @@
     "pos": "QB",
     "pro": "WSH",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -51,7 +51,7 @@
     "pos": "WR",
     "pro": "PIT",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -83,7 +83,7 @@
     "name": "Seahawks D/ST",
     "pos": "D/ST",
     "pro": "SEA",
-    "slot": "D/ST",
+    "slot": "BE",
     "status": null,
     "injured": false
   },
@@ -193,7 +193,7 @@
     "name": "Jaguars D/ST",
     "pos": "D/ST",
     "pro": "JAX",
-    "slot": "BE",
+    "slot": "D/ST",
     "status": null,
     "injured": false
   },
@@ -215,7 +215,7 @@
     "name": "Kenneth Walker III",
     "pos": "RB",
     "pro": "KC",
-    "slot": "RB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -259,7 +259,7 @@
     "name": "Joe Burrow",
     "pos": "QB",
     "pro": "CIN",
-    "slot": "BE",
+    "slot": "QB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -336,8 +336,8 @@
     "name": "Tyler Shough",
     "pos": "QB",
     "pro": "NO",
-    "slot": "QB",
-    "status": "ACTIVE",
+    "slot": "BE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -347,7 +347,7 @@
     "name": "Ollie Gordon II",
     "pos": "RB",
     "pro": "MIA",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -469,7 +469,7 @@
     "pos": "WR",
     "pro": "SF",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -513,7 +513,7 @@
     "pos": "WR",
     "pro": "MIN",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -525,17 +525,6 @@
     "pro": "LAR",
     "slot": "K",
     "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Might be gay for Hurts",
-    "fteam_id": 10,
-    "pid": -16033,
-    "name": "Ravens D/ST",
-    "pos": "D/ST",
-    "pro": "BAL",
-    "slot": "D/ST",
-    "status": null,
     "injured": false
   },
   {
@@ -583,6 +572,17 @@
     "injured": false
   },
   {
+    "fteam": "Might be gay for Hurts",
+    "fteam_id": 10,
+    "pid": -16013,
+    "name": "Raiders D/ST",
+    "pos": "D/ST",
+    "pro": "LV",
+    "slot": "D/ST",
+    "status": null,
+    "injured": false
+  },
+  {
     "fteam": "A Win Is Likely",
     "fteam_id": 11,
     "pid": 4567750,
@@ -623,7 +623,7 @@
     "pos": "TE",
     "pro": "NYG",
     "slot": "TE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -711,7 +711,7 @@
     "pos": "RB",
     "pro": "NYG",
     "slot": "RB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -733,7 +733,7 @@
     "pos": "RB",
     "pro": "CHI",
     "slot": "RB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -904,17 +904,6 @@
   {
     "fteam": "So Mahomey",
     "fteam_id": 12,
-    "pid": 4682745,
-    "name": "Jaylen Wright",
-    "pos": "RB",
-    "pro": "MIA",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "So Mahomey",
-    "fteam_id": 12,
     "pid": 4832800,
     "name": "Denzel Boston",
     "pos": "WR",
@@ -931,6 +920,17 @@
     "pos": "QB",
     "pro": "DET",
     "slot": "QB",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "So Mahomey",
+    "fteam_id": 12,
+    "pid": 4569603,
+    "name": "Malik Washington",
+    "pos": "WR",
+    "pro": "MIA",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -975,7 +975,7 @@
     "pos": "WR",
     "pro": "BAL",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1096,7 +1096,7 @@
     "pos": "RB",
     "pro": "NO",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1316,7 +1316,7 @@
     "pos": "TE",
     "pro": "LV",
     "slot": "TE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1371,7 +1371,7 @@
     "pos": "WR",
     "pro": "LAC",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1382,7 +1382,7 @@
     "pos": "RB",
     "pro": "WSH",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1404,7 +1404,7 @@
     "pos": "WR",
     "pro": "WSH",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1432,17 +1432,6 @@
   {
     "fteam": "Into the sunset",
     "fteam_id": 15,
-    "pid": -16003,
-    "name": "Bears D/ST",
-    "pos": "D/ST",
-    "pro": "CHI",
-    "slot": "D/ST",
-    "status": null,
-    "injured": false
-  },
-  {
-    "fteam": "Into the sunset",
-    "fteam_id": 15,
     "pid": 4635008,
     "name": "Keon Coleman",
     "pos": "WR",
@@ -1463,13 +1452,24 @@
     "injured": false
   },
   {
+    "fteam": "Into the sunset",
+    "fteam_id": 15,
+    "pid": -16006,
+    "name": "Cowboys D/ST",
+    "pos": "D/ST",
+    "pro": "DAL",
+    "slot": "D/ST",
+    "status": null,
+    "injured": false
+  },
+  {
     "fteam": "The Dark Side",
     "fteam_id": 16,
     "pid": 4374302,
     "name": "Amon-Ra St. Brown",
     "pos": "WR",
     "pro": "DET",
-    "slot": "WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1491,7 +1491,7 @@
     "name": "Breece Hall",
     "pos": "RB",
     "pro": "NYJ",
-    "slot": "RB",
+    "slot": "BE",
     "status": "DOUBTFUL",
     "injured": false
   },
@@ -1524,7 +1524,7 @@
     "name": "Terry McLaurin",
     "pos": "WR",
     "pro": "WSH",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -1547,7 +1547,7 @@
     "pos": "RB",
     "pro": "NE",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1579,7 +1579,7 @@
     "name": "Texans D/ST",
     "pos": "D/ST",
     "pro": "HOU",
-    "slot": "D/ST",
+    "slot": "BE",
     "status": null,
     "injured": false
   },
@@ -1634,19 +1634,19 @@
     "name": "Jacoby Brissett",
     "pos": "QB",
     "pro": "ARI",
-    "slot": "QB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
   {
     "fteam": "The Dark Side",
     "fteam_id": 16,
-    "pid": 3121023,
-    "name": "Dallas Goedert",
+    "pid": 4036133,
+    "name": "T.J. Hockenson",
     "pos": "TE",
-    "pro": "PHI",
-    "slot": "TE",
-    "status": "DOUBTFUL",
+    "pro": "MIN",
+    "slot": "BE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1734,7 +1734,7 @@
     "pos": "RB",
     "pro": "TEN",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
