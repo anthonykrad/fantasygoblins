@@ -18,7 +18,7 @@
     "pos": "WR",
     "pro": "NYG",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -189,10 +189,10 @@
   {
     "fteam": "the world",
     "fteam_id": 1,
-    "pid": 4431545,
-    "name": "Will Shipley",
+    "pid": 4686658,
+    "name": "Mike Washington Jr.",
     "pos": "RB",
-    "pro": "PHI",
+    "pro": "LV",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -469,7 +469,7 @@
     "pos": "WR",
     "pro": "SF",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -546,7 +546,7 @@
     "pos": "WR",
     "pro": "PHI",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -601,8 +601,8 @@
     "pos": "QB",
     "pro": "CHI",
     "slot": "BE",
-    "status": "OUT",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "A Win Is Likely",
@@ -612,7 +612,7 @@
     "pos": "TE",
     "pro": "NYG",
     "slot": "TE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -689,7 +689,7 @@
     "pos": "RB",
     "pro": "NYG",
     "slot": "RB",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -700,8 +700,8 @@
     "pos": "WR",
     "pro": "PHI",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "A Win Is Likely",
@@ -711,7 +711,7 @@
     "pos": "RB",
     "pro": "CHI",
     "slot": "RB",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -832,7 +832,7 @@
     "pos": "WR",
     "pro": "NO",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1058,17 +1058,6 @@
   {
     "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
-    "pid": -16025,
-    "name": "49ers D/ST",
-    "pos": "D/ST",
-    "pro": "SF",
-    "slot": "D/ST",
-    "status": null,
-    "injured": false
-  },
-  {
-    "fteam": "Kittles: Taste The Rainbow ",
-    "fteam_id": 13,
     "pid": 4569559,
     "name": "Devaughn Vele",
     "pos": "WR",
@@ -1111,6 +1100,17 @@
     "injured": false
   },
   {
+    "fteam": "Kittles: Taste The Rainbow ",
+    "fteam_id": 13,
+    "pid": -16007,
+    "name": "Broncos D/ST",
+    "pos": "D/ST",
+    "pro": "DEN",
+    "slot": "D/ST",
+    "status": null,
+    "injured": false
+  },
+  {
     "fteam": "Mikeeee",
     "fteam_id": 14,
     "pid": 4430878,
@@ -1140,7 +1140,7 @@
     "pos": "RB",
     "pro": "ARI",
     "slot": "RB",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1360,8 +1360,8 @@
     "pos": "WR",
     "pro": "LAC",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Into the sunset",
@@ -1371,7 +1371,7 @@
     "pos": "RB",
     "pro": "WSH",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1393,8 +1393,8 @@
     "pos": "WR",
     "pro": "WSH",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Into the sunset",
@@ -1481,8 +1481,8 @@
     "pos": "RB",
     "pro": "NYJ",
     "slot": "BE",
-    "status": "DOUBTFUL",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "The Dark Side",
@@ -1492,8 +1492,8 @@
     "pos": "QB",
     "pro": "BAL",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "The Dark Side",
@@ -1558,8 +1558,8 @@
     "pos": "RB",
     "pro": "CHI",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "The Dark Side",
@@ -1657,8 +1657,8 @@
     "pos": "RB",
     "pro": "PHI",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Chase Bank",
@@ -1767,7 +1767,7 @@
     "pos": "RB",
     "pro": "WSH",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
