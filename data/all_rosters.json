@@ -28,7 +28,7 @@
     "name": "Jayden Daniels",
     "pos": "QB",
     "pro": "WSH",
-    "slot": "QB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -105,7 +105,7 @@
     "name": "Trevor Lawrence",
     "pos": "QB",
     "pro": "JAX",
-    "slot": "BE",
+    "slot": "QB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1525,8 +1525,8 @@
     "pos": "WR",
     "pro": "ARI",
     "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "The Dark Side",
@@ -1630,10 +1630,10 @@
   {
     "fteam": "The Dark Side",
     "fteam_id": 16,
-    "pid": 4036133,
-    "name": "T.J. Hockenson",
+    "pid": 3121023,
+    "name": "Dallas Goedert",
     "pos": "TE",
-    "pro": "MIN",
+    "pro": "PHI",
     "slot": "TE",
     "status": "ACTIVE",
     "injured": false
