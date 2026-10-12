@@ -117,7 +117,7 @@
     "pos": "WR",
     "pro": "TEN",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -150,17 +150,6 @@
     "pos": "RB",
     "pro": "LV",
     "slot": "RB",
-    "status": "QUESTIONABLE",
-    "injured": false
-  },
-  {
-    "fteam": "the world",
-    "fteam_id": 1,
-    "pid": 4360234,
-    "name": "Evan McPherson",
-    "pos": "K",
-    "pro": "CIN",
-    "slot": "K",
     "status": "ACTIVE",
     "injured": false
   },
@@ -194,6 +183,17 @@
     "pos": "RB",
     "pro": "LV",
     "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "the world",
+    "fteam_id": 1,
+    "pid": 2473037,
+    "name": "Jason Myers",
+    "pos": "K",
+    "pro": "SEA",
+    "slot": "K",
     "status": "ACTIVE",
     "injured": false
   },
@@ -249,7 +249,7 @@
     "pos": "WR",
     "pro": "CIN",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -480,8 +480,8 @@
     "pos": "RB",
     "pro": "PIT",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Might be gay for Hurts",
@@ -513,8 +513,8 @@
     "pos": "WR",
     "pro": "MIN",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Might be gay for Hurts",
@@ -601,8 +601,8 @@
     "pos": "QB",
     "pro": "CHI",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "A Win Is Likely",
@@ -1074,7 +1074,7 @@
     "pos": "RB",
     "pro": "NO",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1129,7 +1129,7 @@
     "pos": "WR",
     "pro": "MIN",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1513,8 +1513,8 @@
     "name": "Terry McLaurin",
     "pos": "WR",
     "pro": "WSH",
-    "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "slot": "BE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1535,8 +1535,8 @@
     "name": "Rhamondre Stevenson",
     "pos": "RB",
     "pro": "NE",
-    "slot": "BE",
-    "status": "QUESTIONABLE",
+    "slot": "RB/WR",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1646,7 +1646,7 @@
     "pos": "WR",
     "pro": "CIN",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
