@@ -161,7 +161,7 @@
     "pos": "TE",
     "pro": "NYJ",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -354,17 +354,6 @@
   {
     "fteam": "Team Josh",
     "fteam_id": 9,
-    "pid": -16014,
-    "name": "Rams D/ST",
-    "pos": "D/ST",
-    "pro": "LAR",
-    "slot": "D/ST",
-    "status": null,
-    "injured": false
-  },
-  {
-    "fteam": "Team Josh",
-    "fteam_id": 9,
     "pid": 4569587,
     "name": "Wan'Dale Robinson",
     "pos": "WR",
@@ -382,6 +371,17 @@
     "pro": "ATL",
     "slot": "K",
     "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Team Josh",
+    "fteam_id": 9,
+    "pid": -16001,
+    "name": "Falcons D/ST",
+    "pos": "D/ST",
+    "pro": "ATL",
+    "slot": "D/ST",
+    "status": null,
     "injured": false
   },
   {
@@ -821,7 +821,7 @@
     "pos": "WR",
     "pro": "SF",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -964,7 +964,7 @@
     "pos": "WR",
     "pro": "BAL",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1162,7 +1162,7 @@
     "pos": "RB",
     "pro": "CLE",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1173,7 +1173,7 @@
     "pos": "RB",
     "pro": "NE",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1316,7 +1316,7 @@
     "pos": "RB",
     "pro": "HOU",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "DOUBTFUL",
     "injured": false
   },
   {
@@ -1525,8 +1525,8 @@
     "pos": "WR",
     "pro": "ARI",
     "slot": "BE",
-    "status": "OUT",
-    "injured": true
+    "status": "ACTIVE",
+    "injured": false
   },
   {
     "fteam": "The Dark Side",
