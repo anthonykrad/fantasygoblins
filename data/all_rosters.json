@@ -72,7 +72,7 @@
     "name": "Seahawks D/ST",
     "pos": "D/ST",
     "pro": "SEA",
-    "slot": "D/ST",
+    "slot": "BE",
     "status": null,
     "injured": false
   },
@@ -156,28 +156,6 @@
   {
     "fteam": "the world",
     "fteam_id": 1,
-    "pid": 5083315,
-    "name": "Kenyon Sadiq",
-    "pos": "TE",
-    "pro": "NYJ",
-    "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
-  },
-  {
-    "fteam": "the world",
-    "fteam_id": 1,
-    "pid": -16030,
-    "name": "Jaguars D/ST",
-    "pos": "D/ST",
-    "pro": "JAX",
-    "slot": "BE",
-    "status": null,
-    "injured": false
-  },
-  {
-    "fteam": "the world",
-    "fteam_id": 1,
     "pid": 4686658,
     "name": "Mike Washington Jr.",
     "pos": "RB",
@@ -194,6 +172,28 @@
     "pos": "K",
     "pro": "SEA",
     "slot": "K",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "the world",
+    "fteam_id": 1,
+    "pid": -16014,
+    "name": "Rams D/ST",
+    "pos": "D/ST",
+    "pro": "LAR",
+    "slot": "D/ST",
+    "status": null,
+    "injured": false
+  },
+  {
+    "fteam": "the world",
+    "fteam_id": 1,
+    "pid": 3116365,
+    "name": "Mark Andrews",
+    "pos": "TE",
+    "pro": "BAL",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -365,23 +365,23 @@
   {
     "fteam": "Team Josh",
     "fteam_id": 9,
-    "pid": 10621,
-    "name": "Nick Folk",
-    "pos": "K",
-    "pro": "ATL",
-    "slot": "K",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Team Josh",
-    "fteam_id": 9,
     "pid": -16001,
     "name": "Falcons D/ST",
     "pos": "D/ST",
     "pro": "ATL",
     "slot": "D/ST",
     "status": null,
+    "injured": false
+  },
+  {
+    "fteam": "Team Josh",
+    "fteam_id": 9,
+    "pid": 4685261,
+    "name": "Germie Bernard",
+    "pos": "WR",
+    "pro": "PIT",
+    "slot": "BE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -457,7 +457,7 @@
     "name": "Jalen Hurts",
     "pos": "QB",
     "pro": "PHI",
-    "slot": "QB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -479,7 +479,7 @@
     "name": "Rico Dowdle",
     "pos": "RB",
     "pro": "PIT",
-    "slot": "IR",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -519,28 +519,6 @@
   {
     "fteam": "Might be gay for Hurts",
     "fteam_id": 10,
-    "pid": 4574716,
-    "name": "Harrison Mevis",
-    "pos": "K",
-    "pro": "LAR",
-    "slot": "K",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Might be gay for Hurts",
-    "fteam_id": 10,
-    "pid": 3068267,
-    "name": "Austin Ekeler",
-    "pos": "RB",
-    "pro": "WSH",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Might be gay for Hurts",
-    "fteam_id": 10,
     "pid": 4428850,
     "name": "Dontayvion Wicks",
     "pos": "WR",
@@ -563,12 +541,34 @@
   {
     "fteam": "Might be gay for Hurts",
     "fteam_id": 10,
-    "pid": -16013,
-    "name": "Raiders D/ST",
+    "pid": 4036378,
+    "name": "Jordan Love",
+    "pos": "QB",
+    "pro": "GB",
+    "slot": "QB",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Might be gay for Hurts",
+    "fteam_id": 10,
+    "pid": -16011,
+    "name": "Colts D/ST",
     "pos": "D/ST",
-    "pro": "LV",
+    "pro": "IND",
     "slot": "D/ST",
     "status": null,
+    "injured": false
+  },
+  {
+    "fteam": "Might be gay for Hurts",
+    "fteam_id": 10,
+    "pid": 4697745,
+    "name": "Tyler Loop",
+    "pos": "K",
+    "pro": "BAL",
+    "slot": "K",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -633,7 +633,7 @@
     "name": "Romeo Doubs",
     "pos": "WR",
     "pro": "NE",
-    "slot": "WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -655,7 +655,7 @@
     "name": "Jalen Coker",
     "pos": "WR",
     "pro": "CAR",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -677,7 +677,7 @@
     "name": "Jaylen Waddle",
     "pos": "WR",
     "pro": "DEN",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -699,7 +699,7 @@
     "name": "DeVonta Smith",
     "pos": "WR",
     "pro": "PHI",
-    "slot": "BE",
+    "slot": "WR",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -717,17 +717,6 @@
   {
     "fteam": "A Win Is Likely",
     "fteam_id": 11,
-    "pid": -16002,
-    "name": "Bills D/ST",
-    "pos": "D/ST",
-    "pro": "BUF",
-    "slot": "D/ST",
-    "status": null,
-    "injured": false
-  },
-  {
-    "fteam": "A Win Is Likely",
-    "fteam_id": 11,
     "pid": 4241474,
     "name": "Brian Robinson Jr.",
     "pos": "RB",
@@ -739,12 +728,23 @@
   {
     "fteam": "A Win Is Likely",
     "fteam_id": 11,
-    "pid": 14880,
-    "name": "Kirk Cousins",
+    "pid": 4685720,
+    "name": "Bryce Young",
     "pos": "QB",
-    "pro": "LV",
+    "pro": "CAR",
     "slot": "QB",
     "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "A Win Is Likely",
+    "fteam_id": 11,
+    "pid": -16025,
+    "name": "49ers D/ST",
+    "pos": "D/ST",
+    "pro": "SF",
+    "slot": "D/ST",
+    "status": null,
     "injured": false
   },
   {
@@ -754,7 +754,7 @@
     "name": "Jahmyr Gibbs",
     "pos": "RB",
     "pro": "DET",
-    "slot": "RB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -853,7 +853,7 @@
     "name": "Vikings D/ST",
     "pos": "D/ST",
     "pro": "MIN",
-    "slot": "D/ST",
+    "slot": "BE",
     "status": null,
     "injured": false
   },
@@ -915,12 +915,23 @@
   {
     "fteam": "So Mahomey",
     "fteam_id": 12,
-    "pid": 4569603,
-    "name": "Malik Washington",
-    "pos": "WR",
-    "pro": "MIA",
-    "slot": "BE",
+    "pid": 4599739,
+    "name": "Kendre Miller",
+    "pos": "RB",
+    "pro": "NO",
+    "slot": "RB",
     "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "So Mahomey",
+    "fteam_id": 12,
+    "pid": -16017,
+    "name": "Patriots D/ST",
+    "pos": "D/ST",
+    "pro": "NE",
+    "slot": "D/ST",
+    "status": null,
     "injured": false
   },
   {
@@ -1014,17 +1025,6 @@
   {
     "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
-    "pid": 4038941,
-    "name": "Justin Herbert",
-    "pos": "QB",
-    "pro": "LAC",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Kittles: Taste The Rainbow ",
-    "fteam_id": 13,
     "pid": 4047650,
     "name": "DK Metcalf",
     "pos": "WR",
@@ -1058,28 +1058,6 @@
   {
     "fteam": "Kittles: Taste The Rainbow ",
     "fteam_id": 13,
-    "pid": 4569559,
-    "name": "Devaughn Vele",
-    "pos": "WR",
-    "pro": "NO",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Kittles: Taste The Rainbow ",
-    "fteam_id": 13,
-    "pid": 3054850,
-    "name": "Alvin Kamara",
-    "pos": "RB",
-    "pro": "NO",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Kittles: Taste The Rainbow ",
-    "fteam_id": 13,
     "pid": 4429059,
     "name": "Woody Marks",
     "pos": "RB",
@@ -1095,7 +1073,7 @@
     "name": "Will Reichard",
     "pos": "K",
     "pro": "MIN",
-    "slot": "K",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1108,6 +1086,39 @@
     "pro": "DEN",
     "slot": "D/ST",
     "status": null,
+    "injured": false
+  },
+  {
+    "fteam": "Kittles: Taste The Rainbow ",
+    "fteam_id": 13,
+    "pid": 4429023,
+    "name": "MarShawn Lloyd",
+    "pos": "RB",
+    "pro": "GB",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Kittles: Taste The Rainbow ",
+    "fteam_id": 13,
+    "pid": 3045523,
+    "name": "Kendrick Bourne",
+    "pos": "WR",
+    "pro": "ARI",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Kittles: Taste The Rainbow ",
+    "fteam_id": 13,
+    "pid": 5082424,
+    "name": "Dominic Zvada",
+    "pos": "K",
+    "pro": "NYG",
+    "slot": "K",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1267,10 +1278,10 @@
   {
     "fteam": "Mikeeee",
     "fteam_id": 14,
-    "pid": -16004,
-    "name": "Bengals D/ST",
+    "pid": -16012,
+    "name": "Chiefs D/ST",
     "pos": "D/ST",
-    "pro": "CIN",
+    "pro": "KC",
     "slot": "D/ST",
     "status": null,
     "injured": false
@@ -1382,8 +1393,8 @@
     "pos": "WR",
     "pro": "FA",
     "slot": "IR",
-    "status": "OUT",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "Into the sunset",
@@ -1443,10 +1454,10 @@
   {
     "fteam": "Into the sunset",
     "fteam_id": 15,
-    "pid": -16006,
-    "name": "Cowboys D/ST",
+    "pid": -16033,
+    "name": "Ravens D/ST",
     "pos": "D/ST",
-    "pro": "DAL",
+    "pro": "BAL",
     "slot": "D/ST",
     "status": null,
     "injured": false
@@ -1645,7 +1656,7 @@
     "name": "Ja'Marr Chase",
     "pos": "WR",
     "pro": "CIN",
-    "slot": "WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1689,7 +1700,7 @@
     "name": "Davante Adams",
     "pos": "WR",
     "pro": "LAR",
-    "slot": "RB/WR",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1711,7 +1722,7 @@
     "name": "Drake Maye",
     "pos": "QB",
     "pro": "NE",
-    "slot": "BE",
+    "slot": "QB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1722,7 +1733,7 @@
     "name": "Tony Pollard",
     "pos": "RB",
     "pro": "TEN",
-    "slot": "RB",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1744,7 +1755,7 @@
     "name": "Chuba Hubbard",
     "pos": "RB",
     "pro": "CAR",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1799,7 +1810,7 @@
     "name": "Kyler Murray",
     "pos": "QB",
     "pro": "MIN",
-    "slot": "QB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   }
