@@ -1,6 +1,6 @@
 [
   {
-    "fteam": "the world",
+    "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
     "pid": 4426515,
     "name": "Puka Nacua",
@@ -11,7 +11,7 @@
     "injured": false
   },
   {
-    "fteam": "the world",
+    "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
     "pid": 4595348,
     "name": "Malik Nabers",
@@ -22,7 +22,7 @@
     "injured": false
   },
   {
-    "fteam": "the world",
+    "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
     "pid": 4426348,
     "name": "Jayden Daniels",
@@ -33,7 +33,7 @@
     "injured": false
   },
   {
-    "fteam": "the world",
+    "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
     "pid": 4678008,
     "name": "Jonathon Brooks",
@@ -44,7 +44,7 @@
     "injured": true
   },
   {
-    "fteam": "the world",
+    "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
     "pid": 4360569,
     "name": "Jordan Mason",
@@ -55,7 +55,7 @@
     "injured": true
   },
   {
-    "fteam": "the world",
+    "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
     "pid": 4880281,
     "name": "Jordyn Tyson",
@@ -66,18 +66,18 @@
     "injured": true
   },
   {
-    "fteam": "the world",
+    "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
     "pid": -16026,
     "name": "Seahawks D/ST",
     "pos": "D/ST",
     "pro": "SEA",
-    "slot": "BE",
+    "slot": "D/ST",
     "status": null,
     "injured": false
   },
   {
-    "fteam": "the world",
+    "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
     "pid": 4385690,
     "name": "Dalton Kincaid",
@@ -88,7 +88,7 @@
     "injured": false
   },
   {
-    "fteam": "the world",
+    "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
     "pid": 4429096,
     "name": "Blake Corum",
@@ -99,7 +99,7 @@
     "injured": false
   },
   {
-    "fteam": "the world",
+    "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
     "pid": 4360310,
     "name": "Trevor Lawrence",
@@ -110,7 +110,7 @@
     "injured": false
   },
   {
-    "fteam": "the world",
+    "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
     "pid": 4871023,
     "name": "Carnell Tate",
@@ -121,7 +121,7 @@
     "injured": false
   },
   {
-    "fteam": "the world",
+    "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
     "pid": 4685472,
     "name": "Tetairoa McMillan",
@@ -132,7 +132,7 @@
     "injured": false
   },
   {
-    "fteam": "the world",
+    "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
     "pid": 4882093,
     "name": "Bhayshul Tuten",
@@ -143,7 +143,7 @@
     "injured": false
   },
   {
-    "fteam": "the world",
+    "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
     "pid": 4890973,
     "name": "Ashton Jeanty",
@@ -154,7 +154,7 @@
     "injured": false
   },
   {
-    "fteam": "the world",
+    "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
     "pid": 4686658,
     "name": "Mike Washington Jr.",
@@ -165,7 +165,7 @@
     "injured": false
   },
   {
-    "fteam": "the world",
+    "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
     "pid": 2473037,
     "name": "Jason Myers",
@@ -176,18 +176,18 @@
     "injured": false
   },
   {
-    "fteam": "the world",
+    "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
     "pid": -16014,
     "name": "Rams D/ST",
     "pos": "D/ST",
     "pro": "LAR",
-    "slot": "D/ST",
+    "slot": "BE",
     "status": null,
     "injured": false
   },
   {
-    "fteam": "the world",
+    "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
     "pid": 3116365,
     "name": "Mark Andrews",
@@ -277,28 +277,6 @@
   {
     "fteam": "Team Josh",
     "fteam_id": 9,
-    "pid": 4241985,
-    "name": "J.K. Dobbins",
-    "pos": "RB",
-    "pro": "DEN",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Team Josh",
-    "fteam_id": 9,
-    "pid": 4688813,
-    "name": "Josh Downs",
-    "pos": "WR",
-    "pro": "IND",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Team Josh",
-    "fteam_id": 9,
     "pid": 4710714,
     "name": "De'Zhaun Stribling",
     "pos": "WR",
@@ -358,7 +336,7 @@
     "name": "Wan'Dale Robinson",
     "pos": "WR",
     "pro": "TEN",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -385,7 +363,29 @@
     "injured": false
   },
   {
-    "fteam": "Might be gay for Hurts",
+    "fteam": "Team Josh",
+    "fteam_id": 9,
+    "pid": 4832800,
+    "name": "Denzel Boston",
+    "pos": "WR",
+    "pro": "CLE",
+    "slot": "RB/WR",
+    "status": "QUESTIONABLE",
+    "injured": false
+  },
+  {
+    "fteam": "Team Josh",
+    "fteam_id": 9,
+    "pid": 4685382,
+    "name": "Omarion Hampton",
+    "pos": "RB",
+    "pro": "LAC",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "The Promiseland. Love, Hurts",
     "fteam_id": 10,
     "pid": 4242335,
     "name": "Jonathan Taylor",
@@ -396,7 +396,7 @@
     "injured": false
   },
   {
-    "fteam": "Might be gay for Hurts",
+    "fteam": "The Promiseland. Love, Hurts",
     "fteam_id": 10,
     "pid": 4361307,
     "name": "Trey McBride",
@@ -407,29 +407,7 @@
     "injured": false
   },
   {
-    "fteam": "Might be gay for Hurts",
-    "fteam_id": 10,
-    "pid": 4361579,
-    "name": "Javonte Williams",
-    "pos": "RB",
-    "pro": "DAL",
-    "slot": "RB",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Might be gay for Hurts",
-    "fteam_id": 10,
-    "pid": 4612826,
-    "name": "Ladd McConkey",
-    "pos": "WR",
-    "pro": "LAC",
-    "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
-  },
-  {
-    "fteam": "Might be gay for Hurts",
+    "fteam": "The Promiseland. Love, Hurts",
     "fteam_id": 10,
     "pid": 4239996,
     "name": "Travis Etienne Jr.",
@@ -440,18 +418,18 @@
     "injured": true
   },
   {
-    "fteam": "Might be gay for Hurts",
+    "fteam": "The Promiseland. Love, Hurts",
     "fteam_id": 10,
     "pid": 4431299,
     "name": "Rome Odunze",
     "pos": "WR",
     "pro": "CHI",
-    "slot": "WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
   {
-    "fteam": "Might be gay for Hurts",
+    "fteam": "The Promiseland. Love, Hurts",
     "fteam_id": 10,
     "pid": 4040715,
     "name": "Jalen Hurts",
@@ -462,18 +440,7 @@
     "injured": false
   },
   {
-    "fteam": "Might be gay for Hurts",
-    "fteam_id": 10,
-    "pid": 16737,
-    "name": "Mike Evans",
-    "pos": "WR",
-    "pro": "SF",
-    "slot": "WR",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Might be gay for Hurts",
+    "fteam": "The Promiseland. Love, Hurts",
     "fteam_id": 10,
     "pid": 4038815,
     "name": "Rico Dowdle",
@@ -484,7 +451,7 @@
     "injured": false
   },
   {
-    "fteam": "Might be gay for Hurts",
+    "fteam": "The Promiseland. Love, Hurts",
     "fteam_id": 10,
     "pid": 4360078,
     "name": "Alec Pierce",
@@ -495,18 +462,7 @@
     "injured": true
   },
   {
-    "fteam": "Might be gay for Hurts",
-    "fteam_id": 10,
-    "pid": 3916433,
-    "name": "Jakobi Meyers",
-    "pos": "WR",
-    "pro": "JAX",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Might be gay for Hurts",
+    "fteam": "The Promiseland. Love, Hurts",
     "fteam_id": 10,
     "pid": 4429205,
     "name": "Jordan Addison",
@@ -517,29 +473,18 @@
     "injured": false
   },
   {
-    "fteam": "Might be gay for Hurts",
-    "fteam_id": 10,
-    "pid": 4428850,
-    "name": "Dontayvion Wicks",
-    "pos": "WR",
-    "pro": "PHI",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Might be gay for Hurts",
+    "fteam": "The Promiseland. Love, Hurts",
     "fteam_id": 10,
     "pid": 4887558,
     "name": "Emanuel Wilson",
     "pos": "RB",
     "pro": "SEA",
-    "slot": "RB/WR",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
   {
-    "fteam": "Might be gay for Hurts",
+    "fteam": "The Promiseland. Love, Hurts",
     "fteam_id": 10,
     "pid": 4036378,
     "name": "Jordan Love",
@@ -550,18 +495,7 @@
     "injured": false
   },
   {
-    "fteam": "Might be gay for Hurts",
-    "fteam_id": 10,
-    "pid": -16011,
-    "name": "Colts D/ST",
-    "pos": "D/ST",
-    "pro": "IND",
-    "slot": "D/ST",
-    "status": null,
-    "injured": false
-  },
-  {
-    "fteam": "Might be gay for Hurts",
+    "fteam": "The Promiseland. Love, Hurts",
     "fteam_id": 10,
     "pid": 4697745,
     "name": "Tyler Loop",
@@ -572,14 +506,80 @@
     "injured": false
   },
   {
-    "fteam": "A Win Is Likely",
-    "fteam_id": 11,
+    "fteam": "The Promiseland. Love, Hurts",
+    "fteam_id": 10,
+    "pid": 3126486,
+    "name": "Deebo Samuel Sr.",
+    "pos": "WR",
+    "pro": "SF",
+    "slot": "IR",
+    "status": "OUT",
+    "injured": true
+  },
+  {
+    "fteam": "The Promiseland. Love, Hurts",
+    "fteam_id": 10,
+    "pid": 4701936,
+    "name": "Matthew Golden",
+    "pos": "WR",
+    "pro": "GB",
+    "slot": "WR",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "The Promiseland. Love, Hurts",
+    "fteam_id": 10,
+    "pid": 4241985,
+    "name": "J.K. Dobbins",
+    "pos": "RB",
+    "pro": "DEN",
+    "slot": "RB/WR",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "The Promiseland. Love, Hurts",
+    "fteam_id": 10,
+    "pid": 4683062,
+    "name": "Xavier Worthy",
+    "pos": "WR",
+    "pro": "KC",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "The Promiseland. Love, Hurts",
+    "fteam_id": 10,
     "pid": 4567750,
     "name": "Emeka Egbuka",
     "pos": "WR",
     "pro": "TB",
     "slot": "BE",
     "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "The Promiseland. Love, Hurts",
+    "fteam_id": 10,
+    "pid": 4241478,
+    "name": "DeVonta Smith",
+    "pos": "WR",
+    "pro": "PHI",
+    "slot": "WR",
+    "status": "QUESTIONABLE",
+    "injured": false
+  },
+  {
+    "fteam": "The Promiseland. Love, Hurts",
+    "fteam_id": 10,
+    "pid": -16011,
+    "name": "Colts D/ST",
+    "pos": "D/ST",
+    "pro": "IND",
+    "slot": "D/ST",
+    "status": null,
     "injured": false
   },
   {
@@ -656,17 +656,6 @@
     "pos": "WR",
     "pro": "CAR",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
-    "injured": false
-  },
-  {
-    "fteam": "A Win Is Likely",
-    "fteam_id": 11,
-    "pid": 4242355,
-    "name": "Jake Ferguson",
-    "pos": "TE",
-    "pro": "DAL",
-    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -690,17 +679,6 @@
     "pro": "NYG",
     "slot": "RB",
     "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "A Win Is Likely",
-    "fteam_id": 11,
-    "pid": 4241478,
-    "name": "DeVonta Smith",
-    "pos": "WR",
-    "pro": "PHI",
-    "slot": "WR",
-    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -745,6 +723,39 @@
     "pro": "SF",
     "slot": "D/ST",
     "status": null,
+    "injured": false
+  },
+  {
+    "fteam": "A Win Is Likely",
+    "fteam_id": 11,
+    "pid": 16737,
+    "name": "Mike Evans",
+    "pos": "WR",
+    "pro": "SF",
+    "slot": "WR",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "A Win Is Likely",
+    "fteam_id": 11,
+    "pid": 4361411,
+    "name": "Pat Freiermuth",
+    "pos": "TE",
+    "pro": "PIT",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "A Win Is Likely",
+    "fteam_id": 11,
+    "pid": 3054850,
+    "name": "Alvin Kamara",
+    "pos": "RB",
+    "pro": "NO",
+    "slot": "BE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -798,7 +809,7 @@
     "name": "Michael Wilson",
     "pos": "WR",
     "pro": "ARI",
-    "slot": "RB/WR",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -816,23 +827,12 @@
   {
     "fteam": "So Mahomey",
     "fteam_id": 12,
-    "pid": 3126486,
-    "name": "Deebo Samuel Sr.",
-    "pos": "WR",
-    "pro": "SF",
-    "slot": "IR",
-    "status": "OUT",
-    "injured": true
-  },
-  {
-    "fteam": "So Mahomey",
-    "fteam_id": 12,
     "pid": 4361370,
     "name": "Chris Olave",
     "pos": "WR",
     "pro": "NO",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -871,39 +871,6 @@
   {
     "fteam": "So Mahomey",
     "fteam_id": 12,
-    "pid": 4701936,
-    "name": "Matthew Golden",
-    "pos": "WR",
-    "pro": "GB",
-    "slot": "WR",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "So Mahomey",
-    "fteam_id": 12,
-    "pid": 4685382,
-    "name": "Omarion Hampton",
-    "pos": "RB",
-    "pro": "LAC",
-    "slot": "RB",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "So Mahomey",
-    "fteam_id": 12,
-    "pid": 4832800,
-    "name": "Denzel Boston",
-    "pos": "WR",
-    "pro": "CLE",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "So Mahomey",
-    "fteam_id": 12,
     "pid": 3046779,
     "name": "Jared Goff",
     "pos": "QB",
@@ -932,6 +899,39 @@
     "pro": "NE",
     "slot": "D/ST",
     "status": null,
+    "injured": false
+  },
+  {
+    "fteam": "So Mahomey",
+    "fteam_id": 12,
+    "pid": 4361579,
+    "name": "Javonte Williams",
+    "pos": "RB",
+    "pro": "DAL",
+    "slot": "RB",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "So Mahomey",
+    "fteam_id": 12,
+    "pid": 4612826,
+    "name": "Ladd McConkey",
+    "pos": "WR",
+    "pro": "LAC",
+    "slot": "RB/WR",
+    "status": "QUESTIONABLE",
+    "injured": false
+  },
+  {
+    "fteam": "So Mahomey",
+    "fteam_id": 12,
+    "pid": 4596334,
+    "name": "Keaton Mitchell",
+    "pos": "RB",
+    "pro": "LAC",
+    "slot": "BE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1129,7 +1129,7 @@
     "pos": "WR",
     "pro": "SEA",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1151,7 +1151,7 @@
     "pos": "RB",
     "pro": "ARI",
     "slot": "RB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1184,7 +1184,7 @@
     "pos": "RB",
     "pro": "NE",
     "slot": "BE",
-    "status": "DOUBTFUL",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1249,7 +1249,7 @@
     "name": "RJ Harvey",
     "pos": "RB",
     "pro": "DEN",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1316,7 +1316,7 @@
     "pos": "TE",
     "pro": "LV",
     "slot": "TE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1414,7 +1414,7 @@
     "name": "Chase Brown",
     "pos": "RB",
     "pro": "CIN",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1481,7 +1481,7 @@
     "pos": "WR",
     "pro": "DAL",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1491,8 +1491,8 @@
     "name": "Breece Hall",
     "pos": "RB",
     "pro": "NYJ",
-    "slot": "RB",
-    "status": "QUESTIONABLE",
+    "slot": "BE",
+    "status": "DOUBTFUL",
     "injured": false
   },
   {
@@ -1601,7 +1601,7 @@
     "name": "Braelon Allen",
     "pos": "RB",
     "pro": "NYJ",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },

@@ -13,8 +13,8 @@
       "rushTD": 0.95,
       "targets": 135.9,
       "receptions": 91.6,
-      "recYds": 1160.8,
-      "recTD": 7.08,
+      "recYds": 1144.2,
+      "recTD": 7.33,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -24,7 +24,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 8.03
+      "totalTD": 8.28
     },
     "Malik Nabers": {
       "pos": "WR",
@@ -37,10 +37,10 @@
       "rushAtt": 0,
       "rushYds": 0,
       "rushTD": 0,
-      "targets": 110.3,
-      "receptions": 66.1,
-      "recYds": 888.9,
-      "recTD": 6.5,
+      "targets": 110.1,
+      "receptions": 66.0,
+      "recYds": 882.8,
+      "recTD": 6.48,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -50,19 +50,19 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 6.5
+      "totalTD": 6.48
     },
     "Jayden Daniels": {
       "pos": "QB",
       "pro": 28,
-      "passAtt": 370.3,
-      "passComp": 244.1,
-      "passYds": 2757.0,
+      "passAtt": 370.0,
+      "passComp": 243.9,
+      "passYds": 2756.1,
       "passTD": 16.55,
       "passInt": 6.07,
       "rushAtt": 101.0,
       "rushYds": 654.8,
-      "rushTD": 5.72,
+      "rushTD": 5.71,
       "targets": 0,
       "receptions": 0,
       "recYds": 0,
@@ -76,7 +76,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 5.72
+      "totalTD": 5.71
     },
     "Jonathon Brooks": {
       "pos": "RB",
@@ -117,8 +117,8 @@
       "rushTD": 4.59,
       "targets": 14.6,
       "receptions": 11.9,
-      "recYds": 80.8,
-      "recTD": 0.36,
+      "recYds": 81.1,
+      "recTD": 0.34,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -128,7 +128,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.95
+      "totalTD": 4.93
     },
     "Jordyn Tyson": {
       "pos": "WR",
@@ -143,8 +143,8 @@
       "rushTD": 0,
       "targets": 57.0,
       "receptions": 34.8,
-      "recYds": 476.5,
-      "recTD": 3.27,
+      "recYds": 481.1,
+      "recTD": 3.07,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -154,7 +154,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.27
+      "totalTD": 3.07
     },
     "Seahawks D/ST": {
       "pos": "D/ST",
@@ -175,11 +175,11 @@
       "fgAtt": 0,
       "patMade": 0,
       "patAtt": 0,
-      "sacks": 29.53,
-      "defInt": 9.4,
+      "sacks": 29.46,
+      "defInt": 9.37,
       "defTD": 1.14,
-      "ptsAllowed": 307.5,
-      "ydsAllowed": 3871.2,
+      "ptsAllowed": 306.2,
+      "ydsAllowed": 3870.9,
       "totalTD": 0
     },
     "Dalton Kincaid": {
@@ -195,8 +195,8 @@
       "rushTD": 0,
       "targets": 50.0,
       "receptions": 36.0,
-      "recYds": 454.2,
-      "recTD": 2.06,
+      "recYds": 468.0,
+      "recTD": 1.77,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -206,7 +206,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 2.06
+      "totalTD": 1.77
     },
     "Blake Corum": {
       "pos": "RB",
@@ -221,8 +221,8 @@
       "rushTD": 3.88,
       "targets": 21.9,
       "receptions": 15.4,
-      "recYds": 119.4,
-      "recTD": 0.49,
+      "recYds": 118.1,
+      "recTD": 0.46,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -232,7 +232,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.37
+      "totalTD": 4.34
     },
     "Trevor Lawrence": {
       "pos": "QB",
@@ -272,9 +272,9 @@
       "rushYds": 0,
       "rushTD": 0,
       "targets": 83.3,
-      "receptions": 52.0,
-      "recYds": 745.2,
-      "recTD": 2.36,
+      "receptions": 52.5,
+      "recYds": 735.9,
+      "recTD": 0.59,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -284,7 +284,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 2.36
+      "totalTD": 0.59
     },
     "Tetairoa McMillan": {
       "pos": "WR",
@@ -299,8 +299,8 @@
       "rushTD": 0,
       "targets": 112.4,
       "receptions": 70.0,
-      "recYds": 986.7,
-      "recTD": 6.95,
+      "recYds": 982.5,
+      "recTD": 7.0,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -310,7 +310,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 6.95
+      "totalTD": 7.0
     },
     "Bhayshul Tuten": {
       "pos": "RB",
@@ -324,9 +324,9 @@
       "rushYds": 935.9,
       "rushTD": 5.91,
       "targets": 28.4,
-      "receptions": 22.0,
-      "recYds": 173.1,
-      "recTD": 1.03,
+      "receptions": 21.9,
+      "recYds": 166.9,
+      "recTD": 1.01,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -336,7 +336,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 6.94
+      "totalTD": 6.92
     },
     "Ashton Jeanty": {
       "pos": "RB",
@@ -349,10 +349,10 @@
       "rushAtt": 186.7,
       "rushYds": 711.2,
       "rushTD": 4.61,
-      "targets": 68.4,
+      "targets": 68.5,
       "receptions": 48.8,
-      "recYds": 444.7,
-      "recTD": 2.33,
+      "recYds": 461.3,
+      "recTD": 2.48,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -362,7 +362,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 6.94
+      "totalTD": 7.09
     },
     "Mike Washington Jr.": {
       "pos": "RB",
@@ -377,8 +377,8 @@
       "rushTD": 1.4,
       "targets": 8.1,
       "receptions": 6.0,
-      "recYds": 44.8,
-      "recTD": 0.25,
+      "recYds": 43.9,
+      "recTD": 0.23,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -388,7 +388,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 1.65
+      "totalTD": 1.63
     },
     "Jason Myers": {
       "pos": "K",
@@ -416,32 +416,6 @@
       "ydsAllowed": 0,
       "totalTD": 0
     },
-    "Rams D/ST": {
-      "pos": "D/ST",
-      "pro": 14,
-      "passAtt": 0,
-      "passComp": 0,
-      "passYds": 0,
-      "passTD": 0,
-      "passInt": 0,
-      "rushAtt": 0,
-      "rushYds": 0,
-      "rushTD": 0,
-      "targets": 0,
-      "receptions": 0,
-      "recYds": 0,
-      "recTD": 0,
-      "fgMade": 0,
-      "fgAtt": 0,
-      "patMade": 0,
-      "patAtt": 0,
-      "sacks": 30.2,
-      "defInt": 9.6,
-      "defTD": 1.08,
-      "ptsAllowed": 336.8,
-      "ydsAllowed": 4051.7,
-      "totalTD": 0
-    },
     "Mark Andrews": {
       "pos": "TE",
       "pro": 33,
@@ -455,8 +429,8 @@
       "rushTD": 0,
       "targets": 64.2,
       "receptions": 45.8,
-      "recYds": 470.1,
-      "recTD": 4.55,
+      "recYds": 455.8,
+      "recTD": 4.21,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -466,7 +440,33 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.55
+      "totalTD": 4.21
+    },
+    "Josh Downs": {
+      "pos": "WR",
+      "pro": 11,
+      "passAtt": 0,
+      "passComp": 0,
+      "passYds": 0,
+      "passTD": 0,
+      "passInt": 0,
+      "rushAtt": 0,
+      "rushYds": 0,
+      "rushTD": 0,
+      "targets": 73.6,
+      "receptions": 47.4,
+      "recYds": 567.7,
+      "recTD": 1.62,
+      "fgMade": 0,
+      "fgAtt": 0,
+      "patMade": 0,
+      "patAtt": 0,
+      "sacks": 0,
+      "defInt": 0,
+      "defTD": 0,
+      "ptsAllowed": 0,
+      "ydsAllowed": 0,
+      "totalTD": 1.62
     },
     "James Cook III": {
       "pos": "RB",
@@ -481,8 +481,8 @@
       "rushTD": 10.73,
       "targets": 23.3,
       "receptions": 18.0,
-      "recYds": 144.6,
-      "recTD": 0.87,
+      "recYds": 138.9,
+      "recTD": 0.85,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -492,7 +492,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 11.6
+      "totalTD": 11.58
     },
     "Kenneth Walker III": {
       "pos": "RB",
@@ -506,9 +506,9 @@
       "rushYds": 1220.7,
       "rushTD": 12.77,
       "targets": 51.3,
-      "receptions": 38.2,
-      "recYds": 323.7,
-      "recTD": 2.7,
+      "receptions": 38.3,
+      "recYds": 332.6,
+      "recTD": 3.55,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -518,7 +518,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 15.47
+      "totalTD": 16.32
     },
     "George Pickens": {
       "pos": "WR",
@@ -531,10 +531,10 @@
       "rushAtt": 0,
       "rushYds": 0,
       "rushTD": 0,
-      "targets": 93.3,
-      "receptions": 59.9,
-      "recYds": 752.8,
-      "recTD": 5.0,
+      "targets": 93.1,
+      "receptions": 59.8,
+      "recYds": 751.2,
+      "recTD": 4.88,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -544,7 +544,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 5.0
+      "totalTD": 4.88
     },
     "Garrett Wilson": {
       "pos": "WR",
@@ -559,8 +559,8 @@
       "rushTD": 0,
       "targets": 96.9,
       "receptions": 72.7,
-      "recYds": 806.7,
-      "recTD": 4.38,
+      "recYds": 810.2,
+      "recTD": 4.53,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -570,7 +570,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.38
+      "totalTD": 4.53
     },
     "Tee Higgins": {
       "pos": "WR",
@@ -585,8 +585,8 @@
       "rushTD": 0,
       "targets": 96.6,
       "receptions": 61.2,
-      "recYds": 838.5,
-      "recTD": 5.31,
+      "recYds": 846.6,
+      "recTD": 4.45,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -596,7 +596,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 5.31
+      "totalTD": 4.45
     },
     "Joe Burrow": {
       "pos": "QB",
@@ -637,8 +637,8 @@
       "rushTD": 0.22,
       "targets": 75.5,
       "receptions": 54.5,
-      "recYds": 556.8,
-      "recTD": 3.37,
+      "recYds": 571.7,
+      "recTD": 3.4,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -648,7 +648,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.59
+      "totalTD": 3.62
     },
     "De'Zhaun Stribling": {
       "pos": "WR",
@@ -689,8 +689,8 @@
       "rushTD": 0,
       "targets": 80.1,
       "receptions": 59.3,
-      "recYds": 607.4,
-      "recTD": 5.46,
+      "recYds": 605.1,
+      "recTD": 5.59,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -700,7 +700,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 5.46
+      "totalTD": 5.59
     },
     "Jonah Coleman": {
       "pos": "RB",
@@ -766,9 +766,9 @@
       "rushYds": 810.4,
       "rushTD": 6.1,
       "targets": 24.5,
-      "receptions": 18.6,
-      "recYds": 135.5,
-      "recTD": 0.53,
+      "receptions": 18.8,
+      "recYds": 130.3,
+      "recTD": 0.44,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -778,7 +778,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 6.63
+      "totalTD": 6.54
     },
     "Wan'Dale Robinson": {
       "pos": "WR",
@@ -792,9 +792,9 @@
       "rushYds": 17.5,
       "rushTD": 0.12,
       "targets": 69.4,
-      "receptions": 49.8,
-      "recYds": 472.8,
-      "recTD": 1.12,
+      "receptions": 49.7,
+      "recYds": 476.9,
+      "recTD": 1.91,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -804,7 +804,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 1.24
+      "totalTD": 2.03
     },
     "Falcons D/ST": {
       "pos": "D/ST",
@@ -829,7 +829,7 @@
       "defInt": 7.88,
       "defTD": 1.1,
       "ptsAllowed": 356.0,
-      "ydsAllowed": 4088.3,
+      "ydsAllowed": 4086.6,
       "totalTD": 0
     },
     "Germie Bernard": {
@@ -843,10 +843,10 @@
       "rushAtt": 0,
       "rushYds": 0,
       "rushTD": 0,
-      "targets": 67.3,
-      "receptions": 40.8,
-      "recYds": 501.4,
-      "recTD": 3.84,
+      "targets": 67.6,
+      "receptions": 42.2,
+      "recYds": 440.8,
+      "recTD": 2.59,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -856,7 +856,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.84
+      "totalTD": 2.59
     },
     "Denzel Boston": {
       "pos": "WR",
@@ -870,9 +870,9 @@
       "rushYds": 0,
       "rushTD": 0,
       "targets": 81.2,
-      "receptions": 50.0,
-      "recYds": 675.6,
-      "recTD": 4.39,
+      "receptions": 48.8,
+      "recYds": 763.6,
+      "recTD": 6.2,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -882,7 +882,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.39
+      "totalTD": 6.2
     },
     "Omarion Hampton": {
       "pos": "RB",
@@ -897,8 +897,8 @@
       "rushTD": 4.56,
       "targets": 19.6,
       "receptions": 15.1,
-      "recYds": 109.8,
-      "recTD": 0.37,
+      "recYds": 106.9,
+      "recTD": 0.34,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -908,7 +908,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.93
+      "totalTD": 4.9
     },
     "Jonathan Taylor": {
       "pos": "RB",
@@ -918,13 +918,13 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 231.5,
-      "rushYds": 984.4,
+      "rushAtt": 231.7,
+      "rushYds": 985.3,
       "rushTD": 8.78,
       "targets": 41.9,
-      "receptions": 31.5,
-      "recYds": 254.5,
-      "recTD": 0.76,
+      "receptions": 31.4,
+      "recYds": 255.2,
+      "recTD": 0.64,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -934,7 +934,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 9.54
+      "totalTD": 9.42
     },
     "Trey McBride": {
       "pos": "TE",
@@ -947,10 +947,10 @@
       "rushAtt": 0,
       "rushYds": 0,
       "rushTD": 0,
-      "targets": 124.5,
-      "receptions": 93.6,
-      "recYds": 767.3,
-      "recTD": 7.38,
+      "targets": 124.4,
+      "receptions": 93.5,
+      "recYds": 773.2,
+      "recTD": 7.44,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -960,7 +960,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 7.38
+      "totalTD": 7.44
     },
     "Travis Etienne Jr.": {
       "pos": "RB",
@@ -975,8 +975,8 @@
       "rushTD": 3.99,
       "targets": 30.2,
       "receptions": 22.8,
-      "recYds": 171.9,
-      "recTD": 0.92,
+      "recYds": 173.5,
+      "recTD": 0.93,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -986,7 +986,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.91
+      "totalTD": 4.92
     },
     "Rome Odunze": {
       "pos": "WR",
@@ -1000,9 +1000,9 @@
       "rushYds": 0,
       "rushTD": 0,
       "targets": 70.0,
-      "receptions": 38.6,
-      "recYds": 632.0,
-      "recTD": 4.49,
+      "receptions": 38.5,
+      "recYds": 644.4,
+      "recTD": 4.03,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1012,19 +1012,19 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.49
+      "totalTD": 4.03
     },
     "Jalen Hurts": {
       "pos": "QB",
       "pro": 21,
-      "passAtt": 401.5,
-      "passComp": 253.1,
-      "passYds": 2775.3,
-      "passTD": 15.15,
-      "passInt": 8.04,
-      "rushAtt": 62.2,
-      "rushYds": 275.5,
-      "rushTD": 4.58,
+      "passAtt": 353.1,
+      "passComp": 223.4,
+      "passYds": 2470.0,
+      "passTD": 12.13,
+      "passInt": 7.19,
+      "rushAtt": 57.5,
+      "rushYds": 254.6,
+      "rushTD": 3.54,
       "targets": 0,
       "receptions": 0,
       "recYds": 0,
@@ -1038,7 +1038,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.58
+      "totalTD": 3.54
     },
     "Rico Dowdle": {
       "pos": "RB",
@@ -1048,13 +1048,13 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 83.0,
-      "rushYds": 357.3,
+      "rushAtt": 83.1,
+      "rushYds": 357.7,
       "rushTD": 1.56,
       "targets": 24.6,
-      "receptions": 18.1,
-      "recYds": 127.0,
-      "recTD": 0.78,
+      "receptions": 18.0,
+      "recYds": 128.4,
+      "recTD": 0.74,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1064,7 +1064,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 2.34
+      "totalTD": 2.3
     },
     "Alec Pierce": {
       "pos": "WR",
@@ -1077,10 +1077,10 @@
       "rushAtt": 0,
       "rushYds": 0,
       "rushTD": 0,
-      "targets": 66.8,
-      "receptions": 38.1,
-      "recYds": 555.9,
-      "recTD": 2.36,
+      "targets": 53.0,
+      "receptions": 30.2,
+      "recYds": 443.3,
+      "recTD": 1.75,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1090,7 +1090,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 2.36
+      "totalTD": 1.75
     },
     "Jordan Addison": {
       "pos": "WR",
@@ -1105,8 +1105,8 @@
       "rushTD": 0.08,
       "targets": 76.6,
       "receptions": 46.8,
-      "recYds": 645.5,
-      "recTD": 3.68,
+      "recYds": 653.7,
+      "recTD": 2.95,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1116,7 +1116,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.76
+      "totalTD": 3.03
     },
     "Emanuel Wilson": {
       "pos": "RB",
@@ -1131,7 +1131,7 @@
       "rushTD": 0.98,
       "targets": 4.0,
       "receptions": 3.0,
-      "recYds": 24.8,
+      "recYds": 24.6,
       "recTD": 0.12,
       "fgMade": 0,
       "fgAtt": 0,
@@ -1205,12 +1205,12 @@
       "passTD": 0,
       "passInt": 0,
       "rushAtt": 19.9,
-      "rushYds": 114.7,
+      "rushYds": 114.8,
       "rushTD": 1.04,
       "targets": 44.9,
       "receptions": 31.7,
-      "recYds": 410.5,
-      "recTD": 3.48,
+      "recYds": 408.5,
+      "recTD": 4.01,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1220,7 +1220,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.52
+      "totalTD": 5.05
     },
     "Matthew Golden": {
       "pos": "WR",
@@ -1233,10 +1233,10 @@
       "rushAtt": 2.4,
       "rushYds": 13.3,
       "rushTD": 0.07,
-      "targets": 97.7,
-      "receptions": 56.5,
-      "recYds": 837.5,
-      "recTD": 6.11,
+      "targets": 93.2,
+      "receptions": 53.9,
+      "recYds": 811.0,
+      "recTD": 6.14,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1246,7 +1246,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 6.18
+      "totalTD": 6.21
     },
     "J.K. Dobbins": {
       "pos": "RB",
@@ -1261,8 +1261,8 @@
       "rushTD": 5.39,
       "targets": 18.8,
       "receptions": 14.3,
-      "recYds": 90.5,
-      "recTD": 0.35,
+      "recYds": 93.8,
+      "recTD": 0.3,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1272,7 +1272,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 5.74
+      "totalTD": 5.69
     },
     "Xavier Worthy": {
       "pos": "WR",
@@ -1285,10 +1285,10 @@
       "rushAtt": 0,
       "rushYds": 0,
       "rushTD": 0,
-      "targets": 67.0,
-      "receptions": 41.2,
-      "recYds": 589.1,
-      "recTD": 4.61,
+      "targets": 67.6,
+      "receptions": 41.7,
+      "recYds": 589.0,
+      "recTD": 4.67,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1298,7 +1298,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.61
+      "totalTD": 4.67
     },
     "Emeka Egbuka": {
       "pos": "WR",
@@ -1312,9 +1312,9 @@
       "rushYds": 17.6,
       "rushTD": 0.19,
       "targets": 81.6,
-      "receptions": 46.5,
-      "recYds": 677.8,
-      "recTD": 3.9,
+      "receptions": 46.6,
+      "recYds": 666.6,
+      "recTD": 4.34,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1324,7 +1324,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.09
+      "totalTD": 4.53
     },
     "DeVonta Smith": {
       "pos": "WR",
@@ -1337,10 +1337,10 @@
       "rushAtt": 0,
       "rushYds": 0,
       "rushTD": 0,
-      "targets": 100.5,
-      "receptions": 71.0,
-      "recYds": 809.8,
-      "recTD": 4.39,
+      "targets": 88.4,
+      "receptions": 62.3,
+      "recYds": 746.2,
+      "recTD": 4.15,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1350,7 +1350,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.39
+      "totalTD": 4.15
     },
     "Colts D/ST": {
       "pos": "D/ST",
@@ -1371,10 +1371,10 @@
       "fgAtt": 0,
       "patMade": 0,
       "patAtt": 0,
-      "sacks": 27.83,
-      "defInt": 8.22,
+      "sacks": 27.76,
+      "defInt": 8.2,
       "defTD": 1.12,
-      "ptsAllowed": 384.4,
+      "ptsAllowed": 383.2,
       "ydsAllowed": 4177.1,
       "totalTD": 0
     },
@@ -1386,13 +1386,13 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 120.2,
-      "rushYds": 533.5,
+      "rushAtt": 120.3,
+      "rushYds": 534.0,
       "rushTD": 4.09,
       "targets": 22.8,
       "receptions": 16.9,
-      "recYds": 148.5,
-      "recTD": 0.89,
+      "recYds": 154.2,
+      "recTD": 0.97,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1402,7 +1402,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.98
+      "totalTD": 5.06
     },
     "Caleb Williams": {
       "pos": "QB",
@@ -1414,7 +1414,7 @@
       "passInt": 7.03,
       "rushAtt": 59.2,
       "rushYds": 338.2,
-      "rushTD": 3.02,
+      "rushTD": 3.0,
       "targets": 0,
       "receptions": 0,
       "recYds": 0,
@@ -1428,7 +1428,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.02
+      "totalTD": 3.0
     },
     "Isaiah Likely": {
       "pos": "TE",
@@ -1441,10 +1441,10 @@
       "rushAtt": 0,
       "rushYds": 0,
       "rushTD": 0,
-      "targets": 98.9,
-      "receptions": 65.3,
-      "recYds": 687.9,
-      "recTD": 5.29,
+      "targets": 98.7,
+      "receptions": 65.2,
+      "recYds": 678.1,
+      "recTD": 5.3,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1454,7 +1454,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 5.29
+      "totalTD": 5.3
     },
     "Cam Little": {
       "pos": "K",
@@ -1495,8 +1495,8 @@
       "rushTD": 0,
       "targets": 56.2,
       "receptions": 36.5,
-      "recYds": 519.3,
-      "recTD": 4.53,
+      "recYds": 536.9,
+      "recTD": 4.59,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1506,7 +1506,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.53
+      "totalTD": 4.59
     },
     "Nico Collins": {
       "pos": "WR",
@@ -1519,10 +1519,10 @@
       "rushAtt": 2.9,
       "rushYds": 15.7,
       "rushTD": 0.13,
-      "targets": 98.0,
+      "targets": 97.9,
       "receptions": 70.6,
-      "recYds": 884.3,
-      "recTD": 5.59,
+      "recYds": 886.7,
+      "recTD": 6.28,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1532,7 +1532,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 5.72
+      "totalTD": 6.41
     },
     "Jalen Coker": {
       "pos": "WR",
@@ -1546,9 +1546,9 @@
       "rushYds": 0,
       "rushTD": 0,
       "targets": 95.1,
-      "receptions": 68.6,
-      "recYds": 804.4,
-      "recTD": 5.4,
+      "receptions": 68.5,
+      "recYds": 809.4,
+      "recTD": 5.55,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1558,7 +1558,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 5.4
+      "totalTD": 5.55
     },
     "Jaylen Waddle": {
       "pos": "WR",
@@ -1573,8 +1573,8 @@
       "rushTD": 0.1,
       "targets": 79.0,
       "receptions": 50.0,
-      "recYds": 634.2,
-      "recTD": 2.13,
+      "recYds": 630.6,
+      "recTD": 1.51,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1584,7 +1584,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 2.23
+      "totalTD": 1.61
     },
     "Cam Skattebo": {
       "pos": "RB",
@@ -1594,13 +1594,13 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 191.1,
-      "rushYds": 764.6,
-      "rushTD": 3.81,
+      "rushAtt": 188.3,
+      "rushYds": 753.3,
+      "rushTD": 3.69,
       "targets": 26.6,
       "receptions": 19.8,
-      "recYds": 152.8,
-      "recTD": 0.63,
+      "recYds": 155.4,
+      "recTD": 0.57,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1610,7 +1610,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.44
+      "totalTD": 4.26
     },
     "D'Andre Swift": {
       "pos": "RB",
@@ -1620,13 +1620,13 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 163.6,
-      "rushYds": 702.9,
-      "rushTD": 7.02,
+      "rushAtt": 166.0,
+      "rushYds": 713.7,
+      "rushTD": 7.08,
       "targets": 35.0,
       "receptions": 28.5,
-      "recYds": 235.3,
-      "recTD": 0.74,
+      "recYds": 233.8,
+      "recTD": 0.77,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1636,7 +1636,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 7.76
+      "totalTD": 7.85
     },
     "Brian Robinson Jr.": {
       "pos": "RB",
@@ -1651,8 +1651,8 @@
       "rushTD": 4.36,
       "targets": 10.3,
       "receptions": 7.9,
-      "recYds": 61.7,
-      "recTD": 0.41,
+      "recYds": 62.6,
+      "recTD": 0.48,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1662,18 +1662,18 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.77
+      "totalTD": 4.84
     },
     "Bryce Young": {
       "pos": "QB",
       "pro": 29,
-      "passAtt": 474.6,
-      "passComp": 296.4,
-      "passYds": 3311.0,
+      "passAtt": 474.3,
+      "passComp": 296.3,
+      "passYds": 3310.0,
       "passTD": 23.63,
       "passInt": 8.83,
       "rushAtt": 38.6,
-      "rushYds": 197.5,
+      "rushYds": 197.6,
       "rushTD": 2.01,
       "targets": 0,
       "receptions": 0,
@@ -1709,11 +1709,11 @@
       "fgAtt": 0,
       "patMade": 0,
       "patAtt": 0,
-      "sacks": 28.14,
-      "defInt": 8.9,
-      "defTD": 1.11,
-      "ptsAllowed": 304.1,
-      "ydsAllowed": 3922.3,
+      "sacks": 28.07,
+      "defInt": 8.88,
+      "defTD": 1.1,
+      "ptsAllowed": 302.8,
+      "ydsAllowed": 3922.0,
       "totalTD": 0
     },
     "Mike Evans": {
@@ -1727,10 +1727,10 @@
       "rushAtt": 0,
       "rushYds": 0,
       "rushTD": 0,
-      "targets": 93.9,
-      "receptions": 61.7,
-      "recYds": 902.6,
-      "recTD": 7.03,
+      "targets": 92.7,
+      "receptions": 60.8,
+      "recYds": 897.8,
+      "recTD": 7.02,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1740,7 +1740,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 7.03
+      "totalTD": 7.02
     },
     "Pat Freiermuth": {
       "pos": "TE",
@@ -1751,12 +1751,12 @@
       "passTD": 0,
       "passInt": 0,
       "rushAtt": 8.0,
-      "rushYds": 19.0,
+      "rushYds": 19.1,
       "rushTD": 0.24,
-      "targets": 66.3,
-      "receptions": 48.1,
-      "recYds": 454.9,
-      "recTD": 4.21,
+      "targets": 66.2,
+      "receptions": 47.8,
+      "recYds": 485.9,
+      "recTD": 5.24,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1766,7 +1766,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.45
+      "totalTD": 5.48
     },
     "Alvin Kamara": {
       "pos": "RB",
@@ -1780,9 +1780,9 @@
       "rushYds": 340.2,
       "rushTD": 2.73,
       "targets": 34.3,
-      "receptions": 27.4,
-      "recYds": 169.3,
-      "recTD": 0.57,
+      "receptions": 27.5,
+      "recYds": 167.1,
+      "recTD": 0.53,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1792,7 +1792,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.3
+      "totalTD": 3.26
     },
     "Jahmyr Gibbs": {
       "pos": "RB",
@@ -1807,8 +1807,8 @@
       "rushTD": 13.13,
       "targets": 75.9,
       "receptions": 60.5,
-      "recYds": 478.9,
-      "recTD": 2.69,
+      "recYds": 489.1,
+      "recTD": 2.49,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1818,7 +1818,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 15.82
+      "totalTD": 15.62
     },
     "Colston Loveland": {
       "pos": "TE",
@@ -1833,8 +1833,8 @@
       "rushTD": 0,
       "targets": 59.5,
       "receptions": 38.2,
-      "recYds": 451.7,
-      "recTD": 3.5,
+      "recYds": 439.9,
+      "recTD": 3.91,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1844,7 +1844,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.5
+      "totalTD": 3.91
     },
     "Josh Jacobs": {
       "pos": "RB",
@@ -1859,7 +1859,7 @@
       "rushTD": 2.77,
       "targets": 23.2,
       "receptions": 18.1,
-      "recYds": 129.8,
+      "recYds": 130.5,
       "recTD": 0.67,
       "fgMade": 0,
       "fgAtt": 0,
@@ -1911,8 +1911,8 @@
       "rushTD": 0,
       "targets": 111.6,
       "receptions": 64.0,
-      "recYds": 819.3,
-      "recTD": 5.54,
+      "recYds": 821.0,
+      "recTD": 5.45,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1922,7 +1922,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 5.54
+      "totalTD": 5.45
     },
     "Ka'imi Fairbairn": {
       "pos": "K",
@@ -1962,9 +1962,9 @@
       "rushYds": 0,
       "rushTD": 0,
       "targets": 109.5,
-      "receptions": 76.2,
-      "recYds": 932.7,
-      "recTD": 4.87,
+      "receptions": 76.4,
+      "recYds": 944.9,
+      "recTD": 4.42,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -1974,7 +1974,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.87
+      "totalTD": 4.42
     },
     "De'Von Achane": {
       "pos": "RB",
@@ -2040,9 +2040,9 @@
       "rushYds": 0,
       "rushTD": 0,
       "targets": 65.2,
-      "receptions": 47.8,
-      "recYds": 461.8,
-      "recTD": 4.03,
+      "receptions": 47.9,
+      "recYds": 440.7,
+      "recTD": 4.76,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2052,7 +2052,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.03
+      "totalTD": 4.76
     },
     "Jared Goff": {
       "pos": "QB",
@@ -2093,8 +2093,8 @@
       "rushTD": 1.04,
       "targets": 6.7,
       "receptions": 5.0,
-      "recYds": 35.9,
-      "recTD": 0.16,
+      "recYds": 36.2,
+      "recTD": 0.14,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2104,7 +2104,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 1.2
+      "totalTD": 1.18
     },
     "Patriots D/ST": {
       "pos": "D/ST",
@@ -2140,13 +2140,13 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 205.0,
-      "rushYds": 817.4,
-      "rushTD": 11.54,
-      "targets": 42.4,
-      "receptions": 32.1,
-      "recYds": 184.0,
-      "recTD": 0.82,
+      "rushAtt": 205.4,
+      "rushYds": 819.2,
+      "rushTD": 11.55,
+      "targets": 42.3,
+      "receptions": 32.0,
+      "recYds": 183.7,
+      "recTD": 0.76,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2156,7 +2156,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 12.36
+      "totalTD": 12.31
     },
     "Ladd McConkey": {
       "pos": "WR",
@@ -2170,9 +2170,9 @@
       "rushYds": 0,
       "rushTD": 0,
       "targets": 71.9,
-      "receptions": 47.2,
-      "recYds": 610.0,
-      "recTD": 2.77,
+      "receptions": 47.1,
+      "recYds": 618.6,
+      "recTD": 3.28,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2182,7 +2182,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 2.77
+      "totalTD": 3.28
     },
     "Keaton Mitchell": {
       "pos": "RB",
@@ -2197,8 +2197,8 @@
       "rushTD": 1.36,
       "targets": 36.0,
       "receptions": 27.3,
-      "recYds": 205.6,
-      "recTD": 1.1,
+      "recYds": 199.6,
+      "recTD": 1.32,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2208,7 +2208,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 2.46
+      "totalTD": 2.68
     },
     "Christian McCaffrey": {
       "pos": "RB",
@@ -2218,13 +2218,13 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 185.9,
-      "rushYds": 828.0,
+      "rushAtt": 186.1,
+      "rushYds": 828.8,
       "rushTD": 9.31,
       "targets": 65.2,
       "receptions": 50.0,
-      "recYds": 419.7,
-      "recTD": 2.44,
+      "recYds": 414.8,
+      "recTD": 1.49,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2234,7 +2234,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 11.75
+      "totalTD": 10.8
     },
     "A.J. Brown": {
       "pos": "WR",
@@ -2248,9 +2248,9 @@
       "rushYds": 0,
       "rushTD": 0,
       "targets": 84.7,
-      "receptions": 58.6,
-      "recYds": 825.1,
-      "recTD": 5.86,
+      "receptions": 58.7,
+      "recYds": 811.8,
+      "recTD": 5.7,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2260,7 +2260,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 5.86
+      "totalTD": 5.7
     },
     "Derrick Henry": {
       "pos": "RB",
@@ -2275,8 +2275,8 @@
       "rushTD": 14.81,
       "targets": 22.5,
       "receptions": 16.9,
-      "recYds": 153.8,
-      "recTD": 0.8,
+      "recYds": 151.8,
+      "recTD": 0.84,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2286,7 +2286,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 15.61
+      "totalTD": 15.65
     },
     "Zay Flowers": {
       "pos": "WR",
@@ -2301,8 +2301,8 @@
       "rushTD": 0.39,
       "targets": 96.3,
       "receptions": 71.0,
-      "recYds": 1047.0,
-      "recTD": 3.49,
+      "recYds": 1046.7,
+      "recTD": 2.93,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2312,7 +2312,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.88
+      "totalTD": 3.32
     },
     "DJ Moore": {
       "pos": "WR",
@@ -2327,8 +2327,8 @@
       "rushTD": 0.38,
       "targets": 76.7,
       "receptions": 49.8,
-      "recYds": 741.7,
-      "recTD": 4.25,
+      "recYds": 757.8,
+      "recTD": 3.9,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2338,7 +2338,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.63
+      "totalTD": 4.28
     },
     "Kyle Pitts Sr.": {
       "pos": "TE",
@@ -2352,9 +2352,9 @@
       "rushYds": 0,
       "rushTD": 0,
       "targets": 54.9,
-      "receptions": 36.1,
-      "recYds": 443.8,
-      "recTD": 2.76,
+      "receptions": 35.9,
+      "recYds": 437.5,
+      "recTD": 3.46,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2364,7 +2364,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 2.76
+      "totalTD": 3.46
     },
     "Parker Washington": {
       "pos": "WR",
@@ -2378,9 +2378,9 @@
       "rushYds": 8.0,
       "rushTD": 0.05,
       "targets": 88.7,
-      "receptions": 56.0,
-      "recYds": 850.5,
-      "recTD": 6.72,
+      "receptions": 55.7,
+      "recYds": 856.1,
+      "recTD": 6.76,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2390,7 +2390,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 6.77
+      "totalTD": 6.81
     },
     "George Kittle": {
       "pos": "TE",
@@ -2403,10 +2403,10 @@
       "rushAtt": 0,
       "rushYds": 0,
       "rushTD": 0,
-      "targets": 76.0,
+      "targets": 75.9,
       "receptions": 57.4,
-      "recYds": 749.0,
-      "recTD": 5.62,
+      "recYds": 743.3,
+      "recTD": 5.65,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2416,7 +2416,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 5.62
+      "totalTD": 5.65
     },
     "DK Metcalf": {
       "pos": "WR",
@@ -2429,10 +2429,10 @@
       "rushAtt": 0,
       "rushYds": 0,
       "rushTD": 0,
-      "targets": 86.8,
-      "receptions": 46.4,
-      "recYds": 678.2,
-      "recTD": 4.66,
+      "targets": 86.7,
+      "receptions": 46.1,
+      "recYds": 687.4,
+      "recTD": 4.09,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2442,14 +2442,14 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.66
+      "totalTD": 4.09
     },
     "Brock Purdy": {
       "pos": "QB",
       "pro": 25,
-      "passAtt": 374.0,
-      "passComp": 251.7,
-      "passYds": 3103.2,
+      "passAtt": 373.7,
+      "passComp": 251.5,
+      "passYds": 3102.0,
       "passTD": 23.48,
       "passInt": 8.58,
       "rushAtt": 53.8,
@@ -2504,13 +2504,13 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 105.0,
-      "rushYds": 395.4,
+      "rushAtt": 105.1,
+      "rushYds": 395.8,
       "rushTD": 2.71,
       "targets": 30.1,
       "receptions": 22.8,
-      "recYds": 174.1,
-      "recTD": 0.94,
+      "recYds": 171.4,
+      "recTD": 0.87,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2520,7 +2520,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.65
+      "totalTD": 3.58
     },
     "Will Reichard": {
       "pos": "K",
@@ -2587,8 +2587,8 @@
       "rushTD": 2.29,
       "targets": 18.9,
       "receptions": 14.5,
-      "recYds": 91.2,
-      "recTD": 0.68,
+      "recYds": 91.3,
+      "recTD": 0.82,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2598,7 +2598,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 2.97
+      "totalTD": 3.11
     },
     "Kendrick Bourne": {
       "pos": "WR",
@@ -2613,8 +2613,8 @@
       "rushTD": 0,
       "targets": 47.2,
       "receptions": 32.3,
-      "recYds": 331.6,
-      "recTD": 2.06,
+      "recYds": 313.7,
+      "recTD": 1.61,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2624,7 +2624,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 2.06
+      "totalTD": 1.61
     },
     "Dominic Zvada": {
       "pos": "K",
@@ -2663,10 +2663,10 @@
       "rushAtt": 3.3,
       "rushYds": 19.4,
       "rushTD": 0.13,
-      "targets": 113.1,
-      "receptions": 82.3,
-      "recYds": 1118.1,
-      "recTD": 7.27,
+      "targets": 113.0,
+      "receptions": 82.2,
+      "recYds": 1122.3,
+      "recTD": 7.44,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2676,7 +2676,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 7.4
+      "totalTD": 7.57
     },
     "Justin Jefferson": {
       "pos": "WR",
@@ -2691,8 +2691,8 @@
       "rushTD": 0.05,
       "targets": 109.4,
       "receptions": 80.0,
-      "recYds": 944.3,
-      "recTD": 6.96,
+      "recYds": 944.7,
+      "recTD": 7.91,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2702,7 +2702,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 7.01
+      "totalTD": 7.96
     },
     "Jeremiyah Love": {
       "pos": "RB",
@@ -2712,13 +2712,13 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 174.3,
-      "rushYds": 734.7,
+      "rushAtt": 174.5,
+      "rushYds": 735.5,
       "rushTD": 3.65,
-      "targets": 34.4,
+      "targets": 34.3,
       "receptions": 25.7,
-      "recYds": 175.7,
-      "recTD": 1.12,
+      "recYds": 180.3,
+      "recTD": 1.18,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2728,7 +2728,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.77
+      "totalTD": 4.83
     },
     "Rashee Rice": {
       "pos": "WR",
@@ -2741,10 +2741,10 @@
       "rushAtt": 0,
       "rushYds": 0,
       "rushTD": 0,
-      "targets": 94.7,
-      "receptions": 69.8,
-      "recYds": 829.5,
-      "recTD": 6.32,
+      "targets": 87.7,
+      "receptions": 64.7,
+      "recYds": 776.2,
+      "recTD": 5.15,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2754,7 +2754,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 6.32
+      "totalTD": 5.15
     },
     "Quinshon Judkins": {
       "pos": "RB",
@@ -2768,9 +2768,9 @@
       "rushYds": 697.1,
       "rushTD": 4.48,
       "targets": 46.4,
-      "receptions": 36.7,
-      "recYds": 253.5,
-      "recTD": 1.64,
+      "receptions": 37.2,
+      "recYds": 234.0,
+      "recTD": 1.67,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2780,7 +2780,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 6.12
+      "totalTD": 6.15
     },
     "TreVeyon Henderson": {
       "pos": "RB",
@@ -2795,8 +2795,8 @@
       "rushTD": 3.06,
       "targets": 18.4,
       "receptions": 14.7,
-      "recYds": 103.2,
-      "recTD": 0.59,
+      "recYds": 102.0,
+      "recTD": 0.58,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2806,7 +2806,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.65
+      "totalTD": 3.64
     },
     "Harold Fannin Jr.": {
       "pos": "TE",
@@ -2820,9 +2820,9 @@
       "rushYds": 0,
       "rushTD": 0,
       "targets": 73.4,
-      "receptions": 49.3,
-      "recYds": 526.0,
-      "recTD": 4.22,
+      "receptions": 50.0,
+      "recYds": 504.9,
+      "recTD": 3.92,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2832,7 +2832,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.22
+      "totalTD": 3.92
     },
     "Jameson Williams": {
       "pos": "WR",
@@ -2847,8 +2847,8 @@
       "rushTD": 0,
       "targets": 67.4,
       "receptions": 44.0,
-      "recYds": 622.9,
-      "recTD": 3.92,
+      "recYds": 618.2,
+      "recTD": 4.07,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2858,33 +2858,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.92
-    },
-    "Kenny Gainwell": {
-      "pos": "RB",
-      "pro": 27,
-      "passAtt": 0,
-      "passComp": 0,
-      "passYds": 0,
-      "passTD": 0,
-      "passInt": 0,
-      "rushAtt": 38.3,
-      "rushYds": 165.2,
-      "rushTD": 1.14,
-      "targets": 42.6,
-      "receptions": 33.1,
-      "recYds": 235.6,
-      "recTD": 1.43,
-      "fgMade": 0,
-      "fgAtt": 0,
-      "patMade": 0,
-      "patAtt": 0,
-      "sacks": 0,
-      "defInt": 0,
-      "defTD": 0,
-      "ptsAllowed": 0,
-      "ydsAllowed": 0,
-      "totalTD": 2.57
+      "totalTD": 4.07
     },
     "Aaron Jones Sr.": {
       "pos": "RB",
@@ -2899,8 +2873,8 @@
       "rushTD": 3.08,
       "targets": 47.4,
       "receptions": 35.4,
-      "recYds": 276.6,
-      "recTD": 1.48,
+      "recYds": 276.9,
+      "recTD": 1.19,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2910,14 +2884,14 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.56
+      "totalTD": 4.27
     },
     "Dak Prescott": {
       "pos": "QB",
       "pro": 6,
-      "passAtt": 432.6,
-      "passComp": 291.5,
-      "passYds": 3051.5,
+      "passAtt": 432.0,
+      "passComp": 291.1,
+      "passYds": 3049.4,
       "passTD": 19.91,
       "passInt": 8.11,
       "rushAtt": 33.6,
@@ -2951,8 +2925,8 @@
       "rushTD": 1.64,
       "targets": 52.7,
       "receptions": 43.8,
-      "recYds": 330.3,
-      "recTD": 2.16,
+      "recYds": 316.0,
+      "recTD": 2.28,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -2962,7 +2936,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.8
+      "totalTD": 3.92
     },
     "Matthew Stafford": {
       "pos": "QB",
@@ -3042,6 +3016,32 @@
       "ydsAllowed": 4292.6,
       "totalTD": 0
     },
+    "Devaughn Vele": {
+      "pos": "WR",
+      "pro": 18,
+      "passAtt": 0,
+      "passComp": 0,
+      "passYds": 0,
+      "passTD": 0,
+      "passInt": 0,
+      "rushAtt": 0,
+      "rushYds": 0,
+      "rushTD": 0,
+      "targets": 56.5,
+      "receptions": 38.3,
+      "recYds": 389.8,
+      "recTD": 3.09,
+      "fgMade": 0,
+      "fgAtt": 0,
+      "patMade": 0,
+      "patAtt": 0,
+      "sacks": 0,
+      "defInt": 0,
+      "defTD": 0,
+      "ptsAllowed": 0,
+      "ydsAllowed": 0,
+      "totalTD": 3.09
+    },
     "Bijan Robinson": {
       "pos": "RB",
       "pro": 1,
@@ -3054,9 +3054,9 @@
       "rushYds": 1161.7,
       "rushTD": 10.86,
       "targets": 54.9,
-      "receptions": 39.1,
-      "recYds": 377.1,
-      "recTD": 2.07,
+      "receptions": 38.9,
+      "recYds": 370.3,
+      "recTD": 2.03,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3066,7 +3066,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 12.93
+      "totalTD": 12.89
     },
     "Josh Allen": {
       "pos": "QB",
@@ -3107,8 +3107,8 @@
       "rushTD": 0,
       "targets": 112.7,
       "receptions": 79.1,
-      "recYds": 876.5,
-      "recTD": 6.91,
+      "recYds": 898.4,
+      "recTD": 6.9,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3118,7 +3118,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 6.91
+      "totalTD": 6.9
     },
     "David Montgomery": {
       "pos": "RB",
@@ -3128,13 +3128,13 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 143.5,
-      "rushYds": 591.2,
+      "rushAtt": 143.7,
+      "rushYds": 591.9,
       "rushTD": 5.59,
       "targets": 20.6,
       "receptions": 17.1,
-      "recYds": 119.9,
-      "recTD": 0.39,
+      "recYds": 121.6,
+      "recTD": 0.44,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3144,7 +3144,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 5.98
+      "totalTD": 6.03
     },
     "Luther Burden III": {
       "pos": "WR",
@@ -3154,13 +3154,13 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 10.0,
-      "rushYds": 49.6,
-      "rushTD": 0.49,
+      "rushAtt": 10.8,
+      "rushYds": 53.8,
+      "rushTD": 0.52,
       "targets": 77.0,
-      "receptions": 51.1,
-      "recYds": 654.2,
-      "recTD": 3.31,
+      "receptions": 51.0,
+      "recYds": 657.9,
+      "recTD": 3.54,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3170,7 +3170,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.8
+      "totalTD": 4.06
     },
     "Christian Watson": {
       "pos": "WR",
@@ -3184,9 +3184,9 @@
       "rushYds": 0,
       "rushTD": 0,
       "targets": 97.7,
-      "receptions": 60.9,
-      "recYds": 845.3,
-      "recTD": 6.83,
+      "receptions": 61.0,
+      "recYds": 828.3,
+      "recTD": 6.41,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3196,7 +3196,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 6.83
+      "totalTD": 6.41
     },
     "Jaylen Warren": {
       "pos": "RB",
@@ -3206,13 +3206,13 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 166.0,
-      "rushYds": 766.4,
+      "rushAtt": 166.2,
+      "rushYds": 767.2,
       "rushTD": 3.24,
       "targets": 53.3,
-      "receptions": 42.4,
-      "recYds": 371.9,
-      "recTD": 2.06,
+      "receptions": 42.2,
+      "recYds": 369.8,
+      "recTD": 2.19,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3222,7 +3222,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 5.3
+      "totalTD": 5.43
     },
     "Quentin Johnston": {
       "pos": "WR",
@@ -3237,8 +3237,8 @@
       "rushTD": 0.18,
       "targets": 46.3,
       "receptions": 23.5,
-      "recYds": 420.3,
-      "recTD": 1.78,
+      "recYds": 424.3,
+      "recTD": 1.44,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3248,7 +3248,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 1.96
+      "totalTD": 1.62
     },
     "Jacory Croskey-Merritt": {
       "pos": "RB",
@@ -3258,13 +3258,13 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 137.1,
-      "rushYds": 577.0,
+      "rushAtt": 137.3,
+      "rushYds": 577.6,
       "rushTD": 5.13,
       "targets": 6.9,
       "receptions": 5.6,
-      "recYds": 40.0,
-      "recTD": 0.24,
+      "recYds": 39.8,
+      "recTD": 0.27,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3274,7 +3274,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 5.37
+      "totalTD": 5.4
     },
     "Tyreek Hill": {
       "pos": "WR",
@@ -3314,9 +3314,9 @@
       "rushYds": 0,
       "rushTD": 0,
       "targets": 76.2,
-      "receptions": 53.4,
+      "receptions": 53.1,
       "recYds": 581.2,
-      "recTD": 2.95,
+      "recTD": 3.31,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3326,7 +3326,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 2.95
+      "totalTD": 3.31
     },
     "Chase Brown": {
       "pos": "RB",
@@ -3341,8 +3341,8 @@
       "rushTD": 3.97,
       "targets": 61.5,
       "receptions": 51.0,
-      "recYds": 297.2,
-      "recTD": 1.98,
+      "recYds": 287.4,
+      "recTD": 1.74,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3352,7 +3352,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 5.95
+      "totalTD": 5.71
     },
     "Brian Thomas Jr.": {
       "pos": "WR",
@@ -3366,9 +3366,9 @@
       "rushYds": 0,
       "rushTD": 0,
       "targets": 39.0,
-      "receptions": 23.1,
-      "recYds": 354.4,
-      "recTD": 3.05,
+      "receptions": 23.0,
+      "recYds": 354.2,
+      "recTD": 3.12,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3378,7 +3378,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.05
+      "totalTD": 3.12
     },
     "Keon Coleman": {
       "pos": "WR",
@@ -3393,8 +3393,8 @@
       "rushTD": 0,
       "targets": 40.0,
       "receptions": 25.7,
-      "recYds": 371.1,
-      "recTD": 3.22,
+      "recYds": 365.6,
+      "recTD": 3.31,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3404,7 +3404,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.22
+      "totalTD": 3.31
     },
     "Spencer Shrader": {
       "pos": "K",
@@ -3471,8 +3471,8 @@
       "rushTD": 0,
       "targets": 126.5,
       "receptions": 86.8,
-      "recYds": 1010.4,
-      "recTD": 8.17,
+      "recYds": 1002.7,
+      "recTD": 8.19,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3482,7 +3482,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 8.17
+      "totalTD": 8.19
     },
     "CeeDee Lamb": {
       "pos": "WR",
@@ -3492,13 +3492,13 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 2.8,
+      "rushAtt": 2.9,
       "rushYds": 15.3,
       "rushTD": 0.19,
-      "targets": 118.7,
-      "receptions": 87.6,
-      "recYds": 979.8,
-      "recTD": 6.0,
+      "targets": 118.5,
+      "receptions": 87.4,
+      "recYds": 990.4,
+      "recTD": 5.92,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3508,7 +3508,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 6.19
+      "totalTD": 6.11
     },
     "Breece Hall": {
       "pos": "RB",
@@ -3523,8 +3523,8 @@
       "rushTD": 5.88,
       "targets": 36.1,
       "receptions": 31.2,
-      "recYds": 254.3,
-      "recTD": 1.19,
+      "recYds": 254.9,
+      "recTD": 1.05,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3534,7 +3534,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 7.07
+      "totalTD": 6.93
     },
     "Lamar Jackson": {
       "pos": "QB",
@@ -3574,9 +3574,9 @@
       "rushYds": 941.2,
       "rushTD": 5.96,
       "targets": 39.0,
-      "receptions": 31.8,
-      "recYds": 236.1,
-      "recTD": 1.52,
+      "receptions": 31.9,
+      "recYds": 235.3,
+      "recTD": 1.75,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3586,7 +3586,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 7.48
+      "totalTD": 7.71
     },
     "Terry McLaurin": {
       "pos": "WR",
@@ -3600,9 +3600,9 @@
       "rushYds": 0,
       "rushTD": 0,
       "targets": 79.7,
-      "receptions": 51.4,
-      "recYds": 717.6,
-      "recTD": 4.72,
+      "receptions": 51.1,
+      "recYds": 714.1,
+      "recTD": 4.87,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3612,7 +3612,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.72
+      "totalTD": 4.87
     },
     "Marvin Harrison Jr.": {
       "pos": "WR",
@@ -3627,8 +3627,8 @@
       "rushTD": 0,
       "targets": 26.4,
       "receptions": 14.1,
-      "recYds": 199.5,
-      "recTD": 1.31,
+      "recYds": 202.2,
+      "recTD": 1.27,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3638,7 +3638,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 1.31
+      "totalTD": 1.27
     },
     "Rhamondre Stevenson": {
       "pos": "RB",
@@ -3653,8 +3653,8 @@
       "rushTD": 4.52,
       "targets": 44.9,
       "receptions": 36.6,
-      "recYds": 292.4,
-      "recTD": 1.73,
+      "recYds": 283.3,
+      "recTD": 1.38,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3664,7 +3664,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 6.25
+      "totalTD": 5.9
     },
     "Brandon Aubrey": {
       "pos": "K",
@@ -3700,13 +3700,13 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 136.9,
-      "rushYds": 603.1,
-      "rushTD": 5.44,
-      "targets": 21.0,
-      "receptions": 15.6,
-      "recYds": 128.0,
-      "recTD": 0.61,
+      "rushAtt": 125.8,
+      "rushYds": 553.0,
+      "rushTD": 5.02,
+      "targets": 19.2,
+      "receptions": 14.3,
+      "recYds": 119.8,
+      "recTD": 0.53,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3716,7 +3716,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 6.05
+      "totalTD": 5.55
     },
     "Texans D/ST": {
       "pos": "D/ST",
@@ -3737,11 +3737,11 @@
       "fgAtt": 0,
       "patMade": 0,
       "patAtt": 0,
-      "sacks": 32.92,
-      "defInt": 8.62,
+      "sacks": 32.85,
+      "defInt": 8.6,
       "defTD": 1.12,
-      "ptsAllowed": 307.3,
-      "ydsAllowed": 3831.2,
+      "ptsAllowed": 306.0,
+      "ydsAllowed": 3830.5,
       "totalTD": 0
     },
     "Travis Kelce": {
@@ -3755,10 +3755,10 @@
       "rushAtt": 0,
       "rushYds": 0,
       "rushTD": 0,
-      "targets": 74.9,
-      "receptions": 53.0,
-      "recYds": 653.9,
-      "recTD": 4.14,
+      "targets": 75.2,
+      "receptions": 53.4,
+      "recYds": 653.7,
+      "recTD": 3.76,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3768,7 +3768,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.14
+      "totalTD": 3.76
     },
     "Braelon Allen": {
       "pos": "RB",
@@ -3783,8 +3783,8 @@
       "rushTD": 2.91,
       "targets": 23.1,
       "receptions": 17.9,
-      "recYds": 127.2,
-      "recTD": 0.66,
+      "recYds": 126.9,
+      "recTD": 0.76,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3794,7 +3794,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.57
+      "totalTD": 3.67
     },
     "Zach Charbonnet": {
       "pos": "RB",
@@ -3804,8 +3804,8 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 145.2,
-      "rushYds": 621.0,
+      "rushAtt": 145.3,
+      "rushYds": 621.6,
       "rushTD": 6.98,
       "targets": 27.4,
       "receptions": 21.3,
@@ -3848,32 +3848,6 @@
       "ydsAllowed": 0,
       "totalTD": 0
     },
-    "Jacoby Brissett": {
-      "pos": "QB",
-      "pro": 22,
-      "passAtt": 446.9,
-      "passComp": 290.4,
-      "passYds": 2846.3,
-      "passTD": 21.75,
-      "passInt": 9.03,
-      "rushAtt": 35.7,
-      "rushYds": 154.7,
-      "rushTD": 1.22,
-      "targets": 0,
-      "receptions": 0,
-      "recYds": 0,
-      "recTD": 0,
-      "fgMade": 0,
-      "fgAtt": 0,
-      "patMade": 0,
-      "patAtt": 0,
-      "sacks": 0,
-      "defInt": 0,
-      "defTD": 0,
-      "ptsAllowed": 0,
-      "ydsAllowed": 0,
-      "totalTD": 1.22
-    },
     "Dallas Goedert": {
       "pos": "TE",
       "pro": 21,
@@ -3885,10 +3859,10 @@
       "rushAtt": 0,
       "rushYds": 0,
       "rushTD": 0,
-      "targets": 74.4,
-      "receptions": 54.2,
-      "recYds": 549.6,
-      "recTD": 3.07,
+      "targets": 72.0,
+      "receptions": 52.1,
+      "recYds": 541.5,
+      "recTD": 2.77,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3898,7 +3872,33 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.07
+      "totalTD": 2.77
+    },
+    "Dameon Pierce": {
+      "pos": "RB",
+      "pro": 21,
+      "passAtt": 0,
+      "passComp": 0,
+      "passYds": 0,
+      "passTD": 0,
+      "passInt": 0,
+      "rushAtt": 26.0,
+      "rushYds": 107.0,
+      "rushTD": 0.75,
+      "targets": 7.6,
+      "receptions": 5.4,
+      "recYds": 40.7,
+      "recTD": 0.15,
+      "fgMade": 0,
+      "fgAtt": 0,
+      "patMade": 0,
+      "patAtt": 0,
+      "sacks": 0,
+      "defInt": 0,
+      "defTD": 0,
+      "ptsAllowed": 0,
+      "ydsAllowed": 0,
+      "totalTD": 0.9
     },
     "Ja'Marr Chase": {
       "pos": "WR",
@@ -3913,8 +3913,8 @@
       "rushTD": 0,
       "targets": 131.7,
       "receptions": 93.6,
-      "recYds": 1063.5,
-      "recTD": 9.94,
+      "recYds": 1072.8,
+      "recTD": 10.54,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3924,7 +3924,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 9.94
+      "totalTD": 10.54
     },
     "Saquon Barkley": {
       "pos": "RB",
@@ -3934,13 +3934,13 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 177.1,
-      "rushYds": 836.0,
-      "rushTD": 4.88,
-      "targets": 33.5,
-      "receptions": 23.6,
-      "recYds": 185.4,
-      "recTD": 1.11,
+      "rushAtt": 172.7,
+      "rushYds": 814.6,
+      "rushTD": 3.99,
+      "targets": 29.5,
+      "receptions": 20.7,
+      "recYds": 166.8,
+      "recTD": 0.86,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3950,7 +3950,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 5.99
+      "totalTD": 4.85
     },
     "Drake London": {
       "pos": "WR",
@@ -3963,10 +3963,10 @@
       "rushAtt": 3.6,
       "rushYds": 18.8,
       "rushTD": 0.18,
-      "targets": 99.5,
-      "receptions": 67.1,
-      "recYds": 963.5,
-      "recTD": 3.43,
+      "targets": 103.0,
+      "receptions": 69.0,
+      "recYds": 1001.2,
+      "recTD": 1.98,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -3976,7 +3976,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.61
+      "totalTD": 2.16
     },
     "Kyren Williams": {
       "pos": "RB",
@@ -3991,8 +3991,8 @@
       "rushTD": 9.42,
       "targets": 61.4,
       "receptions": 47.0,
-      "recYds": 295.0,
-      "recTD": 2.29,
+      "recYds": 307.8,
+      "recTD": 2.28,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -4002,7 +4002,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 11.71
+      "totalTD": 11.7
     },
     "Davante Adams": {
       "pos": "WR",
@@ -4017,8 +4017,8 @@
       "rushTD": 0,
       "targets": 96.4,
       "receptions": 55.8,
-      "recYds": 837.2,
-      "recTD": 7.23,
+      "recYds": 840.4,
+      "recTD": 7.29,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -4028,7 +4028,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 7.23
+      "totalTD": 7.29
     },
     "Tyler Warren": {
       "pos": "TE",
@@ -4041,10 +4041,10 @@
       "rushAtt": 9.4,
       "rushYds": 31.5,
       "rushTD": 0.8,
-      "targets": 83.8,
-      "receptions": 66.1,
-      "recYds": 543.1,
-      "recTD": 2.94,
+      "targets": 83.7,
+      "receptions": 65.9,
+      "recYds": 529.8,
+      "recTD": 2.81,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -4054,7 +4054,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.74
+      "totalTD": 3.61
     },
     "Drake Maye": {
       "pos": "QB",
@@ -4095,8 +4095,8 @@
       "rushTD": 5.31,
       "targets": 27.8,
       "receptions": 21.6,
-      "recYds": 133.0,
-      "recTD": 0.26,
+      "recYds": 139.0,
+      "recTD": 0.33,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -4106,7 +4106,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 5.57
+      "totalTD": 5.64
     },
     "Courtland Sutton": {
       "pos": "WR",
@@ -4121,8 +4121,8 @@
       "rushTD": 0,
       "targets": 64.0,
       "receptions": 34.2,
-      "recYds": 470.1,
-      "recTD": 4.44,
+      "recYds": 466.0,
+      "recTD": 5.06,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -4132,7 +4132,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 4.44
+      "totalTD": 5.06
     },
     "Chuba Hubbard": {
       "pos": "RB",
@@ -4142,13 +4142,13 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 224.7,
-      "rushYds": 977.8,
+      "rushAtt": 225.0,
+      "rushYds": 978.8,
       "rushTD": 6.83,
       "targets": 34.6,
       "receptions": 28.1,
-      "recYds": 185.5,
-      "recTD": 1.34,
+      "recYds": 184.7,
+      "recTD": 1.56,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -4158,7 +4158,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 8.17
+      "totalTD": 8.39
     },
     "Chris Godwin Jr.": {
       "pos": "WR",
@@ -4172,9 +4172,9 @@
       "rushYds": 36.7,
       "rushTD": 0.32,
       "targets": 53.2,
-      "receptions": 38.4,
-      "recYds": 405.0,
-      "recTD": 1.19,
+      "receptions": 38.5,
+      "recYds": 388.0,
+      "recTD": 0.54,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -4184,7 +4184,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 1.51
+      "totalTD": 0.86
     },
     "Rachaad White": {
       "pos": "RB",
@@ -4195,12 +4195,12 @@
       "passTD": 0,
       "passInt": 0,
       "rushAtt": 75.9,
-      "rushYds": 314.3,
+      "rushYds": 314.6,
       "rushTD": 2.51,
       "targets": 27.7,
-      "receptions": 26.2,
-      "recYds": 166.1,
-      "recTD": 1.24,
+      "receptions": 26.1,
+      "recYds": 168.5,
+      "recTD": 1.36,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -4210,7 +4210,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 3.75
+      "totalTD": 3.87
     },
     "Steelers D/ST": {
       "pos": "D/ST",
@@ -4231,37 +4231,11 @@
       "fgAtt": 0,
       "patMade": 0,
       "patAtt": 0,
-      "sacks": 29.57,
-      "defInt": 8.11,
+      "sacks": 29.5,
+      "defInt": 8.09,
       "defTD": 1.11,
-      "ptsAllowed": 316.5,
-      "ydsAllowed": 4039.1,
-      "totalTD": 0
-    },
-    "Jake Bates": {
-      "pos": "K",
-      "pro": 8,
-      "passAtt": 0,
-      "passComp": 0,
-      "passYds": 0,
-      "passTD": 0,
-      "passInt": 0,
-      "rushAtt": 0,
-      "rushYds": 0,
-      "rushTD": 0,
-      "targets": 0,
-      "receptions": 0,
-      "recYds": 0,
-      "recTD": 0,
-      "fgMade": 19.2,
-      "fgAtt": 22.1,
-      "patMade": 39.0,
-      "patAtt": 39.9,
-      "sacks": 0,
-      "defInt": 0,
-      "defTD": 0,
-      "ptsAllowed": 0,
-      "ydsAllowed": 0,
+      "ptsAllowed": 315.2,
+      "ydsAllowed": 4038.4,
       "totalTD": 0
     },
     "Kyler Murray": {
@@ -4289,6 +4263,32 @@
       "ptsAllowed": 0,
       "ydsAllowed": 0,
       "totalTD": 2.04
+    },
+    "Matt Gay": {
+      "pos": "K",
+      "pro": 13,
+      "passAtt": 0,
+      "passComp": 0,
+      "passYds": 0,
+      "passTD": 0,
+      "passInt": 0,
+      "rushAtt": 0,
+      "rushYds": 0,
+      "rushTD": 0,
+      "targets": 0,
+      "receptions": 0,
+      "recYds": 0,
+      "recTD": 0,
+      "fgMade": 27.2,
+      "fgAtt": 31.7,
+      "patMade": 24.9,
+      "patAtt": 25.9,
+      "sacks": 0,
+      "defInt": 0,
+      "defTD": 0,
+      "ptsAllowed": 0,
+      "ydsAllowed": 0,
+      "totalTD": 0
     }
   },
   "statlinesActual": {
@@ -4467,11 +4467,11 @@
       "fgAtt": 0,
       "patMade": 0,
       "patAtt": 0,
-      "sacks": 14.0,
+      "sacks": 16.0,
       "defInt": 7.0,
       "defTD": 0,
-      "ptsAllowed": 93.0,
-      "ydsAllowed": 1256.0,
+      "ptsAllowed": 110.0,
+      "ydsAllowed": 1424.0,
       "totalTD": 0
     },
     "Dalton Kincaid": {
@@ -4697,8 +4697,8 @@
       "receptions": 0,
       "recYds": 0,
       "recTD": 0,
-      "fgMade": 10.0,
-      "fgAtt": 10.0,
+      "fgMade": 12.0,
+      "fgAtt": 13.0,
       "patMade": 14.0,
       "patAtt": 15.0,
       "sacks": 0,
@@ -4706,32 +4706,6 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 0
-    },
-    "Rams D/ST": {
-      "pos": "D/ST",
-      "pro": 14,
-      "passAtt": 0,
-      "passComp": 0,
-      "passYds": 0,
-      "passTD": 0,
-      "passInt": 0,
-      "rushAtt": 0,
-      "rushYds": 0,
-      "rushTD": 0,
-      "targets": 0,
-      "receptions": 0,
-      "recYds": 0,
-      "recTD": 0,
-      "fgMade": 0,
-      "fgAtt": 0,
-      "patMade": 0,
-      "patAtt": 0,
-      "sacks": 8.0,
-      "defInt": 4.0,
-      "defTD": 0,
-      "ptsAllowed": 114.0,
-      "ydsAllowed": 1426.0,
       "totalTD": 0
     },
     "Mark Andrews": {
@@ -4759,6 +4733,32 @@
       "ptsAllowed": 0,
       "ydsAllowed": 0,
       "totalTD": 1.0
+    },
+    "Josh Downs": {
+      "pos": "WR",
+      "pro": 11,
+      "passAtt": 0,
+      "passComp": 0,
+      "passYds": 0,
+      "passTD": 0,
+      "passInt": 0,
+      "rushAtt": 0,
+      "rushYds": 0,
+      "rushTD": 0,
+      "targets": 34.0,
+      "receptions": 20.0,
+      "recYds": 249.0,
+      "recTD": 0,
+      "fgMade": 0,
+      "fgAtt": 0,
+      "patMade": 0,
+      "patAtt": 0,
+      "sacks": 0,
+      "defInt": 0,
+      "defTD": 0,
+      "ptsAllowed": 0,
+      "ydsAllowed": 0,
+      "totalTD": 0
     },
     "James Cook III": {
       "pos": "RB",
@@ -5418,10 +5418,10 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 73.0,
-      "rushYds": 251.0,
+      "rushAtt": 87.0,
+      "rushYds": 303.0,
       "rushTD": 2.0,
-      "targets": 7.0,
+      "targets": 8.0,
       "receptions": 5.0,
       "recYds": 50.0,
       "recTD": 1.0,
@@ -5548,12 +5548,12 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 64.0,
-      "rushYds": 229.0,
-      "rushTD": 1.0,
-      "targets": 6.0,
-      "receptions": 5.0,
-      "recYds": 22.0,
+      "rushAtt": 81.0,
+      "rushYds": 270.0,
+      "rushTD": 2.0,
+      "targets": 9.0,
+      "receptions": 8.0,
+      "recYds": 27.0,
       "recTD": 0,
       "fgMade": 0,
       "fgAtt": 0,
@@ -5564,7 +5564,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 1.0
+      "totalTD": 2.0
     },
     "Xavier Worthy": {
       "pos": "WR",
@@ -5863,9 +5863,9 @@
       "rushAtt": 2.0,
       "rushYds": 23.0,
       "rushTD": 0,
-      "targets": 31.0,
-      "receptions": 18.0,
-      "recYds": 204.0,
+      "targets": 38.0,
+      "receptions": 22.0,
+      "recYds": 228.0,
       "recTD": 1.0,
       "fgMade": 0,
       "fgAtt": 0,
@@ -6859,11 +6859,11 @@
       "fgAtt": 0,
       "patMade": 0,
       "patAtt": 0,
-      "sacks": 13.0,
-      "defInt": 5.0,
+      "sacks": 18.0,
+      "defInt": 7.0,
       "defTD": 1.0,
-      "ptsAllowed": 111.0,
-      "ydsAllowed": 1737.0,
+      "ptsAllowed": 125.0,
+      "ydsAllowed": 2090.0,
       "totalTD": 0
     },
     "MarShawn Lloyd": {
@@ -6955,9 +6955,9 @@
       "rushAtt": 1.0,
       "rushYds": 16.0,
       "rushTD": 0,
-      "targets": 50.0,
-      "receptions": 37.0,
-      "recYds": 583.0,
+      "targets": 66.0,
+      "receptions": 49.0,
+      "recYds": 717.0,
       "recTD": 7.0,
       "fgMade": 0,
       "fgAtt": 0,
@@ -7152,32 +7152,6 @@
       "ydsAllowed": 0,
       "totalTD": 2.0
     },
-    "Kenny Gainwell": {
-      "pos": "RB",
-      "pro": 27,
-      "passAtt": 0,
-      "passComp": 0,
-      "passYds": 0,
-      "passTD": 0,
-      "passInt": 0,
-      "rushAtt": 17.0,
-      "rushYds": 44.0,
-      "rushTD": 0,
-      "targets": 16.0,
-      "receptions": 11.0,
-      "recYds": 54.0,
-      "recTD": 1.0,
-      "fgMade": 0,
-      "fgAtt": 0,
-      "patMade": 0,
-      "patAtt": 0,
-      "sacks": 0,
-      "defInt": 0,
-      "defTD": 0,
-      "ptsAllowed": 0,
-      "ydsAllowed": 0,
-      "totalTD": 1.0
-    },
     "Aaron Jones Sr.": {
       "pos": "RB",
       "pro": 16,
@@ -7238,12 +7212,12 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 15.0,
-      "rushYds": 56.0,
-      "rushTD": 0,
-      "targets": 22.0,
-      "receptions": 20.0,
-      "recYds": 132.0,
+      "rushAtt": 21.0,
+      "rushYds": 81.0,
+      "rushTD": 1.0,
+      "targets": 26.0,
+      "receptions": 23.0,
+      "recYds": 163.0,
       "recTD": 0,
       "fgMade": 0,
       "fgAtt": 0,
@@ -7254,7 +7228,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 0
+      "totalTD": 1.0
     },
     "Matthew Stafford": {
       "pos": "QB",
@@ -7333,6 +7307,32 @@
       "ptsAllowed": 77.0,
       "ydsAllowed": 1271.0,
       "totalTD": 0
+    },
+    "Devaughn Vele": {
+      "pos": "WR",
+      "pro": 18,
+      "passAtt": 0,
+      "passComp": 0,
+      "passYds": 0,
+      "passTD": 0,
+      "passInt": 0,
+      "rushAtt": 0,
+      "rushYds": 0,
+      "rushTD": 0,
+      "targets": 37.0,
+      "receptions": 25.0,
+      "recYds": 252.0,
+      "recTD": 2.0,
+      "fgMade": 0,
+      "fgAtt": 0,
+      "patMade": 0,
+      "patAtt": 0,
+      "sacks": 0,
+      "defInt": 0,
+      "defTD": 0,
+      "ptsAllowed": 0,
+      "ydsAllowed": 0,
+      "totalTD": 2.0
     },
     "Bijan Robinson": {
       "pos": "RB",
@@ -8140,32 +8140,6 @@
       "ydsAllowed": 0,
       "totalTD": 0
     },
-    "Jacoby Brissett": {
-      "pos": "QB",
-      "pro": 22,
-      "passAtt": 199.0,
-      "passComp": 132.0,
-      "passYds": 1110.0,
-      "passTD": 9.0,
-      "passInt": 5.0,
-      "rushAtt": 17.0,
-      "rushYds": 62.0,
-      "rushTD": 1.0,
-      "targets": 1.0,
-      "receptions": 1.0,
-      "recYds": 7.0,
-      "recTD": 0,
-      "fgMade": 0,
-      "fgAtt": 0,
-      "patMade": 0,
-      "patAtt": 0,
-      "sacks": 0,
-      "defInt": 0,
-      "defTD": 0,
-      "ptsAllowed": 0,
-      "ydsAllowed": 0,
-      "totalTD": 1.0
-    },
     "Dallas Goedert": {
       "pos": "TE",
       "pro": 21,
@@ -8191,6 +8165,32 @@
       "ptsAllowed": 0,
       "ydsAllowed": 0,
       "totalTD": 2.0
+    },
+    "Dameon Pierce": {
+      "pos": "RB",
+      "pro": 21,
+      "passAtt": 0,
+      "passComp": 0,
+      "passYds": 0,
+      "passTD": 0,
+      "passInt": 0,
+      "rushAtt": 11.0,
+      "rushYds": 14.0,
+      "rushTD": 0,
+      "targets": 5.0,
+      "receptions": 2.0,
+      "recYds": -2.0,
+      "recTD": 0,
+      "fgMade": 0,
+      "fgAtt": 0,
+      "patMade": 0,
+      "patAtt": 0,
+      "sacks": 0,
+      "defInt": 0,
+      "defTD": 0,
+      "ptsAllowed": 0,
+      "ydsAllowed": 0,
+      "totalTD": 0
     },
     "Ja'Marr Chase": {
       "pos": "WR",
@@ -8411,9 +8411,9 @@
       "rushAtt": 0,
       "rushYds": 0,
       "rushTD": 0,
-      "targets": 25.0,
-      "receptions": 11.0,
-      "recYds": 104.0,
+      "targets": 28.0,
+      "receptions": 13.0,
+      "recYds": 123.0,
       "recTD": 1.0,
       "fgMade": 0,
       "fgAtt": 0,
@@ -8530,32 +8530,6 @@
       "ydsAllowed": 1621.0,
       "totalTD": 0
     },
-    "Jake Bates": {
-      "pos": "K",
-      "pro": 8,
-      "passAtt": 0,
-      "passComp": 0,
-      "passYds": 0,
-      "passTD": 0,
-      "passInt": 0,
-      "rushAtt": 0,
-      "rushYds": 0,
-      "rushTD": 0,
-      "targets": 0,
-      "receptions": 0,
-      "recYds": 0,
-      "recTD": 0,
-      "fgMade": 8.0,
-      "fgAtt": 8.0,
-      "patMade": 20.0,
-      "patAtt": 20.0,
-      "sacks": 0,
-      "defInt": 0,
-      "defTD": 0,
-      "ptsAllowed": 0,
-      "ydsAllowed": 0,
-      "totalTD": 0
-    },
     "Kyler Murray": {
       "pos": "QB",
       "pro": 16,
@@ -8575,6 +8549,32 @@
       "fgAtt": 0,
       "patMade": 0,
       "patAtt": 0,
+      "sacks": 0,
+      "defInt": 0,
+      "defTD": 0,
+      "ptsAllowed": 0,
+      "ydsAllowed": 0,
+      "totalTD": 0
+    },
+    "Matt Gay": {
+      "pos": "K",
+      "pro": 13,
+      "passAtt": 0,
+      "passComp": 0,
+      "passYds": 0,
+      "passTD": 0,
+      "passInt": 0,
+      "rushAtt": 0,
+      "rushYds": 0,
+      "rushTD": 0,
+      "targets": 0,
+      "receptions": 0,
+      "recYds": 0,
+      "recTD": 0,
+      "fgMade": 11.0,
+      "fgAtt": 12.0,
+      "patMade": 11.0,
+      "patAtt": 11.0,
       "sacks": 0,
       "defInt": 0,
       "defTD": 0,
@@ -8602,6 +8602,7 @@
       "5": 0.0
     },
     "Seahawks D/ST": {
+      "6": 6.0,
       "5": 11.0
     },
     "Dalton Kincaid": {
@@ -8628,13 +8629,14 @@
       "5": 2.0
     },
     "Jason Myers": {
+      "6": 7.0,
       "5": 23.0
-    },
-    "Rams D/ST": {
-      "5": -1.0
     },
     "Mark Andrews": {
       "5": 4.8
+    },
+    "Josh Downs": {
+      "5": 7.7
     },
     "James Cook III": {
       "5": 22.8
@@ -8663,6 +8665,7 @@
       "5": 19.8
     },
     "Jonah Coleman": {
+      "6": 0.0,
       "5": 0.0
     },
     "Tyler Shough": {
@@ -8711,6 +8714,7 @@
       "5": 0.0
     },
     "Emanuel Wilson": {
+      "6": 5.2,
       "5": 13.2
     },
     "Jordan Love": {
@@ -8726,6 +8730,7 @@
       "5": 20.3
     },
     "J.K. Dobbins": {
+      "6": 13.6,
       "5": 15.4
     },
     "Xavier Worthy": {
@@ -8740,6 +8745,7 @@
       "5": -1.0
     },
     "Jadarian Price": {
+      "6": 0.0,
       "5": 0.0
     },
     "Caleb Williams": {
@@ -8760,6 +8766,7 @@
     "Jalen Coker": {
     },
     "Jaylen Waddle": {
+      "6": 6.4,
       "5": 4.8
     },
     "Cam Skattebo": {
@@ -8872,6 +8879,7 @@
       "5": 16.0
     },
     "Broncos D/ST": {
+      "6": 11.0,
       "5": 14.0
     },
     "MarShawn Lloyd": {
@@ -8884,6 +8892,7 @@
       "5": 10.0
     },
     "Jaxon Smith-Njigba": {
+      "6": 25.4,
       "5": 22.8
     },
     "Justin Jefferson": {
@@ -8906,9 +8915,6 @@
     "Jameson Williams": {
       "5": 18.7
     },
-    "Kenny Gainwell": {
-      "5": 5.8
-    },
     "Aaron Jones Sr.": {
       "5": 18.7
     },
@@ -8916,6 +8922,7 @@
       "5": 12.64
     },
     "RJ Harvey": {
+      "6": 14.6,
       "5": 0.7
     },
     "Matthew Stafford": {
@@ -8925,6 +8932,9 @@
       "5": 6.0
     },
     "Chiefs D/ST": {
+    },
+    "Devaughn Vele": {
+      "5": 6.6
     },
     "Bijan Robinson": {
       "5": 15.8
@@ -9012,16 +9022,17 @@
       "5": 18.6
     },
     "Zach Charbonnet": {
+      "6": 0.0,
       "5": 0.0
     },
     "James Conner": {
       "5": 0.0
     },
-    "Jacoby Brissett": {
-      "5": 25.28
-    },
     "Dallas Goedert": {
       "5": 9.8
+    },
+    "Dameon Pierce": {
+      "5": 3.2
     },
     "Ja'Marr Chase": {
       "5": 19.7
@@ -9048,6 +9059,7 @@
       "5": 5.2
     },
     "Courtland Sutton": {
+      "6": 3.9,
       "5": 9.8
     },
     "Chuba Hubbard": {
@@ -9061,11 +9073,11 @@
     "Steelers D/ST": {
       "5": 1.0
     },
-    "Jake Bates": {
-      "5": 10.0
-    },
     "Kyler Murray": {
       "5": 18.26
+    },
+    "Matt Gay": {
+      "5": 5.0
     }
   }
 }
