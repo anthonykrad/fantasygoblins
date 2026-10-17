@@ -28,7 +28,7 @@
     "name": "Jayden Daniels",
     "pos": "QB",
     "pro": "WSH",
-    "slot": "QB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -178,21 +178,21 @@
   {
     "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
-    "pid": -16014,
-    "name": "Rams D/ST",
-    "pos": "D/ST",
-    "pro": "LAR",
+    "pid": 3116365,
+    "name": "Mark Andrews",
+    "pos": "TE",
+    "pro": "BAL",
     "slot": "BE",
-    "status": null,
+    "status": "ACTIVE",
     "injured": false
   },
   {
     "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
-    "pid": 3116365,
-    "name": "Mark Andrews",
-    "pos": "TE",
-    "pro": "BAL",
+    "pid": 4688813,
+    "name": "Josh Downs",
+    "pos": "WR",
+    "pro": "IND",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -436,8 +436,8 @@
     "pos": "QB",
     "pro": "PHI",
     "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "The Promiseland. Love, Hurts",
@@ -447,7 +447,7 @@
     "pos": "RB",
     "pro": "PIT",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -534,7 +534,7 @@
     "name": "J.K. Dobbins",
     "pos": "RB",
     "pro": "DEN",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -545,7 +545,7 @@
     "name": "Xavier Worthy",
     "pos": "WR",
     "pro": "KC",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -733,7 +733,7 @@
     "pos": "WR",
     "pro": "SF",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -974,8 +974,8 @@
     "name": "Zay Flowers",
     "pos": "WR",
     "pro": "BAL",
-    "slot": "RB/WR",
-    "status": "ACTIVE",
+    "slot": "WR",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1029,7 +1029,7 @@
     "name": "DK Metcalf",
     "pos": "WR",
     "pro": "PIT",
-    "slot": "WR",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1161,7 +1161,7 @@
     "name": "Rashee Rice",
     "pos": "WR",
     "pro": "KC",
-    "slot": "WR",
+    "slot": "RB/WR",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -1205,17 +1205,6 @@
     "name": "Jameson Williams",
     "pos": "WR",
     "pro": "DET",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Mikeeee",
-    "fteam_id": 14,
-    "pid": 4371733,
-    "name": "Kenny Gainwell",
-    "pos": "RB",
-    "pro": "TB",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -1287,6 +1276,17 @@
     "injured": false
   },
   {
+    "fteam": "Mikeeee",
+    "fteam_id": 14,
+    "pid": 4569559,
+    "name": "Devaughn Vele",
+    "pos": "WR",
+    "pro": "NO",
+    "slot": "WR",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
     "fteam": "Into the sunset",
     "fteam_id": 15,
     "pid": 4430807,
@@ -1316,7 +1316,7 @@
     "pos": "TE",
     "pro": "LV",
     "slot": "TE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1327,8 +1327,8 @@
     "pos": "RB",
     "pro": "HOU",
     "slot": "BE",
-    "status": "DOUBTFUL",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Into the sunset",
@@ -1382,7 +1382,7 @@
     "pos": "RB",
     "pro": "WSH",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1525,7 +1525,7 @@
     "pos": "WR",
     "pro": "WSH",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1590,7 +1590,7 @@
     "name": "Travis Kelce",
     "pos": "TE",
     "pro": "KC",
-    "slot": "BE",
+    "slot": "TE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1630,10 +1630,10 @@
   {
     "fteam": "The Dark Side",
     "fteam_id": 16,
-    "pid": 2578570,
-    "name": "Jacoby Brissett",
-    "pos": "QB",
-    "pro": "ARI",
+    "pid": 3121023,
+    "name": "Dallas Goedert",
+    "pos": "TE",
+    "pro": "PHI",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -1641,11 +1641,11 @@
   {
     "fteam": "The Dark Side",
     "fteam_id": 16,
-    "pid": 3121023,
-    "name": "Dallas Goedert",
-    "pos": "TE",
+    "pid": 4360238,
+    "name": "Dameon Pierce",
+    "pos": "RB",
     "pro": "PHI",
-    "slot": "TE",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1795,22 +1795,22 @@
   {
     "fteam": "Chase Bank",
     "fteam_id": 17,
-    "pid": 4689936,
-    "name": "Jake Bates",
-    "pos": "K",
-    "pro": "DET",
-    "slot": "K",
+    "pid": 3917315,
+    "name": "Kyler Murray",
+    "pos": "QB",
+    "pro": "MIN",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
   {
     "fteam": "Chase Bank",
     "fteam_id": 17,
-    "pid": 3917315,
-    "name": "Kyler Murray",
-    "pos": "QB",
-    "pro": "MIN",
-    "slot": "BE",
+    "pid": 4249087,
+    "name": "Matt Gay",
+    "pos": "K",
+    "pro": "LV",
+    "slot": "K",
     "status": "ACTIVE",
     "injured": false
   }
