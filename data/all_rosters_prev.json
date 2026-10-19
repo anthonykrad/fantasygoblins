@@ -436,7 +436,7 @@
     "pos": "QB",
     "pro": "PHI",
     "slot": "BE",
-    "status": "OUT",
+    "status": "INJURY_RESERVE",
     "injured": true
   },
   {
@@ -744,7 +744,7 @@
     "pos": "TE",
     "pro": "PIT",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -952,9 +952,9 @@
     "name": "A.J. Brown",
     "pos": "WR",
     "pro": "NE",
-    "slot": "IR",
-    "status": "INJURY_RESERVE",
-    "injured": true
+    "slot": "RB/WR",
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "Kittles: Taste The Rainbow ",
@@ -985,7 +985,7 @@
     "name": "DJ Moore",
     "pos": "WR",
     "pro": "BUF",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -1030,7 +1030,7 @@
     "pos": "WR",
     "pro": "PIT",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1052,8 +1052,8 @@
     "pos": "WR",
     "pro": "BAL",
     "slot": "IR",
-    "status": "INJURY_RESERVE",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "Kittles: Taste The Rainbow ",
@@ -1095,17 +1095,6 @@
     "name": "MarShawn Lloyd",
     "pos": "RB",
     "pro": "GB",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Kittles: Taste The Rainbow ",
-    "fteam_id": 13,
-    "pid": 3045523,
-    "name": "Kendrick Bourne",
-    "pos": "WR",
-    "pro": "ARI",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -1371,8 +1360,8 @@
     "pos": "RB",
     "pro": "WSH",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Into the sunset",
@@ -1458,7 +1447,7 @@
     "name": "Tyler Allgeier",
     "pos": "RB",
     "pro": "ARI",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1525,7 +1514,7 @@
     "pos": "WR",
     "pro": "WSH",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1778,7 +1767,7 @@
     "pos": "RB",
     "pro": "WSH",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {

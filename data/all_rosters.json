@@ -28,7 +28,7 @@
     "name": "Jayden Daniels",
     "pos": "QB",
     "pro": "WSH",
-    "slot": "BE",
+    "slot": "QB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -84,7 +84,7 @@
     "pos": "TE",
     "pro": "BUF",
     "slot": "TE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -385,7 +385,7 @@
     "injured": false
   },
   {
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
     "pid": 4242335,
     "name": "Jonathan Taylor",
@@ -396,7 +396,7 @@
     "injured": false
   },
   {
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
     "pid": 4361307,
     "name": "Trey McBride",
@@ -407,7 +407,7 @@
     "injured": false
   },
   {
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
     "pid": 4239996,
     "name": "Travis Etienne Jr.",
@@ -418,7 +418,7 @@
     "injured": true
   },
   {
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
     "pid": 4431299,
     "name": "Rome Odunze",
@@ -429,7 +429,7 @@
     "injured": false
   },
   {
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
     "pid": 4040715,
     "name": "Jalen Hurts",
@@ -440,18 +440,18 @@
     "injured": true
   },
   {
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
     "pid": 4038815,
     "name": "Rico Dowdle",
     "pos": "RB",
     "pro": "PIT",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
     "pid": 4360078,
     "name": "Alec Pierce",
@@ -462,7 +462,7 @@
     "injured": true
   },
   {
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
     "pid": 4429205,
     "name": "Jordan Addison",
@@ -473,7 +473,7 @@
     "injured": false
   },
   {
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
     "pid": 4887558,
     "name": "Emanuel Wilson",
@@ -484,7 +484,7 @@
     "injured": false
   },
   {
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
     "pid": 4036378,
     "name": "Jordan Love",
@@ -495,7 +495,7 @@
     "injured": false
   },
   {
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
     "pid": 4697745,
     "name": "Tyler Loop",
@@ -506,7 +506,7 @@
     "injured": false
   },
   {
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
     "pid": 3126486,
     "name": "Deebo Samuel Sr.",
@@ -517,7 +517,7 @@
     "injured": true
   },
   {
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
     "pid": 4701936,
     "name": "Matthew Golden",
@@ -528,7 +528,7 @@
     "injured": false
   },
   {
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
     "pid": 4241985,
     "name": "J.K. Dobbins",
@@ -539,7 +539,7 @@
     "injured": false
   },
   {
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
     "pid": 4683062,
     "name": "Xavier Worthy",
@@ -550,7 +550,7 @@
     "injured": false
   },
   {
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
     "pid": 4567750,
     "name": "Emeka Egbuka",
@@ -561,7 +561,7 @@
     "injured": false
   },
   {
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
     "pid": 4241478,
     "name": "DeVonta Smith",
@@ -572,7 +572,7 @@
     "injured": false
   },
   {
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
     "pid": -16011,
     "name": "Colts D/ST",
@@ -583,7 +583,7 @@
     "injured": false
   },
   {
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "fteam_id": 11,
     "pid": 4685512,
     "name": "Jadarian Price",
@@ -594,18 +594,18 @@
     "injured": true
   },
   {
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "fteam_id": 11,
     "pid": 4431611,
     "name": "Caleb Williams",
     "pos": "QB",
     "pro": "CHI",
-    "slot": "BE",
-    "status": "QUESTIONABLE",
+    "slot": "QB",
+    "status": "ACTIVE",
     "injured": false
   },
   {
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "fteam_id": 11,
     "pid": 4361050,
     "name": "Isaiah Likely",
@@ -616,7 +616,7 @@
     "injured": false
   },
   {
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "fteam_id": 11,
     "pid": 4686361,
     "name": "Cam Little",
@@ -627,18 +627,18 @@
     "injured": false
   },
   {
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "fteam_id": 11,
     "pid": 4361432,
     "name": "Romeo Doubs",
     "pos": "WR",
     "pro": "NE",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "fteam_id": 11,
     "pid": 4258173,
     "name": "Nico Collins",
@@ -649,7 +649,7 @@
     "injured": false
   },
   {
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "fteam_id": 11,
     "pid": 4695883,
     "name": "Jalen Coker",
@@ -660,7 +660,7 @@
     "injured": false
   },
   {
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "fteam_id": 11,
     "pid": 4372016,
     "name": "Jaylen Waddle",
@@ -671,18 +671,18 @@
     "injured": false
   },
   {
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "fteam_id": 11,
     "pid": 4696981,
     "name": "Cam Skattebo",
     "pos": "RB",
     "pro": "NYG",
-    "slot": "RB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
   {
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "fteam_id": 11,
     "pid": 4259545,
     "name": "D'Andre Swift",
@@ -693,29 +693,18 @@
     "injured": false
   },
   {
-    "fteam": "A Win Is Likely",
-    "fteam_id": 11,
-    "pid": 4241474,
-    "name": "Brian Robinson Jr.",
-    "pos": "RB",
-    "pro": "ATL",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "fteam_id": 11,
     "pid": 4685720,
     "name": "Bryce Young",
     "pos": "QB",
     "pro": "CAR",
-    "slot": "QB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
   {
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "fteam_id": 11,
     "pid": -16025,
     "name": "49ers D/ST",
@@ -726,7 +715,7 @@
     "injured": false
   },
   {
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "fteam_id": 11,
     "pid": 16737,
     "name": "Mike Evans",
@@ -737,25 +726,36 @@
     "injured": false
   },
   {
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "fteam_id": 11,
     "pid": 4361411,
     "name": "Pat Freiermuth",
     "pos": "TE",
     "pro": "PIT",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "fteam_id": 11,
     "pid": 3054850,
     "name": "Alvin Kamara",
     "pos": "RB",
     "pro": "NO",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Im likely in najee germany ",
+    "fteam_id": 11,
+    "pid": 4241457,
+    "name": "Najee Harris",
+    "pos": "RB",
+    "pro": "NYG",
+    "slot": "RB",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -832,7 +832,7 @@
     "pos": "WR",
     "pro": "NO",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -920,7 +920,7 @@
     "pos": "WR",
     "pro": "LAC",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -953,7 +953,7 @@
     "pos": "WR",
     "pro": "NE",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -986,8 +986,8 @@
     "pos": "WR",
     "pro": "BUF",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Kittles: Taste The Rainbow ",
@@ -1052,7 +1052,7 @@
     "pos": "WR",
     "pro": "BAL",
     "slot": "IR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1161,9 +1161,9 @@
     "name": "Quinshon Judkins",
     "pos": "RB",
     "pro": "CLE",
-    "slot": "RB",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "slot": "BE",
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Mikeeee",
@@ -1173,7 +1173,7 @@
     "pos": "RB",
     "pro": "NE",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1205,17 +1205,6 @@
     "name": "Aaron Jones Sr.",
     "pos": "RB",
     "pro": "MIN",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Mikeeee",
-    "fteam_id": 14,
-    "pid": 2577417,
-    "name": "Dak Prescott",
-    "pos": "QB",
-    "pro": "DAL",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -1271,6 +1260,17 @@
     "name": "Dameon Pierce",
     "pos": "RB",
     "pro": "PHI",
+    "slot": "RB",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Mikeeee",
+    "fteam_id": 14,
+    "pid": 4722893,
+    "name": "Jaleel McLaughlin",
+    "pos": "RB",
+    "pro": "CLE",
     "slot": "RB",
     "status": "ACTIVE",
     "injured": false
@@ -1452,7 +1452,7 @@
     "injured": false
   },
   {
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "fteam_id": 16,
     "pid": 4374302,
     "name": "Amon-Ra St. Brown",
@@ -1463,7 +1463,7 @@
     "injured": false
   },
   {
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "fteam_id": 16,
     "pid": 4241389,
     "name": "CeeDee Lamb",
@@ -1474,7 +1474,7 @@
     "injured": false
   },
   {
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "fteam_id": 16,
     "pid": 4427366,
     "name": "Breece Hall",
@@ -1485,7 +1485,7 @@
     "injured": true
   },
   {
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "fteam_id": 16,
     "pid": 3916387,
     "name": "Lamar Jackson",
@@ -1496,7 +1496,7 @@
     "injured": true
   },
   {
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "fteam_id": 16,
     "pid": 4596448,
     "name": "Bucky Irving",
@@ -1507,7 +1507,7 @@
     "injured": false
   },
   {
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "fteam_id": 16,
     "pid": 3121422,
     "name": "Terry McLaurin",
@@ -1518,7 +1518,7 @@
     "injured": false
   },
   {
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "fteam_id": 16,
     "pid": 4432708,
     "name": "Marvin Harrison Jr.",
@@ -1529,7 +1529,7 @@
     "injured": false
   },
   {
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "fteam_id": 16,
     "pid": 4569173,
     "name": "Rhamondre Stevenson",
@@ -1540,7 +1540,7 @@
     "injured": false
   },
   {
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "fteam_id": 16,
     "pid": 3953687,
     "name": "Brandon Aubrey",
@@ -1551,7 +1551,7 @@
     "injured": false
   },
   {
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "fteam_id": 16,
     "pid": 4608686,
     "name": "Kyle Monangai",
@@ -1562,7 +1562,7 @@
     "injured": true
   },
   {
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "fteam_id": 16,
     "pid": -16034,
     "name": "Texans D/ST",
@@ -1573,7 +1573,7 @@
     "injured": false
   },
   {
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "fteam_id": 16,
     "pid": 15847,
     "name": "Travis Kelce",
@@ -1584,7 +1584,7 @@
     "injured": false
   },
   {
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "fteam_id": 16,
     "pid": 4685247,
     "name": "Braelon Allen",
@@ -1595,7 +1595,7 @@
     "injured": false
   },
   {
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "fteam_id": 16,
     "pid": 4426385,
     "name": "Zach Charbonnet",
@@ -1606,7 +1606,7 @@
     "injured": true
   },
   {
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "fteam_id": 16,
     "pid": 3045147,
     "name": "James Conner",
@@ -1617,7 +1617,7 @@
     "injured": true
   },
   {
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "fteam_id": 16,
     "pid": 3121023,
     "name": "Dallas Goedert",
@@ -1628,7 +1628,7 @@
     "injured": false
   },
   {
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "fteam_id": 16,
     "pid": 2969939,
     "name": "Jameis Winston",
@@ -1701,8 +1701,8 @@
     "pos": "TE",
     "pro": "IND",
     "slot": "TE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Chase Bank",

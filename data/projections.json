@@ -5,7 +5,7 @@
     "name": "Puka Nacua",
     "pos": "WR",
     "pro": 14,
-    "season_proj": 259.9,
+    "season_proj": 242.7,
     "wk1_proj": 22.8,
     "is_starter": true,
     "percent_owned": 99.9
@@ -16,7 +16,7 @@
     "name": "Malik Nabers",
     "pos": "WR",
     "pro": 19,
-    "season_proj": 192.8,
+    "season_proj": 194.1,
     "wk1_proj": 17.4,
     "is_starter": true,
     "percent_owned": 99.1
@@ -27,9 +27,9 @@
     "name": "Jayden Daniels",
     "pos": "QB",
     "pro": 28,
-    "season_proj": 261.4,
+    "season_proj": 242.1,
     "wk1_proj": 19.9,
-    "is_starter": false,
+    "is_starter": true,
     "percent_owned": 94.1
   },
   {
@@ -41,7 +41,7 @@
     "season_proj": 0.0,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 39.4
+    "percent_owned": 38.9
   },
   {
     "fteam_id": 1,
@@ -49,10 +49,10 @@
     "name": "Jordan Mason",
     "pos": "RB",
     "pro": 16,
-    "season_proj": 113.4,
+    "season_proj": 111.0,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 50.9
+    "percent_owned": 50.5
   },
   {
     "fteam_id": 1,
@@ -60,10 +60,10 @@
     "name": "Jordyn Tyson",
     "pos": "WR",
     "pro": 18,
-    "season_proj": 101.0,
+    "season_proj": 89.9,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 32.6
+    "percent_owned": 32.4
   },
   {
     "fteam_id": 1,
@@ -71,8 +71,8 @@
     "name": "Seahawks D/ST",
     "pos": "D/ST",
     "pro": 26,
-    "season_proj": 87.4,
-    "wk1_proj": 6.1,
+    "season_proj": 79.7,
+    "wk1_proj": 6.0,
     "is_starter": true,
     "percent_owned": 96.3
   },
@@ -82,8 +82,8 @@
     "name": "Dalton Kincaid",
     "pos": "TE",
     "pro": 2,
-    "season_proj": 93.2,
-    "wk1_proj": 8.1,
+    "season_proj": 93.6,
+    "wk1_proj": 8.6,
     "is_starter": true,
     "percent_owned": 82.1
   },
@@ -93,10 +93,10 @@
     "name": "Blake Corum",
     "pos": "RB",
     "pro": 14,
-    "season_proj": 94.8,
+    "season_proj": 95.8,
     "wk1_proj": 9.0,
     "is_starter": false,
-    "percent_owned": 67.3
+    "percent_owned": 67.2
   },
   {
     "fteam_id": 1,
@@ -104,8 +104,8 @@
     "name": "Trevor Lawrence",
     "pos": "QB",
     "pro": 30,
-    "season_proj": 224.1,
-    "wk1_proj": 17.1,
+    "season_proj": 223.3,
+    "wk1_proj": 17.7,
     "is_starter": false,
     "percent_owned": 89.1
   },
@@ -115,10 +115,10 @@
     "name": "Carnell Tate",
     "pos": "WR",
     "pro": 10,
-    "season_proj": 128.7,
+    "season_proj": 131.8,
     "wk1_proj": 10.9,
     "is_starter": false,
-    "percent_owned": 86.4
+    "percent_owned": 86.0
   },
   {
     "fteam_id": 1,
@@ -126,7 +126,7 @@
     "name": "Tetairoa McMillan",
     "pos": "WR",
     "pro": 29,
-    "season_proj": 209.3,
+    "season_proj": 194.9,
     "wk1_proj": 15.9,
     "is_starter": true,
     "percent_owned": 98.5
@@ -137,10 +137,10 @@
     "name": "Bhayshul Tuten",
     "pos": "RB",
     "pro": 30,
-    "season_proj": 172.7,
-    "wk1_proj": 13.1,
+    "season_proj": 156.8,
+    "wk1_proj": 12.6,
     "is_starter": true,
-    "percent_owned": 93.0
+    "percent_owned": 92.9
   },
   {
     "fteam_id": 1,
@@ -148,7 +148,7 @@
     "name": "Ashton Jeanty",
     "pos": "RB",
     "pro": 13,
-    "season_proj": 208.4,
+    "season_proj": 178.7,
     "wk1_proj": 19.2,
     "is_starter": true,
     "percent_owned": 99.7
@@ -159,10 +159,10 @@
     "name": "Mike Washington Jr.",
     "pos": "RB",
     "pro": 13,
-    "season_proj": 43.9,
+    "season_proj": 59.0,
     "wk1_proj": 4.0,
     "is_starter": false,
-    "percent_owned": 19.3
+    "percent_owned": 18.6
   },
   {
     "fteam_id": 1,
@@ -170,8 +170,8 @@
     "name": "Jason Myers",
     "pos": "K",
     "pro": 26,
-    "season_proj": 109.4,
-    "wk1_proj": 8.6,
+    "season_proj": 108.1,
+    "wk1_proj": 6.8,
     "is_starter": true,
     "percent_owned": 89.4
   },
@@ -181,10 +181,10 @@
     "name": "Mark Andrews",
     "pos": "TE",
     "pro": 33,
-    "season_proj": 115.1,
+    "season_proj": 95.0,
     "wk1_proj": 8.7,
     "is_starter": false,
-    "percent_owned": 73.2
+    "percent_owned": 73.4
   },
   {
     "fteam_id": 1,
@@ -192,10 +192,10 @@
     "name": "Josh Downs",
     "pos": "WR",
     "pro": 11,
-    "season_proj": 113.2,
+    "season_proj": 99.2,
     "wk1_proj": 9.9,
     "is_starter": false,
-    "percent_owned": 75.8
+    "percent_owned": 75.3
   },
   {
     "fteam_id": 9,
@@ -203,7 +203,7 @@
     "name": "James Cook III",
     "pos": "RB",
     "pro": 2,
-    "season_proj": 214.4,
+    "season_proj": 212.1,
     "wk1_proj": 19.3,
     "is_starter": true,
     "percent_owned": 99.9
@@ -214,7 +214,7 @@
     "name": "Kenneth Walker III",
     "pos": "RB",
     "pro": 12,
-    "season_proj": 291.5,
+    "season_proj": 257.2,
     "wk1_proj": 23.3,
     "is_starter": true,
     "percent_owned": 99.9
@@ -225,7 +225,7 @@
     "name": "George Pickens",
     "pos": "WR",
     "pro": 6,
-    "season_proj": 163.5,
+    "season_proj": 153.7,
     "wk1_proj": 13.6,
     "is_starter": true,
     "percent_owned": 99.1
@@ -236,7 +236,7 @@
     "name": "Garrett Wilson",
     "pos": "WR",
     "pro": 20,
-    "season_proj": 180.1,
+    "season_proj": 159.1,
     "wk1_proj": 14.8,
     "is_starter": true,
     "percent_owned": 98.9
@@ -247,10 +247,10 @@
     "name": "Tee Higgins",
     "pos": "WR",
     "pro": 4,
-    "season_proj": 171.9,
+    "season_proj": 172.7,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 96.3
+    "percent_owned": 96.2
   },
   {
     "fteam_id": 9,
@@ -258,10 +258,10 @@
     "name": "Joe Burrow",
     "pos": "QB",
     "pro": 4,
-    "season_proj": 238.6,
+    "season_proj": 243.0,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 97.8
+    "percent_owned": 97.6
   },
   {
     "fteam_id": 9,
@@ -269,10 +269,10 @@
     "name": "Tucker Kraft",
     "pos": "TE",
     "pro": 9,
-    "season_proj": 134.0,
+    "season_proj": 124.0,
     "wk1_proj": 12.1,
     "is_starter": true,
-    "percent_owned": 89.7
+    "percent_owned": 90.2
   },
   {
     "fteam_id": 9,
@@ -283,7 +283,7 @@
     "season_proj": 0.0,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 22.8
+    "percent_owned": 22.3
   },
   {
     "fteam_id": 9,
@@ -294,7 +294,7 @@
     "season_proj": 153.2,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 96.1
+    "percent_owned": 95.8
   },
   {
     "fteam_id": 9,
@@ -305,7 +305,7 @@
     "season_proj": 0.0,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 20.0
+    "percent_owned": 19.9
   },
   {
     "fteam_id": 9,
@@ -313,10 +313,10 @@
     "name": "Tyler Shough",
     "pos": "QB",
     "pro": 18,
-    "season_proj": 203.4,
+    "season_proj": 187.7,
     "wk1_proj": 16.8,
     "is_starter": true,
-    "percent_owned": 74.9
+    "percent_owned": 74.3
   },
   {
     "fteam_id": 9,
@@ -324,10 +324,10 @@
     "name": "Ollie Gordon II",
     "pos": "RB",
     "pro": 15,
-    "season_proj": 151.8,
+    "season_proj": 149.1,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 72.3
+    "percent_owned": 71.8
   },
   {
     "fteam_id": 9,
@@ -335,10 +335,10 @@
     "name": "Falcons D/ST",
     "pos": "D/ST",
     "pro": 1,
-    "season_proj": 64.4,
-    "wk1_proj": 4.1,
+    "season_proj": 57.9,
+    "wk1_proj": 4.0,
     "is_starter": true,
-    "percent_owned": 4.5
+    "percent_owned": 4.3
   },
   {
     "fteam_id": 9,
@@ -346,7 +346,7 @@
     "name": "Germie Bernard",
     "pos": "WR",
     "pro": 23,
-    "season_proj": 125.4,
+    "season_proj": 134.1,
     "wk1_proj": 9.9,
     "is_starter": false,
     "percent_owned": 44.4
@@ -357,10 +357,10 @@
     "name": "Denzel Boston",
     "pos": "WR",
     "pro": 5,
-    "season_proj": 161.9,
+    "season_proj": 137.9,
     "wk1_proj": 13.5,
     "is_starter": true,
-    "percent_owned": 81.5
+    "percent_owned": 81.6
   },
   {
     "fteam_id": 9,
@@ -368,10 +368,10 @@
     "name": "Omarion Hampton",
     "pos": "RB",
     "pro": 24,
-    "season_proj": 121.4,
+    "season_proj": 91.7,
     "wk1_proj": 9.0,
     "is_starter": false,
-    "percent_owned": 94.9
+    "percent_owned": 94.7
   },
   {
     "fteam_id": 9,
@@ -379,384 +379,384 @@
     "name": "Harrison Butker",
     "pos": "K",
     "pro": 12,
-    "season_proj": 120.7,
+    "season_proj": 130.2,
     "wk1_proj": 9.5,
     "is_starter": true,
-    "percent_owned": 60.3
+    "percent_owned": 61.0
   },
   {
     "fteam_id": 10,
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "name": "Jonathan Taylor",
     "pos": "RB",
     "pro": 11,
-    "season_proj": 210.3,
-    "wk1_proj": 18.8,
+    "season_proj": 193.3,
+    "wk1_proj": 19.6,
     "is_starter": true,
     "percent_owned": 99.9
   },
   {
     "fteam_id": 10,
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "name": "Trey McBride",
     "pos": "TE",
     "pro": 22,
-    "season_proj": 214.8,
+    "season_proj": 184.4,
     "wk1_proj": 17.1,
     "is_starter": true,
     "percent_owned": 99.9
   },
   {
     "fteam_id": 10,
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "name": "Travis Etienne Jr.",
     "pos": "RB",
     "pro": 18,
-    "season_proj": 125.1,
+    "season_proj": 135.4,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 82.7
+    "percent_owned": 82.3
   },
   {
     "fteam_id": 10,
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "name": "Rome Odunze",
     "pos": "WR",
     "pro": 3,
-    "season_proj": 126.6,
+    "season_proj": 112.5,
     "wk1_proj": 10.4,
     "is_starter": false,
-    "percent_owned": 87.4
+    "percent_owned": 87.2
   },
   {
     "fteam_id": 10,
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "name": "Jalen Hurts",
     "pos": "QB",
     "pro": 21,
     "season_proj": 0.0,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 87.2
+    "percent_owned": 85.8
   },
   {
     "fteam_id": 10,
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "name": "Rico Dowdle",
     "pos": "RB",
     "pro": 23,
-    "season_proj": 80.4,
+    "season_proj": 75.6,
     "wk1_proj": 6.4,
     "is_starter": false,
-    "percent_owned": 56.5
+    "percent_owned": 55.6
   },
   {
     "fteam_id": 10,
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "name": "Alec Pierce",
     "pos": "WR",
     "pro": 11,
-    "season_proj": 84.7,
+    "season_proj": 84.1,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 55.5
+    "percent_owned": 55.0
   },
   {
     "fteam_id": 10,
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "name": "Jordan Addison",
     "pos": "WR",
     "pro": 16,
-    "season_proj": 130.9,
+    "season_proj": 130.0,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 71.1
+    "percent_owned": 69.9
   },
   {
     "fteam_id": 10,
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "name": "Emanuel Wilson",
     "pos": "RB",
     "pro": 26,
-    "season_proj": 23.6,
-    "wk1_proj": 14.8,
+    "season_proj": 8.1,
+    "wk1_proj": 14.9,
     "is_starter": true,
-    "percent_owned": 86.3
+    "percent_owned": 86.1
   },
   {
     "fteam_id": 10,
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "name": "Jordan Love",
     "pos": "QB",
     "pro": 9,
-    "season_proj": 219.8,
+    "season_proj": 207.4,
     "wk1_proj": 20.9,
     "is_starter": true,
-    "percent_owned": 85.0
+    "percent_owned": 85.9
   },
   {
     "fteam_id": 10,
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "name": "Tyler Loop",
     "pos": "K",
     "pro": 33,
-    "season_proj": 119.0,
+    "season_proj": 102.4,
     "wk1_proj": 9.1,
     "is_starter": true,
-    "percent_owned": 70.0
+    "percent_owned": 70.1
   },
   {
     "fteam_id": 10,
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "name": "Deebo Samuel Sr.",
     "pos": "WR",
     "pro": 25,
     "season_proj": 114.1,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 77.3
+    "percent_owned": 76.4
   },
   {
     "fteam_id": 10,
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "name": "Matthew Golden",
     "pos": "WR",
     "pro": 9,
-    "season_proj": 173.4,
+    "season_proj": 160.9,
     "wk1_proj": 15.7,
     "is_starter": true,
-    "percent_owned": 91.7
+    "percent_owned": 91.9
   },
   {
     "fteam_id": 10,
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "name": "J.K. Dobbins",
     "pos": "RB",
     "pro": 7,
-    "season_proj": 137.6,
-    "wk1_proj": 10.1,
+    "season_proj": 134.4,
+    "wk1_proj": 10.3,
     "is_starter": false,
     "percent_owned": 78.0
   },
   {
     "fteam_id": 10,
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "name": "Xavier Worthy",
     "pos": "WR",
     "pro": 12,
-    "season_proj": 128.5,
+    "season_proj": 118.9,
     "wk1_proj": 11.1,
     "is_starter": true,
-    "percent_owned": 73.4
+    "percent_owned": 74.0
   },
   {
     "fteam_id": 10,
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "name": "Emeka Egbuka",
     "pos": "WR",
     "pro": 27,
-    "season_proj": 141.8,
+    "season_proj": 156.6,
     "wk1_proj": 11.0,
     "is_starter": false,
-    "percent_owned": 94.8
+    "percent_owned": 94.7
   },
   {
     "fteam_id": 10,
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "name": "DeVonta Smith",
     "pos": "WR",
     "pro": 21,
-    "season_proj": 177.8,
+    "season_proj": 179.1,
     "wk1_proj": 13.5,
     "is_starter": true,
     "percent_owned": 97.7
   },
   {
     "fteam_id": 10,
-    "fteam": "The Promiseland. Love, Hurts",
+    "fteam": "JALEN, this is for you❤️",
     "name": "Colts D/ST",
     "pos": "D/ST",
     "pro": 11,
-    "season_proj": 50.5,
-    "wk1_proj": 5.2,
+    "season_proj": 46.1,
+    "wk1_proj": 5.3,
     "is_starter": true,
-    "percent_owned": 21.0
+    "percent_owned": 21.5
   },
   {
     "fteam_id": 11,
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "name": "Jadarian Price",
     "pos": "RB",
     "pro": 26,
-    "season_proj": 115.3,
+    "season_proj": 110.1,
     "wk1_proj": 0.0,
     "is_starter": false,
     "percent_owned": 69.3
   },
   {
     "fteam_id": 11,
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "name": "Caleb Williams",
     "pos": "QB",
     "pro": 3,
-    "season_proj": 208.1,
+    "season_proj": 198.7,
     "wk1_proj": 16.7,
-    "is_starter": false,
+    "is_starter": true,
     "percent_owned": 87.6
   },
   {
     "fteam_id": 11,
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "name": "Isaiah Likely",
     "pos": "TE",
     "pro": 19,
-    "season_proj": 164.2,
+    "season_proj": 156.3,
     "wk1_proj": 14.7,
     "is_starter": true,
-    "percent_owned": 94.3
+    "percent_owned": 94.6
   },
   {
     "fteam_id": 11,
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "name": "Cam Little",
     "pos": "K",
     "pro": 30,
-    "season_proj": 117.1,
-    "wk1_proj": 9.5,
+    "season_proj": 97.7,
+    "wk1_proj": 7.4,
     "is_starter": true,
     "percent_owned": 86.4
   },
   {
     "fteam_id": 11,
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "name": "Romeo Doubs",
     "pos": "WR",
     "pro": 17,
-    "season_proj": 115.4,
+    "season_proj": 106.1,
     "wk1_proj": 9.3,
     "is_starter": false,
-    "percent_owned": 70.1
+    "percent_owned": 69.3
   },
   {
     "fteam_id": 11,
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "name": "Nico Collins",
     "pos": "WR",
     "pro": 34,
-    "season_proj": 198.5,
-    "wk1_proj": 16.3,
+    "season_proj": 176.6,
+    "wk1_proj": 16.9,
     "is_starter": true,
     "percent_owned": 99.4
   },
   {
     "fteam_id": 11,
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "name": "Jalen Coker",
     "pos": "WR",
     "pro": 29,
-    "season_proj": 182.8,
+    "season_proj": 190.1,
     "wk1_proj": 13.9,
     "is_starter": true,
-    "percent_owned": 87.7
+    "percent_owned": 87.8
   },
   {
     "fteam_id": 11,
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "name": "Jaylen Waddle",
     "pos": "WR",
     "pro": 7,
-    "season_proj": 123.9,
-    "wk1_proj": 9.7,
+    "season_proj": 117.1,
+    "wk1_proj": 9.5,
     "is_starter": false,
     "percent_owned": 91.8
   },
   {
     "fteam_id": 11,
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "name": "Cam Skattebo",
     "pos": "RB",
     "pro": 19,
-    "season_proj": 128.4,
-    "wk1_proj": 12.5,
-    "is_starter": true,
-    "percent_owned": 96.7
+    "season_proj": 54.4,
+    "wk1_proj": 9.0,
+    "is_starter": false,
+    "percent_owned": 96.5
   },
   {
     "fteam_id": 11,
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "name": "D'Andre Swift",
     "pos": "RB",
     "pro": 3,
-    "season_proj": 168.7,
+    "season_proj": 168.0,
     "wk1_proj": 15.0,
     "is_starter": true,
     "percent_owned": 96.6
   },
   {
     "fteam_id": 11,
-    "fteam": "A Win Is Likely",
-    "name": "Brian Robinson Jr.",
-    "pos": "RB",
-    "pro": 1,
-    "season_proj": 88.7,
-    "wk1_proj": 7.6,
-    "is_starter": false,
-    "percent_owned": 44.9
-  },
-  {
-    "fteam_id": 11,
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "name": "Bryce Young",
     "pos": "QB",
     "pro": 29,
-    "season_proj": 237.9,
+    "season_proj": 222.7,
     "wk1_proj": 18.2,
-    "is_starter": true,
+    "is_starter": false,
     "percent_owned": 85.8
   },
   {
     "fteam_id": 11,
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "name": "49ers D/ST",
     "pos": "D/ST",
     "pro": 25,
-    "season_proj": 85.3,
-    "wk1_proj": 4.7,
+    "season_proj": 83.3,
+    "wk1_proj": 4.9,
     "is_starter": true,
-    "percent_owned": 58.4
+    "percent_owned": 59.1
   },
   {
     "fteam_id": 11,
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "name": "Mike Evans",
     "pos": "WR",
     "pro": 25,
-    "season_proj": 191.4,
+    "season_proj": 176.8,
     "wk1_proj": 14.9,
     "is_starter": true,
-    "percent_owned": 94.6
+    "percent_owned": 94.5
   },
   {
     "fteam_id": 11,
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "name": "Pat Freiermuth",
     "pos": "TE",
     "pro": 23,
-    "season_proj": 139.2,
+    "season_proj": 102.4,
     "wk1_proj": 11.1,
     "is_starter": false,
-    "percent_owned": 55.6
+    "percent_owned": 58.0
   },
   {
     "fteam_id": 11,
-    "fteam": "A Win Is Likely",
+    "fteam": "Im likely in najee germany ",
     "name": "Alvin Kamara",
     "pos": "RB",
     "pro": 18,
-    "season_proj": 97.3,
+    "season_proj": 85.3,
     "wk1_proj": 10.1,
     "is_starter": false,
-    "percent_owned": 62.2
+    "percent_owned": 62.1
+  },
+  {
+    "fteam_id": 11,
+    "fteam": "Im likely in najee germany ",
+    "name": "Najee Harris",
+    "pos": "RB",
+    "pro": 19,
+    "season_proj": 37.1,
+    "wk1_proj": 6.9,
+    "is_starter": true,
+    "percent_owned": 9.0
   },
   {
     "fteam_id": 12,
@@ -764,7 +764,7 @@
     "name": "Jahmyr Gibbs",
     "pos": "RB",
     "pro": 8,
-    "season_proj": 314.1,
+    "season_proj": 313.4,
     "wk1_proj": 0.0,
     "is_starter": false,
     "percent_owned": 99.9
@@ -775,10 +775,10 @@
     "name": "Colston Loveland",
     "pos": "TE",
     "pro": 3,
-    "season_proj": 105.6,
+    "season_proj": 126.8,
     "wk1_proj": 8.6,
     "is_starter": false,
-    "percent_owned": 86.6
+    "percent_owned": 86.7
   },
   {
     "fteam_id": 12,
@@ -786,10 +786,10 @@
     "name": "Josh Jacobs",
     "pos": "RB",
     "pro": 9,
-    "season_proj": 135.3,
+    "season_proj": 138.0,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 85.9
+    "percent_owned": 85.7
   },
   {
     "fteam_id": 12,
@@ -797,7 +797,7 @@
     "name": "Patrick Mahomes",
     "pos": "QB",
     "pro": 12,
-    "season_proj": 240.9,
+    "season_proj": 211.2,
     "wk1_proj": 18.8,
     "is_starter": true,
     "percent_owned": 95.1
@@ -808,10 +808,10 @@
     "name": "Michael Wilson",
     "pos": "WR",
     "pro": 22,
-    "season_proj": 178.0,
+    "season_proj": 143.8,
     "wk1_proj": 14.0,
     "is_starter": true,
-    "percent_owned": 91.7
+    "percent_owned": 91.5
   },
   {
     "fteam_id": 12,
@@ -819,10 +819,10 @@
     "name": "Ka'imi Fairbairn",
     "pos": "K",
     "pro": 34,
-    "season_proj": 131.1,
-    "wk1_proj": 10.5,
+    "season_proj": 118.0,
+    "wk1_proj": 8.3,
     "is_starter": true,
-    "percent_owned": 92.2
+    "percent_owned": 92.1
   },
   {
     "fteam_id": 12,
@@ -830,7 +830,7 @@
     "name": "Chris Olave",
     "pos": "WR",
     "pro": 18,
-    "season_proj": 196.5,
+    "season_proj": 164.9,
     "wk1_proj": 17.3,
     "is_starter": true,
     "percent_owned": 99.6
@@ -844,7 +844,7 @@
     "season_proj": 0.0,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 36.9
+    "percent_owned": 36.2
   },
   {
     "fteam_id": 12,
@@ -852,10 +852,10 @@
     "name": "Vikings D/ST",
     "pos": "D/ST",
     "pro": 16,
-    "season_proj": 90.2,
+    "season_proj": 71.9,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 74.7
+    "percent_owned": 73.8
   },
   {
     "fteam_id": 12,
@@ -863,10 +863,10 @@
     "name": "Juwan Johnson",
     "pos": "TE",
     "pro": 18,
-    "season_proj": 120.3,
+    "season_proj": 97.5,
     "wk1_proj": 10.8,
     "is_starter": true,
-    "percent_owned": 78.2
+    "percent_owned": 78.7
   },
   {
     "fteam_id": 12,
@@ -874,10 +874,10 @@
     "name": "Jared Goff",
     "pos": "QB",
     "pro": 8,
-    "season_proj": 223.0,
+    "season_proj": 222.8,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 88.7
+    "percent_owned": 88.1
   },
   {
     "fteam_id": 12,
@@ -885,10 +885,10 @@
     "name": "Kendre Miller",
     "pos": "RB",
     "pro": 18,
-    "season_proj": 29.7,
+    "season_proj": 9.7,
     "wk1_proj": 9.1,
     "is_starter": true,
-    "percent_owned": 32.8
+    "percent_owned": 33.2
   },
   {
     "fteam_id": 12,
@@ -896,10 +896,10 @@
     "name": "Patriots D/ST",
     "pos": "D/ST",
     "pro": 17,
-    "season_proj": 74.2,
-    "wk1_proj": 6.6,
+    "season_proj": 66.0,
+    "wk1_proj": 6.8,
     "is_starter": true,
-    "percent_owned": 79.3
+    "percent_owned": 79.7
   },
   {
     "fteam_id": 12,
@@ -907,10 +907,10 @@
     "name": "Javonte Williams",
     "pos": "RB",
     "pro": 6,
-    "season_proj": 205.3,
+    "season_proj": 187.8,
     "wk1_proj": 16.9,
     "is_starter": true,
-    "percent_owned": 99.3
+    "percent_owned": 99.4
   },
   {
     "fteam_id": 12,
@@ -918,10 +918,10 @@
     "name": "Ladd McConkey",
     "pos": "WR",
     "pro": 24,
-    "season_proj": 128.0,
+    "season_proj": 117.1,
     "wk1_proj": 10.4,
     "is_starter": true,
-    "percent_owned": 90.9
+    "percent_owned": 90.8
   },
   {
     "fteam_id": 12,
@@ -929,10 +929,10 @@
     "name": "Keaton Mitchell",
     "pos": "RB",
     "pro": 24,
-    "season_proj": 97.9,
+    "season_proj": 66.6,
     "wk1_proj": 7.7,
     "is_starter": false,
-    "percent_owned": 22.2
+    "percent_owned": 22.0
   },
   {
     "fteam_id": 13,
@@ -940,7 +940,7 @@
     "name": "Christian McCaffrey",
     "pos": "RB",
     "pro": 25,
-    "season_proj": 237.7,
+    "season_proj": 216.1,
     "wk1_proj": 21.2,
     "is_starter": true,
     "percent_owned": 99.9
@@ -951,10 +951,10 @@
     "name": "A.J. Brown",
     "pos": "WR",
     "pro": 17,
-    "season_proj": 186.3,
+    "season_proj": 172.0,
     "wk1_proj": 12.7,
     "is_starter": true,
-    "percent_owned": 95.2
+    "percent_owned": 95.3
   },
   {
     "fteam_id": 13,
@@ -962,7 +962,7 @@
     "name": "Derrick Henry",
     "pos": "RB",
     "pro": 33,
-    "season_proj": 243.8,
+    "season_proj": 203.6,
     "wk1_proj": 18.3,
     "is_starter": true,
     "percent_owned": 99.9
@@ -973,8 +973,8 @@
     "name": "Zay Flowers",
     "pos": "WR",
     "pro": 33,
-    "season_proj": 197.0,
-    "wk1_proj": 14.0,
+    "season_proj": 188.1,
+    "wk1_proj": 14.1,
     "is_starter": true,
     "percent_owned": 98.9
   },
@@ -984,10 +984,10 @@
     "name": "DJ Moore",
     "pos": "WR",
     "pro": 2,
-    "season_proj": 154.4,
-    "wk1_proj": 13.4,
+    "season_proj": 144.0,
+    "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 92.3
+    "percent_owned": 91.4
   },
   {
     "fteam_id": 13,
@@ -995,10 +995,10 @@
     "name": "Kyle Pitts Sr.",
     "pos": "TE",
     "pro": 1,
-    "season_proj": 100.5,
+    "season_proj": 107.2,
     "wk1_proj": 8.7,
     "is_starter": false,
-    "percent_owned": 69.9
+    "percent_owned": 71.0
   },
   {
     "fteam_id": 13,
@@ -1006,10 +1006,10 @@
     "name": "Parker Washington",
     "pos": "WR",
     "pro": 30,
-    "season_proj": 184.8,
-    "wk1_proj": 14.8,
+    "season_proj": 178.7,
+    "wk1_proj": 15.4,
     "is_starter": true,
-    "percent_owned": 95.4
+    "percent_owned": 95.3
   },
   {
     "fteam_id": 13,
@@ -1017,7 +1017,7 @@
     "name": "George Kittle",
     "pos": "TE",
     "pro": 25,
-    "season_proj": 165.7,
+    "season_proj": 151.1,
     "wk1_proj": 14.9,
     "is_starter": true,
     "percent_owned": 98.0
@@ -1028,10 +1028,10 @@
     "name": "DK Metcalf",
     "pos": "WR",
     "pro": 23,
-    "season_proj": 146.7,
+    "season_proj": 149.1,
     "wk1_proj": 11.6,
     "is_starter": false,
-    "percent_owned": 88.8
+    "percent_owned": 88.6
   },
   {
     "fteam_id": 13,
@@ -1039,7 +1039,7 @@
     "name": "Brock Purdy",
     "pos": "QB",
     "pro": 25,
-    "season_proj": 241.6,
+    "season_proj": 220.2,
     "wk1_proj": 21.4,
     "is_starter": true,
     "percent_owned": 98.2
@@ -1050,10 +1050,10 @@
     "name": "Ja'Kobi Lane",
     "pos": "WR",
     "pro": 33,
-    "season_proj": 59.2,
+    "season_proj": 60.0,
     "wk1_proj": 4.7,
     "is_starter": false,
-    "percent_owned": 10.0
+    "percent_owned": 9.9
   },
   {
     "fteam_id": 13,
@@ -1061,10 +1061,10 @@
     "name": "Woody Marks",
     "pos": "RB",
     "pro": 34,
-    "season_proj": 100.4,
-    "wk1_proj": 10.6,
+    "season_proj": 93.1,
+    "wk1_proj": 11.6,
     "is_starter": false,
-    "percent_owned": 70.4
+    "percent_owned": 70.3
   },
   {
     "fteam_id": 13,
@@ -1072,10 +1072,10 @@
     "name": "Will Reichard",
     "pos": "K",
     "pro": 16,
-    "season_proj": 134.8,
+    "season_proj": 133.7,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 54.2
+    "percent_owned": 52.6
   },
   {
     "fteam_id": 13,
@@ -1083,8 +1083,8 @@
     "name": "Broncos D/ST",
     "pos": "D/ST",
     "pro": 7,
-    "season_proj": 72.6,
-    "wk1_proj": 5.5,
+    "season_proj": 68.5,
+    "wk1_proj": 5.7,
     "is_starter": true,
     "percent_owned": 81.8
   },
@@ -1094,10 +1094,10 @@
     "name": "MarShawn Lloyd",
     "pos": "RB",
     "pro": 9,
-    "season_proj": 55.5,
+    "season_proj": 45.3,
     "wk1_proj": 10.9,
     "is_starter": false,
-    "percent_owned": 74.9
+    "percent_owned": 75.3
   },
   {
     "fteam_id": 13,
@@ -1105,10 +1105,10 @@
     "name": "Dominic Zvada",
     "pos": "K",
     "pro": 19,
-    "season_proj": 122.8,
+    "season_proj": 121.5,
     "wk1_proj": 10.9,
     "is_starter": true,
-    "percent_owned": 57.8
+    "percent_owned": 59.3
   },
   {
     "fteam_id": 14,
@@ -1116,8 +1116,8 @@
     "name": "Jaxon Smith-Njigba",
     "pos": "WR",
     "pro": 26,
-    "season_proj": 240.8,
-    "wk1_proj": 19.0,
+    "season_proj": 226.3,
+    "wk1_proj": 19.8,
     "is_starter": true,
     "percent_owned": 99.9
   },
@@ -1127,7 +1127,7 @@
     "name": "Justin Jefferson",
     "pos": "WR",
     "pro": 16,
-    "season_proj": 222.5,
+    "season_proj": 221.1,
     "wk1_proj": 0.0,
     "is_starter": false,
     "percent_owned": 99.9
@@ -1138,10 +1138,10 @@
     "name": "Jeremiyah Love",
     "pos": "RB",
     "pro": 22,
-    "season_proj": 134.0,
+    "season_proj": 130.3,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 96.5
+    "percent_owned": 95.9
   },
   {
     "fteam_id": 14,
@@ -1149,10 +1149,10 @@
     "name": "Rashee Rice",
     "pos": "WR",
     "pro": 12,
-    "season_proj": 172.2,
+    "season_proj": 169.6,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 96.0
+    "percent_owned": 95.5
   },
   {
     "fteam_id": 14,
@@ -1160,10 +1160,10 @@
     "name": "Quinshon Judkins",
     "pos": "RB",
     "pro": 5,
-    "season_proj": 167.2,
-    "wk1_proj": 13.5,
-    "is_starter": true,
-    "percent_owned": 94.4
+    "season_proj": 154.7,
+    "wk1_proj": 0.0,
+    "is_starter": false,
+    "percent_owned": 93.8
   },
   {
     "fteam_id": 14,
@@ -1171,10 +1171,10 @@
     "name": "TreVeyon Henderson",
     "pos": "RB",
     "pro": 17,
-    "season_proj": 113.0,
+    "season_proj": 79.4,
     "wk1_proj": 8.7,
     "is_starter": true,
-    "percent_owned": 79.3
+    "percent_owned": 79.0
   },
   {
     "fteam_id": 14,
@@ -1182,8 +1182,8 @@
     "name": "Harold Fannin Jr.",
     "pos": "TE",
     "pro": 5,
-    "season_proj": 123.5,
-    "wk1_proj": 10.2,
+    "season_proj": 93.9,
+    "wk1_proj": 10.3,
     "is_starter": true,
     "percent_owned": 91.1
   },
@@ -1193,10 +1193,10 @@
     "name": "Jameson Williams",
     "pos": "WR",
     "pro": 8,
-    "season_proj": 129.8,
+    "season_proj": 129.9,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 89.9
+    "percent_owned": 89.6
   },
   {
     "fteam_id": 14,
@@ -1204,21 +1204,10 @@
     "name": "Aaron Jones Sr.",
     "pos": "RB",
     "pro": 16,
-    "season_proj": 140.4,
+    "season_proj": 138.4,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 93.4
-  },
-  {
-    "fteam_id": 14,
-    "fteam": "Mikeeee",
-    "name": "Dak Prescott",
-    "pos": "QB",
-    "pro": 6,
-    "season_proj": 208.2,
-    "wk1_proj": 17.1,
-    "is_starter": false,
-    "percent_owned": 92.6
+    "percent_owned": 93.0
   },
   {
     "fteam_id": 14,
@@ -1226,10 +1215,10 @@
     "name": "RJ Harvey",
     "pos": "RB",
     "pro": 7,
-    "season_proj": 121.9,
-    "wk1_proj": 9.5,
+    "season_proj": 119.4,
+    "wk1_proj": 9.4,
     "is_starter": false,
-    "percent_owned": 72.0
+    "percent_owned": 71.9
   },
   {
     "fteam_id": 14,
@@ -1237,7 +1226,7 @@
     "name": "Matthew Stafford",
     "pos": "QB",
     "pro": 14,
-    "season_proj": 204.6,
+    "season_proj": 186.8,
     "wk1_proj": 19.6,
     "is_starter": true,
     "percent_owned": 93.3
@@ -1248,10 +1237,10 @@
     "name": "Eddy Pineiro",
     "pos": "K",
     "pro": 25,
-    "season_proj": 101.2,
+    "season_proj": 92.3,
     "wk1_proj": 9.0,
     "is_starter": true,
-    "percent_owned": 68.6
+    "percent_owned": 68.9
   },
   {
     "fteam_id": 14,
@@ -1259,10 +1248,10 @@
     "name": "Devaughn Vele",
     "pos": "WR",
     "pro": 18,
-    "season_proj": 95.5,
+    "season_proj": 94.5,
     "wk1_proj": 11.2,
     "is_starter": true,
-    "percent_owned": 69.6
+    "percent_owned": 69.4
   },
   {
     "fteam_id": 14,
@@ -1270,10 +1259,21 @@
     "name": "Dameon Pierce",
     "pos": "RB",
     "pro": 21,
-    "season_proj": 70.4,
+    "season_proj": 64.0,
     "wk1_proj": 12.3,
     "is_starter": true,
-    "percent_owned": 52.1
+    "percent_owned": 55.7
+  },
+  {
+    "fteam_id": 14,
+    "fteam": "Mikeeee",
+    "name": "Jaleel McLaughlin",
+    "pos": "RB",
+    "pro": 5,
+    "season_proj": 59.6,
+    "wk1_proj": 10.5,
+    "is_starter": true,
+    "percent_owned": 7.9
   },
   {
     "fteam_id": 15,
@@ -1281,7 +1281,7 @@
     "name": "Bijan Robinson",
     "pos": "RB",
     "pro": 1,
-    "season_proj": 267.7,
+    "season_proj": 218.7,
     "wk1_proj": 23.0,
     "is_starter": true,
     "percent_owned": 99.9
@@ -1292,7 +1292,7 @@
     "name": "Josh Allen",
     "pos": "QB",
     "pro": 2,
-    "season_proj": 281.1,
+    "season_proj": 252.1,
     "wk1_proj": 25.1,
     "is_starter": true,
     "percent_owned": 99.9
@@ -1303,7 +1303,7 @@
     "name": "Brock Bowers",
     "pos": "TE",
     "pro": 13,
-    "season_proj": 210.3,
+    "season_proj": 192.6,
     "wk1_proj": 19.8,
     "is_starter": true,
     "percent_owned": 99.9
@@ -1314,10 +1314,10 @@
     "name": "David Montgomery",
     "pos": "RB",
     "pro": 34,
-    "season_proj": 124.0,
+    "season_proj": 131.3,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 83.3
+    "percent_owned": 83.2
   },
   {
     "fteam_id": 15,
@@ -1325,10 +1325,10 @@
     "name": "Luther Burden III",
     "pos": "WR",
     "pro": 3,
-    "season_proj": 145.8,
+    "season_proj": 139.9,
     "wk1_proj": 12.5,
     "is_starter": true,
-    "percent_owned": 90.1
+    "percent_owned": 90.0
   },
   {
     "fteam_id": 15,
@@ -1336,10 +1336,10 @@
     "name": "Christian Watson",
     "pos": "WR",
     "pro": 9,
-    "season_proj": 180.8,
+    "season_proj": 167.8,
     "wk1_proj": 16.3,
     "is_starter": true,
-    "percent_owned": 96.5
+    "percent_owned": 96.6
   },
   {
     "fteam_id": 15,
@@ -1347,7 +1347,7 @@
     "name": "Jaylen Warren",
     "pos": "RB",
     "pro": 23,
-    "season_proj": 188.3,
+    "season_proj": 174.7,
     "wk1_proj": 15.0,
     "is_starter": true,
     "percent_owned": 94.9
@@ -1358,10 +1358,10 @@
     "name": "Jacory Croskey-Merritt",
     "pos": "RB",
     "pro": 28,
-    "season_proj": 91.5,
+    "season_proj": 91.7,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 62.0
+    "percent_owned": 59.9
   },
   {
     "fteam_id": 15,
@@ -1372,7 +1372,7 @@
     "season_proj": 0,
     "wk1_proj": 0,
     "is_starter": false,
-    "percent_owned": 37.3
+    "percent_owned": 36.0
   },
   {
     "fteam_id": 15,
@@ -1380,10 +1380,10 @@
     "name": "Stefon Diggs",
     "pos": "WR",
     "pro": 28,
-    "season_proj": 130.5,
+    "season_proj": 120.3,
     "wk1_proj": 10.6,
     "is_starter": false,
-    "percent_owned": 80.7
+    "percent_owned": 80.1
   },
   {
     "fteam_id": 15,
@@ -1391,10 +1391,10 @@
     "name": "Chase Brown",
     "pos": "RB",
     "pro": 4,
-    "season_proj": 183.8,
+    "season_proj": 184.2,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 98.8
+    "percent_owned": 98.6
   },
   {
     "fteam_id": 15,
@@ -1402,10 +1402,10 @@
     "name": "Brian Thomas Jr.",
     "pos": "WR",
     "pro": 30,
-    "season_proj": 77.0,
-    "wk1_proj": 6.2,
+    "season_proj": 59.8,
+    "wk1_proj": 6.4,
     "is_starter": false,
-    "percent_owned": 51.3
+    "percent_owned": 51.2
   },
   {
     "fteam_id": 15,
@@ -1413,10 +1413,10 @@
     "name": "Keon Coleman",
     "pos": "WR",
     "pro": 2,
-    "season_proj": 82.2,
-    "wk1_proj": 7.1,
+    "season_proj": 70.1,
+    "wk1_proj": 10.7,
     "is_starter": false,
-    "percent_owned": 31.3
+    "percent_owned": 32.2
   },
   {
     "fteam_id": 15,
@@ -1424,10 +1424,10 @@
     "name": "Spencer Shrader",
     "pos": "K",
     "pro": 11,
-    "season_proj": 126.9,
+    "season_proj": 115.3,
     "wk1_proj": 11.0,
     "is_starter": true,
-    "percent_owned": 88.9
+    "percent_owned": 89.4
   },
   {
     "fteam_id": 15,
@@ -1435,10 +1435,10 @@
     "name": "Ravens D/ST",
     "pos": "D/ST",
     "pro": 33,
-    "season_proj": 81.1,
-    "wk1_proj": 7.5,
+    "season_proj": 72.6,
+    "wk1_proj": 7.1,
     "is_starter": true,
-    "percent_owned": 91.0
+    "percent_owned": 91.2
   },
   {
     "fteam_id": 15,
@@ -1446,14 +1446,14 @@
     "name": "Tyler Allgeier",
     "pos": "RB",
     "pro": 22,
-    "season_proj": 89.9,
+    "season_proj": 80.3,
     "wk1_proj": 12.3,
     "is_starter": true,
-    "percent_owned": 51.7
+    "percent_owned": 57.1
   },
   {
     "fteam_id": 16,
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "name": "Amon-Ra St. Brown",
     "pos": "WR",
     "pro": 8,
@@ -1464,150 +1464,150 @@
   },
   {
     "fteam_id": 16,
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "name": "CeeDee Lamb",
     "pos": "WR",
     "pro": 6,
-    "season_proj": 224.2,
+    "season_proj": 210.9,
     "wk1_proj": 18.6,
     "is_starter": true,
     "percent_owned": 99.9
   },
   {
     "fteam_id": 16,
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "name": "Breece Hall",
     "pos": "RB",
     "pro": 20,
-    "season_proj": 171.3,
+    "season_proj": 154.8,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 95.8
+    "percent_owned": 95.6
   },
   {
     "fteam_id": 16,
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "name": "Lamar Jackson",
     "pos": "QB",
     "pro": 33,
-    "season_proj": 217.2,
+    "season_proj": 210.6,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 98.8
+    "percent_owned": 98.6
   },
   {
     "fteam_id": 16,
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "name": "Bucky Irving",
     "pos": "RB",
     "pro": 27,
-    "season_proj": 194.4,
-    "wk1_proj": 15.2,
+    "season_proj": 162.1,
+    "wk1_proj": 16.1,
     "is_starter": true,
-    "percent_owned": 97.3
+    "percent_owned": 97.4
   },
   {
     "fteam_id": 16,
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "name": "Terry McLaurin",
     "pos": "WR",
     "pro": 28,
-    "season_proj": 151.5,
+    "season_proj": 139.5,
     "wk1_proj": 12.3,
     "is_starter": true,
     "percent_owned": 91.6
   },
   {
     "fteam_id": 16,
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "name": "Marvin Harrison Jr.",
     "pos": "WR",
     "pro": 34,
-    "season_proj": 41.8,
-    "wk1_proj": 3.4,
+    "season_proj": 77.7,
+    "wk1_proj": 3.6,
     "is_starter": false,
-    "percent_owned": 75.2
+    "percent_owned": 75.1
   },
   {
     "fteam_id": 16,
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "name": "Rhamondre Stevenson",
     "pos": "RB",
     "pro": 17,
-    "season_proj": 150.4,
+    "season_proj": 126.8,
     "wk1_proj": 13.3,
     "is_starter": true,
-    "percent_owned": 93.1
+    "percent_owned": 93.0
   },
   {
     "fteam_id": 16,
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "name": "Brandon Aubrey",
     "pos": "K",
     "pro": 6,
-    "season_proj": 123.9,
+    "season_proj": 116.8,
     "wk1_proj": 10.2,
     "is_starter": true,
     "percent_owned": 98.5
   },
   {
     "fteam_id": 16,
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "name": "Kyle Monangai",
     "pos": "RB",
     "pro": 3,
-    "season_proj": 114.6,
+    "season_proj": 121.7,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 78.4
+    "percent_owned": 77.8
   },
   {
     "fteam_id": 16,
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "name": "Texans D/ST",
     "pos": "D/ST",
     "pro": 34,
-    "season_proj": 89.6,
-    "wk1_proj": 5.2,
+    "season_proj": 84.8,
+    "wk1_proj": 5.4,
     "is_starter": true,
     "percent_owned": 86.0
   },
   {
     "fteam_id": 16,
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "name": "Travis Kelce",
     "pos": "TE",
     "pro": 12,
-    "season_proj": 141.0,
+    "season_proj": 123.9,
     "wk1_proj": 11.4,
     "is_starter": true,
-    "percent_owned": 94.0
+    "percent_owned": 94.1
   },
   {
     "fteam_id": 16,
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "name": "Braelon Allen",
     "pos": "RB",
     "pro": 20,
-    "season_proj": 90.6,
+    "season_proj": 78.0,
     "wk1_proj": 14.5,
     "is_starter": true,
-    "percent_owned": 83.1
+    "percent_owned": 83.7
   },
   {
     "fteam_id": 16,
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "name": "Zach Charbonnet",
     "pos": "RB",
     "pro": 26,
-    "season_proj": 144.7,
+    "season_proj": 147.7,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 57.5
+    "percent_owned": 57.4
   },
   {
     "fteam_id": 16,
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "name": "James Conner",
     "pos": "RB",
     "pro": 22,
@@ -1618,25 +1618,25 @@
   },
   {
     "fteam_id": 16,
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "name": "Dallas Goedert",
     "pos": "TE",
     "pro": 21,
-    "season_proj": 123.9,
+    "season_proj": 114.6,
     "wk1_proj": 10.1,
     "is_starter": false,
-    "percent_owned": 82.5
+    "percent_owned": 82.9
   },
   {
     "fteam_id": 16,
-    "fteam": "The Dark Side",
+    "fteam": "Plz doubt me ",
     "name": "Jameis Winston",
     "pos": "QB",
     "pro": 19,
     "season_proj": 74.4,
     "wk1_proj": 17.8,
     "is_starter": true,
-    "percent_owned": 32.0
+    "percent_owned": 33.5
   },
   {
     "fteam_id": 17,
@@ -1644,7 +1644,7 @@
     "name": "Ja'Marr Chase",
     "pos": "WR",
     "pro": 4,
-    "season_proj": 263.4,
+    "season_proj": 264.3,
     "wk1_proj": 0.0,
     "is_starter": false,
     "percent_owned": 99.9
@@ -1655,10 +1655,10 @@
     "name": "Saquon Barkley",
     "pos": "RB",
     "pro": 21,
-    "season_proj": 160.4,
+    "season_proj": 146.3,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 97.9
+    "percent_owned": 97.8
   },
   {
     "fteam_id": 17,
@@ -1666,7 +1666,7 @@
     "name": "Drake London",
     "pos": "WR",
     "pro": 1,
-    "season_proj": 182.9,
+    "season_proj": 187.4,
     "wk1_proj": 15.8,
     "is_starter": true,
     "percent_owned": 99.6
@@ -1677,7 +1677,7 @@
     "name": "Kyren Williams",
     "pos": "RB",
     "pro": 14,
-    "season_proj": 224.5,
+    "season_proj": 198.8,
     "wk1_proj": 21.0,
     "is_starter": true,
     "percent_owned": 99.5
@@ -1688,8 +1688,8 @@
     "name": "Davante Adams",
     "pos": "WR",
     "pro": 14,
-    "season_proj": 183.4,
-    "wk1_proj": 16.1,
+    "season_proj": 144.2,
+    "wk1_proj": 16.0,
     "is_starter": true,
     "percent_owned": 99.1
   },
@@ -1699,10 +1699,10 @@
     "name": "Tyler Warren",
     "pos": "TE",
     "pro": 11,
-    "season_proj": 143.0,
-    "wk1_proj": 12.1,
+    "season_proj": 130.7,
+    "wk1_proj": 0.0,
     "is_starter": true,
-    "percent_owned": 98.4
+    "percent_owned": 97.8
   },
   {
     "fteam_id": 17,
@@ -1710,10 +1710,10 @@
     "name": "Drake Maye",
     "pos": "QB",
     "pro": 17,
-    "season_proj": 247.8,
+    "season_proj": 228.8,
     "wk1_proj": 20.3,
     "is_starter": true,
-    "percent_owned": 96.9
+    "percent_owned": 97.0
   },
   {
     "fteam_id": 17,
@@ -1721,10 +1721,10 @@
     "name": "Tony Pollard",
     "pos": "RB",
     "pro": 10,
-    "season_proj": 158.6,
+    "season_proj": 141.7,
     "wk1_proj": 14.2,
     "is_starter": true,
-    "percent_owned": 87.8
+    "percent_owned": 88.0
   },
   {
     "fteam_id": 17,
@@ -1732,10 +1732,10 @@
     "name": "Courtland Sutton",
     "pos": "WR",
     "pro": 7,
-    "season_proj": 111.4,
-    "wk1_proj": 8.7,
+    "season_proj": 93.7,
+    "wk1_proj": 8.5,
     "is_starter": false,
-    "percent_owned": 70.9
+    "percent_owned": 70.8
   },
   {
     "fteam_id": 17,
@@ -1743,10 +1743,10 @@
     "name": "Chuba Hubbard",
     "pos": "RB",
     "pro": 29,
-    "season_proj": 194.1,
+    "season_proj": 178.2,
     "wk1_proj": 14.8,
     "is_starter": true,
-    "percent_owned": 94.4
+    "percent_owned": 94.5
   },
   {
     "fteam_id": 17,
@@ -1754,10 +1754,10 @@
     "name": "Chris Godwin Jr.",
     "pos": "WR",
     "pro": 27,
-    "season_proj": 85.5,
+    "season_proj": 99.7,
     "wk1_proj": 6.6,
     "is_starter": false,
-    "percent_owned": 47.7
+    "percent_owned": 47.0
   },
   {
     "fteam_id": 17,
@@ -1765,10 +1765,10 @@
     "name": "Rachaad White",
     "pos": "RB",
     "pro": 28,
-    "season_proj": 100.4,
+    "season_proj": 90.2,
     "wk1_proj": 10.5,
     "is_starter": false,
-    "percent_owned": 56.6
+    "percent_owned": 59.1
   },
   {
     "fteam_id": 17,
@@ -1776,7 +1776,7 @@
     "name": "Steelers D/ST",
     "pos": "D/ST",
     "pro": 23,
-    "season_proj": 82.4,
+    "season_proj": 76.6,
     "wk1_proj": 6.9,
     "is_starter": true,
     "percent_owned": 94.9
@@ -1787,10 +1787,10 @@
     "name": "Kyler Murray",
     "pos": "QB",
     "pro": 16,
-    "season_proj": 205.4,
+    "season_proj": 201.4,
     "wk1_proj": 0.0,
     "is_starter": false,
-    "percent_owned": 49.7
+    "percent_owned": 48.6
   },
   {
     "fteam_id": 17,
@@ -1798,9 +1798,9 @@
     "name": "Matt Gay",
     "pos": "K",
     "pro": 13,
-    "season_proj": 119.4,
+    "season_proj": 104.2,
     "wk1_proj": 10.7,
     "is_starter": true,
-    "percent_owned": 40.1
+    "percent_owned": 42.4
   }
 ]
