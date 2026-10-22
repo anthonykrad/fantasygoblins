@@ -326,7 +326,7 @@
     "pos": "WR",
     "pro": "CLE",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -359,7 +359,7 @@
     "pos": "WR",
     "pro": "MIN",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -370,6 +370,17 @@
     "pos": "RB",
     "pro": "CHI",
     "slot": "RB",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Team Josh",
+    "fteam_id": 9,
+    "pid": 4373626,
+    "name": "Tyler Allgeier",
+    "pos": "RB",
+    "pro": "ARI",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -436,7 +447,7 @@
     "pos": "RB",
     "pro": "PIT",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -458,7 +469,7 @@
     "pos": "WR",
     "pro": "MIN",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -480,7 +491,7 @@
     "pos": "QB",
     "pro": "GB",
     "slot": "QB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -513,7 +524,7 @@
     "pos": "WR",
     "pro": "GB",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -546,7 +557,7 @@
     "pos": "WR",
     "pro": "TB",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -645,7 +656,7 @@
     "pos": "WR",
     "pro": "DEN",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -699,7 +710,7 @@
     "name": "Mike Evans",
     "pos": "WR",
     "pro": "SF",
-    "slot": "WR",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -722,7 +733,7 @@
     "pos": "RB",
     "pro": "NO",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -743,6 +754,17 @@
     "name": "DeMario Douglas",
     "pos": "WR",
     "pro": "NE",
+    "slot": "WR",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Im likely in najee germany ",
+    "fteam_id": 11,
+    "pid": 5082424,
+    "name": "Dominic Zvada",
+    "pos": "K",
+    "pro": "NYG",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -942,7 +964,7 @@
     "pos": "WR",
     "pro": "NE",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1294,7 +1316,7 @@
     "pos": "TE",
     "pro": "LV",
     "slot": "TE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1327,7 +1349,7 @@
     "pos": "WR",
     "pro": "GB",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1491,7 +1513,7 @@
     "name": "Lamar Jackson",
     "pos": "QB",
     "pro": "BAL",
-    "slot": "QB",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -1503,7 +1525,7 @@
     "pos": "RB",
     "pro": "TB",
     "slot": "RB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1547,8 +1569,8 @@
     "pos": "RB",
     "pro": "CHI",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Take Care",
@@ -1569,7 +1591,7 @@
     "pos": "TE",
     "pro": "KC",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1623,7 +1645,7 @@
     "name": "Dak Prescott",
     "pos": "QB",
     "pro": "DAL",
-    "slot": "BE",
+    "slot": "QB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1700,7 +1722,7 @@
     "name": "Tyler Warren",
     "pos": "TE",
     "pro": "IND",
-    "slot": "TE",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -1722,17 +1744,6 @@
     "name": "Tony Pollard",
     "pos": "RB",
     "pro": "TEN",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Chase Bank",
-    "fteam_id": 17,
-    "pid": 3128429,
-    "name": "Courtland Sutton",
-    "pos": "WR",
-    "pro": "DEN",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -1800,6 +1811,17 @@
     "pos": "K",
     "pro": "LV",
     "slot": "K",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Chase Bank",
+    "fteam_id": 17,
+    "pid": 4808766,
+    "name": "Mason Taylor",
+    "pos": "TE",
+    "pro": "NYJ",
+    "slot": "TE",
     "status": "ACTIVE",
     "injured": false
   }
