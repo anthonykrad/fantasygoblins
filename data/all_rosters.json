@@ -6,8 +6,8 @@
     "name": "Puka Nacua",
     "pos": "WR",
     "pro": "LAR",
-    "slot": "RB/WR",
-    "status": "ACTIVE",
+    "slot": "BE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -116,7 +116,7 @@
     "name": "Carnell Tate",
     "pos": "WR",
     "pro": "TEN",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -237,7 +237,7 @@
     "name": "Tee Higgins",
     "pos": "WR",
     "pro": "CIN",
-    "slot": "WR",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -358,8 +358,8 @@
     "name": "Justin Jefferson",
     "pos": "WR",
     "pro": "MIN",
-    "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "slot": "WR",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -369,7 +369,7 @@
     "name": "Roschon Johnson",
     "pos": "RB",
     "pro": "CHI",
-    "slot": "RB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -380,7 +380,7 @@
     "name": "Tyler Allgeier",
     "pos": "RB",
     "pro": "ARI",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -491,7 +491,7 @@
     "pos": "QB",
     "pro": "GB",
     "slot": "QB",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -568,7 +568,7 @@
     "pos": "WR",
     "pro": "PHI",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -622,7 +622,7 @@
     "name": "Cam Little",
     "pos": "K",
     "pro": "JAX",
-    "slot": "K",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -655,7 +655,7 @@
     "name": "Jaylen Waddle",
     "pos": "WR",
     "pro": "DEN",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -666,7 +666,7 @@
     "name": "Cam Skattebo",
     "pos": "RB",
     "pro": "NYG",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -690,17 +690,6 @@
     "pro": "CAR",
     "slot": "BE",
     "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Im likely in najee germany ",
-    "fteam_id": 11,
-    "pid": -16025,
-    "name": "49ers D/ST",
-    "pos": "D/ST",
-    "pro": "SF",
-    "slot": "D/ST",
-    "status": null,
     "injured": false
   },
   {
@@ -733,7 +722,7 @@
     "pos": "RB",
     "pro": "NO",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -765,8 +754,19 @@
     "name": "Dominic Zvada",
     "pos": "K",
     "pro": "NYG",
-    "slot": "BE",
+    "slot": "K",
     "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Im likely in najee germany ",
+    "fteam_id": 11,
+    "pid": -16012,
+    "name": "Chiefs D/ST",
+    "pos": "D/ST",
+    "pro": "KC",
+    "slot": "D/ST",
+    "status": null,
     "injured": false
   },
   {
@@ -1179,17 +1179,6 @@
   {
     "fteam": "Mikeeee",
     "fteam_id": 14,
-    "pid": 5083076,
-    "name": "Harold Fannin Jr.",
-    "pos": "TE",
-    "pro": "CLE",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Mikeeee",
-    "fteam_id": 14,
     "pid": 4426388,
     "name": "Jameson Williams",
     "pos": "WR",
@@ -1272,7 +1261,7 @@
     "pos": "WR",
     "pro": "DAL",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1284,6 +1273,17 @@
     "pro": "NYJ",
     "slot": "BE",
     "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Mikeeee",
+    "fteam_id": 14,
+    "pid": -16006,
+    "name": "Cowboys D/ST",
+    "pos": "D/ST",
+    "pro": "DAL",
+    "slot": "D/ST",
+    "status": null,
     "injured": false
   },
   {
@@ -1316,7 +1316,7 @@
     "pos": "TE",
     "pro": "LV",
     "slot": "TE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1327,7 +1327,7 @@
     "pos": "RB",
     "pro": "HOU",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "DOUBTFUL",
     "injured": false
   },
   {
@@ -1513,7 +1513,7 @@
     "name": "Lamar Jackson",
     "pos": "QB",
     "pro": "BAL",
-    "slot": "BE",
+    "slot": "QB",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -1602,8 +1602,8 @@
     "pos": "RB",
     "pro": "SEA",
     "slot": "IR",
-    "status": "OUT",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "Take Care",
@@ -1624,7 +1624,7 @@
     "pos": "TE",
     "pro": "PHI",
     "slot": "TE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1645,7 +1645,7 @@
     "name": "Dak Prescott",
     "pos": "QB",
     "pro": "DAL",
-    "slot": "QB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
