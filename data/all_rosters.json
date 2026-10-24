@@ -6,7 +6,7 @@
     "name": "Puka Nacua",
     "pos": "WR",
     "pro": "LAR",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -116,7 +116,7 @@
     "name": "Carnell Tate",
     "pos": "WR",
     "pro": "TEN",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -161,7 +161,7 @@
     "pos": "TE",
     "pro": "MIN",
     "slot": "TE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -326,7 +326,7 @@
     "pos": "WR",
     "pro": "CLE",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -468,7 +468,7 @@
     "name": "Jordan Addison",
     "pos": "WR",
     "pro": "MIN",
-    "slot": "BE",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -524,7 +524,7 @@
     "pos": "WR",
     "pro": "GB",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -545,7 +545,7 @@
     "name": "Xavier Worthy",
     "pos": "WR",
     "pro": "KC",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -556,9 +556,9 @@
     "name": "Emeka Egbuka",
     "pos": "WR",
     "pro": "TB",
-    "slot": "RB/WR",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "slot": "BE",
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "JALEN, this is for you❤️",
@@ -567,7 +567,7 @@
     "name": "DeVonta Smith",
     "pos": "WR",
     "pro": "PHI",
-    "slot": "WR",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -656,7 +656,7 @@
     "pos": "WR",
     "pro": "DEN",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -700,8 +700,8 @@
     "pos": "WR",
     "pro": "SF",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Im likely in najee germany ",
@@ -1140,8 +1140,8 @@
     "pos": "RB",
     "pro": "ARI",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Mikeeee",
@@ -1151,8 +1151,8 @@
     "pos": "WR",
     "pro": "KC",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Mikeeee",
@@ -1162,7 +1162,7 @@
     "pos": "RB",
     "pro": "CLE",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1261,7 +1261,7 @@
     "pos": "WR",
     "pro": "DAL",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1327,8 +1327,8 @@
     "pos": "RB",
     "pro": "HOU",
     "slot": "BE",
-    "status": "DOUBTFUL",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Into the sunset",
@@ -1349,7 +1349,7 @@
     "pos": "WR",
     "pro": "GB",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1525,7 +1525,7 @@
     "pos": "RB",
     "pro": "TB",
     "slot": "RB",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1591,7 +1591,7 @@
     "pos": "TE",
     "pro": "KC",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1602,8 +1602,8 @@
     "pos": "RB",
     "pro": "SEA",
     "slot": "IR",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Take Care",
@@ -1723,8 +1723,8 @@
     "pos": "TE",
     "pro": "IND",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Chase Bank",
