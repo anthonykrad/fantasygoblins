@@ -50,9 +50,9 @@
     "name": "Jordan Mason",
     "pos": "RB",
     "pro": "MIN",
-    "slot": "IR",
-    "status": "INJURY_RESERVE",
-    "injured": true
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
   },
   {
     "fteam": "LeBron EatChaHeartOut",
@@ -64,17 +64,6 @@
     "slot": "IR",
     "status": "INJURY_RESERVE",
     "injured": true
-  },
-  {
-    "fteam": "LeBron EatChaHeartOut",
-    "fteam_id": 1,
-    "pid": -16026,
-    "name": "Seahawks D/ST",
-    "pos": "D/ST",
-    "pro": "SEA",
-    "slot": "BE",
-    "status": null,
-    "injured": false
   },
   {
     "fteam": "LeBron EatChaHeartOut",
@@ -156,17 +145,6 @@
   {
     "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
-    "pid": 4036133,
-    "name": "T.J. Hockenson",
-    "pos": "TE",
-    "pro": "MIN",
-    "slot": "TE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "LeBron EatChaHeartOut",
-    "fteam_id": 1,
     "pid": -16020,
     "name": "Jets D/ST",
     "pos": "D/ST",
@@ -189,11 +167,22 @@
   {
     "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
-    "pid": 8439,
-    "name": "Aaron Rodgers",
+    "pid": 4426338,
+    "name": "Bo Nix",
     "pos": "QB",
-    "pro": "PIT",
+    "pro": "DEN",
     "slot": "QB",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "LeBron EatChaHeartOut",
+    "fteam_id": 1,
+    "pid": 2573401,
+    "name": "Tyler Higbee",
+    "pos": "TE",
+    "pro": "LAR",
+    "slot": "TE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -282,8 +271,8 @@
     "pos": "RB",
     "pro": "DEN",
     "slot": "IR",
-    "status": "INJURY_RESERVE",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "Team Josh",
@@ -447,7 +436,7 @@
     "pos": "RB",
     "pro": "PIT",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -468,7 +457,7 @@
     "name": "Jordan Addison",
     "pos": "WR",
     "pro": "MIN",
-    "slot": "WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -479,7 +468,7 @@
     "name": "Emanuel Wilson",
     "pos": "RB",
     "pro": "SEA",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -545,7 +534,7 @@
     "name": "Xavier Worthy",
     "pos": "WR",
     "pro": "KC",
-    "slot": "RB/WR",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -568,8 +557,8 @@
     "pos": "WR",
     "pro": "PHI",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "JALEN, this is for you❤️",
@@ -583,7 +572,7 @@
     "injured": false
   },
   {
-    "fteam": "Im likely in najee germany ",
+    "fteam": "A win is likley",
     "fteam_id": 11,
     "pid": 4685512,
     "name": "Jadarian Price",
@@ -594,7 +583,7 @@
     "injured": true
   },
   {
-    "fteam": "Im likely in najee germany ",
+    "fteam": "A win is likley",
     "fteam_id": 11,
     "pid": 4431611,
     "name": "Caleb Williams",
@@ -605,7 +594,7 @@
     "injured": false
   },
   {
-    "fteam": "Im likely in najee germany ",
+    "fteam": "A win is likley",
     "fteam_id": 11,
     "pid": 4361050,
     "name": "Isaiah Likely",
@@ -616,7 +605,7 @@
     "injured": false
   },
   {
-    "fteam": "Im likely in najee germany ",
+    "fteam": "A win is likley",
     "fteam_id": 11,
     "pid": 4686361,
     "name": "Cam Little",
@@ -627,7 +616,7 @@
     "injured": false
   },
   {
-    "fteam": "Im likely in najee germany ",
+    "fteam": "A win is likley",
     "fteam_id": 11,
     "pid": 4361432,
     "name": "Romeo Doubs",
@@ -638,7 +627,7 @@
     "injured": true
   },
   {
-    "fteam": "Im likely in najee germany ",
+    "fteam": "A win is likley",
     "fteam_id": 11,
     "pid": 4258173,
     "name": "Nico Collins",
@@ -649,7 +638,7 @@
     "injured": false
   },
   {
-    "fteam": "Im likely in najee germany ",
+    "fteam": "A win is likley",
     "fteam_id": 11,
     "pid": 4372016,
     "name": "Jaylen Waddle",
@@ -660,7 +649,7 @@
     "injured": false
   },
   {
-    "fteam": "Im likely in najee germany ",
+    "fteam": "A win is likley",
     "fteam_id": 11,
     "pid": 4696981,
     "name": "Cam Skattebo",
@@ -671,7 +660,7 @@
     "injured": false
   },
   {
-    "fteam": "Im likely in najee germany ",
+    "fteam": "A win is likley",
     "fteam_id": 11,
     "pid": 4259545,
     "name": "D'Andre Swift",
@@ -682,7 +671,7 @@
     "injured": false
   },
   {
-    "fteam": "Im likely in najee germany ",
+    "fteam": "A win is likley",
     "fteam_id": 11,
     "pid": 4685720,
     "name": "Bryce Young",
@@ -693,7 +682,7 @@
     "injured": false
   },
   {
-    "fteam": "Im likely in najee germany ",
+    "fteam": "A win is likley",
     "fteam_id": 11,
     "pid": 16737,
     "name": "Mike Evans",
@@ -704,7 +693,7 @@
     "injured": true
   },
   {
-    "fteam": "Im likely in najee germany ",
+    "fteam": "A win is likley",
     "fteam_id": 11,
     "pid": 4361411,
     "name": "Pat Freiermuth",
@@ -715,7 +704,7 @@
     "injured": false
   },
   {
-    "fteam": "Im likely in najee germany ",
+    "fteam": "A win is likley",
     "fteam_id": 11,
     "pid": 3054850,
     "name": "Alvin Kamara",
@@ -726,7 +715,7 @@
     "injured": false
   },
   {
-    "fteam": "Im likely in najee germany ",
+    "fteam": "A win is likley",
     "fteam_id": 11,
     "pid": 4569987,
     "name": "Jaylen Warren",
@@ -737,7 +726,7 @@
     "injured": false
   },
   {
-    "fteam": "Im likely in najee germany ",
+    "fteam": "A win is likley",
     "fteam_id": 11,
     "pid": 4427095,
     "name": "DeMario Douglas",
@@ -748,7 +737,7 @@
     "injured": false
   },
   {
-    "fteam": "Im likely in najee germany ",
+    "fteam": "A win is likley",
     "fteam_id": 11,
     "pid": 5082424,
     "name": "Dominic Zvada",
@@ -759,7 +748,7 @@
     "injured": false
   },
   {
-    "fteam": "Im likely in najee germany ",
+    "fteam": "A win is likley",
     "fteam_id": 11,
     "pid": -16012,
     "name": "Chiefs D/ST",
@@ -1513,9 +1502,9 @@
     "name": "Lamar Jackson",
     "pos": "QB",
     "pro": "BAL",
-    "slot": "QB",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "slot": "BE",
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Take Care",
@@ -1624,7 +1613,7 @@
     "pos": "TE",
     "pro": "PHI",
     "slot": "TE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1645,7 +1634,7 @@
     "name": "Dak Prescott",
     "pos": "QB",
     "pro": "DAL",
-    "slot": "BE",
+    "slot": "QB",
     "status": "ACTIVE",
     "injured": false
   },
