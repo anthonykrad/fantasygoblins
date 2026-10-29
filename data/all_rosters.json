@@ -73,7 +73,7 @@
     "pos": "TE",
     "pro": "BUF",
     "slot": "TE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -106,7 +106,7 @@
     "pos": "WR",
     "pro": "TEN",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -359,7 +359,7 @@
     "pos": "RB",
     "pro": "ARI",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -684,17 +684,6 @@
   {
     "fteam": "Bye week",
     "fteam_id": 11,
-    "pid": 3054850,
-    "name": "Alvin Kamara",
-    "pos": "RB",
-    "pro": "NO",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Bye week",
-    "fteam_id": 11,
     "pid": 4569987,
     "name": "Jaylen Warren",
     "pos": "RB",
@@ -732,7 +721,7 @@
     "name": "Khalil Shakir",
     "pos": "WR",
     "pro": "BUF",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -748,6 +737,17 @@
     "injured": false
   },
   {
+    "fteam": "Bye week",
+    "fteam_id": 11,
+    "pid": 4870653,
+    "name": "KC Concepcion",
+    "pos": "WR",
+    "pro": "CLE",
+    "slot": "RB/WR",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
     "fteam": "So Mahomey",
     "fteam_id": 12,
     "pid": 4429795,
@@ -755,7 +755,7 @@
     "pos": "RB",
     "pro": "DET",
     "slot": "RB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -787,7 +787,7 @@
     "name": "Patrick Mahomes",
     "pos": "QB",
     "pro": "KC",
-    "slot": "QB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -799,7 +799,7 @@
     "pos": "WR",
     "pro": "ARI",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -864,7 +864,7 @@
     "name": "Jared Goff",
     "pos": "QB",
     "pro": "DET",
-    "slot": "BE",
+    "slot": "QB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -920,7 +920,7 @@
     "pos": "WR",
     "pro": "JAX",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -930,7 +930,7 @@
     "name": "Christian McCaffrey",
     "pos": "RB",
     "pro": "SF",
-    "slot": "RB",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -942,7 +942,7 @@
     "pos": "WR",
     "pro": "NE",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1073,7 +1073,7 @@
     "name": "Samaje Perine",
     "pos": "RB",
     "pro": "CIN",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1217,7 +1217,7 @@
     "pos": "WR",
     "pro": "DAL",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1283,7 +1283,7 @@
     "pos": "TE",
     "pro": "LV",
     "slot": "TE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1304,7 +1304,7 @@
     "name": "Luther Burden III",
     "pos": "WR",
     "pro": "CHI",
-    "slot": "WR",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1382,7 +1382,7 @@
     "pos": "RB",
     "pro": "NYJ",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1392,7 +1392,7 @@
     "name": "Jalen Coker",
     "pos": "WR",
     "pro": "CAR",
-    "slot": "RB/WR",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1580,7 +1580,7 @@
     "pos": "WR",
     "pro": "WSH",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1602,8 +1602,8 @@
     "pos": "RB",
     "pro": "PHI",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "INJURY_RESERVE",
+    "injured": true
   },
   {
     "fteam": "Now we go. ",
@@ -1624,7 +1624,7 @@
     "pos": "WR",
     "pro": "CIN",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1778,6 +1778,17 @@
     "pos": "TE",
     "pro": "MIN",
     "slot": "TE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Chase Bank",
+    "fteam_id": 17,
+    "pid": 15818,
+    "name": "Keenan Allen",
+    "pos": "WR",
+    "pro": "IND",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   }
