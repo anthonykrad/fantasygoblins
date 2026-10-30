@@ -491,7 +491,7 @@
     "pos": "WR",
     "pro": "GB",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -552,10 +552,10 @@
   {
     "fteam": "JALEN, this is for you❤️",
     "fteam_id": 10,
-    "pid": 4427728,
-    "name": "Bam Knight",
-    "pos": "RB",
-    "pro": "ARI",
+    "pid": 4870795,
+    "name": "Makai Lemon",
+    "pos": "WR",
+    "pro": "PHI",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -633,7 +633,7 @@
     "name": "Jaylen Waddle",
     "pos": "WR",
     "pro": "DEN",
-    "slot": "WR",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -721,7 +721,7 @@
     "name": "Khalil Shakir",
     "pos": "WR",
     "pro": "BUF",
-    "slot": "BE",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -755,7 +755,7 @@
     "pos": "RB",
     "pro": "DET",
     "slot": "RB",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -809,7 +809,7 @@
     "name": "Ka'imi Fairbairn",
     "pos": "K",
     "pro": "HOU",
-    "slot": "K",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -844,17 +844,6 @@
     "pro": "MIN",
     "slot": "BE",
     "status": null,
-    "injured": false
-  },
-  {
-    "fteam": "So Mahomey",
-    "fteam_id": 12,
-    "pid": 3929645,
-    "name": "Juwan Johnson",
-    "pos": "TE",
-    "pro": "NO",
-    "slot": "BE",
-    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -904,23 +893,34 @@
   {
     "fteam": "So Mahomey",
     "fteam_id": 12,
-    "pid": 4596334,
-    "name": "Keaton Mitchell",
-    "pos": "RB",
-    "pro": "LAC",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "So Mahomey",
-    "fteam_id": 12,
     "pid": 3916433,
     "name": "Jakobi Meyers",
     "pos": "WR",
     "pro": "JAX",
     "slot": "BE",
     "status": "QUESTIONABLE",
+    "injured": false
+  },
+  {
+    "fteam": "So Mahomey",
+    "fteam_id": 12,
+    "pid": 2473037,
+    "name": "Jason Myers",
+    "pos": "K",
+    "pro": "SEA",
+    "slot": "K",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "So Mahomey",
+    "fteam_id": 12,
+    "pid": 5083754,
+    "name": "Ryan Flournoy",
+    "pos": "WR",
+    "pro": "DAL",
+    "slot": "BE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -941,7 +941,7 @@
     "name": "A.J. Brown",
     "pos": "WR",
     "pro": "NE",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -974,7 +974,7 @@
     "name": "DJ Moore",
     "pos": "WR",
     "pro": "BUF",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -1140,7 +1140,7 @@
     "pos": "RB",
     "pro": "NE",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1173,7 +1173,7 @@
     "pos": "RB",
     "pro": "DEN",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1283,7 +1283,7 @@
     "pos": "TE",
     "pro": "LV",
     "slot": "TE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1316,7 +1316,7 @@
     "pos": "WR",
     "pro": "GB",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1382,7 +1382,7 @@
     "pos": "RB",
     "pro": "NYJ",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1448,7 +1448,7 @@
     "pos": "WR",
     "pro": "DET",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1536,7 +1536,7 @@
     "pos": "TE",
     "pro": "KC",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1580,7 +1580,7 @@
     "pos": "WR",
     "pro": "WSH",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1601,7 +1601,7 @@
     "name": "Dameon Pierce",
     "pos": "RB",
     "pro": "PHI",
-    "slot": "BE",
+    "slot": "IR",
     "status": "INJURY_RESERVE",
     "injured": true
   },
@@ -1624,7 +1624,7 @@
     "pos": "WR",
     "pro": "CIN",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
