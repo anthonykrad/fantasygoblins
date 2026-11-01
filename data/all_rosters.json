@@ -288,17 +288,6 @@
   {
     "fteam": "Team Josh",
     "fteam_id": 9,
-    "pid": -16001,
-    "name": "Falcons D/ST",
-    "pos": "D/ST",
-    "pro": "ATL",
-    "slot": "D/ST",
-    "status": null,
-    "injured": false
-  },
-  {
-    "fteam": "Team Josh",
-    "fteam_id": 9,
     "pid": 4685261,
     "name": "Germie Bernard",
     "pos": "WR",
@@ -332,17 +321,6 @@
   {
     "fteam": "Team Josh",
     "fteam_id": 9,
-    "pid": 3055899,
-    "name": "Harrison Butker",
-    "pos": "K",
-    "pro": "KC",
-    "slot": "K",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Team Josh",
-    "fteam_id": 9,
     "pid": 4262921,
     "name": "Justin Jefferson",
     "pos": "WR",
@@ -354,10 +332,32 @@
   {
     "fteam": "Team Josh",
     "fteam_id": 9,
-    "pid": 4373626,
-    "name": "Tyler Allgeier",
-    "pos": "RB",
-    "pro": "ARI",
+    "pid": -16028,
+    "name": "Commanders D/ST",
+    "pos": "D/ST",
+    "pro": "WSH",
+    "slot": "D/ST",
+    "status": null,
+    "injured": false
+  },
+  {
+    "fteam": "Team Josh",
+    "fteam_id": 9,
+    "pid": 4258620,
+    "name": "Andre Szmyt",
+    "pos": "K",
+    "pro": "CLE",
+    "slot": "K",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Team Josh",
+    "fteam_id": 9,
+    "pid": 4870847,
+    "name": "Ja'Kobi Lane",
+    "pos": "WR",
+    "pro": "BAL",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -402,7 +402,7 @@
     "name": "Rome Odunze",
     "pos": "WR",
     "pro": "CHI",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -435,7 +435,7 @@
     "name": "Jordan Addison",
     "pos": "WR",
     "pro": "MIN",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -766,7 +766,7 @@
     "pos": "TE",
     "pro": "CHI",
     "slot": "TE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -942,8 +942,8 @@
     "pos": "WR",
     "pro": "NE",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Remember The Titans ",
@@ -1106,7 +1106,7 @@
     "name": "Jeremiyah Love",
     "pos": "RB",
     "pro": "ARI",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1128,7 +1128,7 @@
     "name": "Quinshon Judkins",
     "pos": "RB",
     "pro": "CLE",
-    "slot": "RB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1140,8 +1140,8 @@
     "pos": "RB",
     "pro": "NE",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Mikeeee",
@@ -1172,8 +1172,8 @@
     "name": "RJ Harvey",
     "pos": "RB",
     "pro": "DEN",
-    "slot": "BE",
-    "status": "OUT",
+    "slot": "IR",
+    "status": "INJURY_RESERVE",
     "injured": true
   },
   {
@@ -1254,6 +1254,17 @@
     "injured": false
   },
   {
+    "fteam": "Mikeeee",
+    "fteam_id": 14,
+    "pid": 4569587,
+    "name": "Wan'Dale Robinson",
+    "pos": "WR",
+    "pro": "TEN",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
     "fteam": "2nd Half=My half",
     "fteam_id": 15,
     "pid": 4430807,
@@ -1304,7 +1315,7 @@
     "name": "Luther Burden III",
     "pos": "WR",
     "pro": "CHI",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1381,7 +1392,7 @@
     "name": "Braelon Allen",
     "pos": "RB",
     "pro": "NYJ",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1469,7 +1480,7 @@
     "name": "Breece Hall",
     "pos": "RB",
     "pro": "NYJ",
-    "slot": "RB",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -1502,7 +1513,7 @@
     "name": "Rhamondre Stevenson",
     "pos": "RB",
     "pro": "NE",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1525,8 +1536,8 @@
     "pos": "RB",
     "pro": "CHI",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Now we go. ",
@@ -1547,7 +1558,7 @@
     "pos": "RB",
     "pro": "SEA",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
