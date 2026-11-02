@@ -73,7 +73,7 @@
     "pos": "TE",
     "pro": "BUF",
     "slot": "TE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -634,7 +634,7 @@
     "pos": "WR",
     "pro": "DEN",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -733,7 +733,7 @@
     "pos": "TE",
     "pro": "NE",
     "slot": "TE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -799,7 +799,7 @@
     "pos": "WR",
     "pro": "ARI",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -898,7 +898,7 @@
     "pos": "WR",
     "pro": "JAX",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1107,7 +1107,7 @@
     "pos": "RB",
     "pro": "ARI",
     "slot": "RB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1217,7 +1217,7 @@
     "pos": "WR",
     "pro": "DAL",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1481,8 +1481,8 @@
     "pos": "RB",
     "pro": "NYJ",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Now we go. ",
@@ -1492,8 +1492,8 @@
     "pos": "QB",
     "pro": "BAL",
     "slot": "QB",
-    "status": "ACTIVE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Now we go. ",
@@ -1767,7 +1767,7 @@
     "pos": "QB",
     "pro": "MIN",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
