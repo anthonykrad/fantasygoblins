@@ -558,10 +558,12 @@
   },
   "Garrett Wilson": {
     "tags": [
-      "Elite Starter"
+      "Elite Starter",
+      "Injury"
     ],
     "bullets": [
-      "Elite volume floor even coming off a down 2025 \u2014 earned a 30%+ target share early last season and has topped 23% every year of his career."
+      "Elite volume floor even coming off a down 2025 \u2014 earned a 30%+ target share early last season and has topped 23% every year of his career.",
+      "NEW (11/4-5): in the concussion protocol, a non-participant at Wednesday's practice ahead of Sunday's Week 9 home game vs. Kansas City -- officially Questionable, with HC Aaron Glenn and the team not yet confirming he's cleared (Yahoo Sports, bet365 News, 11/4). Genuinely uncertain given the protocol has to be cleared day-by-day; adding the standard Injury tag given the real risk he's held out. Breece Hall (quad) is separately trending toward a return the same week -- see his note."
     ]
   },
   "Braelon Allen": {
@@ -751,7 +753,7 @@
   "Jeremiyah Love": {
     "tags": [
       "Breakout Watch",
-      "Injury"
+      "Long-Term Injury"
     ],
     "bullets": [
       "Played through the high-ankle sprain that had him Questionable and delivered his first extended workload: 11 carries for 41 yards and a TD plus 2 catches for 9 yards in Sunday's game vs. the Chargers.",
@@ -764,7 +766,8 @@
       "CONFIRMED OUT (10/25): ruled out for today's Week 7 home game vs. Denver -- the left ankle injury kept him out of practice all week again, continuing last week's 'wrong side of questionable' trend that HC Mike LaFleur flagged. No IR conversations have been reported. Tyler Allgeier and Bam Knight again handle Arizona's backfield work. Keeping the standard Injury tier.",
       "NO REAL CHANGE (10/28): No beat-writer report found yet on his practice status for Arizona's Week 8 game at Dallas (11/1) -- today's QUESTIONABLE flip looks like the weekly placeholder reset. Last confirmed news unchanged: lingering left ankle injury, OUT for Week 7 vs. Denver (10/25), no IR move, no firm return timeline from HC Mike LaFleur. Tyler Allgeier and Bam Knight remain the backfield answer in the meantime.",
       "CLEARED (10/30-31): HC Mike LaFleur confirmed Love will play Sunday at Dallas, ending a two-game absence (Weeks 6-7) with the lingering left ankle injury -- a clean practice progression (limited Wednesday/Thursday, full Friday), not a placeholder flip (Arizona Sports, \"Cardinals-Cowboys Week 8 injury report: Jeremiyah Love slated to play against Dallas,\" 10/30-31). Tyler Allgeier and Bam Knight had handled Arizona's backfield in his absence; expect Love back in the mix today, likely still sharing work early on. Downgrading tag from Injury to Healthy.",
-      "NEW SETBACK (11/3): left Sunday's Week 8 win at Dallas (33-30 OT) early with a new injury to the same right ankle that cost him Weeks 6-7, after it got rolled up on a tackle -- was questionable to return and did not come back. HC Mike LaFleur described it Monday as affecting \"a new portion of the ankle\" but did not share a timeline, saying he'd have more of an update later this week (Adam Schefter/ESPN, Yahoo Sports, Forbes, 11/1-3). Tyler Allgeier is the healthy lead back for now, with Bam Knight in the concussion protocol. Downgrading tag from Healthy to the standard Injury tier given the real uncertainty; recheck Wednesday's Week 9 practice report for Sunday's game vs. Seattle."
+      "NEW SETBACK (11/3): left Sunday's Week 8 win at Dallas (33-30 OT) early with a new injury to the same right ankle that cost him Weeks 6-7, after it got rolled up on a tackle -- was questionable to return and did not come back. HC Mike LaFleur described it Monday as affecting \"a new portion of the ankle\" but did not share a timeline, saying he'd have more of an update later this week (Adam Schefter/ESPN, Yahoo Sports, Forbes, 11/1-3). Tyler Allgeier is the healthy lead back for now, with Bam Knight in the concussion protocol. Downgrading tag from Healthy to the standard Injury tier given the real uncertainty; recheck Wednesday's Week 9 practice report for Sunday's game vs. Seattle.",
+      "PLACED ON IR, CONFIRMED (11/3): Arizona officially placed Love on injured reserve for the right high-ankle sprain suffered in the 1st quarter of Sunday's Week 8 OT win at Dallas (11/1) -- he did not return to that game. Per NFL Network's Ian Rapoport and multiple outlets (Athlon, FTN, SI/OnSI, NFL.com, 11/3), he's expected to miss roughly 4-5 weeks, which would cost him Weeks 9-12 (Seattle, at the Rams, Kansas City, at Washington) before a possible Week 13 return. Tyler Allgeier is the clear backfield beneficiary -- he ran for 147 yards in the Dallas win and is now Arizona's lead back, with Bam Knight as the complementary piece. Upgrading tag from the standard Injury tier to Long-Term Injury per the confirmed IR placement and 4+ game timeline."
     ]
   },
   "Marvin Harrison Jr.": {
@@ -2181,6 +2184,14 @@
     "bullets": [
       "NEW (11/1-2): left Sunday's Week 8 game at Miami in the 2nd quarter with a foot injury, per Yahoo Sports' postgame report on New England's 24-19 comeback win over the Dolphins -- severity and return timeline not yet reported as of this update. Monitor the Patriots' Tuesday/Wednesday injury report for more clarity.",
       "UPDATE (11/3): status remains unresolved for Sunday's Week 9 home game vs. Green Bay -- HC Mike Vrabel said Monday he has \"no expectations yet\" for Henry's practice participation this week after the foot injury forced him out of Sunday's 24-19 comeback win over Miami (musketfire.com, 11/2-3). No firm return timeline has been reported. Upgrading tag from Health Watch to the standard Injury tier given the genuine uncertainty; recheck Wednesday/Thursday's practice report."
+    ]
+  },
+  "Brandon Aiyuk": {
+    "tags": [
+      "Long-Term Injury"
+    ],
+    "bullets": [
+      "NEWLY ADDED (11/4-5): picked up off waivers; carries an OUT designation. Background: tore his right ACL/MCL (plus meniscus damage) in an Oct. 2024 game vs. Kansas City, had surgery, and has not played since -- 49ers GM/HC Kyle Shanahan have repeatedly called him 'not close' to returning through the 2025 rehab. Reporting since (ClutchPoints, ProFootballNetwork, AP via ABC30) describes a messy, likely-final chapter in San Francisco: Aiyuk has pushed to be released/traded and the team voided guaranteed money in his deal for 2026, with no indication he's taken a 2026 snap or been activated off reserve. Treat as an unplayable deep-stash/speculative add pending any actual activation or trade news -- no confirmed return timeline exists."
     ]
   }
 }
