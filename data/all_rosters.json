@@ -51,7 +51,7 @@
     "pos": "TE",
     "pro": "BUF",
     "slot": "TE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -117,7 +117,7 @@
     "pos": "WR",
     "pro": "NYG",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -172,6 +172,17 @@
     "pos": "WR",
     "pro": "MIA",
     "slot": "RB/WR",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "LeBron EatChaHeartOut",
+    "fteam_id": 1,
+    "pid": 5081397,
+    "name": "Dylan Sampson",
+    "pos": "RB",
+    "pro": "CLE",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -282,7 +293,7 @@
     "pos": "WR",
     "pro": "CLE",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -425,8 +436,8 @@
     "pos": "WR",
     "pro": "SF",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "JALEN, this is for you❤️",
@@ -447,7 +458,7 @@
     "pos": "WR",
     "pro": "TB",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -457,9 +468,9 @@
     "name": "DeVonta Smith",
     "pos": "WR",
     "pro": "PHI",
-    "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "slot": "IR",
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "JALEN, this is for you❤️",
@@ -541,17 +552,6 @@
   {
     "fteam": "A win is likely",
     "fteam_id": 11,
-    "pid": 4685512,
-    "name": "Jadarian Price",
-    "pos": "RB",
-    "pro": "SEA",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "A win is likely",
-    "fteam_id": 11,
     "pid": 4431611,
     "name": "Caleb Williams",
     "pos": "QB",
@@ -611,8 +611,8 @@
     "name": "Cam Skattebo",
     "pos": "RB",
     "pro": "NYG",
-    "slot": "RB",
-    "status": "QUESTIONABLE",
+    "slot": "BE",
+    "status": "DOUBTFUL",
     "injured": false
   },
   {
@@ -634,8 +634,8 @@
     "pos": "WR",
     "pro": "SF",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "A win is likely",
@@ -655,17 +655,6 @@
     "name": "DeMario Douglas",
     "pos": "WR",
     "pro": "NE",
-    "slot": "RB/WR",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "A win is likely",
-    "fteam_id": 11,
-    "pid": 4373678,
-    "name": "Khalil Shakir",
-    "pos": "WR",
-    "pro": "BUF",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -677,7 +666,7 @@
     "name": "KC Concepcion",
     "pos": "WR",
     "pro": "CLE",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -688,7 +677,7 @@
     "name": "Devin Singletary",
     "pos": "RB",
     "pro": "NYG",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -711,6 +700,28 @@
     "pos": "WR",
     "pro": "WSH",
     "slot": "WR",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "A win is likely",
+    "fteam_id": 11,
+    "pid": 4429205,
+    "name": "Jordan Addison",
+    "pos": "WR",
+    "pro": "MIN",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "A win is likely",
+    "fteam_id": 11,
+    "pid": 4870795,
+    "name": "Makai Lemon",
+    "pos": "WR",
+    "pro": "PHI",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -766,7 +777,7 @@
     "pos": "WR",
     "pro": "ARI",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -876,7 +887,7 @@
     "pos": "RB",
     "pro": "NO",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -898,8 +909,8 @@
     "pos": "WR",
     "pro": "NE",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Remember The Titans ",
@@ -1030,7 +1041,7 @@
     "pos": "RB",
     "pro": "SF",
     "slot": "RB",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1096,8 +1107,8 @@
     "pos": "RB",
     "pro": "NE",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Mikeeee",
@@ -1294,7 +1305,7 @@
     "pos": "WR",
     "pro": "GB",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1447,7 +1458,7 @@
     "name": "Breece Hall",
     "pos": "RB",
     "pro": "NYJ",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1524,7 +1535,7 @@
     "name": "Zach Charbonnet",
     "pos": "RB",
     "pro": "SEA",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1558,8 +1569,8 @@
     "pos": "RB",
     "pro": "PHI",
     "slot": "IR",
-    "status": "INJURY_RESERVE",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "Step up 4",
@@ -1580,7 +1591,7 @@
     "pos": "TE",
     "pro": "CLE",
     "slot": "TE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1635,7 +1646,7 @@
     "pos": "RB",
     "pro": "PHI",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
