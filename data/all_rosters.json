@@ -39,9 +39,9 @@
     "name": "Jordyn Tyson",
     "pos": "WR",
     "pro": "NO",
-    "slot": "IR",
-    "status": "INJURY_RESERVE",
-    "injured": true
+    "slot": "BE",
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "LeBron EatChaHeartOut",
@@ -167,22 +167,22 @@
   {
     "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
-    "pid": 4569603,
-    "name": "Malik Washington",
-    "pos": "WR",
-    "pro": "MIA",
-    "slot": "RB/WR",
+    "pid": 5081397,
+    "name": "Dylan Sampson",
+    "pos": "RB",
+    "pro": "CLE",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
   {
     "fteam": "LeBron EatChaHeartOut",
     "fteam_id": 1,
-    "pid": 5081397,
-    "name": "Dylan Sampson",
-    "pos": "RB",
-    "pro": "CLE",
-    "slot": "BE",
+    "pid": 4597500,
+    "name": "Adonai Mitchell",
+    "pos": "WR",
+    "pro": "NYJ",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1117,7 +1117,7 @@
     "name": "Jameson Williams",
     "pos": "WR",
     "pro": "DET",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1183,7 +1183,7 @@
     "name": "George Pickens",
     "pos": "WR",
     "pro": "DAL",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -1349,7 +1349,7 @@
     "pos": "WR",
     "pro": "BUF",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1509,17 +1509,6 @@
   {
     "fteam": "Step up 4",
     "fteam_id": 16,
-    "pid": 4608686,
-    "name": "Kyle Monangai",
-    "pos": "RB",
-    "pro": "CHI",
-    "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
-  },
-  {
-    "fteam": "Step up 4",
-    "fteam_id": 16,
     "pid": 15847,
     "name": "Travis Kelce",
     "pos": "TE",
@@ -1597,17 +1586,6 @@
   {
     "fteam": "Step up 4",
     "fteam_id": 16,
-    "pid": -16003,
-    "name": "Bears D/ST",
-    "pos": "D/ST",
-    "pro": "CHI",
-    "slot": "BE",
-    "status": null,
-    "injured": false
-  },
-  {
-    "fteam": "Step up 4",
-    "fteam_id": 16,
     "pid": 4360438,
     "name": "Brandon Aiyuk",
     "pos": "WR",
@@ -1623,6 +1601,28 @@
     "name": "Jaylen Waddle",
     "pos": "WR",
     "pro": "DEN",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Step up 4",
+    "fteam_id": 16,
+    "pid": 4696044,
+    "name": "Kaelon Black",
+    "pos": "RB",
+    "pro": "SF",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Step up 4",
+    "fteam_id": 16,
+    "pid": 4685512,
+    "name": "Jadarian Price",
+    "pos": "RB",
+    "pro": "SEA",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -1745,8 +1745,8 @@
     "pos": "QB",
     "pro": "MIN",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Chase Bank",
@@ -1778,7 +1778,7 @@
     "pos": "WR",
     "pro": "BUF",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
