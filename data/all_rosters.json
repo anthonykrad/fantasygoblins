@@ -7,7 +7,7 @@
     "pos": "WR",
     "pro": "LAR",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -40,7 +40,7 @@
     "pos": "WR",
     "pro": "NO",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -458,7 +458,7 @@
     "pos": "WR",
     "pro": "TB",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -612,8 +612,8 @@
     "pos": "RB",
     "pro": "NYG",
     "slot": "BE",
-    "status": "DOUBTFUL",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "A win is likely",
@@ -655,7 +655,7 @@
     "name": "DeMario Douglas",
     "pos": "WR",
     "pro": "NE",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -666,7 +666,7 @@
     "name": "KC Concepcion",
     "pos": "WR",
     "pro": "CLE",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -755,7 +755,7 @@
     "pos": "RB",
     "pro": "GB",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -766,7 +766,7 @@
     "pos": "QB",
     "pro": "KC",
     "slot": "QB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -854,7 +854,7 @@
     "pos": "WR",
     "pro": "LAC",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1184,8 +1184,8 @@
     "pos": "WR",
     "pro": "DAL",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Mikeeee",
@@ -1294,7 +1294,7 @@
     "pos": "WR",
     "pro": "CHI",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1437,7 +1437,7 @@
     "pos": "WR",
     "pro": "DET",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1492,7 +1492,7 @@
     "pos": "RB",
     "pro": "NE",
     "slot": "RB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1602,7 +1602,7 @@
     "pos": "WR",
     "pro": "DEN",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
