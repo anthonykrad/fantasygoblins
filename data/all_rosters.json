@@ -51,7 +51,7 @@
     "pos": "TE",
     "pro": "BUF",
     "slot": "TE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -62,7 +62,7 @@
     "pos": "RB",
     "pro": "JAX",
     "slot": "RB",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -205,7 +205,7 @@
     "pos": "RB",
     "pro": "KC",
     "slot": "RB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -380,7 +380,7 @@
     "name": "Travis Etienne Jr.",
     "pos": "RB",
     "pro": "NO",
-    "slot": "IR",
+    "slot": "BE",
     "status": "INJURY_RESERVE",
     "injured": true
   },
@@ -436,7 +436,7 @@
     "pos": "WR",
     "pro": "SF",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -534,9 +534,9 @@
     "name": "T.J. Hockenson",
     "pos": "TE",
     "pro": "MIN",
-    "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "slot": "IR",
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "JALEN, this is for you❤️",
@@ -645,8 +645,8 @@
     "pos": "WR",
     "pro": "SF",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "50 shade$ of gray",
@@ -711,7 +711,7 @@
     "pos": "WR",
     "pro": "MIN",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -941,7 +941,7 @@
     "name": "A.J. Brown",
     "pos": "WR",
     "pro": "NE",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -1008,7 +1008,7 @@
     "pos": "RB",
     "pro": "HOU",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1040,8 +1040,8 @@
     "name": "Tony Pollard",
     "pos": "RB",
     "pro": "TEN",
-    "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "slot": "BE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1217,7 +1217,7 @@
     "pos": "WR",
     "pro": "DAL",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1228,7 +1228,7 @@
     "pos": "WR",
     "pro": "NYJ",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1470,7 +1470,7 @@
     "pos": "WR",
     "pro": "JAX",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1613,7 +1613,7 @@
     "pos": "TE",
     "pro": "CLE",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
