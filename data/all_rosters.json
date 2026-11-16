@@ -172,7 +172,7 @@
     "pos": "WR",
     "pro": "TEN",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -854,8 +854,8 @@
     "pos": "WR",
     "pro": "LAC",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Putt putt Winner 2x CHAMP",
@@ -942,7 +942,7 @@
     "pos": "WR",
     "pro": "NE",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1008,7 +1008,7 @@
     "pos": "RB",
     "pro": "HOU",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "DOUBTFUL",
     "injured": false
   },
   {
@@ -1228,7 +1228,7 @@
     "pos": "WR",
     "pro": "NYJ",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1316,7 +1316,7 @@
     "pos": "TE",
     "pro": "LV",
     "slot": "TE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1723,8 +1723,8 @@
     "pos": "QB",
     "pro": "NE",
     "slot": "QB",
-    "status": "OUT",
-    "injured": true
+    "status": "DOUBTFUL",
+    "injured": false
   },
   {
     "fteam": "Chase Bank",
