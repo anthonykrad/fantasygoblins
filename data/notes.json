@@ -908,7 +908,7 @@
   },
   "Luther Burden III": {
     "tags": [
-      "Health Watch",
+      "Healthy",
       "Breakout Watch"
     ],
     "bullets": [
@@ -917,7 +917,8 @@
       "BIG GAME, THEN FADED (10/22): exploded for 4 catches, 130 yards and a TD in the first half of Thursday's 30-24 win over New England, then was held without a catch in the second half as Rome Odunze took over down the stretch (CBS Sports, 10/22-23). First real explosive game of the season -- adding Breakout Watch alongside Healthy.",
       "NEW QUESTIONABLE TAG (11/10): picked up a fresh QUESTIONABLE designation for Week 10 after previously being fully cleared (Healthy) -- specific new injury/practice report not independently confirmed via search as of this update. Downgrading tag from Healthy to Health Watch pending more detail.",
       "NEW QUESTIONABLE TAG (11/9-10): picked up a QUESTIONABLE designation this week with no fresh injury report confirmed via search as of this update -- treating this as a likely weekly placeholder reset pending confirmation rather than a new setback.",
-      "CONCUSSION PROTOCOL STATUS UNCONFIRMED, FEED SHOWS ACTIVE (11/18): roster feed flips Burden to ACTIVE, but real reporting hasn't confirmed he's cleared the NFL's five-step concussion protocol from the Week 9 concussion (confirmed by HC Ben Johnson after the win over Tampa Bay) -- Chicago's Week 10 bye gave him extra recovery time, and clearance requires both a club physician and an independent neurological consultant to sign off, which search could not verify as of this update. Keeping Health Watch pending Chicago's real Week 11 practice report ahead of Sunday's game vs. New Orleans."
+      "CONCUSSION PROTOCOL STATUS UNCONFIRMED, FEED SHOWS ACTIVE (11/18): roster feed flips Burden to ACTIVE, but real reporting hasn't confirmed he's cleared the NFL's five-step concussion protocol from the Week 9 concussion (confirmed by HC Ben Johnson after the win over Tampa Bay) -- Chicago's Week 10 bye gave him extra recovery time, and clearance requires both a club physician and an independent neurological consultant to sign off, which search could not verify as of this update. Keeping Health Watch pending Chicago's real Week 11 practice report ahead of Sunday's game vs. New Orleans.",
+      "CONCUSSION PROTOCOL CLEARED, CONFIRMED (11/17): multiple outlets (Chicago Sun-Times, Chicago Bears official site, NBC Sports, FantasyPros) now confirm HC Ben Johnson announced Burden has officially cleared the NFL's concussion protocol from the Week 9 injury, putting him on track to play Sunday's Week 11 game vs. New Orleans barring a setback. This resolves the prior update's unconfirmed-clearance caveat. Upgrading tag from Health Watch to Healthy; keeping Breakout Watch."
     ]
   },
   "Kyle Monangai": {
@@ -1471,7 +1472,8 @@
       "Was healthy and productive early in Week 3 (led all Saints rushers with 13 carries for 57 yards, plus 2 catches for 13 yards) before pulling up with a hamstring injury after a 16-yard run in the 3rd quarter of Sunday's loss to the Raiders — did not return (Yahoo Sports, NBC Sports, 9/27).",
       "NEW: officially OUT — HC Kellen Moore said Monday (9/28) Etienne will have \"time lost\" with the hamstring, with no specific return timeline set and an IR stint still possible depending on further evaluation (RotoWire, NBC Sports, FantasyPros, 9/28). Kamara is the direct backfield beneficiary given the committee usage already in place; treat Etienne as a bench stash until more clarity emerges.",
       "CONFIRMED, tag revised from Injury to Long-Term Injury: New Orleans officially placed Etienne on injured reserve (hamstring) on 10/1. HC Kellen Moore said no surgery is needed, but the recovery is expected to run at least 4 weeks — the team's Week 8 bye makes his next realistic game action Sunday, Nov. 8 at Cleveland (NBC Sports, CBS Sports, FantasyPros, 10/1). Alvin Kamara and Kendre Miller are the direct backfield beneficiaries in the meantime; treat Etienne as a stash-only dynasty/IR piece for roughly a month.",
-      "ACTIVATED OFF IR (11/15): per our roster feed, officially activated from injured reserve ahead of Sunday's Week 10 game vs. Carolina, completing the recovery from the Week 3 hamstring strain that cost him six games (placed on IR 10/1). Beat reporting through the week had been non-committal on the exact call, but the roster flip confirms New Orleans activated him by Saturday's deadline. Alvin Kamara remains on the Saints' roster and projects to keep cutting into his workload -- treat this as a real committee return, not a clean bell-cow restoration. Downgrading tag from Long-Term Injury to Healthy; keeping Committee."
+      "ACTIVATED OFF IR (11/15): per our roster feed, officially activated from injured reserve ahead of Sunday's Week 10 game vs. Carolina, completing the recovery from the Week 3 hamstring strain that cost him six games (placed on IR 10/1). Beat reporting through the week had been non-committal on the exact call, but the roster flip confirms New Orleans activated him by Saturday's deadline. Alvin Kamara remains on the Saints' roster and projects to keep cutting into his workload -- treat this as a real committee return, not a clean bell-cow restoration. Downgrading tag from Long-Term Injury to Healthy; keeping Committee.",
+      "WEEK 10 RESULT (11/15): the activation played out as a limited committee role, not a bell-cow restoration -- Etienne led New Orleans' backfield in touches in a 20-17 loss to Carolina but managed only modest scrimmage yardage, while Alvin Kamara scored twice on just five touches (Fantasy Footballers, 11/15-16). Confirms the committee framing from the activation note; keeping Healthy and Committee."
     ]
   },
   "Malik Nabers": {
@@ -2310,12 +2312,14 @@
   },
   "KC Concepcion": {
     "tags": [
-      "Breakout Watch"
+      "Health Watch",
+      "Regression Watch"
     ],
     "bullets": [
       "NEW PROFILE: Cleveland's first-round pick (No. 24 overall, 2026, Texas A&M) -- a rookie WR whom HC Todd Monken has said he wants to maximize usage for, also handling punt-return duties. Season totals through Week 7: 45 targets, 30 catches, 315 yards, 0 TDs -- real target share but still TD-less.",
       "WEEK 7 BREAKOUT (10/25): had his best game of the season in Cleveland's 27-24 win over Tennessee -- 8 catches for 129 yards, well above his season pace, outshining fellow rookie Denzel Boston's quieter day (see his note). Adding Breakout Watch given the clear spike in production.",
-      "Had a minor calf/quad issue that limited him in practice ahead of Week 7 (10/21) but it did not cost him a snap; no new injury news found for Week 8 as of this update."
+      "Had a minor calf/quad issue that limited him in practice ahead of Week 7 (10/21) but it did not cost him a snap; no new injury news found for Week 8 as of this update.",
+      "HEALTH SCARE, THEN ROLE CONTEXT (11/8-15): was helped off the field and into the medical tent with an apparent leg injury during Cleveland's Week 9 game at New Orleans but returned to action the same game (RotoBaller, 11/8-9) -- no lingering injury designation found since. Separately, Cleveland's passing game has cooled with Shedeur Sanders at QB, and fellow rookie WR Denzel Boston -- not Concepcion -- led the Browns' air game in Week 9 (RotoBaller). No fresh Week 11 news found via search as of this update; downgrading Breakout Watch given the recent target-share dip, adding Health Watch for the leg scare."
     ]
   },
   "Keenan Allen": {
@@ -2327,7 +2331,8 @@
       "Off-field note (legal, resolved): was arrested on two DUI charges hours after his Aug. 30, 2026 Colts debut; GM Chris Ballard said he was still expected to play that week, and his Sept. 16 court date has since passed with no reported effect on his roster status. Noted for factual completeness, not an ongoing availability concern.",
       "Indianapolis's Week 8 opponent is Jacksonville (Sun. 11/1) -- the same game as teammate-turned-opponent Jakobi Meyers (see his note).",
       "UPDATE (11/1-2): Indianapolis's Week 8 game at Jacksonville has been played and was a lopsided 42-7 Jaguars rout per multiple scoreboard aggregators -- a game script that likely limited the Colts' passing volume and Allen's target share, though his specific catch line could not be independently confirmed via search as of this update.",
-      "TRADED TO SAN FRANCISCO (11/early-mid): dealt from Indianapolis to the 49ers in a midweek trade ahead of Week 10 -- HC Kyle Shanahan said 'he'll have a role' but expects only limited usage in his first week learning the offense. Lands in a thin 49ers WR room with Mike Evans out again (Achilles, see his note) and Deebo Samuel Sr. just back from a hamstring absence (see his note); unlikely to be more than a situational piece in Week 10."
+      "TRADED TO SAN FRANCISCO (11/early-mid): dealt from Indianapolis to the 49ers in a midweek trade ahead of Week 10 -- HC Kyle Shanahan said 'he'll have a role' but expects only limited usage in his first week learning the offense. Lands in a thin 49ers WR room with Mike Evans out again (Achilles, see his note) and Deebo Samuel Sr. just back from a hamstring absence (see his note); unlikely to be more than a situational piece in Week 10.",
+      "WEEK 10 DEBUT (11/15-16): played his first game as a 49er in a 46-40 win over Dallas -- 5 catches on 7 targets for 61 yards (4 of the 5 catches went for first downs), 31 snaps, and a team-high 78.9 PFF receiving grade among 49ers pass catchers (NBC Sports Bay Area). Also became the 5th receiver in NFL history to reach 1,100 career receptions. A solid, real role out of the gate rather than the 'limited usage while learning the offense' Shanahan had signaled -- worth tracking as his snap share in a crowded, injury-thinned WR room."
     ]
   },
   "Makai Lemon": {
@@ -2505,6 +2510,14 @@
     "tags": [],
     "bullets": [
       "THREE DEFENSIVE UPGRADE TRADES (11/9): Jacksonville made three deadline-week trades to shore up the defense -- acquiring S Jessie Bates III (from Atlanta), DT Jordan Davis (from Philadelphia, the costliest deal at a 2027 1st + 2029 2nd), and DT Davon Godchaux (from New Orleans) -- filling the hole left by DaVon Hamilton's season-ending quad injury. HC Liam Coen: \"we got better today\" (BVM Sports, ClutchPoints, 11/9). Note Bates and Davis did not play their Jaguars debut the following week vs. Tennessee; watch for their first game together to move this unit's floor."
+    ]
+  },
+  "Cam Ward": {
+    "tags": [
+      "Breakout Watch"
+    ],
+    "bullets": [
+      "NEW TO THIS ROSTER (11/19): Titans' starting QB, newly added via waiver/trade onto a FantasyGoblins roster. Had a rough start to the season (19/32, 140 yards, 1 TD in a Week 8 loss to the Jets) but broke out in Week 9 vs. Cincinnati with a career-best game -- 26-of-40 for 304 yards and 2 TDs (his first career 300-yard game) plus 41 rushing yards on 7 carries in an overtime loss to the Bengals (DraftSharks, fantasyteamadvice game log). DraftSharks also flags a rushing-volume surge over his last two games -- the most he's rushed for over any two-game stretch of his career -- putting him on the Week 11 fantasy radar. No injury concern reported."
     ]
   }
 }
