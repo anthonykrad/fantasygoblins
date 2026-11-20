@@ -204,7 +204,7 @@
     "name": "Kenneth Walker III",
     "pos": "RB",
     "pro": "KC",
-    "slot": "RB",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -336,7 +336,7 @@
     "name": "Emmett Johnson",
     "pos": "RB",
     "pro": "KC",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -458,7 +458,7 @@
     "pos": "WR",
     "pro": "PHI",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -611,7 +611,7 @@
     "name": "Mike Evans",
     "pos": "WR",
     "pro": "SF",
-    "slot": "WR",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -710,7 +710,7 @@
     "name": "Caleb Douglas",
     "pos": "WR",
     "pro": "MIA",
-    "slot": "BE",
+    "slot": "WR",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -1194,7 +1194,7 @@
     "name": "Tucker Kraft",
     "pos": "TE",
     "pro": "GB",
-    "slot": "TE",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1228,8 +1228,8 @@
     "pos": "WR",
     "pro": "NYJ",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Mikeeee",
@@ -1282,7 +1282,7 @@
     "name": "Darren Waller",
     "pos": "TE",
     "pro": "CAR",
-    "slot": "BE",
+    "slot": "TE",
     "status": "QUESTIONABLE",
     "injured": false
   },

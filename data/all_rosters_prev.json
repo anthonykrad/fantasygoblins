@@ -40,7 +40,7 @@
     "pos": "WR",
     "pro": "NO",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -51,7 +51,7 @@
     "pos": "RB",
     "pro": "JAX",
     "slot": "RB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -161,7 +161,7 @@
     "pos": "RB",
     "pro": "JAX",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -535,7 +535,7 @@
     "pos": "RB",
     "pro": "CHI",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -711,7 +711,7 @@
     "pos": "WR",
     "pro": "MIA",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -975,8 +975,8 @@
     "pos": "RB",
     "pro": "HOU",
     "slot": "BE",
-    "status": "DOUBTFUL",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Remember The Titans ",
@@ -1085,7 +1085,7 @@
     "pos": "TE",
     "pro": "BUF",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1161,7 +1161,7 @@
     "name": "Aaron Jones Sr.",
     "pos": "RB",
     "pro": "MIN",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1249,7 +1249,7 @@
     "name": "Tyler Allgeier",
     "pos": "RB",
     "pro": "ARI",
-    "slot": "RB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1267,23 +1267,23 @@
   {
     "fteam": "Mikeeee",
     "fteam_id": 14,
-    "pid": 4360569,
-    "name": "Jordan Mason",
-    "pos": "RB",
-    "pro": "MIN",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Mikeeee",
-    "fteam_id": 14,
     "pid": -16012,
     "name": "Chiefs D/ST",
     "pos": "D/ST",
     "pro": "KC",
     "slot": "D/ST",
     "status": null,
+    "injured": false
+  },
+  {
+    "fteam": "Mikeeee",
+    "fteam_id": 14,
+    "pid": 2576925,
+    "name": "Darren Waller",
+    "pos": "TE",
+    "pro": "CAR",
+    "slot": "BE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1437,7 +1437,7 @@
     "pos": "WR",
     "pro": "JAX",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1756,7 +1756,7 @@
     "pos": "K",
     "pro": "LV",
     "slot": "K",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {

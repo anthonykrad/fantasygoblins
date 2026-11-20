@@ -1,7 +1,7 @@
 [
   {
     "fteam": "Team Josh",
-    "starters": 1127.8,
+    "starters": 1036.9,
     "roster": 1543.0
   },
   {
@@ -36,17 +36,17 @@
   },
   {
     "fteam": "50 shade$ of gray",
-    "starters": 879.2,
+    "starters": 868.0,
     "roster": 1424.4
-  },
-  {
-    "fteam": "Mikeeee",
-    "starters": 822.1,
-    "roster": 1375.4
   },
   {
     "fteam": "Putt putt Winner 2x CHAMP",
     "starters": 818.7,
     "roster": 1435.0
+  },
+  {
+    "fteam": "Mikeeee",
+    "starters": 818.5,
+    "roster": 1375.4
   }
 ]

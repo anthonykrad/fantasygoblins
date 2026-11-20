@@ -1617,9 +1617,9 @@
       "pro": 29,
       "passAtt": 283.4,
       "passComp": 169.6,
-      "passYds": 1949.1,
+      "passYds": 1949.0,
       "passTD": 11.78,
-      "passInt": 5.48,
+      "passInt": 5.47,
       "rushAtt": 13.8,
       "rushYds": 67.7,
       "rushTD": 0.64,
@@ -4612,12 +4612,12 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 177.0,
-      "rushYds": 739.0,
+      "rushAtt": 188.0,
+      "rushYds": 760.0,
       "rushTD": 8.0,
-      "targets": 40.0,
-      "receptions": 28.0,
-      "recYds": 240.0,
+      "targets": 45.0,
+      "receptions": 32.0,
+      "recYds": 246.0,
       "recTD": 0,
       "fgMade": 0,
       "fgAtt": 0,
@@ -4633,13 +4633,13 @@
     "C.J. Stroud": {
       "pos": "QB",
       "pro": 34,
-      "passAtt": 320.0,
-      "passComp": 201.0,
-      "passYds": 2462.0,
-      "passTD": 19.0,
-      "passInt": 3.0,
-      "rushAtt": 23.0,
-      "rushYds": 120.0,
+      "passAtt": 347.0,
+      "passComp": 222.0,
+      "passYds": 2656.0,
+      "passTD": 22.0,
+      "passInt": 4.0,
+      "rushAtt": 29.0,
+      "rushYds": 147.0,
       "rushTD": 1.0,
       "targets": 0,
       "receptions": 0,
@@ -6179,10 +6179,10 @@
       "receptions": 0,
       "recYds": 0,
       "recTD": 0,
-      "fgMade": 19.0,
-      "fgAtt": 20.0,
-      "patMade": 24.0,
-      "patAtt": 24.0,
+      "fgMade": 20.0,
+      "fgAtt": 21.0,
+      "patMade": 27.0,
+      "patAtt": 27.0,
       "sacks": 0,
       "defInt": 0,
       "defTD": 0,
@@ -6383,9 +6383,9 @@
       "rushAtt": 2.0,
       "rushYds": 2.0,
       "rushTD": 0,
-      "targets": 14.0,
-      "receptions": 8.0,
-      "recYds": 169.0,
+      "targets": 18.0,
+      "receptions": 11.0,
+      "recYds": 196.0,
       "recTD": 1.0,
       "fgMade": 0,
       "fgAtt": 0,
@@ -6833,11 +6833,11 @@
       "fgAtt": 0,
       "patMade": 0,
       "patAtt": 0,
-      "sacks": 33.0,
-      "defInt": 5.0,
+      "sacks": 35.0,
+      "defInt": 6.0,
       "defTD": 0,
-      "ptsAllowed": 219.0,
-      "ydsAllowed": 3088.0,
+      "ptsAllowed": 222.0,
+      "ydsAllowed": 3255.0,
       "totalTD": 0
     },
     "Mark Andrews": {
@@ -7446,12 +7446,12 @@
       "passYds": 0,
       "passTD": 0,
       "passInt": 0,
-      "rushAtt": 52.0,
-      "rushYds": 138.0,
+      "rushAtt": 78.0,
+      "rushYds": 245.0,
       "rushTD": 2.0,
-      "targets": 7.0,
-      "receptions": 7.0,
-      "recYds": 67.0,
+      "targets": 11.0,
+      "receptions": 10.0,
+      "recYds": 84.0,
       "recTD": 1.0,
       "fgMade": 0,
       "fgAtt": 0,
@@ -7609,8 +7609,8 @@
       "receptions": 0,
       "recYds": 0,
       "recTD": 0,
-      "fgMade": 23.0,
-      "fgAtt": 25.0,
+      "fgMade": 24.0,
+      "fgAtt": 28.0,
       "patMade": 19.0,
       "patAtt": 20.0,
       "sacks": 0,
@@ -7761,10 +7761,10 @@
       "rushAtt": 2.0,
       "rushYds": 12.0,
       "rushTD": 0,
-      "targets": 55.0,
-      "receptions": 37.0,
-      "recYds": 478.0,
-      "recTD": 5.0,
+      "targets": 60.0,
+      "receptions": 40.0,
+      "recYds": 536.0,
+      "recTD": 6.0,
       "fgMade": 0,
       "fgAtt": 0,
       "patMade": 0,
@@ -7774,7 +7774,7 @@
       "defTD": 0,
       "ptsAllowed": 0,
       "ydsAllowed": 0,
-      "totalTD": 5.0
+      "totalTD": 6.0
     },
     "Cam Skattebo": {
       "pos": "RB",
@@ -8385,9 +8385,9 @@
       "rushAtt": 4.0,
       "rushYds": 9.0,
       "rushTD": 1.0,
-      "targets": 56.0,
-      "receptions": 40.0,
-      "recYds": 276.0,
+      "targets": 61.0,
+      "receptions": 41.0,
+      "recYds": 298.0,
       "recTD": 2.0,
       "fgMade": 0,
       "fgAtt": 0,
@@ -8718,10 +8718,12 @@
     "Chase McLaughlin": {
     },
     "Jonathan Taylor": {
-      "10": 12.3
+      "10": 12.3,
+      "11": 6.7
     },
     "C.J. Stroud": {
-      "10": 20.44
+      "10": 20.44,
+      "11": 20.46
     },
     "Dylan Sampson": {
       "10": 7.7
@@ -8793,7 +8795,8 @@
     "Rome Odunze": {
     },
     "Alec Pierce": {
-      "10": 0.0
+      "10": 0.0,
+      "11": 0.0
     },
     "Jordan Love": {
       "10": 10.8
@@ -8889,7 +8892,8 @@
       "10": 0.0
     },
     "Ka'imi Fairbairn": {
-      "10": 7.0
+      "10": 7.0,
+      "11": 6.0
     },
     "Chris Olave": {
       "10": 6.0
@@ -8912,7 +8916,8 @@
     "Broncos D/ST": {
     },
     "Tank Dell": {
-      "10": 5.1
+      "10": 5.1,
+      "11": 5.7
     },
     "Tutu Atwell": {
       "10": 4.1
@@ -8941,7 +8946,8 @@
       "10": 31.66
     },
     "Woody Marks": {
-      "10": 7.5
+      "10": 7.5,
+      "11": 0.0
     },
     "Will Reichard": {
       "10": 12.0
@@ -8962,7 +8968,8 @@
       "10": 46.3
     },
     "Texans D/ST": {
-      "10": 5.0
+      "10": 5.0,
+      "11": 15.0
     },
     "Mark Andrews": {
       "10": 16.2
@@ -9033,7 +9040,8 @@
       "10": 3.8
     },
     "David Montgomery": {
-      "10": 0.0
+      "10": 0.0,
+      "11": 15.4
     },
     "Luther Burden III": {
     },
@@ -9049,7 +9057,8 @@
       "10": 28.3
     },
     "Spencer Shrader": {
-      "10": 8.0
+      "10": 8.0,
+      "11": 1.0
     },
     "Braelon Allen": {
       "10": 5.6
@@ -9067,7 +9076,8 @@
       "10": 6.4
     },
     "Nico Collins": {
-      "10": 24.4
+      "10": 24.4,
+      "11": 14.8
     },
     "Cam Skattebo": {
       "10": 27.2
@@ -9135,7 +9145,8 @@
       "10": 0.0
     },
     "Tyler Warren": {
-      "10": 2.4
+      "10": 2.4,
+      "11": 3.2
     },
     "Drake Maye": {
       "10": 3.02
