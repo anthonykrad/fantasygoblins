@@ -40,7 +40,7 @@
     "pos": "WR",
     "pro": "NO",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -51,7 +51,7 @@
     "pos": "RB",
     "pro": "JAX",
     "slot": "RB",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -161,7 +161,7 @@
     "pos": "RB",
     "pro": "JAX",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -205,8 +205,8 @@
     "pos": "RB",
     "pro": "KC",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Team Josh",
@@ -321,17 +321,6 @@
   {
     "fteam": "Team Josh",
     "fteam_id": 9,
-    "pid": 4686658,
-    "name": "Mike Washington Jr.",
-    "pos": "RB",
-    "pro": "LV",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Team Josh",
-    "fteam_id": 9,
     "pid": 4832955,
     "name": "Emmett Johnson",
     "pos": "RB",
@@ -361,6 +350,17 @@
     "slot": "K",
     "status": "ACTIVE",
     "injured": false
+  },
+  {
+    "fteam": "Team Josh",
+    "fteam_id": 9,
+    "pid": 4570037,
+    "name": "Terrance Ferguson",
+    "pos": "TE",
+    "pro": "LAR",
+    "slot": "IR",
+    "status": "INJURY_RESERVE",
+    "injured": true
   },
   {
     "fteam": "JALEN, this is for you❤️",
@@ -524,7 +524,7 @@
     "pos": "TE",
     "pro": "MIN",
     "slot": "IR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -611,7 +611,7 @@
     "name": "Mike Evans",
     "pos": "WR",
     "pro": "SF",
-    "slot": "BE",
+    "slot": "WR",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -710,8 +710,8 @@
     "name": "Caleb Douglas",
     "pos": "WR",
     "pro": "MIA",
-    "slot": "WR",
-    "status": "QUESTIONABLE",
+    "slot": "BE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -842,7 +842,7 @@
     "name": "Ladd McConkey",
     "pos": "WR",
     "pro": "LAC",
-    "slot": "WR",
+    "slot": "BE",
     "status": "QUESTIONABLE",
     "injured": false
   },
@@ -919,7 +919,7 @@
     "name": "Courtland Sutton",
     "pos": "WR",
     "pro": "DEN",
-    "slot": "BE",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -931,7 +931,7 @@
     "pos": "WR",
     "pro": "NE",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "DOUBTFUL",
     "injured": false
   },
   {
@@ -1085,7 +1085,7 @@
     "pos": "TE",
     "pro": "BUF",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "DOUBTFUL",
     "injured": false
   },
   {
@@ -1437,7 +1437,7 @@
     "pos": "WR",
     "pro": "JAX",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1635,7 +1635,7 @@
     "pos": "WR",
     "pro": "DEN",
     "slot": "RB/WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1723,8 +1723,8 @@
     "pos": "QB",
     "pro": "NE",
     "slot": "BE",
-    "status": "DOUBTFUL",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Chase Bank",
@@ -1734,7 +1734,7 @@
     "pos": "RB",
     "pro": "WSH",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
