@@ -79,23 +79,12 @@
   {
     "fteam": "IM HIM",
     "fteam_id": 1,
-    "pid": 4360635,
-    "name": "Chig Okonkwo",
-    "pos": "TE",
-    "pro": "WSH",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "IM HIM",
-    "fteam_id": 1,
     "pid": 4871023,
     "name": "Carnell Tate",
     "pos": "WR",
     "pro": "TEN",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -127,17 +116,6 @@
     "name": "C.J. Stroud",
     "pos": "QB",
     "pro": "HOU",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "IM HIM",
-    "fteam_id": 1,
-    "pid": 5081397,
-    "name": "Dylan Sampson",
-    "pos": "RB",
-    "pro": "CLE",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -183,6 +161,28 @@
     "pos": "TE",
     "pro": "SF",
     "slot": "TE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "IM HIM",
+    "fteam_id": 1,
+    "pid": 4038815,
+    "name": "Rico Dowdle",
+    "pos": "RB",
+    "pro": "PIT",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "IM HIM",
+    "fteam_id": 1,
+    "pid": 4371733,
+    "name": "Kenny Gainwell",
+    "pos": "RB",
+    "pro": "TB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -361,6 +361,17 @@
     "slot": "IR",
     "status": "INJURY_RESERVE",
     "injured": true
+  },
+  {
+    "fteam": "Team Josh",
+    "fteam_id": 9,
+    "pid": 4360569,
+    "name": "Jordan Mason",
+    "pos": "RB",
+    "pro": "MIN",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
   },
   {
     "fteam": "JALEN, this is for you❤️",
@@ -898,7 +909,7 @@
     "pos": "RB",
     "pro": "LAR",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1085,8 +1096,8 @@
     "pos": "TE",
     "pro": "BUF",
     "slot": "BE",
-    "status": "DOUBTFUL",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Mikeeee",
@@ -1283,7 +1294,7 @@
     "pos": "TE",
     "pro": "CAR",
     "slot": "TE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
