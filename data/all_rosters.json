@@ -51,7 +51,7 @@
     "pos": "RB",
     "pro": "JAX",
     "slot": "RB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -561,7 +561,7 @@
     "injured": false
   },
   {
-    "fteam": "50 shade$ of gray",
+    "fteam": "A win is likely",
     "fteam_id": 11,
     "pid": 4431611,
     "name": "Caleb Williams",
@@ -572,7 +572,7 @@
     "injured": false
   },
   {
-    "fteam": "50 shade$ of gray",
+    "fteam": "A win is likely",
     "fteam_id": 11,
     "pid": 4361050,
     "name": "Isaiah Likely",
@@ -583,7 +583,7 @@
     "injured": false
   },
   {
-    "fteam": "50 shade$ of gray",
+    "fteam": "A win is likely",
     "fteam_id": 11,
     "pid": 4686361,
     "name": "Cam Little",
@@ -594,7 +594,7 @@
     "injured": false
   },
   {
-    "fteam": "50 shade$ of gray",
+    "fteam": "A win is likely",
     "fteam_id": 11,
     "pid": 4361432,
     "name": "Romeo Doubs",
@@ -605,7 +605,7 @@
     "injured": true
   },
   {
-    "fteam": "50 shade$ of gray",
+    "fteam": "A win is likely",
     "fteam_id": 11,
     "pid": 4259545,
     "name": "D'Andre Swift",
@@ -616,18 +616,18 @@
     "injured": false
   },
   {
-    "fteam": "50 shade$ of gray",
+    "fteam": "A win is likely",
     "fteam_id": 11,
     "pid": 16737,
     "name": "Mike Evans",
     "pos": "WR",
     "pro": "SF",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
-    "fteam": "50 shade$ of gray",
+    "fteam": "A win is likely",
     "fteam_id": 11,
     "pid": 4569987,
     "name": "Jaylen Warren",
@@ -638,18 +638,7 @@
     "injured": false
   },
   {
-    "fteam": "50 shade$ of gray",
-    "fteam_id": 11,
-    "pid": 4427095,
-    "name": "DeMario Douglas",
-    "pos": "WR",
-    "pro": "NE",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "50 shade$ of gray",
+    "fteam": "A win is likely",
     "fteam_id": 11,
     "pid": 4870653,
     "name": "KC Concepcion",
@@ -660,7 +649,7 @@
     "injured": false
   },
   {
-    "fteam": "50 shade$ of gray",
+    "fteam": "A win is likely",
     "fteam_id": 11,
     "pid": -16002,
     "name": "Bills D/ST",
@@ -671,7 +660,7 @@
     "injured": false
   },
   {
-    "fteam": "50 shade$ of gray",
+    "fteam": "A win is likely",
     "fteam_id": 11,
     "pid": 2976212,
     "name": "Stefon Diggs",
@@ -682,7 +671,7 @@
     "injured": false
   },
   {
-    "fteam": "50 shade$ of gray",
+    "fteam": "A win is likely",
     "fteam_id": 11,
     "pid": 4429205,
     "name": "Jordan Addison",
@@ -693,7 +682,7 @@
     "injured": true
   },
   {
-    "fteam": "50 shade$ of gray",
+    "fteam": "A win is likely",
     "fteam_id": 11,
     "pid": 4685720,
     "name": "Bryce Young",
@@ -704,7 +693,7 @@
     "injured": false
   },
   {
-    "fteam": "50 shade$ of gray",
+    "fteam": "A win is likely",
     "fteam_id": 11,
     "pid": 4430807,
     "name": "Bijan Robinson",
@@ -715,7 +704,7 @@
     "injured": false
   },
   {
-    "fteam": "50 shade$ of gray",
+    "fteam": "A win is likely",
     "fteam_id": 11,
     "pid": 4869645,
     "name": "Caleb Douglas",
@@ -726,7 +715,7 @@
     "injured": false
   },
   {
-    "fteam": "50 shade$ of gray",
+    "fteam": "A win is likely",
     "fteam_id": 11,
     "pid": 5083754,
     "name": "Ryan Flournoy",
@@ -854,7 +843,7 @@
     "pos": "WR",
     "pro": "LAC",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1298,7 +1287,7 @@
     "injured": false
   },
   {
-    "fteam": "Have to dig deep fellas",
+    "fteam": "GGs",
     "fteam_id": 15,
     "pid": 3918298,
     "name": "Josh Allen",
@@ -1309,18 +1298,18 @@
     "injured": false
   },
   {
-    "fteam": "Have to dig deep fellas",
+    "fteam": "GGs",
     "fteam_id": 15,
     "pid": 4432665,
     "name": "Brock Bowers",
     "pos": "TE",
     "pro": "LV",
-    "slot": "TE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "slot": "BE",
+    "status": "OUT",
+    "injured": true
   },
   {
-    "fteam": "Have to dig deep fellas",
+    "fteam": "GGs",
     "fteam_id": 15,
     "pid": 4035538,
     "name": "David Montgomery",
@@ -1331,7 +1320,7 @@
     "injured": false
   },
   {
-    "fteam": "Have to dig deep fellas",
+    "fteam": "GGs",
     "fteam_id": 15,
     "pid": 4685278,
     "name": "Luther Burden III",
@@ -1342,7 +1331,7 @@
     "injured": false
   },
   {
-    "fteam": "Have to dig deep fellas",
+    "fteam": "GGs",
     "fteam_id": 15,
     "pid": 4248528,
     "name": "Christian Watson",
@@ -1353,18 +1342,18 @@
     "injured": false
   },
   {
-    "fteam": "Have to dig deep fellas",
+    "fteam": "GGs",
     "fteam_id": 15,
     "pid": 4575131,
     "name": "Jacory Croskey-Merritt",
     "pos": "RB",
     "pro": "WSH",
     "slot": "IR",
-    "status": "INJURY_RESERVE",
-    "injured": true
+    "status": "ACTIVE",
+    "injured": false
   },
   {
-    "fteam": "Have to dig deep fellas",
+    "fteam": "GGs",
     "fteam_id": 15,
     "pid": 3116406,
     "name": "Tyreek Hill",
@@ -1375,7 +1364,7 @@
     "injured": false
   },
   {
-    "fteam": "Have to dig deep fellas",
+    "fteam": "GGs",
     "fteam_id": 15,
     "pid": 4362238,
     "name": "Chase Brown",
@@ -1386,7 +1375,7 @@
     "injured": false
   },
   {
-    "fteam": "Have to dig deep fellas",
+    "fteam": "GGs",
     "fteam_id": 15,
     "pid": 4571557,
     "name": "Spencer Shrader",
@@ -1397,7 +1386,7 @@
     "injured": false
   },
   {
-    "fteam": "Have to dig deep fellas",
+    "fteam": "GGs",
     "fteam_id": 15,
     "pid": 4685247,
     "name": "Braelon Allen",
@@ -1408,7 +1397,7 @@
     "injured": false
   },
   {
-    "fteam": "Have to dig deep fellas",
+    "fteam": "GGs",
     "fteam_id": 15,
     "pid": 4695883,
     "name": "Jalen Coker",
@@ -1419,7 +1408,7 @@
     "injured": false
   },
   {
-    "fteam": "Have to dig deep fellas",
+    "fteam": "GGs",
     "fteam_id": 15,
     "pid": 4428718,
     "name": "Tre Tucker",
@@ -1430,18 +1419,18 @@
     "injured": false
   },
   {
-    "fteam": "Have to dig deep fellas",
+    "fteam": "GGs",
     "fteam_id": 15,
     "pid": 4429086,
     "name": "Michael Mayer",
     "pos": "TE",
     "pro": "LV",
-    "slot": "BE",
+    "slot": "TE",
     "status": "ACTIVE",
     "injured": false
   },
   {
-    "fteam": "Have to dig deep fellas",
+    "fteam": "GGs",
     "fteam_id": 15,
     "pid": 3916433,
     "name": "Jakobi Meyers",
@@ -1452,7 +1441,7 @@
     "injured": false
   },
   {
-    "fteam": "Have to dig deep fellas",
+    "fteam": "GGs",
     "fteam_id": 15,
     "pid": 4258173,
     "name": "Nico Collins",
@@ -1463,7 +1452,7 @@
     "injured": false
   },
   {
-    "fteam": "Have to dig deep fellas",
+    "fteam": "GGs",
     "fteam_id": 15,
     "pid": 4696981,
     "name": "Cam Skattebo",
@@ -1474,7 +1463,7 @@
     "injured": false
   },
   {
-    "fteam": "Have to dig deep fellas",
+    "fteam": "GGs",
     "fteam_id": 15,
     "pid": -16024,
     "name": "Chargers D/ST",
@@ -1635,8 +1624,8 @@
     "pos": "WR",
     "pro": "SF",
     "slot": "IR",
-    "status": "OUT",
-    "injured": true
+    "status": "ACTIVE",
+    "injured": false
   },
   {
     "fteam": "Step up 4",
@@ -1701,7 +1690,7 @@
     "pos": "RB",
     "pro": "PHI",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1766,8 +1755,8 @@
     "name": "Matt Gay",
     "pos": "K",
     "pro": "LV",
-    "slot": "K",
-    "status": "QUESTIONABLE",
+    "slot": "BE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1844,6 +1833,17 @@
     "pos": "QB",
     "pro": "TEN",
     "slot": "QB",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Chase Bank",
+    "fteam_id": 17,
+    "pid": 3124679,
+    "name": "Jason Sanders",
+    "pos": "K",
+    "pro": "NYJ",
+    "slot": "K",
     "status": "ACTIVE",
     "injured": false
   }
