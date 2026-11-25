@@ -205,8 +205,8 @@
     "pos": "RB",
     "pro": "KC",
     "slot": "BE",
-    "status": "OUT",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "Team Josh",
@@ -260,7 +260,7 @@
     "pos": "TE",
     "pro": "DET",
     "slot": "TE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -293,7 +293,7 @@
     "pos": "WR",
     "pro": "CLE",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -678,8 +678,8 @@
     "pos": "WR",
     "pro": "MIN",
     "slot": "BE",
-    "status": "OUT",
-    "injured": true
+    "status": "DOUBTFUL",
+    "injured": false
   },
   {
     "fteam": "A win is likely",
@@ -688,17 +688,6 @@
     "name": "Bryce Young",
     "pos": "QB",
     "pro": "CAR",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "A win is likely",
-    "fteam_id": 11,
-    "pid": 4430807,
-    "name": "Bijan Robinson",
-    "pos": "RB",
-    "pro": "ATL",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -721,6 +710,28 @@
     "name": "Ryan Flournoy",
     "pos": "WR",
     "pro": "DAL",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "A win is likely",
+    "fteam_id": 11,
+    "pid": 4258173,
+    "name": "Nico Collins",
+    "pos": "WR",
+    "pro": "HOU",
+    "slot": "BE",
+    "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "A win is likely",
+    "fteam_id": 11,
+    "pid": 4696981,
+    "name": "Cam Skattebo",
+    "pos": "RB",
+    "pro": "NYG",
     "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
@@ -744,8 +755,8 @@
     "pos": "RB",
     "pro": "GB",
     "slot": "IR",
-    "status": "OUT",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "Putt putt Winner 2x CHAMP",
@@ -842,7 +853,7 @@
     "name": "Ladd McConkey",
     "pos": "WR",
     "pro": "LAC",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -864,7 +875,7 @@
     "name": "Tank Dell",
     "pos": "WR",
     "pro": "HOU",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -886,7 +897,7 @@
     "name": "Drake London",
     "pos": "WR",
     "pro": "ATL",
-    "slot": "BE",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -897,8 +908,8 @@
     "name": "Kyren Williams",
     "pos": "RB",
     "pro": "LAR",
-    "slot": "BE",
-    "status": "QUESTIONABLE",
+    "slot": "RB",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -908,7 +919,7 @@
     "name": "Alvin Kamara",
     "pos": "RB",
     "pro": "NO",
-    "slot": "RB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -919,7 +930,7 @@
     "name": "Courtland Sutton",
     "pos": "WR",
     "pro": "DEN",
-    "slot": "WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -974,9 +985,9 @@
     "name": "Woody Marks",
     "pos": "RB",
     "pro": "HOU",
-    "slot": "BE",
-    "status": "OUT",
-    "injured": true
+    "slot": "IR",
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "Remember The Titans ",
@@ -1084,9 +1095,9 @@
     "name": "Dalton Kincaid",
     "pos": "TE",
     "pro": "BUF",
-    "slot": "BE",
-    "status": "OUT",
-    "injured": true
+    "slot": "IR",
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "Mikeeee",
@@ -1095,7 +1106,7 @@
     "name": "Jaxon Smith-Njigba",
     "pos": "WR",
     "pro": "SEA",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1128,7 +1139,7 @@
     "name": "Quinshon Judkins",
     "pos": "RB",
     "pro": "CLE",
-    "slot": "BE",
+    "slot": "RB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1150,7 +1161,7 @@
     "name": "Jameson Williams",
     "pos": "WR",
     "pro": "DET",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1161,7 +1172,7 @@
     "name": "Aaron Jones Sr.",
     "pos": "RB",
     "pro": "MIN",
-    "slot": "RB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1183,7 +1194,7 @@
     "name": "Matthew Stafford",
     "pos": "QB",
     "pro": "LAR",
-    "slot": "BE",
+    "slot": "QB",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1194,7 +1205,7 @@
     "name": "Tucker Kraft",
     "pos": "TE",
     "pro": "GB",
-    "slot": "BE",
+    "slot": "TE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1228,8 +1239,8 @@
     "pos": "WR",
     "pro": "NYJ",
     "slot": "BE",
-    "status": "OUT",
-    "injured": true
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "Mikeeee",
@@ -1260,7 +1271,7 @@
     "name": "Tyler Shough",
     "pos": "QB",
     "pro": "NO",
-    "slot": "QB",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1282,7 +1293,7 @@
     "name": "Darren Waller",
     "pos": "TE",
     "pro": "CAR",
-    "slot": "TE",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1304,9 +1315,9 @@
     "name": "Brock Bowers",
     "pos": "TE",
     "pro": "LV",
-    "slot": "BE",
-    "status": "OUT",
-    "injured": true
+    "slot": "TE",
+    "status": "QUESTIONABLE",
+    "injured": false
   },
   {
     "fteam": "GGs",
@@ -1315,7 +1326,7 @@
     "name": "David Montgomery",
     "pos": "RB",
     "pro": "HOU",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1337,7 +1348,7 @@
     "name": "Christian Watson",
     "pos": "WR",
     "pro": "GB",
-    "slot": "BE",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1348,7 +1359,7 @@
     "name": "Jacory Croskey-Merritt",
     "pos": "RB",
     "pro": "WSH",
-    "slot": "IR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1421,44 +1432,11 @@
   {
     "fteam": "GGs",
     "fteam_id": 15,
-    "pid": 4429086,
-    "name": "Michael Mayer",
-    "pos": "TE",
-    "pro": "LV",
-    "slot": "TE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "GGs",
-    "fteam_id": 15,
     "pid": 3916433,
     "name": "Jakobi Meyers",
     "pos": "WR",
     "pro": "JAX",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "GGs",
-    "fteam_id": 15,
-    "pid": 4258173,
-    "name": "Nico Collins",
-    "pos": "WR",
-    "pro": "HOU",
-    "slot": "WR",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "GGs",
-    "fteam_id": 15,
-    "pid": 4696981,
-    "name": "Cam Skattebo",
-    "pos": "RB",
-    "pro": "NYG",
-    "slot": "RB",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1471,6 +1449,17 @@
     "pro": "LAC",
     "slot": "D/ST",
     "status": null,
+    "injured": false
+  },
+  {
+    "fteam": "GGs",
+    "fteam_id": 15,
+    "pid": 4430807,
+    "name": "Bijan Robinson",
+    "pos": "RB",
+    "pro": "ATL",
+    "slot": "RB",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1568,7 +1557,7 @@
     "name": "Zach Charbonnet",
     "pos": "RB",
     "pro": "SEA",
-    "slot": "BE",
+    "slot": "RB/WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1622,7 +1611,7 @@
     "pid": 4360438,
     "name": "Brandon Aiyuk",
     "pos": "WR",
-    "pro": "SF",
+    "pro": "FA",
     "slot": "IR",
     "status": "ACTIVE",
     "injured": false
@@ -1634,7 +1623,7 @@
     "name": "Jaylen Waddle",
     "pos": "WR",
     "pro": "DEN",
-    "slot": "RB/WR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1734,7 +1723,7 @@
     "pos": "RB",
     "pro": "WSH",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
