@@ -139,7 +139,7 @@
     "pos": "WR",
     "pro": "BAL",
     "slot": "WR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -469,7 +469,7 @@
     "pos": "WR",
     "pro": "PHI",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -557,7 +557,7 @@
     "pos": "QB",
     "pro": "CHI",
     "slot": "QB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -656,7 +656,7 @@
     "pos": "WR",
     "pro": "WSH",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -722,8 +722,8 @@
     "pos": "TE",
     "pro": "CHI",
     "slot": "TE",
-    "status": "OUT",
-    "injured": true
+    "status": "DOUBTFUL",
+    "injured": false
   },
   {
     "fteam": "Putt putt Winner 2x CHAMP",
@@ -920,8 +920,8 @@
     "pos": "WR",
     "pro": "NE",
     "slot": "BE",
-    "status": "DOUBTFUL",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Till The Fat Lady Sings ",
@@ -941,7 +941,7 @@
     "name": "DK Metcalf",
     "pos": "WR",
     "pro": "PIT",
-    "slot": "BE",
+    "slot": "WR",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1018,9 +1018,9 @@
     "name": "Parker Washington",
     "pos": "WR",
     "pro": "JAX",
-    "slot": "WR",
-    "status": "ACTIVE",
-    "injured": false
+    "slot": "BE",
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Till The Fat Lady Sings ",
@@ -1051,7 +1051,7 @@
     "name": "Mark Andrews",
     "pos": "TE",
     "pro": "BAL",
-    "slot": "TE",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1074,7 +1074,7 @@
     "pos": "TE",
     "pro": "BUF",
     "slot": "IR",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1084,7 +1084,7 @@
     "name": "Chig Okonkwo",
     "pos": "TE",
     "pro": "WSH",
-    "slot": "BE",
+    "slot": "TE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1228,8 +1228,8 @@
     "pos": "WR",
     "pro": "NYJ",
     "slot": "BE",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Mikeeee",
@@ -1272,7 +1272,7 @@
     "pos": "TE",
     "pro": "CAR",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1287,7 +1287,7 @@
     "injured": false
   },
   {
-    "fteam": "GGs",
+    "fteam": "She sung Al",
     "fteam_id": 15,
     "pid": 3918298,
     "name": "Josh Allen",
@@ -1298,7 +1298,7 @@
     "injured": false
   },
   {
-    "fteam": "GGs",
+    "fteam": "She sung Al",
     "fteam_id": 15,
     "pid": 4432665,
     "name": "Brock Bowers",
@@ -1309,7 +1309,7 @@
     "injured": false
   },
   {
-    "fteam": "GGs",
+    "fteam": "She sung Al",
     "fteam_id": 15,
     "pid": 4035538,
     "name": "David Montgomery",
@@ -1320,7 +1320,7 @@
     "injured": false
   },
   {
-    "fteam": "GGs",
+    "fteam": "She sung Al",
     "fteam_id": 15,
     "pid": 4685278,
     "name": "Luther Burden III",
@@ -1331,7 +1331,7 @@
     "injured": false
   },
   {
-    "fteam": "GGs",
+    "fteam": "She sung Al",
     "fteam_id": 15,
     "pid": 4248528,
     "name": "Christian Watson",
@@ -1342,7 +1342,7 @@
     "injured": false
   },
   {
-    "fteam": "GGs",
+    "fteam": "She sung Al",
     "fteam_id": 15,
     "pid": 4575131,
     "name": "Jacory Croskey-Merritt",
@@ -1353,7 +1353,7 @@
     "injured": false
   },
   {
-    "fteam": "GGs",
+    "fteam": "She sung Al",
     "fteam_id": 15,
     "pid": 3116406,
     "name": "Tyreek Hill",
@@ -1364,7 +1364,7 @@
     "injured": false
   },
   {
-    "fteam": "GGs",
+    "fteam": "She sung Al",
     "fteam_id": 15,
     "pid": 4362238,
     "name": "Chase Brown",
@@ -1375,7 +1375,7 @@
     "injured": false
   },
   {
-    "fteam": "GGs",
+    "fteam": "She sung Al",
     "fteam_id": 15,
     "pid": 4685247,
     "name": "Braelon Allen",
@@ -1386,7 +1386,7 @@
     "injured": false
   },
   {
-    "fteam": "GGs",
+    "fteam": "She sung Al",
     "fteam_id": 15,
     "pid": 4695883,
     "name": "Jalen Coker",
@@ -1397,7 +1397,7 @@
     "injured": false
   },
   {
-    "fteam": "GGs",
+    "fteam": "She sung Al",
     "fteam_id": 15,
     "pid": 4428718,
     "name": "Tre Tucker",
@@ -1408,7 +1408,7 @@
     "injured": false
   },
   {
-    "fteam": "GGs",
+    "fteam": "She sung Al",
     "fteam_id": 15,
     "pid": 3916433,
     "name": "Jakobi Meyers",
@@ -1419,7 +1419,7 @@
     "injured": false
   },
   {
-    "fteam": "GGs",
+    "fteam": "She sung Al",
     "fteam_id": 15,
     "pid": -16024,
     "name": "Chargers D/ST",
@@ -1430,7 +1430,7 @@
     "injured": false
   },
   {
-    "fteam": "GGs",
+    "fteam": "She sung Al",
     "fteam_id": 15,
     "pid": 4430807,
     "name": "Bijan Robinson",
@@ -1441,7 +1441,7 @@
     "injured": false
   },
   {
-    "fteam": "GGs",
+    "fteam": "She sung Al",
     "fteam_id": 15,
     "pid": 5081432,
     "name": "Antonio Williams",
@@ -1452,7 +1452,7 @@
     "injured": false
   },
   {
-    "fteam": "GGs",
+    "fteam": "She sung Al",
     "fteam_id": 15,
     "pid": 5082424,
     "name": "Dominic Zvada",
@@ -1602,7 +1602,7 @@
     "pos": "TE",
     "pro": "CLE",
     "slot": "BE",
-    "status": "QUESTIONABLE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -1668,7 +1668,7 @@
     "pos": "RB",
     "pro": "PHI",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {

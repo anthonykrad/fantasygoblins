@@ -139,7 +139,7 @@
     "pos": "WR",
     "pro": "BAL",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -150,17 +150,6 @@
     "pos": "TE",
     "pro": "SF",
     "slot": "TE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "IM HIM",
-    "fteam_id": 1,
-    "pid": 4038815,
-    "name": "Rico Dowdle",
-    "pos": "RB",
-    "pro": "PIT",
-    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -184,6 +173,17 @@
     "pro": "TB",
     "slot": "D/ST",
     "status": null,
+    "injured": false
+  },
+  {
+    "fteam": "IM HIM",
+    "fteam_id": 1,
+    "pid": 4038441,
+    "name": "Justice Hill",
+    "pos": "RB",
+    "pro": "BAL",
+    "slot": "BE",
+    "status": "ACTIVE",
     "injured": false
   },
   {
@@ -502,7 +502,7 @@
     "pos": "WR",
     "pro": "CAR",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -568,7 +568,7 @@
     "pos": "TE",
     "pro": "NYG",
     "slot": "TE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -612,7 +612,7 @@
     "pos": "WR",
     "pro": "SF",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -656,7 +656,7 @@
     "pos": "WR",
     "pro": "WSH",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -695,17 +695,6 @@
   {
     "fteam": "A win is likely",
     "fteam_id": 11,
-    "pid": 5083754,
-    "name": "Ryan Flournoy",
-    "pos": "WR",
-    "pro": "DAL",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "A win is likely",
-    "fteam_id": 11,
     "pid": 4258173,
     "name": "Nico Collins",
     "pos": "WR",
@@ -733,8 +722,8 @@
     "pos": "TE",
     "pro": "CHI",
     "slot": "TE",
-    "status": "ACTIVE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Putt putt Winner 2x CHAMP",
@@ -744,8 +733,8 @@
     "pos": "RB",
     "pro": "GB",
     "slot": "IR",
-    "status": "QUESTIONABLE",
-    "injured": false
+    "status": "OUT",
+    "injured": true
   },
   {
     "fteam": "Putt putt Winner 2x CHAMP",
@@ -924,7 +913,7 @@
     "injured": false
   },
   {
-    "fteam": "Remember The Titans ",
+    "fteam": "Till The Fat Lady Sings ",
     "fteam_id": 13,
     "pid": 4047646,
     "name": "A.J. Brown",
@@ -935,7 +924,7 @@
     "injured": false
   },
   {
-    "fteam": "Remember The Titans ",
+    "fteam": "Till The Fat Lady Sings ",
     "fteam_id": 13,
     "pid": 4360248,
     "name": "Kyle Pitts Sr.",
@@ -946,7 +935,7 @@
     "injured": false
   },
   {
-    "fteam": "Remember The Titans ",
+    "fteam": "Till The Fat Lady Sings ",
     "fteam_id": 13,
     "pid": 4047650,
     "name": "DK Metcalf",
@@ -957,18 +946,18 @@
     "injured": false
   },
   {
-    "fteam": "Remember The Titans ",
+    "fteam": "Till The Fat Lady Sings ",
     "fteam_id": 13,
     "pid": 4361741,
     "name": "Brock Purdy",
     "pos": "QB",
     "pro": "SF",
     "slot": "QB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
-    "fteam": "Remember The Titans ",
+    "fteam": "Till The Fat Lady Sings ",
     "fteam_id": 13,
     "pid": 4429059,
     "name": "Woody Marks",
@@ -979,7 +968,7 @@
     "injured": false
   },
   {
-    "fteam": "Remember The Titans ",
+    "fteam": "Till The Fat Lady Sings ",
     "fteam_id": 13,
     "pid": 4567104,
     "name": "Will Reichard",
@@ -990,7 +979,7 @@
     "injured": false
   },
   {
-    "fteam": "Remember The Titans ",
+    "fteam": "Till The Fat Lady Sings ",
     "fteam_id": 13,
     "pid": 14880,
     "name": "Kirk Cousins",
@@ -1001,7 +990,7 @@
     "injured": false
   },
   {
-    "fteam": "Remember The Titans ",
+    "fteam": "Till The Fat Lady Sings ",
     "fteam_id": 13,
     "pid": 3916148,
     "name": "Tony Pollard",
@@ -1012,7 +1001,7 @@
     "injured": false
   },
   {
-    "fteam": "Remember The Titans ",
+    "fteam": "Till The Fat Lady Sings ",
     "fteam_id": 13,
     "pid": 4241416,
     "name": "Chuba Hubbard",
@@ -1023,7 +1012,7 @@
     "injured": false
   },
   {
-    "fteam": "Remember The Titans ",
+    "fteam": "Till The Fat Lady Sings ",
     "fteam_id": 13,
     "pid": 4432620,
     "name": "Parker Washington",
@@ -1034,7 +1023,7 @@
     "injured": false
   },
   {
-    "fteam": "Remember The Titans ",
+    "fteam": "Till The Fat Lady Sings ",
     "fteam_id": 13,
     "pid": 3117251,
     "name": "Christian McCaffrey",
@@ -1045,7 +1034,7 @@
     "injured": false
   },
   {
-    "fteam": "Remember The Titans ",
+    "fteam": "Till The Fat Lady Sings ",
     "fteam_id": 13,
     "pid": -16034,
     "name": "Texans D/ST",
@@ -1056,7 +1045,7 @@
     "injured": false
   },
   {
-    "fteam": "Remember The Titans ",
+    "fteam": "Till The Fat Lady Sings ",
     "fteam_id": 13,
     "pid": 3116365,
     "name": "Mark Andrews",
@@ -1067,7 +1056,7 @@
     "injured": false
   },
   {
-    "fteam": "Remember The Titans ",
+    "fteam": "Till The Fat Lady Sings ",
     "fteam_id": 13,
     "pid": 4595348,
     "name": "Malik Nabers",
@@ -1078,7 +1067,7 @@
     "injured": false
   },
   {
-    "fteam": "Remember The Titans ",
+    "fteam": "Till The Fat Lady Sings ",
     "fteam_id": 13,
     "pid": 4385690,
     "name": "Dalton Kincaid",
@@ -1089,7 +1078,7 @@
     "injured": false
   },
   {
-    "fteam": "Remember The Titans ",
+    "fteam": "Till The Fat Lady Sings ",
     "fteam_id": 13,
     "pid": 4360635,
     "name": "Chig Okonkwo",
@@ -1107,7 +1096,7 @@
     "pos": "WR",
     "pro": "SEA",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1349,7 +1338,7 @@
     "pos": "WR",
     "pro": "GB",
     "slot": "WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1426,7 +1415,7 @@
     "pos": "WR",
     "pro": "JAX",
     "slot": "RB/WR",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1601,7 +1590,7 @@
     "name": "Jaguars D/ST",
     "pos": "D/ST",
     "pro": "JAX",
-    "slot": "D/ST",
+    "slot": "BE",
     "status": null,
     "injured": false
   },
@@ -1613,7 +1602,7 @@
     "pos": "TE",
     "pro": "CLE",
     "slot": "BE",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1623,7 +1612,7 @@
     "name": "Brandon Aiyuk",
     "pos": "WR",
     "pro": "FA",
-    "slot": "IR",
+    "slot": "BE",
     "status": "ACTIVE",
     "injured": false
   },
@@ -1634,17 +1623,6 @@
     "name": "Jaylen Waddle",
     "pos": "WR",
     "pro": "DEN",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Step up 4",
-    "fteam_id": 16,
-    "pid": 4696044,
-    "name": "Kaelon Black",
-    "pos": "RB",
-    "pro": "SF",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -1663,12 +1641,12 @@
   {
     "fteam": "Step up 4",
     "fteam_id": 16,
-    "pid": 4426338,
-    "name": "Bo Nix",
-    "pos": "QB",
-    "pro": "DEN",
-    "slot": "BE",
-    "status": "ACTIVE",
+    "pid": -16006,
+    "name": "Cowboys D/ST",
+    "pos": "D/ST",
+    "pro": "DAL",
+    "slot": "D/ST",
+    "status": null,
     "injured": false
   },
   {
@@ -1733,7 +1711,7 @@
     "name": "Steelers D/ST",
     "pos": "D/ST",
     "pro": "PIT",
-    "slot": "D/ST",
+    "slot": "BE",
     "status": null,
     "injured": false
   },
@@ -1744,17 +1722,6 @@
     "name": "Matt Gay",
     "pos": "K",
     "pro": "LV",
-    "slot": "BE",
-    "status": "ACTIVE",
-    "injured": false
-  },
-  {
-    "fteam": "Chase Bank",
-    "fteam_id": 17,
-    "pid": 15818,
-    "name": "Keenan Allen",
-    "pos": "WR",
-    "pro": "SF",
     "slot": "BE",
     "status": "ACTIVE",
     "injured": false
@@ -1778,7 +1745,7 @@
     "pos": "RB",
     "pro": "BAL",
     "slot": "RB",
-    "status": "ACTIVE",
+    "status": "QUESTIONABLE",
     "injured": false
   },
   {
@@ -1845,6 +1812,17 @@
     "pro": "LV",
     "slot": "BE",
     "status": "ACTIVE",
+    "injured": false
+  },
+  {
+    "fteam": "Chase Bank",
+    "fteam_id": 17,
+    "pid": -16025,
+    "name": "49ers D/ST",
+    "pos": "D/ST",
+    "pro": "SF",
+    "slot": "D/ST",
+    "status": null,
     "injured": false
   }
 ]
